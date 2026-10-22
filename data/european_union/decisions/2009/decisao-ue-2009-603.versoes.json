@@ -1,0 +1,110 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009D0603:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009D0603-20090808",
+ "dre_path": null,
+ "source_lastmod": "2009-08-08",
+ "versions": [
+  {
+   "date": "2009-08-08",
+   "future": false,
+   "celex": "02009D0603-20090808",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "12b30507b81d8995",
+    "124b8f1e89871b36",
+    "06b4307c0aa927d9",
+    "8702ee286b479cd3",
+    "b9239ddf05e8f509",
+    "8a72d46133d44d99",
+    "22a9ea0d4e68cb49",
+    "10220b9774fa9034",
+    "d974a2553a72a1ba",
+    "3fc090005cc4cb5d"
+   ]
+  }
+ ],
+ "fragments": {
+  "12b30507b81d8995": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Agosto de 2009\n\nque estabelece requisitos para o registo dos produtores de pilhas e acumuladores, em conformidade com a Directiva 2006/66/CE do Parlamento Europeu e do Conselho\n\n[notificada com o número C(2009) 6054]\n\n(Texto relevante para efeitos do EEE)\n\n(2009/603/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 2006/66/CE do Parlamento Europeu e do Conselho, de 6 de Setembro de 2006, relativa a pilhas e acumuladores e respectivos resíduos e que revoga a Directiva 91/157/CEE ([^1^](http://publications.europa.eu/resource/cellar/cb525d19-9c27-4a7a-8bca-95909daded64.0001.03/DOC_1#E0001)), nomeadamente o artigo 17.º,\n\n(1) A Directiva 2006/66/CE prevê o registo dos produtores de pilhas e acumuladores. A fim de evitar encargos administrativos desnecessários para os referidos produtores, importa estabelecer requisitos processuais aplicáveis em toda a Comunidade.\n\n(2) Importa especificar as informações que os produtores de pilhas e acumuladores devem apresentar ao solicitarem um registo, evitando a sobreposição com requisitos relativos a outros procedimentos de registo.\n\n(3) As despesas de registo devem ser proporcionadas e baseadas nos custos, de forma a evitar encargos administrativos desnecessários para os produtores em causa.\n\n(4) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité instituído pelo n.º 1 do artigo 18.º da Directiva 2006/12/CE do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/cb525d19-9c27-4a7a-8bca-95909daded64.0001.03/DOC_1#E0002)),\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "124b8f1e89871b36": {
+   "fragment_id": "Artigo 1.º — Requisitos para o registo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Requisitos para o registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Requisitos para o registo\n\nO registo dos produtores de pilhas e acumuladores deverá ser efectuado junto das autoridades nacionais ou de organizações nacionais competentes em matéria de responsabilidade dos produtores autorizadas pelos Estados-Membros, adiante designadas por «organismos de registo», em papel ou em formato electrónico.\n\nO procedimento de registo pode estar integrado noutro procedimento de registo do produtor.\n\nOs produtores de pilhas e acumuladores necessitam de registar-se apenas uma vez num Estado-Membro em cujo mercado coloquem pela primeira vez, a título profissional, pilhas e acumuladores, sendo-lhes então atribuído um número de registo."
+  },
+  "06b4307c0aa927d9": {
+   "fragment_id": "Artigo 2.º — Informações a apresentar pelos produtores",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Informações a apresentar pelos produtores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Informações a apresentar pelos produtores\n\nOs produtores de pilhas e acumuladores apresentarão aos organismos de registo as informações que constam do anexo.\n\nPara os fins do registo referido no segundo parágrafo do artigo 1.º, os produtores de pilhas e acumuladores não serão obrigados a apresentar quaisquer outras informações além das que constam do anexo."
+  },
+  "8702ee286b479cd3": {
+   "fragment_id": "Artigo 3.º — Despesas de registo",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Despesas de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Despesas de registo\n\nOs organismos de registo apenas podem cobrar despesas de registo na condição de estas serem baseadas nos custos e proporcionadas.\n\nOs organismos de registo que cobrem despesas de registo informarão as autoridades nacionais competentes do método de cálculo das referidas despesas."
+  },
+  "b9239ddf05e8f509": {
+   "fragment_id": "Artigo 4.º — Alteração dos dados do registo",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Alteração dos dados do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração dos dados do registo\n\nOs Estados-Membros garantirão que, em caso de alteração dos dados apresentados pelos produtores em conformidade com o anexo da presente decisão, estes informem do facto o organismo de registo pertinente no prazo de um mês após a alteração."
+  },
+  "8a72d46133d44d99": {
+   "fragment_id": "Artigo 5.º — Cancelamento do registo",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Cancelamento do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Cancelamento do registo\n\nQuando os produtores deixarem de ser produtores num Estado-Membro, devem cancelar o seu registo, informando do facto o organismo de registo pertinente."
+  },
+  "22a9ea0d4e68cb49": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-Membros são os destinatários da presente decisão."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "d974a2553a72a1ba": {
+   "fragment_id": "INFORMAÇÕES A APRESENTAR PARA O REGISTO",
+   "type": "divisao",
+   "heading": "INFORMAÇÕES A APRESENTAR PARA O REGISTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INFORMAÇÕES A APRESENTAR PARA O REGISTO\n\n1. Nome do produtor e, se pertinente, marcas que comercialize no Estado-Membro.\n\n2. Endereço(s) do produtor: código postal e localidade, nome de rua e número, país, endereço *web* e número de telefone, bem como pessoa de contacto, número de fax e endereço de e-mail, se disponíveis.\n\n3. Indicação do tipo de pilhas e acumuladores colocados no mercado pelo produtor: pilhas e acumuladores portáteis, pilhas e acumuladores industriais ou pilhas e acumuladores para automóveis.\n\n4. [**►C1**](http://publications.europa.eu/resource/celex/32009D0603R%2801%29) Forma como o produtor assume as suas responsabilidades: individualmente ou através de um sistema colectivo.**◄**\n\n5. Data do pedido de registo.\n\n6. Código de identificação nacional do produtor, incluindo o número de identificação fiscal europeu ou nacional do produtor (facultativo).\n\n7. Declaração de que as informações apresentadas são verdadeiras.\n\n---"
+  },
+  "3fc090005cc4cb5d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/cb525d19-9c27-4a7a-8bca-95909daded64.0001.03/DOC_1#src.E0001)) JO L 266 de 26.9.2006, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/cb525d19-9c27-4a7a-8bca-95909daded64.0001.03/DOC_1#src.E0002)) JO L 114 de 27.4.2006, p. 9."
+  }
+ }
+}

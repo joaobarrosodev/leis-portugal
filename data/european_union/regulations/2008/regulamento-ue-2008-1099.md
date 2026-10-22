@@ -35,6 +35,236 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-02-07'
+version_history:
+  file: regulamento-ue-2008-1099.versoes.json
+  count: 6
+  source_lastmod: '2024-02-07'
+  versions:
+  - date: '2008-11-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-10-20'
+    amending: eu:celex:32010R0844:por
+    amending_title: REGULAMENTO (UE) N. o 844/2010 DA COMISSÃO de 20 de Setembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita ANEXO A
+    - Adita ESCLARECIMENTOS SOBRE A TERMINOLOGIA
+    - Adita 1. NOTAS GEOGRÁFICAS
+    - Adita 2. AGREGADOS
+    - Adita 2.1. Sector de abastecimento e sector de transformação
+    - Adita 2.2. Sector da energia e consumo final
+    - Adita 2.3. Especificação da utilização final de energia
+    - Adita 3. OUTROS TERMOS
+    - Adita ANEXO B
+    - Adita ESTATÍSTICAS ANUAIS DA ENERGIA
+    - Adita 1. COMBUSTÍVEIS FÓSSEIS SÓLIDOS E GASES MANUFACTURADOS
+    - Adita 1.1. Produtos energéticos abrangidos
+    - Adita 1.2. Lista dos agregados
+    - Adita 1.2.1. Sector de abastecimento e sector de transformação
+    - Adita 1.2.2. Sector da energia
+    - Adita 1.2.3. Especificação da utilização final de energia
+    - Adita 1.2.4. Importações e exportações
+    - Adita 1.2.5. Consumo dos autoprodutores de electricidade e de calor
+    - Adita 1.3. Poderes caloríficos
+    - Adita 1.4. Produção e stocks nas minas de carvão
+    - Adita 1.5. Unidades de medida
+    - Adita 1.6. Derrogações e isenções
+    - Adita 2. GÁS NATURAL
+    - Adita 2.1. Produtos energéticos abrangidos
+    - Adita 2.2. Lista dos agregados
+    - Adita 2.2.1. Sector de abastecimento e sector de transformação
+  - date: '2017-11-30'
+    amending: eu:celex:32013R0147:por
+    amending_title: M2; M3; REGULAMENTO (UE) 2017/2010 DA COMISSÃO de 9 de novembro de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera ESCLARECIMENTOS SOBRE A TERMINOLOGIA
+    - Altera 1. NOTAS GEOGRÁFICAS
+    - Altera 2. AGREGADOS
+    - Altera ESTATÍSTICAS ANUAIS DA ENERGIA
+    - Altera 1.2. Lista dos agregados
+    - Altera 1.3. Unidades de medida
+    - Altera 2.2. Lista dos agregados
+    - Altera 2.3. Unidades de medida
+    - Altera 3.1. Produtos energéticos aplicáveis
+    - Altera 3.2. Lista dos agregados
+    - Altera 3.3. Unidades de medida
+    - Altera 4.3. Unidades de medida
+    - Altera 5.2. Lista dos agregados
+    - Altera ESTATÍSTICAS MENSAIS DA ENERGIA
+    - Altera Notas
+    - Adita 2.1. Abastecimento
+    - Adita 2.1.1. PRODUÇÃO/PRODUÇÃO INTERNA
+    - Adita 2.1.2. PRODUTOS RECUPERADOS
+    - Adita 2.1.3. PRODUTOS PROVENIENTES DE OUTRAS FONTES
+    - Adita 2.1.4. IMPORTAÇÕES/EXPORTAÇÕES
+    - Adita 2.1.5. BANCAS MARÍTIMAS INTERNACIONAIS
+    - Adita 2.1.6. VARIAÇÕES DE STOCKS
+    - Adita 2.1.7. STOCKS INICIAIS E FINAIS TOTAIS NO TERRITÓRIO NACIONAL
+    - Adita 2.1.8. UTILIZAÇÃO DIRETA
+    - Adita 2.1.9. PRODUTOS PRIMÁRIOS RECEBIDOS
+    - Adita 2.1.10. PRODUÇÃO BRUTA DAS REFINARIAS
+    - Adita 2.1.11. PRODUTOS RECICLADOS
+    - Adita 2.1.12. RETORNOS
+    - Adita 2.1.13. TRANSFERÊNCIAS ENTRE PRODUTOS
+    - Adita 2.1.14. PRODUTOS TRANSFERIDOS
+    - Adita 2.1.15. DESVIOS ESTATÍSTICOS
+    - Adita 2.2. Setor de transformação
+    - Adita 2.2.1. CENTRAIS APENAS DE PRODUÇÃO DE ELETRICIDADE DE PRODUTORES QUE TÊM NISSO A SUA ATIVIDADE PRINCIPAL
+    - Adita 2.2.2. UNIDADES DE PRODUÇÃO COMBINADA DE CALOR E ELETRICIDADE (PCCE) DE PRODUTORES QUE TÊM NISSO A SUA ATIVIDADE
+      PRINCIPAL
+    - Adita 2.2.3. CENTRAIS APENAS DE PRODUÇÃO DE CALOR DE PRODUTORES QUE TÊM NISSO A SUA ATIVIDADE PRINCIPAL
+    - Adita 2.2.4. CENTRAIS APENAS DE PRODUÇÃO DE ELETRICIDADE DE AUTOPRODUTORES
+    - Adita 2.2.5. UNIDADES DE PRODUÇÃO COMBINADA DE CALOR E ELETRICIDADE (PCCE) DE AUTOPRODUTORES
+    - Adita 2.2.6. CENTRAIS APENAS DE PRODUÇÃO DE CALOR DE AUTOPRODUTORES
+  - date: '2020-01-05'
+    amending: eu:celex:32019R2146:por
+    amending_title: REGULAMENTO (UE) 2019/2146 DA COMISSÃO de 26 de novembro de 2019
+    changes:
+    - Altera Artigo 6.º
+    - Altera 1. NOTAS GEOGRÁFICAS
+    - Altera 2. AGREGADOS
+    - Altera 2.1. Abastecimento
+    - Altera 2.2. Setor de transformação
+    - Altera 2.3. Setor da energia
+    - Altera 2.6. Consumo energético final (especificações da utilização final)
+    - Altera 3.2. Gás natural
+    - Altera 3.3. Eletricidade e calor
+    - Altera 3.5. Fontes de energia renováveis e resíduos
+    - Altera ESTATÍSTICAS ANUAIS DA ENERGIA
+    - Altera 1.2. Lista dos agregados
+    - Altera 2.2. Lista dos agregados
+    - Altera 3.2. Lista dos agregados
+    - Altera 3.3. Unidades de medida
+    - Altera 4.2. Lista dos agregados
+    - Altera 4.4. Isenções
+    - Altera 5.1. Produtos energéticos aplicáveis
+    - Altera 5.2. Lista dos agregados
+    - Altera 6.1. Lista dos agregados
+    - Altera ESTATÍSTICAS MENSAIS DA ENERGIA
+    - Altera 1.4. Prazo para a transmissão dos dados
+    - Altera 2.4. Prazo para a transmissão dos dados
+    - Altera ESTATÍSTICAS MENSAIS DE CURTO PRAZO
+    - Altera Notas
+    - Adita Esclarecimentos sobre a terminologia
+    - Adita 3.1. Carvão (combustíveis fósseis sólidos e gases manufaturados)
+    - Adita 3.4. Petróleo (petróleo bruto e produtos petrolíferos)
+    - Adita 7. ESTATÍSTICAS PORMENORIZADAS SOBRE O CONSUMO DE ENERGIA FINAL
+    - Adita 7.1. Lista dos agregados
+    - Adita 7.2. Produtos energéticos aplicáveis
+    - Adita 7.3. Unidades de medida
+    - Adita 7.4. Prazo para a transmissão dos dados
+    - Adita 7.5. Isenções
+    - Adita 2. IMPORTAÇÕES E APROVISIONAMENTO EM PETRÓLEO BRUTO
+    - Adita 2.2. Definições
+    - Adita 2.3. Lista dos agregados
+    - Adita 2.4. Unidades de medida
+    - Adita 2.5. Disposições aplicáveis
+    - Suprime ESCLARECIMENTOS SOBRE A TERMINOLOGIA
+  - date: '2022-02-20'
+    amending: eu:celex:32022R0132:por
+    amending_title: REGULAMENTO (UE) 2022/132 DA COMISSÃO de 28 de janeiro de 2022
+    changes:
+    - Altera Artigo 6.º
+    - Altera 1. NOTAS GEOGRÁFICAS
+    - Altera 2. AGREGADOS
+    - Altera 2.1. Abastecimento
+    - Altera 2.2. Setor de transformação
+    - Altera 2.3. Setor da energia
+    - Altera 2.6. Consumo energético final (especificações da utilização final)
+    - Altera 3.5. Fontes de energia renováveis e resíduos
+    - Altera ESTATÍSTICAS ANUAIS DA ENERGIA
+    - Altera 1.2. Lista dos agregados
+    - Altera 1.3. Unidades de medida
+    - Altera 2.2. Lista dos agregados
+    - Altera 3.2. Lista dos agregados
+    - Altera 3.3. Unidades de medida
+    - Altera 4.2. Lista dos agregados
+    - Altera 4.4. Isenções
+    - Altera 5.1. Produtos energéticos aplicáveis
+    - Altera 5.2. Lista dos agregados
+    - Altera 5.3. Unidades de medida
+    - Altera 7.1. Lista dos agregados
+    - Altera 7.3. Unidades de medida
+    - Altera ESTATÍSTICAS MENSAIS DA ENERGIA
+    - Altera 3.5. Notas geográficas
+    - Altera ESTATÍSTICAS MENSAIS DE CURTO PRAZO
+    - Altera Notas
+    - Adita ESCLARECIMENTOS SOBRE A TERMINOLOGIA
+    - Adita 2.4. Perdas no transporte e na distribuição
+    - Adita 3.1. CARVÃO (combustíveis fósseis sólidos e gases manufaturados)
+    - Adita 3.2. GÁS NATURAL
+    - Adita 3.3. ELETRICIDADE E CALOR
+    - Adita 3.4. PETRÓLEO (petróleo bruto e produtos petrolíferos)
+    - Adita 3.6. Hidrogénio
+    - Adita 6.2 Unidades de medida
+    - Adita 7. HIDROGÉNIO
+    - Adita 7.2. Capacidade de produção
+    - Adita 8. ESTATÍSTICAS PORMENORIZADAS SOBRE O CONSUMO DE ENERGIA FINAL
+    - Adita 8.1. Lista dos agregados
+    - Adita 8.2. Produtos energéticos aplicáveis
+    - Adita 8.3. Unidades de medida
+    - 'Adita 8.4. Prazo para a transmissão dos dados:'
+  - date: '2024-02-07'
+    amending: eu:celex:32024R0264:por
+    amending_title: REGULAMENTO (UE) 2024/264 DA COMISSÃO de 17 de janeiro de 2024
+    changes:
+    - Altera Artigo 6.º
+    - Altera 2. AGREGADOS
+    - Altera 2.1. Abastecimento
+    - Altera 2.2. Setor de transformação
+    - Altera 2.3. Setor da energia
+    - Altera 2.4. Perdas no transporte e na distribuição
+    - Altera 2.5. Consumo não energético final
+    - Altera 2.6. Consumo energético final (especificações da utilização final)
+    - Altera 3.1. CARVÃO (combustíveis fósseis sólidos e gases manufaturados)
+    - Altera 3.2. GÁS NATURAL
+    - Altera 3.3. ELETRICIDADE E CALOR
+    - Altera 3.4. PETRÓLEO (petróleo bruto e produtos petrolíferos)
+    - Altera ESTATÍSTICAS ANUAIS DA ENERGIA
+    - Altera 1.2. Lista dos agregados
+    - Altera 2.2. Lista dos agregados
+    - Altera 3.2. Lista dos agregados
+    - Altera 3.3. Unidades de medida
+    - Altera 4.2. Lista dos agregados
+    - Altera 5.1. Produtos energéticos aplicáveis
+    - Altera 5.2. Lista dos agregados
+    - Altera 5.3. Unidades de medida
+    - Altera 7.1. Lista dos agregados
+    - Altera 7.2. Capacidade de produção
+    - Altera 7.3. Unidades de medida
+    - Altera 8.1. Lista dos agregados
+    - Altera 8.3. Unidades de medida
+    - Altera 9.2. Lista dos agregados
+    - Altera 1.3. Lista dos agregados
+    - Altera 1.4. Unidades de medida
+    - Altera Notas
+    - Adita 3.5. FONTES DE ENERGIA RENOVÁVEIS E RESÍDUOS
+    - Adita 3.6. HIDROGÉNIO
+    - Adita 6.2. Unidades de medida
+    - Adita 8.4. Prazo para a transmissão dos dados
+    - Adita 1. IMPORTAÇÕES E APROVISIONAMENTO EM PETRÓLEO BRUTO
+    - Suprime 3.5. Fontes de energia renováveis e resíduos
+    - Suprime 3.6. Hidrogénio
+    - Suprime 6.2 Unidades de medida
+    - 'Suprime 8.4. Prazo para a transmissão dos dados:'
+    - Suprime 1. Importações e aprovisionamento em petróleo bruto
 identifiers:
   celex: 32008R1099
   eli: http://data.europa.eu/eli/reg/2008/1099/oj
@@ -49,7 +279,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/82db71d3-21a1-4e66-a380-c2a5b7816170.0019
   content_url: http://publications.europa.eu/resource/cellar/b49a7231-d598-11ee-b9d9-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R1099-20240207
-  retrieved_at: '2026-10-22T02:39:47Z'
+  retrieved_at: '2026-10-22T15:20:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T09:06:49.728+01:00'
 integrity:
@@ -58,9 +288,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:47Z'
-  notes: Texto consolidado 02008R1099-20240207.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:20:27Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2008-1099.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -190,39 +420,22 @@ relationships:
   date: '2024-04-30'
 article_structure:
   article_count: 12
-  section_count: 90
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 91
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:47Z'
-  warnings: []
+  checked_at: '2026-10-22T15:20:27Z'
+  warnings:
+  - '02008R1099-20081204: versão indisponível (Sem expressão na língua por para CELEX 02008R1099-20081204.)'
+  - '02008R1099-20130314: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1099-20140521: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 1099/2008 do Parlamento Europeu e do Conselho, de 22 Outubro de 2008 , relativo às estatísticas da energia (Texto relevante para efeitos do EEE)
-
-> 02008R1099 — PT — 07.02.2024 — 007.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32010R0844) — [REGULAMENTO (UE) N.º 844/2010 DA COMISSÃO de 20 de Setembro de 2010](http://publications.europa.eu/resource/celex/32010R0844) — L 258 — 1 — 30.9.2010
-- [M2](http://publications.europa.eu/resource/celex/32013R0147) — [REGULAMENTO (UE) N.º 147/2013 DA COMISSÃO de 13 de fevereiro de 2013](http://publications.europa.eu/resource/celex/32013R0147) — L 50 — 1 — 22.2.2013
-- [M3](http://publications.europa.eu/resource/celex/32014R0431) — [REGULAMENTO (UE) N.º 431/2014 DA COMISSÃO de 24 de abril de 2014](http://publications.europa.eu/resource/celex/32014R0431) — L 131 — 1 — 1.5.2014
-- [M4](http://publications.europa.eu/resource/celex/32017R2010) — [REGULAMENTO (UE) 2017/2010 DA COMISSÃO de 9 de novembro de 2017](http://publications.europa.eu/resource/celex/32017R2010) — L 292 — 3 — 10.11.2017
-- [M5](http://publications.europa.eu/resource/celex/32019R2146) — [REGULAMENTO (UE) 2019/2146 DA COMISSÃO de 26 de novembro de 2019](http://publications.europa.eu/resource/celex/32019R2146) — L 325 — 43 — 16.12.2019
-- [M6](http://publications.europa.eu/resource/celex/32022R0132) — [REGULAMENTO (UE) 2022/132 DA COMISSÃO de 28 de janeiro de 2022](http://publications.europa.eu/resource/celex/32022R0132) — L 20 — 208 — 31.1.2022
-- [►M7](http://publications.europa.eu/resource/celex/32024R0264) — [REGULAMENTO (UE) 2024/264 DA COMISSÃO de 17 de janeiro de 2024](http://publications.europa.eu/resource/celex/32024R0264) — L — 1 — 18.1.2024
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32019R2146R%2801%29) — [Rectificação, JO L 204, 10.6.2021, p. 48 (2019/2146)](http://publications.europa.eu/resource/celex/32019R2146R%2801%29)
-
-## REGULAMENTO (CE) N.º 1099/2008 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 22 Outubro de 2008
 

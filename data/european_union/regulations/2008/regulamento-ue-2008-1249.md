@@ -35,6 +35,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2018-07-11'
+version_history:
+  file: regulamento-ue-2008-1249.versoes.json
+  count: 2
+  source_lastmod: '2018-07-11'
+  versions:
+  - date: '2008-12-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-07-11'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime ÂMBITO DE APLICAÇÃO
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime CAPÍTULO II
+    - Suprime SECTOR DA CARNE DE BOVINO
+    - Suprime Artigo 2.º — Âmbito de aplicação e disposições gerais
+    - Suprime Artigo 3.º — Disposições complementares relativas às classes de conformação e de camada de gordura
+    - Suprime Artigo 4.º — Classe de conformação S
+    - Suprime Artigo 5.º — Derrogação da obrigatoriedade de classificação das carcaças
+    - Suprime Artigo 6.º — Classificação e identificação
+    - Suprime Artigo 7.º — Comunicação dos resultados da classificação
+    - Suprime Artigo 8.º — Classificação por classificadores qualificados
+    - Suprime Artigo 9.º — Autorização de técnicas de classificação automatizada
+    - Suprime Artigo 10.º — Classificação automatizada
+    - Suprime Artigo 11.º — Controlos in loco
+    - Suprime Artigo 12.º — Relatórios de controlo e acções de seguimento
+    - Suprime Artigo 13.º — Preço de mercado a registar
+    - Suprime Artigo 14.º — Categorias e classes para efeitos do registo dos preços de mercado
+    - Suprime Artigo 15.º — Preços representativos
+    - Suprime Artigo 16.º — Cálculo dos preços semanais
+    - Suprime Artigo 17.º — Comunicação semanal dos preços à Comissão
+    - Suprime Artigo 18.º — Preços comunitários médios
+    - Suprime Artigo 19.º — Notificação anual dos Estados-Membros à Comissão
+    - Suprime CAPÍTULO III
+    - Suprime SECTOR DA CARNE DE SUÍNO
+    - Suprime Artigo 20.º — Derrogações da obrigatoriedade de classificação das carcaças
+    - Suprime Artigo 21.º — Pesagem, classificação e marcação
+    - Suprime Artigo 22.º — Peso da carcaça
+    - Suprime Artigo 23.º — Teor de carne magra das carcaças de suínos
+    - Suprime Artigo 24.º — Controlos in loco
+    - Suprime Artigo 25.º — Preço de mercado das carcaças de suíno nos Estados-Membros
+    - Suprime Artigo 26.º — Preço comunitário médio
+    - Suprime Artigo 27.º — Comunicação semanal das cotações à Comissão
+    - Suprime CAPÍTULO IV
+    - Suprime SECTOR DA CARNE DE OVINO
+    - Suprime Artigo 28.º — Critérios de definição das carcaças de borregos leves
+    - Suprime Artigo 29.º — Disposições complementares relativas às classes de conformação e de camada de gordura, peso da
+      carcaça e cor da carne
+    - Suprime Artigo 30.º — Classificação e identificação
+    - Suprime Artigo 31.º — Classificação por classificadores qualificados
 identifiers:
   celex: 32008R1249
   eli: http://data.europa.eu/eli/reg/2008/1249/oj
@@ -49,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018
   content_url: http://publications.europa.eu/resource/cellar/6f18dfc1-db80-4f02-bf23-0624c8d8afe3.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R1249-20180711
-  retrieved_at: '2026-10-22T02:48:03Z'
+  retrieved_at: '2026-10-22T15:20:43Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T16:01:22.209+01:00'
 integrity:
@@ -58,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:03Z'
-  notes: Texto consolidado 02008R1249-20180711.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:20:43Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2008-1249.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -277,16 +331,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:03Z'
+  checked_at: '2026-10-22T15:20:43Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02008R1249-20090101: versão indisponível (Sem expressão na língua por para CELEX 02008R1249-20090101.)'
+  - '02008R1249-20140219: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1249-20170711: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

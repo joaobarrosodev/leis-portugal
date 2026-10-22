@@ -1,0 +1,452 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32008R1067:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R1067-20200619",
+ "dre_path": null,
+ "source_lastmod": "2020-06-19",
+ "versions": [
+  {
+   "date": "2008-10-31",
+   "future": false,
+   "celex": "32008R1067",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fdbc5d1bfc3177ef",
+    "60a909cfddd2b70c",
+    "0a8f0ba0efd655ec",
+    "0ab4b7477740a333",
+    "d7908653bc9d04ab",
+    "e8d3e7a3822a1734",
+    "7222c56278eb2ca8",
+    "4dbe37737619605d",
+    "c14a875caf5c0f0d",
+    "68d74112dc0e9169",
+    "ebd55783f3081d1b",
+    "35cf809c11927951"
+   ]
+  },
+  {
+   "date": "2012-01-01",
+   "future": false,
+   "celex": "02008R1067-20120101",
+   "acts": [
+    {
+     "id": "eu:celex:32011R1253:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) N. o 1253/2011 DA COMISSÃO de 1 de Dezembro de 2011",
+     "published": null,
+     "celex": "32011R1253"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita ANEXO II"
+   ],
+   "fragments": [
+    "fbf38c8138295d98",
+    "bddb2543408da946",
+    "f15c81f254c807ad",
+    "3cd08cc639bfd25b",
+    "e33544dacb526534",
+    "e8d3e7a3822a1734",
+    "7222c56278eb2ca8",
+    "4dbe37737619605d",
+    "c036d28bf4ec78f7",
+    "68d74112dc0e9169",
+    "e6e9acffed344fb7",
+    "56510d2c23924350",
+    "5f592dba78b1d85f",
+    "dcfc17573e9c4329"
+   ]
+  },
+  {
+   "date": "2017-09-21",
+   "future": false,
+   "celex": "02008R1067-20170921",
+   "acts": [
+    {
+     "id": "eu:celex:32017R1586:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2017/1586 DA COMISSÃO de 19 de setembro de 2017",
+     "published": null,
+     "celex": "32017R1586"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 8.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "1df4baa290759094",
+    "0b43b01f04c10c28",
+    "ce83cfc36e8752a1",
+    "57222789d298eef2",
+    "bc6f3446a3302604",
+    "e8d3e7a3822a1734",
+    "7222c56278eb2ca8",
+    "4dbe37737619605d",
+    "94c7bcc87549078f",
+    "68d74112dc0e9169",
+    "e6e9acffed344fb7",
+    "56510d2c23924350",
+    "5f592dba78b1d85f",
+    "cca8feb88a149921"
+   ]
+  },
+  {
+   "date": "2019-05-07",
+   "future": false,
+   "celex": "02008R1067-20190507",
+   "acts": [
+    {
+     "id": "eu:celex:32019R0675:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2019/675 DA COMISSÃO de 29 de abril de 2019",
+     "published": null,
+     "celex": "32019R0675"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 8.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "1df4baa290759094",
+    "367beae58d807889",
+    "db4095bebd46e13a",
+    "5cec2d2838cdcb32",
+    "bc6f3446a3302604",
+    "e8d3e7a3822a1734",
+    "7222c56278eb2ca8",
+    "4dbe37737619605d",
+    "1439b45ef4ea1494",
+    "68d74112dc0e9169",
+    "e6e9acffed344fb7",
+    "56510d2c23924350",
+    "5f592dba78b1d85f",
+    "20e9172690d3ce9b"
+   ]
+  },
+  {
+   "date": "2020-06-19",
+   "future": false,
+   "celex": "02008R1067-20200619",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "d831b9541aeb80b2"
+   ]
+  }
+ ],
+ "fragments": {
+  "fdbc5d1bfc3177ef": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Outubro de 2008\n\nrelativo à abertura e modo de gestão dos contingentes pautais comunitários de trigo mole, com excepção do da qualidade alta, proveniente de países terceiros, e que estabelece uma derrogação ao Regulamento (CE) n.º 1234/2007 do Conselho\n\n(Versão codificada)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de Outubro de 2007, que estabelece a organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento OCM única) [([^1])](http://publications.europa.eu/resource/cellar/b89714ab-077e-4c77-b6b2-415ce5c77bca.0018.02/DOC_1#ntr1-L_2008290PT.01000301-E0001), nomeadamente o n.º 1 do artigo 144.º, conjugado com o artigo 4.º,\n\nTendo em conta a Decisão 2006/333/CE do Conselho, de 20 de Março de 2006, relativa à celebração de um Acordo sob forma de troca de cartas entre a Comunidade Europeia e os Estados Unidos da América nos termos do n.º 6 do artigo XXIV e do artigo XXVIII do Acordo Geral sobre Pautas Aduaneiras e Comércio (GATT) de 1994 relativo à alteração das concessões previstas nas listas da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca no contexto da adesão destes países à União Europeia [([^2])](http://publications.europa.eu/resource/cellar/b89714ab-077e-4c77-b6b2-415ce5c77bca.0018.02/DOC_1#ntr2-L_2008290PT.01000301-E0002), nomeadamente o artigo 2.º,\n\nTendo em conta a Decisão 2007/444/CE do Conselho, de 22 de Fevereiro de 2007, relativa à celebração de um Acordo entre a Comunidade Europeia e o Governo do Canadá sobre a conclusão das negociações ao abrigo do n.º 6 do artigo XXIV do GATT [([^3])](http://publications.europa.eu/resource/cellar/b89714ab-077e-4c77-b6b2-415ce5c77bca.0018.02/DOC_1#ntr3-L_2008290PT.01000301-E0003), nomeadamente o artigo 2.º,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.º 2375/2002 da Comissão, de 27 de Dezembro de 2002, relativo à abertura e modo de gestão dos contingentes pautais comunitários de trigo mole, com excepção do da qualidade alta, proveniente de países terceiros, e que estabelece uma derrogação ao Regulamento (CEE) n.º 1766/92 do Conselho [([^4])](http://publications.europa.eu/resource/cellar/b89714ab-077e-4c77-b6b2-415ce5c77bca.0018.02/DOC_1#ntr4-L_2008290PT.01000301-E0004), foi por várias vezes alterado de modo substancial [([^5])](http://publications.europa.eu/resource/cellar/b89714ab-077e-4c77-b6b2-415ce5c77bca.0018.02/DOC_1#ntr5-L_2008290PT.01000301-E0005), sendo conveniente, por uma questão de lógica e clareza, proceder à sua codificação.\n\n(2) Na sequência de negociações comerciais, a Comunidade alterou as condições de importação de trigo mole de qualidade baixa e média, ou seja, de trigo mole com excepção do da qualidade alta conforme definida no anexo I do Regulamento (CE) n.º 1249/96 da Comissão, de 28 de Junho de 1996, que estabelece as normas de execução do Regulamento (CEE) n.º 1766/92 do Conselho no que respeita aos direitos de importação no sector dos cereais [([^6])](http://publications.europa.eu/resource/cellar/b89714ab-077e-4c77-b6b2-415ce5c77bca.0018.02/DOC_1#ntr6-L_2008290PT.01000301-E0006), com a criação de um contingente de importação.\n\n(3) Esse contingente pautal diz respeito a uma quantidade máxima anual de 2 989 240 toneladas, das quais 572 000 toneladas para as importações originárias dos Estados Unidos e 38 853 toneladas para as importações originárias do Canadá.\n\n(4) O Regulamento (CE) n.º 1301/2006 da Comissão, de 31 de Agosto de 2006, que estabelece normas comuns aplicáveis à administração de contingentes pautais de importação de produtos agrícolas, regidos por regimes de certificados de importação [([^7])](http://publications.europa.eu/resource/cellar/b89714ab-077e-4c77-b6b2-415ce5c77bca.0018.02/DOC_1#ntr7-L_2008290PT.01000301-E0007), aplica-se aos certificados de importação para períodos de contingentamento pautal com início a partir de 1 de Janeiro de 2007.\n\n(5) As disposições do Regulamento (CE) n.º 1301/2006 aplicam-se sem prejuízo das condições suplementares ou derrogações eventualmente estabelecidas pelo presente regulamento.\n\n(6) Para permitir a importação ordenada e não especulativa do trigo mole correspondente a esses contingentes pautais, é necessário determinar que as respectivas importações sejam subordinadas à emissão de um certificado de importação.\n\n(7) Para garantir uma boa gestão dos referidos contingentes, é conveniente determinar os prazos para a apresentação dos pedidos de certificado, bem como os elementos que devem constar desses pedidos e dos certificados.\n\n(8) A fim de ter em conta as condições de entrega, é necessário estabelecer uma derrogação no respeitante ao período de eficácia dos certificados.\n\n(9) Para permitir a boa gestão dos contingentes, é necessário fixar a garantia relativa aos certificados de importação a um nível relativamente elevado, em derrogação do artigo 12.º do Regulamento (CE) n.º 1342/2003 da Comissão, de 28 de Julho de 2003, que estabelece normas de execução especiais do regime dos certificados de importação e de exportação no sector dos cereais e do arroz [([^8])](http://publications.europa.eu/resource/cellar/b89714ab-077e-4c77-b6b2-415ce5c77bca.0018.02/DOC_1#ntr8-L_2008290PT.01000301-E0008).\n\n(10) Importa garantir uma comunicação rápida e recíproca entre a Comissão e os Estados-Membros relativamente às quantidades pedidas e importadas.\n\n(11) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão para a Organização Comum dos Mercados Agrícolas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "60a909cfddd2b70c": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nEm derrogação do artigo 135.º e do n.º 1 do artigo 136.º do Regulamento (CE) n.º 1234/2007, o direito de importação aplicável ao trigo mole do código NC 1001 90 99, com excepção do da qualidade alta conforme definida no anexo I do Regulamento (CE) n.º 1249/96, é fixado no âmbito do contingente aberto pelo presente regulamento.\n\nAos produtos referidos no presente regulamento importados em excesso das quantidades previstas no artigo 3.º é aplicável o disposto no artigo 135.º do Regulamento (CE) n.º 1234/2007."
+  },
+  "0a8f0ba0efd655ec": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. É aberto, anualmente em 1 de Janeiro, um contingente pautal de 2 989 240 toneladas de trigo mole do código NC 1001 90 99, com excepção do da qualidade alta.\n\n2. O direito de importação dentro do contingente pautal é de 12 euros por tonelada.\n\n3. O Regulamento (CE) n.º 376/2008 da Comissão [([^9])](http://publications.europa.eu/resource/cellar/b89714ab-077e-4c77-b6b2-415ce5c77bca.0018.02/DOC_1#ntr9-L_2008290PT.01000301-E0009) e os Regulamentos (CE) n.º 1342/2003 e (CE) n.º 1301/2006 são aplicáveis, salvo disposição contrária prevista no presente regulamento."
+  },
+  "0ab4b7477740a333": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. O contingente pautal de importação global é dividido em três subcontingentes:\n\n— subcontingente I (número de ordem 09.4123): 572 000 toneladas para os Estados Unidos,\n\n— subcontingente II (número de ordem 09.4124): 38 853 toneladas para o Canadá,\n\n— subcontingente III (número de ordem 09.4125): 2 378 387 toneladas para outros países terceiros.\n\n2. Caso se verifique, durante o ano, uma subutilização importante dos subcontingentes I ou II, a Comissão pode, após acordo dos países terceiros interessados, adoptar disposições para a transferência das quantidades não utilizadas para os outros subcontingentes, nos termos do n.º 2 do artigo 195.º do Regulamento (CE) n.º 1234/2007.\n\n3. O subcontingente III é dividido em quatro subperíodos trimestrais, correspondentes às datas e quantidades seguintes:\n\na) Subperíodo n.º 1: de 1 de Janeiro a 31 de Março — 594 597 toneladas;\n\nb) Subperíodo n.º 2: de 1 de Abril a 30 de Junho — 594 597 toneladas;\n\nc) Subperíodo n.º 3: de 1 de Julho a 30 de Setembro — 594 597 toneladas;\n\nd) Subperíodo n.º 4: de 1 de Outubro a 31 de Dezembro — 594 596 toneladas.\n\n4. Caso se esgote a quantidade para um dos subperíodos 1 a 3, a Comissão pode determinar a abertura antecipada do subperíodo seguinte, em conformidade com o procedimento a que se refere o n.º 2 do artigo 195.º do Regulamento (CE) n.º 1234/2007."
+  },
+  "d7908653bc9d04ab": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Em derrogação ao n.º 1 do artigo 6.º do Regulamento (CE) n.º 1301/2006, o requerente não apresentará mais de um pedido de certificado por número de ordem e por semana. Se um requerente apresentar mais de um pedido, nenhum deles será deferido, ficando perdidas a favor do Estado-Membro em causa as garantias constituídas aquando da apresentação dos pedidos.\n\nOs pedidos de certificados de importação são apresentados às autoridades competentes dos Estados-Membros semanalmente, até às 13 horas (hora de Bruxelas) de sexta-feira.\n\n2. Cada pedido de certificado indicará uma quantidade expressa em quilogramas, sem casas decimais, que não pode exceder:\n\n— para os subcontingentes I e II, a quantidade total aberta para o ano para o subcontingente em causa,\n\n— para o subcontingente III, a quantidade total aberta para o subperíodo em causa.\n\nO pedido de certificado de importação e o certificado de importação mencionarão um único país de origem.\n\n3. O mais tardar na segunda-feira seguinte à semana da apresentação dos pedidos de certificados, as autoridades competentes enviarão, por via electrónica, à Comissão, até às 18h00 (hora de Bruxelas), uma notificação de cada pedido, por número de ordem, com indicação da origem do produto e da quantidade solicitada, ou da inexistência de pedidos.\n\n4. Os certificados serão emitidos no quarto dia útil seguinte à data-limite da comunicação referida no n.º 3.\n\nNa data de emissão dos certificados de importação, os Estados-Membros enviarão à Comissão por via electrónica, as informações relativas aos certificados emitidos, referidas n.º 1, alínea b), no artigo 11.º do Regulamento (CE) n.º 1301/2006, com as quantidades totais para as quais tiverem sido emitidos os certificados de importação."
+  },
+  "e8d3e7a3822a1734": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO período de eficácia do certificado é calculado a partir da data da sua emissão efectiva, em conformidade com o n.º 2 do artigo 22.º do Regulamento (CE) n.º 376/2008."
+  },
+  "7222c56278eb2ca8": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO pedido de certificado de importação e o certificado de importação incluirão, na casa 8, o país de origem do produto e, na casa do «sim», uma cruz. Os certificados só são válidos para os produtos originários do país indicado na casa 8."
+  },
+  "4dbe37737619605d": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nEm derrogação das alíneas a) e b) do artigo 12.º do Regulamento (CE) n.º 1342/2003, a garantia relativa aos certificados de importação previstos pelo presente regulamento é de 30 euros por tonelada."
+  },
+  "c14a875caf5c0f0d": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nNo quadro do contingente pautal, a introdução de trigo mole em livre prática na Comunidade, com excepção do da qualidade alta, originário de países terceiros, está sujeita à apresentação de um certificado de origem emitido pelas autoridades nacionais competentes desses países, em conformidade com o disposto no artigo 47.º do Regulamento (CEE) n.º 2454/93 da Comissão [([^10])](http://publications.europa.eu/resource/cellar/b89714ab-077e-4c77-b6b2-415ce5c77bca.0018.02/DOC_1#ntr10-L_2008290PT.01000301-E0010)."
+  },
+  "68d74112dc0e9169": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO Regulamento (CE) n.º 2375/2002 é revogado.\n\nAs remissões para o regulamento revogado devem entender-se como sendo feitas para o presente regulamento, e devem ser lidas de acordo com o quadro de correspondência constante do anexo II."
+  },
+  "ebd55783f3081d1b": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 30 de Outubro de 2008.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "35cf809c11927951": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/b89714ab-077e-4c77-b6b2-415ce5c77bca.0018.02/DOC_1#ntc1-L_2008290PT.01000301-E0001) [JO L 299 de 16.11.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_299_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/b89714ab-077e-4c77-b6b2-415ce5c77bca.0018.02/DOC_1#ntc2-L_2008290PT.01000301-E0002) [JO L 124 de 11.5.2006, p. 13](http://publications.europa.eu/resource/oj/JOL_2006_124_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/b89714ab-077e-4c77-b6b2-415ce5c77bca.0018.02/DOC_1#ntc3-L_2008290PT.01000301-E0003) [JO L 169 de 29.6.2007, p. 53](http://publications.europa.eu/resource/oj/JOL_2007_169_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/b89714ab-077e-4c77-b6b2-415ce5c77bca.0018.02/DOC_1#ntc4-L_2008290PT.01000301-E0004) [JO L 358 de 31.12.2002, p. 88](http://publications.europa.eu/resource/oj/JOL_2002_358_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/b89714ab-077e-4c77-b6b2-415ce5c77bca.0018.02/DOC_1#ntc5-L_2008290PT.01000301-E0005) Ver anexo I.\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/b89714ab-077e-4c77-b6b2-415ce5c77bca.0018.02/DOC_1#ntc6-L_2008290PT.01000301-E0006) [JO L 161 de 29.6.1996, p. 125](http://publications.europa.eu/resource/oj/JOL_1996_161_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/b89714ab-077e-4c77-b6b2-415ce5c77bca.0018.02/DOC_1#ntc7-L_2008290PT.01000301-E0007) [JO L 238 de 1.9.2006, p. 13](http://publications.europa.eu/resource/oj/JOL_2006_238_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/b89714ab-077e-4c77-b6b2-415ce5c77bca.0018.02/DOC_1#ntc8-L_2008290PT.01000301-E0008) [JO L 189 de 29.7.2003, p. 12](http://publications.europa.eu/resource/oj/JOL_2003_189_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/b89714ab-077e-4c77-b6b2-415ce5c77bca.0018.02/DOC_1#ntc9-L_2008290PT.01000301-E0009) [JO L 114 de 26.4.2008, p. 3](http://publications.europa.eu/resource/oj/JOL_2008_114_R_TOC).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/b89714ab-077e-4c77-b6b2-415ce5c77bca.0018.02/DOC_1#ntc10-L_2008290PT.01000301-E0010) [JO L 253 de 11.10.1993, p. 1](http://publications.europa.eu/resource/oj/JOL_1993_253_R_TOC)."
+  },
+  "fbf38c8138295d98": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Outubro de 2008\n\nrelativo à abertura e modo de gestão dos contingentes pautais comunitários de trigo mole, com excepção do da qualidade alta, proveniente de países terceiros, e que estabelece uma derrogação ao Regulamento (CE) n.º 1234/2007 do Conselho\n\n(Versão codificada)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de Outubro de 2007, que estabelece a organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento OCM única) ([^1^](http://publications.europa.eu/resource/cellar/ba88f1b8-f0e5-49b3-9c39-5f92f3dfb3f7.0019.03/DOC_1#E0001)), nomeadamente o n.º 1 do artigo 144.º, conjugado com o artigo 4.º,\n\nTendo em conta a Decisão 2006/333/CE do Conselho, de 20 de Março de 2006, relativa à celebração de um Acordo sob forma de troca de cartas entre a Comunidade Europeia e os Estados Unidos da América nos termos do n.º 6 do artigo XXIV e do artigo XXVIII do Acordo Geral sobre Pautas Aduaneiras e Comércio (GATT) de 1994 relativo à alteração das concessões previstas nas listas da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca no contexto da adesão destes países à União Europeia ([^2^](http://publications.europa.eu/resource/cellar/ba88f1b8-f0e5-49b3-9c39-5f92f3dfb3f7.0019.03/DOC_1#E0002)), nomeadamente o artigo 2.º,\n\nTendo em conta a Decisão 2007/444/CE do Conselho, de 22 de Fevereiro de 2007, relativa à celebração de um Acordo entre a Comunidade Europeia e o Governo do Canadá sobre a conclusão das negociações ao abrigo do n.º 6 do artigo XXIV do GATT ([^3^](http://publications.europa.eu/resource/cellar/ba88f1b8-f0e5-49b3-9c39-5f92f3dfb3f7.0019.03/DOC_1#E0003)), nomeadamente o artigo 2.º,\n\n(1) O Regulamento (CE) n.º 2375/2002 da Comissão, de 27 de Dezembro de 2002, relativo à abertura e modo de gestão dos contingentes pautais comunitários de trigo mole, com excepção do da qualidade alta, proveniente de países terceiros, e que estabelece uma derrogação ao Regulamento (CEE) n.º 1766/92 do Conselho ([^4^](http://publications.europa.eu/resource/cellar/ba88f1b8-f0e5-49b3-9c39-5f92f3dfb3f7.0019.03/DOC_1#E0004)), foi por várias vezes alterado de modo substancial ([^5^](http://publications.europa.eu/resource/cellar/ba88f1b8-f0e5-49b3-9c39-5f92f3dfb3f7.0019.03/DOC_1#E0005)), sendo conveniente, por uma questão de lógica e clareza, proceder à sua codificação.\n\n(2) Na sequência de negociações comerciais, a Comunidade alterou as condições de importação de trigo mole de qualidade baixa e média, ou seja, de trigo mole com excepção do da qualidade alta conforme definida no anexo I do Regulamento (CE) n.º 1249/96 da Comissão, de 28 de Junho de 1996, que estabelece as normas de execução do Regulamento (CEE) n.º 1766/92 do Conselho no que respeita aos direitos de importação no sector dos cereais ([^6^](http://publications.europa.eu/resource/cellar/ba88f1b8-f0e5-49b3-9c39-5f92f3dfb3f7.0019.03/DOC_1#E0006)), com a criação de um contingente de importação.\n\n(3) Esse contingente pautal diz respeito a uma quantidade máxima anual de 2 989 240 toneladas, das quais 572 000 toneladas para as importações originárias dos Estados Unidos e 38 853 toneladas para as importações originárias do Canadá.\n\n(4) O Regulamento (CE) n.º 1301/2006 da Comissão, de 31 de Agosto de 2006, que estabelece normas comuns aplicáveis à administração de contingentes pautais de importação de produtos agrícolas, regidos por regimes de certificados de importação ([^7^](http://publications.europa.eu/resource/cellar/ba88f1b8-f0e5-49b3-9c39-5f92f3dfb3f7.0019.03/DOC_1#E0007)), aplica-se aos certificados de importação para períodos de contingentamento pautal com início a partir de 1 de Janeiro de 2007.\n\n(5) As disposições do Regulamento (CE) n.º 1301/2006 aplicam-se sem prejuízo das condições suplementares ou derrogações eventualmente estabelecidas pelo presente regulamento.\n\n(6) Para permitir a importação ordenada e não especulativa do trigo mole correspondente a esses contingentes pautais, é necessário determinar que as respectivas importações sejam subordinadas à emissão de um certificado de importação.\n\n(7) Para garantir uma boa gestão dos referidos contingentes, é conveniente determinar os prazos para a apresentação dos pedidos de certificado, bem como os elementos que devem constar desses pedidos e dos certificados.\n\n(8) A fim de ter em conta as condições de entrega, é necessário estabelecer uma derrogação no respeitante ao período de eficácia dos certificados.\n\n(9) Para permitir a boa gestão dos contingentes, é necessário fixar a garantia relativa aos certificados de importação a um nível relativamente elevado, em derrogação do artigo 12.º do Regulamento (CE) n.º 1342/2003 da Comissão, de 28 de Julho de 2003, que estabelece normas de execução especiais do regime dos certificados de importação e de exportação no sector dos cereais e do arroz ([^8^](http://publications.europa.eu/resource/cellar/ba88f1b8-f0e5-49b3-9c39-5f92f3dfb3f7.0019.03/DOC_1#E0008)).\n\n(10) Importa garantir uma comunicação rápida e recíproca entre a Comissão e os Estados-Membros relativamente às quantidades pedidas e importadas.\n\n(11) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão para a Organização Comum dos Mercados Agrícolas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "bddb2543408da946": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nEm derrogação do artigo 135.º e do n.º 1 do artigo 136.º do Regulamento (CE) n.º 1234/2007, o direito de importação aplicável ao trigo mole do código NC 1001 99 00, com excepção do da qualidade alta conforme definida no anexo II do Regulamento (CE) n.º 642/2010 da Comissão ([^9^](http://publications.europa.eu/resource/cellar/ba88f1b8-f0e5-49b3-9c39-5f92f3dfb3f7.0019.03/DOC_1#E0009)), é fixado no âmbito do contingente aberto pelo presente regulamento.\n\nAos produtos referidos no presente regulamento importados em excesso das quantidades previstas no artigo 3.º é aplicável o disposto no artigo 135.º do Regulamento (CE) n.º 1234/2007."
+  },
+  "f15c81f254c807ad": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. É aberto anualmente em 1 de Janeiro um contingente pautal de 3 112 030 toneladas de importação de trigo mole do código NC 1001 99 00, com excepção do da qualidade alta.\n\n2. O direito de importação dentro do contingente pautal é de 12 euros por tonelada.\n\n3. O Regulamento (CE) n.º 376/2008 da Comissão ([^10^](http://publications.europa.eu/resource/cellar/ba88f1b8-f0e5-49b3-9c39-5f92f3dfb3f7.0019.03/DOC_1#E0010)) e os Regulamentos (CE) n.º 1342/2003 e (CE) n.º 1301/2006 são aplicáveis, salvo disposição contrária prevista no presente regulamento."
+  },
+  "3cd08cc639bfd25b": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. O contingente pautal de importação global é dividido em quatro subcontingentes:\n\n— subcontingente I (número de ordem 09.4123): 572 000 toneladas para os Estados Unidos,\n\n— subcontingente II (número de ordem 09.4124): 38 853 toneladas para o Canadá,\n\n— subcontingente III (número de ordem 09.4125): 2 378 387 toneladas para os outros países terceiros,\n\n— subcontingente IV (número de ordem 09.4133): 122 790 toneladas para todos os países terceiros.\n\n2. Caso se verifique, durante o ano, uma subutilização importante dos subcontingentes I ou II, a Comissão pode, após acordo dos países terceiros interessados, adoptar disposições para a transferência das quantidades não utilizadas para os outros subcontingentes, nos termos do n.º 2 do artigo 195.º do Regulamento (CE) n.º 1234/2007.\n\n3. O subcontingente III é dividido em quatro subperíodos trimestrais, correspondentes às datas e quantidades seguintes:\n\na) Subperíodo n.º 1: de 1 de Janeiro a 31 de Março — 594 597 toneladas;\n\nb) Subperíodo n.º 2: de 1 de Abril a 30 de Junho — 594 597 toneladas;\n\nc) Subperíodo n.º 3: de 1 de Julho a 30 de Setembro — 594 597 toneladas;\n\nd) Subperíodo n.º 4: de 1 de Outubro a 31 de Dezembro — 594 596 toneladas.\n\n4. Caso se esgote a quantidade para um dos subperíodos 1 a 3, a Comissão pode determinar a abertura antecipada do subperíodo seguinte, em conformidade com o procedimento a que se refere o n.º 2 do artigo 195.º do Regulamento (CE) n.º 1234/2007."
+  },
+  "e33544dacb526534": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Em derrogação ao n.º 1 do artigo 6.º do Regulamento (CE) n.º 1301/2006, o requerente não apresentará mais de um pedido de certificado por número de ordem e por semana. Se um requerente apresentar mais de um pedido, nenhum deles será deferido, ficando perdidas a favor do Estado-Membro em causa as garantias constituídas aquando da apresentação dos pedidos.\n\nOs pedidos de certificados de importação são apresentados às autoridades competentes dos Estados-Membros semanalmente, até às 13 horas (hora de Bruxelas) de sexta-feira.\n\n2. Cada pedido de certificado indicará uma quantidade expressa em quilogramas, sem casas decimais, que não pode exceder:\n\n— para os subcontingentes I, II e IV, a quantidade total aberta para o ano para o subcontingente em causa,\n\n— para o subcontingente III, a quantidade total aberta para o subperíodo em causa.\n\nO pedido de certificado de importação e o certificado de importação mencionarão um único país de origem.\n\n3. O mais tardar na segunda-feira seguinte à semana da apresentação dos pedidos de certificados, as autoridades competentes enviarão, por via electrónica, à Comissão, até às 18h00 (hora de Bruxelas), uma notificação de cada pedido, por número de ordem, com indicação da origem do produto e da quantidade solicitada, ou da inexistência de pedidos.\n\n4. Os certificados serão emitidos no quarto dia útil seguinte à data-limite da comunicação referida no n.º 3.\n\nNa data de emissão dos certificados de importação, os Estados-Membros enviarão à Comissão por via electrónica, as informações relativas aos certificados emitidos, referidas n.º 1, alínea b), no artigo 11.º do Regulamento (CE) n.º 1301/2006, com as quantidades totais para as quais tiverem sido emitidos os certificados de importação."
+  },
+  "c036d28bf4ec78f7": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nNo quadro do contingente pautal, a introdução de trigo mole em livre prática na Comunidade, com excepção do da qualidade alta, originário de países terceiros, está sujeita à apresentação de um certificado de origem emitido pelas autoridades nacionais competentes desses países, em conformidade com o disposto no artigo 47.º do Regulamento (CEE) n.º 2454/93 da Comissão ([^11^](http://publications.europa.eu/resource/cellar/ba88f1b8-f0e5-49b3-9c39-5f92f3dfb3f7.0019.03/DOC_1#E0011))."
+  },
+  "e6e9acffed344fb7": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "56510d2c23924350": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nRegulamento (CE) n.º 2375/2002 da Comissão (JO L 358 de 31.12.2002, p. 88).\n\nRegulamento (CE) n.º 531/2003 da Comissão (JO L 79 de 26.3.2003, p. 3).\n\nRegulamento (CE) n.º 1111/2003 da Comissão (JO L 158 de 27.6.2003, p. 21).\n\nRegulamento (CE) n.º 777/2004 da Comissão (JO L 123 de 27.4.2004, p. 50). Apenas o artigo 12.º\n\nRegulamento (CE) n.º 491/2006 da Comissão (JO L 89 de 28.3.2006, p. 3).\n\nRegulamento (CE) n.º 971/2006 da Comissão (JO L 176 de 30.6.2006, p. 51).\n\nRegulamento (CE) n.º 2022/2006 da Comissão (JO L 384 de 29.12.2006, p. 70). Apenas o artigo 1.º\n\nRegulamento (CE) n.º 932/2007 da Comissão (JO L 204 de 4.8.2007, p. 3). Apenas o artigo 1.º\n\nRegulamento (CE) n.º 1456/2007 da Comissão (JO L 325 de 11.12.2007, p. 76). Apenas o artigo 2.º"
+  },
+  "5f592dba78b1d85f": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nRegulamento (CE) n.º 2375/2002 Presente regulamento\n\nArtigos 1.º, 2.º e 3.º Artigos 1.º, 2.º e 3.º\n\nArtigo 5.º Artigo 4.º\n\nArtigo 6.º Artigo 5.º\n\nArtigo 9.º Artigo 6.º\n\nArtigo 10.º Artigo 7.º\n\nArtigo 11.º Artigo 8.º\n\n— Artigo 9.º\n\nArtigo 12.º, primeiro parágrafo Artigo 10.º\n\nArtigo 12.º, segundo parágrafo —\n\n— Anexo I\n\n— Anexo II\n\n---"
+  },
+  "dcfc17573e9c4329": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ba88f1b8-f0e5-49b3-9c39-5f92f3dfb3f7.0019.03/DOC_1#src.E0001)) JO L 299 de 16.11.2007, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/ba88f1b8-f0e5-49b3-9c39-5f92f3dfb3f7.0019.03/DOC_1#src.E0002)) JO L 124 de 11.5.2006, p. 13.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/ba88f1b8-f0e5-49b3-9c39-5f92f3dfb3f7.0019.03/DOC_1#src.E0003)) JO L 169 de 29.6.2007, p. 53.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/ba88f1b8-f0e5-49b3-9c39-5f92f3dfb3f7.0019.03/DOC_1#src.E0004)) JO L 358 de 31.12.2002, p. 88.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/ba88f1b8-f0e5-49b3-9c39-5f92f3dfb3f7.0019.03/DOC_1#src.E0005)) Ver anexo I.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/ba88f1b8-f0e5-49b3-9c39-5f92f3dfb3f7.0019.03/DOC_1#src.E0006)) JO L 161 de 29.6.1996, p. 125.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/ba88f1b8-f0e5-49b3-9c39-5f92f3dfb3f7.0019.03/DOC_1#src.E0007)) JO L 238 de 1.9.2006, p. 13.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/ba88f1b8-f0e5-49b3-9c39-5f92f3dfb3f7.0019.03/DOC_1#src.E0008)) JO L 189 de 29.7.2003, p. 12.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/ba88f1b8-f0e5-49b3-9c39-5f92f3dfb3f7.0019.03/DOC_1#src.E0009)) JO L 187 de 21.7.2010, p. 5.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/ba88f1b8-f0e5-49b3-9c39-5f92f3dfb3f7.0019.03/DOC_1#src.E0010)) JO L 114 de 26.4.2008, p. 3.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/ba88f1b8-f0e5-49b3-9c39-5f92f3dfb3f7.0019.03/DOC_1#src.E0011)) JO L 253 de 11.10.1993, p. 1."
+  },
+  "1df4baa290759094": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Outubro de 2008\n\nrelativo à abertura e modo de gestão dos contingentes pautais comunitários de trigo mole, com excepção do da qualidade alta, proveniente de países terceiros, e que estabelece uma derrogação ao Regulamento (CE) n.º 1234/2007 do Conselho\n\n(Versão codificada)"
+  },
+  "0b43b01f04c10c28": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Em derrogação à Pauta Aduaneira Comum, o direito de importação aplicável ao trigo-mole do código NC 1001 99 00, com exceção do da qualidade alta, definida no anexo II do Regulamento (UE) n.º 642/2010 da Comissão ([^1^](http://publications.europa.eu/resource/cellar/5b078e92-13b8-42b5-899f-7a166a2cb9dc.0015.02/DOC_1#E0001)), é fixado no âmbito dos contingentes abertos pelo presente regulamento.\n\n2. A Pauta Aduaneira Comum aplica-se aos produtos referidos no presente regulamento importados em excesso das quantidades fixadas nos artigos 2.º e 3.º."
+  },
+  "ce83cfc36e8752a1": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. É aberto anualmente, em 1 de janeiro, um contingente pautal de importação de 3 073 177 toneladas de trigo-mole do código NC 1001 99 00, com exceção do da qualidade alta.\n\nO direito de importação dentro do contingente pautal é de 12 EUR por tonelada.\n\n2. É aberto anualmente em 1 de janeiro, de 2017 a 2023, um contingente pautal de importação de 100 000 toneladas de trigo-mole do Canadá do código NC 1001 99 00, com exceção do da qualidade alta (número de ordem 09.41.24).\n\nEm derrogação ao disposto no primeiro parágrafo, a quantidade do contingente pautal de 2017 é de 27 778 toneladas.\n\nA importação no âmbito do contingente pautal está isenta de direitos aduaneiros.\n\n3. O Regulamento (CE) n.º 376/2008 da Comissão ([^2^](http://publications.europa.eu/resource/cellar/5b078e92-13b8-42b5-899f-7a166a2cb9dc.0015.02/DOC_1#E0002)) e os Regulamentos (CE) n.º 1342/2003 e (CE) n.º 1301/2006 são aplicáveis, salvo disposição contrária prevista no presente regulamento."
+  },
+  "57222789d298eef2": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. O contingente pautal de importação a que se refere o artigo 2.º, n.º 1, é dividido em três subcontingentes:\n\n— subcontingente I (número de ordem 09.4123): 572 000 toneladas para os Estados Unidos da América;\n\n— subcontingente II (número de ordem 09.4125): 2 378 387 toneladas para países terceiros, excetuados o Canadá e os Estados Unidos da América;\n\n— subcontingente III (número de ordem 09.4133): 122 790 toneladas para todos os países terceiros.\n\n2. Se, durante o ano, se verificar uma subutilização importante do subcontingente I, a Comissão pode, com o acordo dos países terceiros interessados, adotar disposições para a transferência das quantidades não utilizadas para os outros subcontingentes, nos termos do artigo 229.º, n.º 2, do Regulamento (UE) n.º 1308/2013.\n\n3. O [**►M2**](http://publications.europa.eu/resource/celex/32017R1586) subcontingente II**◄** é dividido em quatro subperíodos trimestrais, correspondentes às datas e quantidades seguintes:\n\na) Subperíodo n.º 1: de 1 de Janeiro a 31 de Março — 594 597 toneladas;\n\nb) Subperíodo n.º 2: de 1 de Abril a 30 de Junho — 594 597 toneladas;\n\nc) Subperíodo n.º 3: de 1 de Julho a 30 de Setembro — 594 597 toneladas;\n\nd) Subperíodo n.º 4: de 1 de Outubro a 31 de Dezembro — 594 596 toneladas.\n\n4. Caso se esgote a quantidade para um dos subperíodos 1 a 3, a Comissão pode determinar a abertura antecipada do subperíodo seguinte, em conformidade com o procedimento a que se refere o n.º 2 do artigo 195.º do Regulamento (CE) n.º 1234/2007."
+  },
+  "bc6f3446a3302604": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Em derrogação ao n.º 1 do artigo 6.º do Regulamento (CE) n.º 1301/2006, o requerente não apresentará mais de um pedido de certificado por número de ordem e por semana. Se um requerente apresentar mais de um pedido, nenhum deles será deferido, ficando perdidas a favor do Estado-Membro em causa as garantias constituídas aquando da apresentação dos pedidos.\n\nOs pedidos de certificados de importação são apresentados às autoridades competentes dos Estados-Membros semanalmente, até às 13 horas (hora de Bruxelas) de sexta-feira.\n\n2. Cada pedido de certificado deve indicar uma quantidade expressa em quilogramas, sem casas decimais, que não pode exceder:\n\n— a quantidade total aberta para o subperíodo em causa para o subcontingente II a que se refere o artigo 3.º, n.º 1;\n\n— as quantidades totais anuais abertas para o contingente a que se refere o artigo 2.º, n.º 2, e para os subcontingentes I e III a que se refere o artigo 3.º, n.º 1.\n\nO pedido de certificado de importação e o certificado de importação devem mencionar um único país de origem.\n\n3. O mais tardar na segunda-feira seguinte à semana da apresentação dos pedidos de certificados, as autoridades competentes enviarão, por via electrónica, à Comissão, até às 18h00 (hora de Bruxelas), uma notificação de cada pedido, por número de ordem, com indicação da origem do produto e da quantidade solicitada, ou da inexistência de pedidos.\n\n4. Os certificados serão emitidos no quarto dia útil seguinte à data-limite da comunicação referida no n.º 3.\n\nNa data de emissão dos certificados de importação, os Estados-Membros enviarão à Comissão por via electrónica, as informações relativas aos certificados emitidos, referidas n.º 1, alínea b), no artigo 11.º do Regulamento (CE) n.º 1301/2006, com as quantidades totais para as quais tiverem sido emitidos os certificados de importação."
+  },
+  "94c7bcc87549078f": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nNo quadro do contingente pautal, a introdução de trigo mole em livre prática na Comunidade, com excepção do da qualidade alta, originário de países terceiros, está sujeita à apresentação de um certificado de origem emitido pelas autoridades nacionais competentes desses países, em conformidade com o disposto no artigo 47.º do Regulamento (CEE) n.º 2454/93 da Comissão ([^3^](http://publications.europa.eu/resource/cellar/5b078e92-13b8-42b5-899f-7a166a2cb9dc.0015.02/DOC_1#E0003)).\n\nEm derrogação ao disposto no primeiro parágrafo, a introdução em livre prática na União de trigo-mole, com exceção do da qualidade alta, originário do Canadá, está subordinada à apresentação de uma declaração de origem. A declaração de origem deve constar de uma fatura ou qualquer outro documento comercial que descreva o produto originário de forma suficientemente pormenorizada para permitir a sua identificação. O texto da declaração de origem consta do anexo 2 do Protocolo sobre as regras de origem e os procedimentos em matéria de origem do Acordo Económico e Comercial Global entre o Canadá, por um lado, e a União Europeia e os seus Estados-Membros, por outro ([^4^](http://publications.europa.eu/resource/cellar/5b078e92-13b8-42b5-899f-7a166a2cb9dc.0015.02/DOC_1#E0004))."
+  },
+  "cca8feb88a149921": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/5b078e92-13b8-42b5-899f-7a166a2cb9dc.0015.02/DOC_1#src.E0001)) Regulamento (UE) n.º 642/2010 da Comissão, de 20 de julho de 2010, que estabelece as normas de execução do Regulamento (CE) n.º 1234/2007 do Conselho no que respeita aos direitos de importação no setor dos cereais (JO L 187 de 21.7.2010, p. 5).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/5b078e92-13b8-42b5-899f-7a166a2cb9dc.0015.02/DOC_1#src.E0002)) JO L 114 de 26.4.2008, p. 3.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/5b078e92-13b8-42b5-899f-7a166a2cb9dc.0015.02/DOC_1#src.E0003)) JO L 253 de 11.10.1993, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/5b078e92-13b8-42b5-899f-7a166a2cb9dc.0015.02/DOC_1#src.E0004)) JO L 11 de 14.1.2017, p. 23."
+  },
+  "367beae58d807889": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Em derrogação à Pauta Aduaneira Comum, o direito de importação aplicável ao trigo-mole do código NC 1001 99 00, com exceção do da qualidade alta, definida no anexo II do Regulamento (UE) n.º 642/2010 da Comissão ([^1^](http://publications.europa.eu/resource/cellar/4d9a2f4e-ad5b-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#E0001)), é fixado no âmbito dos contingentes abertos pelo presente regulamento.\n\n2. A Pauta Aduaneira Comum aplica-se aos produtos referidos no presente regulamento importados em excesso das quantidades fixadas nos artigos 2.º e 3.º."
+  },
+  "db4095bebd46e13a": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. É aberto anualmente, em 1 de janeiro, um contingente pautal de importação de 3 073 177 toneladas de trigo-mole do código NC 1001 99 00, com exceção do da qualidade alta.\n\nO direito de importação dentro do contingente pautal é de 12 EUR por tonelada.\n\n2. É aberto anualmente em 1 de janeiro, de 2017 a 2023, um contingente pautal de importação de 100 000 toneladas de trigo-mole do Canadá do código NC 1001 99 00, com exceção do da qualidade alta (número de ordem 09.41.24).\n\nEm derrogação ao disposto no primeiro parágrafo, a quantidade do contingente pautal de 2017 é de 27 778 toneladas.\n\nA importação no âmbito do contingente pautal está isenta de direitos aduaneiros.\n\n3. O Regulamento (CE) n.º 376/2008 da Comissão ([^2^](http://publications.europa.eu/resource/cellar/4d9a2f4e-ad5b-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#E0002)) e os Regulamentos (CE) n.º 1342/2003 e (CE) n.º 1301/2006 são aplicáveis, salvo disposição contrária prevista no presente regulamento."
+  },
+  "5cec2d2838cdcb32": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. O contingente pautal de importação a que se refere o artigo 2.º, n.º 1, é dividido em três subcontingentes:\n\na) Subcontingente I (número de ordem 09.4123): 572 000 toneladas para os Estados Unidos da América;\n\nb) Subcontingente II (número de ordem 09.4125): 2 371 600 toneladas para países terceiros, excetuados o Canadá e os Estados Unidos da América;\n\nc) Subcontingente III (número de ordem 09.4133): 129 577 toneladas para todos os países terceiros.\n\n2. Se, durante o ano, se verificar uma subutilização importante do subcontingente I, a Comissão pode, com o acordo dos países terceiros interessados, adotar disposições para a transferência das quantidades não utilizadas para os outros subcontingentes, nos termos do artigo 229.º, n.º 2, do Regulamento (UE) n.º 1308/2013.\n\n3. O subcontingente II é dividido em quatro subperíodos trimestrais, correspondentes às datas e quantidades seguintes:\n\na) Subperíodo n.º 1: de 1 de janeiro a 31 de março – 592 900 toneladas;\n\nb) Subperíodo n.º 2: de 1 de abril a 30 de junho – 592 900 toneladas;\n\nc) Subperíodo n.º 3: de 1 de julho a 30 de setembro – 592 900 toneladas;\n\nd) Subperíodo n.º 4: de 1 de outubro a 31 de dezembro – 592 900 toneladas.\n\n4. Caso se esgote a quantidade para um dos subperíodos 1 a 3, a Comissão pode determinar a abertura antecipada do subperíodo seguinte, em conformidade com o procedimento a que se refere o n.º 2 do artigo 195.º do Regulamento (CE) n.º 1234/2007."
+  },
+  "1439b45ef4ea1494": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nNo quadro do contingente pautal, a introdução de trigo mole em livre prática na Comunidade, com excepção do da qualidade alta, originário de países terceiros, está sujeita à apresentação de um certificado de origem emitido pelas autoridades nacionais competentes desses países, em conformidade com o disposto no artigo 47.º do Regulamento (CEE) n.º 2454/93 da Comissão ([^3^](http://publications.europa.eu/resource/cellar/4d9a2f4e-ad5b-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#E0003)).\n\nEm derrogação ao disposto no primeiro parágrafo, a introdução em livre prática na União de trigo-mole, com exceção do da qualidade alta, originário do Canadá, está subordinada à apresentação de uma declaração de origem. A declaração de origem deve constar de uma fatura ou qualquer outro documento comercial que descreva o produto originário de forma suficientemente pormenorizada para permitir a sua identificação. O texto da declaração de origem consta do anexo 2 do Protocolo sobre as regras de origem e os procedimentos em matéria de origem do Acordo Económico e Comercial Global entre o Canadá, por um lado, e a União Europeia e os seus Estados-Membros, por outro ([^4^](http://publications.europa.eu/resource/cellar/4d9a2f4e-ad5b-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#E0004))."
+  },
+  "20e9172690d3ce9b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/4d9a2f4e-ad5b-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#src.E0001)) Regulamento (UE) n.º 642/2010 da Comissão, de 20 de julho de 2010, que estabelece as normas de execução do Regulamento (CE) n.º 1234/2007 do Conselho no que respeita aos direitos de importação no setor dos cereais (JO L 187 de 21.7.2010, p. 5).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/4d9a2f4e-ad5b-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#src.E0002)) JO L 114 de 26.4.2008, p. 3.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/4d9a2f4e-ad5b-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#src.E0003)) JO L 253 de 11.10.1993, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/4d9a2f4e-ad5b-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#src.E0004)) JO L 11 de 14.1.2017, p. 23."
+  },
+  "d831b9541aeb80b2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02008R1067 — PT — 19.06.2020 — 004.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32008R1067) [REGULAMENTO (CE) N.º 1067/2008 DA COMISSÃO](http://publications.europa.eu/resource/celex/32008R1067) [de 30 de Outubro de 2008](http://publications.europa.eu/resource/celex/32008R1067) [relativo à abertura e modo de gestão dos contingentes pautais comunitários de trigo mole, com excepção do da qualidade alta, proveniente de países terceiros, e que estabelece uma derrogação ao Regulamento (CE) n.º 1234/2007 do Conselho](http://publications.europa.eu/resource/celex/32008R1067) [(Versão codificada)](http://publications.europa.eu/resource/celex/32008R1067) (JO L 290, 31.10.2008, p.3)\n\n**Revogado por:**\n\n- [Regulamento Delegado (UE) 2020/760 da Comissão de 17 de dezembro de 2019](http://publications.europa.eu/resource/celex/32020R0760) — L 185 — 1 — 12.6.2020"
+  }
+ }
+}

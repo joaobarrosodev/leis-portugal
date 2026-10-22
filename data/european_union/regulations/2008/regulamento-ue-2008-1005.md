@@ -36,6 +36,81 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-10'
+version_history:
+  file: regulamento-ue-2008-1005.versoes.json
+  count: 4
+  source_lastmod: '2026-01-10'
+  versions:
+  - date: '2011-03-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-09-15'
+    amending: eu:celex:32022R1479:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/1479 DA COMISSÃO de 7 de setembro de 2022
+    changes:
+    - Altera Artigo 2.º
+    - Altera ANEXO I
+    - Altera Notas
+    - Adita Lista dos produtos excluídos da definição de «produtos da pesca» que consta do ponto 8 do artigo 2.º
+  - date: '2024-01-09'
+    amending: eu:celex:32023R2842:por
+    amending_title: REGULAMENTO (UE) 2023/2842 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 38.º
+    - Altera Notas
+    - Adita Artigo 54.º — Procedimento de comité
+    - Adita Artigo 54.º-A — Anexos e documentos
+    - Adita Artigo 54.º-B — Exercício da delegação
+    - Suprime Artigo 54.º
+  - date: '2026-01-10'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 14.º
+    - Altera Artigo 54.º — Procedimento de comité
+    - Altera Artigo 54.º-B — Exercício da delegação
+    - Altera Notas
+    - Adita Artigo 1.º — Objecto e âmbito de aplicação
+    - Adita Artigo 2.º — Definições
+    - Adita Artigo 3.º — Navios de pesca que exercem atividades de pesca INN
+    - Adita Artigo 4.º — Regimes de inspecção nos portos
+    - Adita Artigo 5.º — Portos designados
+    - Adita Artigo 6.º — Notificação prévia
+    - Adita Artigo 7.º — Autorizações
+    - Adita Artigo 8.º — Registo das operações de desembarque ou transbordo
+    - Adita Artigo 9.º — Princípios gerais
+    - Adita Artigo 10.º — Procedimento de inspeção
+    - Adita Artigo 11.º — Procedimento em caso de infracção
+    - Adita REGIME DE CERTIFICAÇÃO DAS CAPTURAS PARA OS PRODUTOS DA PESCA
+    - Adita Artigo 12.º — Certificados de captura
+    - Adita Artigo 12.º-A — Sistema informático integrado de gestão da informação para o regime de certificação das capturas
+    - Adita Artigo 12.º-B — Funcionalidades gerais do sistema CATCH
+    - Adita Artigo 12.º-C — Funcionamento do sistema CATCH
+    - Adita Artigo 12.º-D — Proteção dos dados pessoais
+    - Adita Artigo 12.º-E — Segurança dos dados
+    - Adita Artigo 13.º — Regimes de documentação das capturas adoptados e em vigor no âmbito das organizações regionais de
+      gestão das pescas
+    - Adita Importação de produtos da pesca
+    - Adita Artigo 15.º — Exportação das capturas efectuadas por navios de pesca que arvoram pavilhão de um Estado-Membro
+    - Adita Artigo 16.º — Apresentação e controlo dos certificados de captura
+    - Adita Artigo 17.º — Verificações
+    - Adita Artigo 18.º — Recusa de importação
+    - Adita Artigo 19.º — Trânsito e transbordo
+    - Adita Artigo 20.º — Notificações do Estado de pavilhão e cooperação com países terceiros
+    - Adita Artigo 21.º — Reexportação
+    - Adita Artigo 22.º — Registos e divulgação
+    - Adita SISTEMA [►M5](http://publications.europa.eu/resource/celex/32023R2842) DA UNIÃO◄ DE ALERTA
+    - Adita Artigo 23.º — Publicação de avisos de alerta
+    - Adita Artigo 24.º — Actuação em caso de publicação de um aviso de alerta
+    - Adita Artigo 25.º — Suspeita de pesca INN
+    - Adita Artigo 26.º — Presunção de actividades de pesca INN
+    - Adita Artigo 27.º — Estabelecimento da lista [►M5](http://publications.europa.eu/resource/celex/32023R2842) da União◄
+      dos navios INN
+    - Adita Artigo 28.º — Retirada de navios de pesca da lista [►M5](http://publications.europa.eu/resource/celex/32023R2842)
+      da União◄ dos navios INN
 identifiers:
   celex: 32008R1005
   eli: http://data.europa.eu/eli/reg/2008/1005/oj
@@ -50,7 +125,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/882e67a9-598e-4021-8dfb-2da0240601dc.0018
   content_url: http://publications.europa.eu/resource/cellar/0c881f6e-1368-11f1-8870-01aa75ed71a1.0019.03/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R1005-20260110
-  retrieved_at: '2026-10-22T02:41:36Z'
+  retrieved_at: '2026-10-22T15:20:15Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T13:26:26.662+01:00'
 integrity:
@@ -59,9 +134,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:36Z'
-  notes: Texto consolidado 02008R1005-20260110.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:20:15Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2008-1005.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -200,38 +275,21 @@ relationships:
   date: '1999-07-07'
 article_structure:
   article_count: 61
-  section_count: 38
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 40
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:36Z'
-  warnings: []
+  checked_at: '2026-10-22T15:20:15Z'
+  warnings:
+  - '02008R1005-20081029: versão indisponível (Sem expressão na língua por para CELEX 02008R1005-20081029.)'
+  - '02008R1005-20100101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 1005/2008 do Conselho, de 29 de Setembro de 2008
-
-> 02008R1005 — PT — 10.01.2026 — 005.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32009R1010) — [REGULAMENTO (CE) N.º 1010/2009 DA COMISSÃO de 22 de Outubro de 2009](http://publications.europa.eu/resource/celex/32009R1010) — L 280 — 5 — 27.10.2009
-- [M2](http://publications.europa.eu/resource/celex/32010R0086) — [REGULAMENTO (UE) N.º 86/2010 DA COMISSÃO de 29 de Janeiro de 2010](http://publications.europa.eu/resource/celex/32010R0086) — L 26 — 1 — 30.1.2010
-- [M3](http://publications.europa.eu/resource/celex/32011R0202) — [REGULAMENTO (UE) N.º 202/2011 DA COMISSÃO de 1 de Março de 2011](http://publications.europa.eu/resource/celex/32011R0202) — L 57 — 10 — 2.3.2011
-- [►M4](http://publications.europa.eu/resource/celex/32022R1479) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/1479 DA COMISSÃO de 7 de setembro de 2022](http://publications.europa.eu/resource/celex/32022R1479) — L 233 — 36 — 8.9.2022
-- [►M5](http://publications.europa.eu/resource/celex/32023R2842) — [REGULAMENTO (UE) 2023/2842 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023](http://publications.europa.eu/resource/celex/32023R2842) — L 2842 — 1 — 20.12.2023
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32008R1005R%2802%29) — [Rectificação, JO L 022, 26.1.2011, p. 8 (1005/2008)](http://publications.europa.eu/resource/celex/32008R1005R%2802%29)
-- [►C2](http://publications.europa.eu/resource/celex/32023R2842R%2803%29) — [Rectificação, JO L 90263, 31.3.2026, p. 1 (2023/2842)](http://publications.europa.eu/resource/celex/32023R2842R%2803%29)
-
-## REGULAMENTO (CE) N.º 1005/2008 DO CONSELHO
 
 de 29 de Setembro de 2008
 

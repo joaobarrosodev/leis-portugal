@@ -35,6 +35,64 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-05-07'
+version_history:
+  file: regulamento-ue-2008-1077.versoes.json
+  count: 3
+  source_lastmod: '2011-05-07'
+  versions:
+  - date: '2008-11-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-07-10'
+    amending: eu:celex:32010R0599:por
+    amending_title: REGULAMENTO (UE) N. o 599/2010 DA COMISSÃO 8 de Julho de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 19.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO ([^7^](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#E0007))
+  - date: '2011-05-07'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime DISPOSIÇÕES GERAIS
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Lista de operadores e navios
+    - Suprime Artigo 3.º — Definições
+    - Suprime CAPÍTULO II
+    - Suprime TRANSMISSÃO ELECTRÓNICA
+    - Suprime Artigo 4.º — Informações a transmitir pelos capitães de navios ou seus mandatários
+    - Suprime Artigo 5.º — Informações a transmitir pelas entidades ou pessoas responsáveis pela primeira venda ou tomada
+      a cargo
+    - Suprime Artigo 6.º — Periodicidade da transmissão
+    - Suprime Artigo 7.º — Formato a que deve obedecer a transmissão de dados de um navio à autoridade competente do respectivo
+      Estado de pavilhão
+    - Suprime Artigo 8.º — Mensagens de resposta
+    - Suprime CAPÍTULO III
+    - Suprime ISENÇÕES
+    - Suprime Artigo 9.º — Isenções
+    - Suprime CAPÍTULO IV
+    - Suprime FUNCIONAMENTO DOS SISTEMAS ELECTRÓNICOS DE REGISTO E TRANSMISSÃO DE DADOS
+    - Suprime Artigo 10.º — Disposições em caso de deficiência técnica ou avaria dos sistemas electrónicos de registo e transmissão
+      de dados
+    - Suprime Artigo 11.º — Não recepção dos dados
+    - Suprime Artigo 12.º — Impossibilidade de aceder aos dados
+    - Suprime Artigo 13.º — Dados sobre o funcionamento do sistema electrónico de transmissão de dados
+    - Suprime CAPÍTULO V
+    - Suprime INTERCÂMBIO DE DADOS E ACESSO AOS MESMOS
+    - Suprime Artigo 14.º — Formato a utilizar para o intercâmbio de dados entre os Estados-Membros
+    - Suprime Artigo 15.º — Acesso aos dados
+    - Suprime Artigo 16.º — Intercâmbio de dados entre os Estados-Membros
+    - Suprime Artigo 17.º — Autoridade única
+    - Suprime CAPÍTULO VI
+    - Suprime DISPOSIÇÕES FINAIS
+    - Suprime Artigo 18.º — Revogação
+    - Suprime Artigo 19.º — Entrada em vigor
+    - Suprime ANEXO ([^7^](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#E0007))
+    - Suprime Notas
 identifiers:
   celex: 32008R1077
   eli: http://data.europa.eu/eli/reg/2008/1077/oj
@@ -49,7 +107,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b4c92b8a-3ceb-4a27-b331-fc3eb0c9b93b.0018
   content_url: http://publications.europa.eu/resource/cellar/e80925e5-623b-4c71-b8cc-96f810224d2b.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R1077-20110507
-  retrieved_at: '2026-10-22T03:13:49Z'
+  retrieved_at: '2026-10-22T15:20:10Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T20:18:24.564+01:00'
 integrity:
@@ -58,9 +116,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:13:49Z'
-  notes: Texto consolidado 02008R1077-20110507.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:20:10Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2008-1077.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -122,16 +180,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:13:49Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:20:10Z'
+  warnings: []
   errors: []
 ---
 

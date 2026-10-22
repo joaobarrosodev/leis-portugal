@@ -1,0 +1,457 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32008R1077:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R1077-20110507",
+ "dre_path": null,
+ "source_lastmod": "2011-05-07",
+ "versions": [
+  {
+   "date": "2008-11-04",
+   "future": false,
+   "celex": "32008R1077",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "dafcbb3bb99d620c",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "e15fdf5193b4e2ff",
+    "04ad61f1c34bb696",
+    "240714efd58f4c05",
+    "f0f8c960bfdbce9b",
+    "1a8ab6fd77fcc6d3",
+    "715b3b20d0ebf70a",
+    "28a9e887c883ea6a",
+    "073b0cca1acb0fba",
+    "64269feafced9c95",
+    "2eefb1a0cdc34598",
+    "1e7a0903d2eed348",
+    "321b8ba2225777f6",
+    "a4a5bdb809025a19",
+    "1ecfc79da3f1ac7f",
+    "22c913ba2bdb0231",
+    "34cb03785713992b",
+    "85b5573b13f1e7a0",
+    "c51a17ba24bfc479",
+    "a0c9e7fbebc3b679",
+    "40ed6b62e188ac6f",
+    "c37cce4ae9779b7f",
+    "bb2110db9ea3bcfc",
+    "b516e40c3d95fc3c",
+    "7d1b52cd0a6b2d03",
+    "46934953fa253081",
+    "b76d202a844f758e",
+    "dde9cf53e9ae6c9a",
+    "30090059a75fa202",
+    "79564ef5f7dc4e95",
+    "1c881d4a558f2f31"
+   ]
+  },
+  {
+   "date": "2010-07-10",
+   "future": false,
+   "celex": "02008R1077-20100710",
+   "acts": [
+    {
+     "id": "eu:celex:32010R0599:por",
+     "title": "REGULAMENTO (UE) N. o 599/2010 DA COMISSÃO 8 de Julho de 2010",
+     "published": null,
+     "celex": "32010R0599"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 19.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita ANEXO ([^7^](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#E0007))"
+   ],
+   "fragments": [
+    "7a37c76136066e51",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "e15fdf5193b4e2ff",
+    "04ad61f1c34bb696",
+    "240714efd58f4c05",
+    "f0f8c960bfdbce9b",
+    "1a8ab6fd77fcc6d3",
+    "715b3b20d0ebf70a",
+    "28a9e887c883ea6a",
+    "073b0cca1acb0fba",
+    "64269feafced9c95",
+    "2eefb1a0cdc34598",
+    "1e7a0903d2eed348",
+    "321b8ba2225777f6",
+    "a4a5bdb809025a19",
+    "1ecfc79da3f1ac7f",
+    "22c913ba2bdb0231",
+    "34cb03785713992b",
+    "85b5573b13f1e7a0",
+    "c51a17ba24bfc479",
+    "a0c9e7fbebc3b679",
+    "40ed6b62e188ac6f",
+    "c37cce4ae9779b7f",
+    "bb2110db9ea3bcfc",
+    "b516e40c3d95fc3c",
+    "7d1b52cd0a6b2d03",
+    "46934953fa253081",
+    "b76d202a844f758e",
+    "dde9cf53e9ae6c9a",
+    "30090059a75fa202",
+    "eff7b3a982a1a018",
+    "05c407671b12fd7d",
+    "d4f83effa0a3a032"
+   ]
+  },
+  {
+   "date": "2011-05-07",
+   "future": false,
+   "celex": "02008R1077-20110507",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime DISPOSIÇÕES GERAIS",
+    "Suprime Artigo 1.º — Âmbito de aplicação",
+    "Suprime Artigo 2.º — Lista de operadores e navios",
+    "Suprime Artigo 3.º — Definições",
+    "Suprime CAPÍTULO II",
+    "Suprime TRANSMISSÃO ELECTRÓNICA",
+    "Suprime Artigo 4.º — Informações a transmitir pelos capitães de navios ou seus mandatários",
+    "Suprime Artigo 5.º — Informações a transmitir pelas entidades ou pessoas responsáveis pela primeira venda ou tomada a cargo",
+    "Suprime Artigo 6.º — Periodicidade da transmissão",
+    "Suprime Artigo 7.º — Formato a que deve obedecer a transmissão de dados de um navio à autoridade competente do respectivo Estado de pavilhão",
+    "Suprime Artigo 8.º — Mensagens de resposta",
+    "Suprime CAPÍTULO III",
+    "Suprime ISENÇÕES",
+    "Suprime Artigo 9.º — Isenções",
+    "Suprime CAPÍTULO IV",
+    "Suprime FUNCIONAMENTO DOS SISTEMAS ELECTRÓNICOS DE REGISTO E TRANSMISSÃO DE DADOS",
+    "Suprime Artigo 10.º — Disposições em caso de deficiência técnica ou avaria dos sistemas electrónicos de registo e transmissão de dados",
+    "Suprime Artigo 11.º — Não recepção dos dados",
+    "Suprime Artigo 12.º — Impossibilidade de aceder aos dados",
+    "Suprime Artigo 13.º — Dados sobre o funcionamento do sistema electrónico de transmissão de dados",
+    "Suprime CAPÍTULO V",
+    "Suprime INTERCÂMBIO DE DADOS E ACESSO AOS MESMOS",
+    "Suprime Artigo 14.º — Formato a utilizar para o intercâmbio de dados entre os Estados-Membros",
+    "Suprime Artigo 15.º — Acesso aos dados",
+    "Suprime Artigo 16.º — Intercâmbio de dados entre os Estados-Membros",
+    "Suprime Artigo 17.º — Autoridade única",
+    "Suprime CAPÍTULO VI",
+    "Suprime DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 18.º — Revogação",
+    "Suprime Artigo 19.º — Entrada em vigor",
+    "Suprime ANEXO ([^7^](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#E0007))",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "33171ef08423330f"
+   ]
+  }
+ ],
+ "fragments": {
+  "dafcbb3bb99d620c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Novembro de 2008\n\nque estabelece normas de execução do Regulamento (CE) n.º 1966/2006 do Conselho relativo ao registo e à transmissão electrónicos de dados sobre as actividades de pesca e aos sistemas de teledetecção e que revoga o Regulamento (CE) n.º 1566/2007\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1966/2006 do Conselho, de 21 de Dezembro de 2006, relativo ao registo e à transmissão electrónicos de dados sobre as actividades de pesca e aos sistemas de teledetecção [([^1])](http://publications.europa.eu/resource/cellar/b4c92b8a-3ceb-4a27-b331-fc3eb0c9b93b.0018.02/DOC_1#ntr1-L_2008295PT.01000301-E0001), nomeadamente o artigo 5.º,\n\nConsiderando o seguinte:\n\n(1) O n.º 1, alínea c), do artigo 22.º do Regulamento (CE) n.º 2371/2002 do Conselho [([^2])](http://publications.europa.eu/resource/cellar/b4c92b8a-3ceb-4a27-b331-fc3eb0c9b93b.0018.02/DOC_1#ntr2-L_2008295PT.01000301-E0002) prevê a proibição das actividades exercidas ao abrigo da política comum das pescas a não ser que os capitães registem e notifiquem, sem demora, quaisquer informações sobre as actividades de pesca, incluindo os desembarques e transbordos, devendo igualmente ser colocadas à disposição das autoridades cópias dos referidos registos.\n\n(2) Em conformidade com o Regulamento (CE) n.º 1966/2006 do Conselho, a obrigação de registo e transmissão por via electrónica dos dados relativos ao diário de bordo, à declaração de desembarque e ao transbordo aplica-se aos capitães dos navios de pesca de comprimento de fora a fora superior a 24 metros dentro de um prazo de 24 meses a contar da data de entrada em vigor das normas de execução e aos capitães dos navios de comprimento de fora a fora superior a 15 metros dentro de um prazo de 42 meses a contar da mesma data.\n\n(3) A transmissão diária de dados sobre as actividades de pesca contribui para melhorar significativamente a eficiência e a eficácia das operações de acompanhamento, controlo e vigilância, tanto no mar como em terra.\n\n(4) O artigo 6.º do Regulamento (CEE) n.º 2847/93 do Conselho, de 12 de Outubro de 1993, que institui um regime de controlo aplicável à política comum das pescas [([^3])](http://publications.europa.eu/resource/cellar/b4c92b8a-3ceb-4a27-b331-fc3eb0c9b93b.0018.02/DOC_1#ntr3-L_2008295PT.01000301-E0003), estabelece que os capitães dos navios de pesca comunitários devem manter um diário de bordo das respectivas operações.\n\n(5) O artigo 8.º do Regulamento (CEE) n.º 2847/93 prevê que os capitães dos navios de pesca comunitários com um comprimento de fora a fora igual ou superior a 10 metros, ou os seus mandatários, devem, depois de cada campanha e nas 48 horas seguintes ao desembarque, apresentar uma declaração às autoridades competentes do Estado-Membro em que for efectuado o desembarque.\n\n(6) O artigo 9.º do Regulamento (CEE) n.º 2847/93 prevê que as lotas ou outros organismos ou pessoas autorizados pelos Estados-Membros, responsáveis pela primeira colocação no mercado dos produtos da pesca, apresentem, após a primeira venda, uma nota de venda às autoridades competentes do Estado-Membro em cujo território for efectuada a primeira colocação no mercado.\n\n(7) O artigo 9.º do Regulamento (CEE) n.º 2847/93 prevê igualmente que, sempre que a primeira colocação no mercado dos produtos da pesca não seja efectuada no Estado-Membro em que foram desembarcados, o Estado-Membro responsável pelo controlo da primeira colocação no mercado deve assegurar o envio, logo que possível, de uma cópia da nota de venda às autoridades responsáveis pelo controlo do desembarque dos produtos em causa.\n\n(8) O artigo 19.º do Regulamento (CEE) n.º 2847/93 prevê que cada Estado-Membro crie uma base de dados informatizada e estabeleça um sistema de validação que inclua, nomeadamente, o cruzamento e a verificação de dados.\n\n(9) Os artigos 19.º-B e 19.º-E do Regulamento (CEE) n.º 2847/93 prevêem que os capitães dos navios de pesca comunitários elaborem *effort reports* e os registem nos seus diários de bordo.\n\n(10) O artigo 5.º do Regulamento (CE) n.º 2347/2002 do Conselho [([^4])](http://publications.europa.eu/resource/cellar/b4c92b8a-3ceb-4a27-b331-fc3eb0c9b93b.0018.02/DOC_1#ntr4-L_2008295PT.01000301-E0004), prevê que os capitães dos navios de pesca comunitários que possuam uma autorização de pesca de profundidade registem no diário de bordo ou num formulário fornecido pelo Estado-Membro de pavilhão as informações relativas às características das artes de pesca e das operações de pesca.\n\n(11) O Regulamento (CE) n.º 768/2005 do Conselho [([^5])](http://publications.europa.eu/resource/cellar/b4c92b8a-3ceb-4a27-b331-fc3eb0c9b93b.0018.02/DOC_1#ntr5-L_2008295PT.01000301-E0005), que estabelece uma Agência Comunitária de Controlo das Pescas e que altera o Regulamento (CEE) n.º 2847/93 que institui um regime de controlo aplicável à política comum das pescas, prevê que sejam estabelecidos planos de utilização conjunta.\n\n(12) O Regulamento (CE) n.º 1566/2007 da Comissão [([^6])](http://publications.europa.eu/resource/cellar/b4c92b8a-3ceb-4a27-b331-fc3eb0c9b93b.0018.02/DOC_1#ntr6-L_2008295PT.01000301-E0006) estabeleceu normas de execução do Regulamento (CE) n.º 1966/2006 do Conselho no respeitante ao registo e à transmissão electrónicos de dados sobre as actividades de pesca.\n\n(13) É, agora, necessário mais bem definir e esclarecer determinadas disposições constantes do Regulamento (CE) n.º 1566/2007. Para o efeito, é conveniente revogar o Regulamento (CE) n.º 1566/2007 e substituí-lo por um novo regulamento.\n\n(14) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão das Pescas e da Aquicultura,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "e15fdf5193b4e2ff": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1. O presente regulamento é aplicável:\n\na) Aos navios de pesca comunitários de comprimento de fora a fora superior a 24 metros, a partir de 1 de Janeiro de 2010;\n\nb) Aos navios de pesca comunitários de comprimento de fora a fora superior a 15 metros, a partir de 1 de Julho de 2011;\n\nc) Aos compradores registados, lotas registadas ou outras entidades ou pessoas autorizadas pelos Estados-Membros, responsáveis pela primeira venda de produtos da pesca, com um volume de negócios anual de primeiras vendas de produtos da pesca superior a 400 000 EUR, a partir de 1 de Janeiro de 2009.\n\n2. Não obstante o disposto na alínea a) do n.º 1, os Estados-Membros podem decidir que o presente regulamento seja aplicável antes de 1 de Janeiro de 2010 aos navios de pesca comunitários de comprimento de fora a fora superior a 24 metros que arvorem o seu pavilhão.\n\n3. Não obstante o disposto na alínea b) do n.º 1, os Estados-Membros podem decidir que o presente regulamento seja aplicável antes de 1 de Julho de 2011 aos navios de pesca comunitários de comprimento de fora a fora superior a 15 metros que arvorem o seu pavilhão.\n\n4. Não obstante as datas estabelecidas nas alíneas a) e b) do n.º 1, um Estado-Membro pode decidir aplicar o presente regulamento antes dessas datas aos navios de comprimento de fora a fora igual ou inferior a 15 metros que arvorem o seu pavilhão, em conformidade com o n.º 2 do artigo 3.º do Regulamento (CE) n.º 1966/2006 do Conselho.\n\n5. Os Estados-Membros podem celebrar acordos bilaterais sobre a utilização de sistemas electrónicos de transmissão de dados em navios que arvoram o seu pavilhão, nas águas sob a sua soberania ou jurisdição, desde que esses navios cumpram todas as regras previstas no presente regulamento.\n\n6. O presente regulamento aplica-se aos navios de pesca comunitários independentemente das águas em que exerçam operações de pesca ou dos portos em que desembarquem.\n\n7. O presente regulamento não se aplica aos navios de pesca comunitários utilizados exclusivamente no âmbito da aquicultura."
+  },
+  "04ad61f1c34bb696": {
+   "fragment_id": "Artigo 2.º — Lista de operadores e navios",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Lista de operadores e navios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Lista de operadores e navios\n\n1. Cada Estado-Membro estabelece uma lista de compradores registados, lotas registadas ou outras entidades ou pessoas por ele autorizados, responsáveis pela primeira venda de produtos da pesca, com um volume de negócios anual de primeiras vendas de produtos da pesca superior a 400 000 EUR. O primeiro ano de referência é 2007 e a lista deve ser actualizada em 1 de Janeiro do ano corrente (ano n) com base no volume de negócios anual com produtos da pesca superior a 400 000 EUR no ano n-2. As listas são publicadas num sítio *web* oficial do Estado-Membro.\n\n2. Cada Estado-Membro estabelece e actualiza periodicamente as listas de navios de pesca comunitários que arvoram o seu pavilhão a que se aplicam as disposições do presente regulamento, em conformidade com os n.^os^ 2, 3, 4 e 5 do artigo 1.º. Essas listas são publicadas num sítio *web* oficial do Estado-Membro, num formato a decidir conjuntamente pelos Estados-Membros e a Comissão."
+  },
+  "240714efd58f4c05": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. «Operação de pesca», todas as actividades relacionadas com a procura de peixe, o lançamento, a calagem ou alagem de uma arte de pesca e a remoção de quaisquer capturas das artes de pesca.\n\n2. «Plano de utilização conjunta», um plano que define as disposições operacionais relativas à utilização dos meios de controlo e de inspecção disponíveis."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "1a8ab6fd77fcc6d3": {
+   "fragment_id": "TRANSMISSÃO ELECTRÓNICA",
+   "type": "divisao",
+   "heading": "TRANSMISSÃO ELECTRÓNICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TRANSMISSÃO ELECTRÓNICA"
+  },
+  "715b3b20d0ebf70a": {
+   "fragment_id": "Artigo 4.º — Informações a transmitir pelos capitães de navios ou seus mandatários",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Informações a transmitir pelos capitães de navios ou seus mandatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Informações a transmitir pelos capitães de navios ou seus mandatários\n\n1. Os capitães dos navios de pesca comunitários transmitem por via electrónica às autoridades competentes do Estado-Membro de pavilhão os dados do diário de bordo e das declarações de transbordo.\n\n2. Os capitães dos navios de pesca comunitários ou os seus mandatários transmitem por via electrónica às autoridades competentes do Estado de pavilhão a declaração de desembarque.\n\n3. Sempre que um navio de pesca comunitário desembarque as suas capturas num Estado-Membro diferente do Estado-Membro de pavilhão, as autoridades competentes do Estado-Membro de pavilhão devem, logo que os recebam, transmitir por via electrónica os dados relativos à declaração de desembarque às autoridades competentes do Estado-Membro de desembarque das capturas.\n\n4. Os capitães dos navios de pesca comunitários devem, sempre que tal for previsto pela regulamentação comunitária, transmitir por via electrónica às autoridades competentes do Estado-Membro de pavilhão uma notificação prévia de entrada no porto com a antecedência que estiver prevista na regulamentação.\n\n5. Sempre que um navio pretenda entrar num porto de um Estado-Membro diferente do Estado-Membro de pavilhão, as autoridades competentes do Estado-Membro de pavilhão devem, logo que a recebem, transmitir por via electrónica a notificação prévia a que se refere o n.º 4 às autoridades competentes do Estado-Membro costeiro."
+  },
+  "28a9e887c883ea6a": {
+   "fragment_id": "Artigo 5.º — Informações a transmitir pelas entidades ou pessoas responsáveis pela primeira venda ou tomada a cargo",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Informações a transmitir pelas entidades ou pessoas responsáveis pela primeira venda ou tomada a cargo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Informações a transmitir pelas entidades ou pessoas responsáveis pela primeira venda ou tomada a cargo\n\n1. Os compradores registados, lotas registadas ou outras entidades ou pessoas autorizados pelos Estados-Membros, responsáveis pela primeira venda de produtos da pesca, transmitem por via electrónica às autoridades competentes do Estado-Membro em cujo território a primeira colocação no mercado é realizada as informações necessárias para registo na nota de venda.\n\n2. Sempre que a primeira colocação no mercado se realize num Estado-Membro diferente do Estado-Membro de pavilhão, as autoridades competentes do Estado-Membro em que a primeira colocação no mercado for realizada garantem a transmissão por via electrónica de uma cópia dos dados da nota de venda às autoridades competentes do Estado-Membro de pavilhão logo que recebam as informações pertinentes.\n\n3. Sempre que a primeira colocação no mercado de produtos da pesca não se realize no Estado-Membro de desembarque dos produtos, o Estado-Membro em que for realizada a primeira colocação no mercado garante a transmissão por via electrónica de uma cópia dos dados da nota de venda logo que receba as informações pertinentes, às seguintes autoridades:\n\na) Autoridades competentes do Estado-Membro em que os produtos da pesca foram desembarcados; e\n\nb) Autoridades competentes do Estado-Membro de pavilhão do navio que desembarcou os produtos da pesca.\n\n4. O detentor da declaração de tomada a cargo transmite por via electrónica as informações necessárias para registo na declaração de tomada a cargo às autoridades competentes do Estado-Membro em cujo território a tomada a cargo é realizada fisicamente."
+  },
+  "073b0cca1acb0fba": {
+   "fragment_id": "Artigo 6.º — Periodicidade da transmissão",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Periodicidade da transmissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Periodicidade da transmissão\n\n1. O capitão transmite às autoridades competentes do Estado-Membro de pavilhão, pelo menos diariamente e o mais tardar até às 24 horas, as informações do diário de bordo electrónico, mesmo em caso de inexistência de capturas. Envia igualmente os dados acima referidos:\n\na) A pedido da autoridade competente do Estado-Membro de pavilhão;\n\nb) Imediatamente após a conclusão da última operação de pesca;\n\nc) Antes de entrar no porto;\n\nd) Por ocasião de qualquer inspecção no mar;\n\ne) Em ocasiões determinadas pela legislação comunitária ou pelo Estado de pavilhão.\n\n2. O capitão pode transmitir correcções ao diário de bordo electrónico e às declarações de transbordo electrónicas até à última transmissão realizada no final das operações de pesca e antes de entrar no porto. As correcções devem ser facilmente identificáveis. Todos os dados originais do diário de bordo e as correcções desses dados são conservados pelas autoridades competentes do Estado-Membro de pavilhão.\n\n3. O capitão ou os seus mandatários transmitem por via electrónica a declaração de desembarque imediatamente após o seu estabelecimento.\n\n4. Os capitães do navio dador e do navio receptor transmitem por via electrónica os dados sobre o transbordo imediatamente após o mesmo.\n\n5. O capitão mantém a bordo do navio de pesca e durante toda a ausência do porto uma cópia das informações a que se refere o n.º 1, até à apresentação da declaração de desembarque.\n\n6. Se um navio de pesca se encontrar num porto, não transportar pescado a bordo e o seu capitão tiver apresentado a declaração de desembarque, pode ser suspensa a transmissão prevista no n.º 1, sob reserva de notificação prévia ao Centro de Vigilância das Pescas do Estado-Membro de pavilhão. A transmissão deve recomeçar quando o navio sair do porto. A notificação prévia não é exigida se o navio estiver equipado com um sistema de localização dos navios por satélite (VMS) e o utilizar para transmitir os dados."
+  },
+  "64269feafced9c95": {
+   "fragment_id": "Artigo 7.º — Formato a que deve obedecer a transmissão de dados de um navio à autoridade competente do respectivo Estado de pavilhão",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Formato a que deve obedecer a transmissão de dados de um navio à autoridade competente do respectivo Estado de pavilhão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Formato a que deve obedecer a transmissão de dados de um navio à autoridade competente do respectivo Estado de pavilhão\n\nCada Estado-Membro determina o formato a que deve obedecer a transmissão, às autoridades competentes, de dados dos navios que arvoram o seu pavilhão."
+  },
+  "2eefb1a0cdc34598": {
+   "fragment_id": "Artigo 8.º — Mensagens de resposta",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Mensagens de resposta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Mensagens de resposta\n\nOs Estados-Membros asseguram o envio de uma mensagem de resposta aos navios que arvoram o seu pavilhão no respeitante a cada transmissão de dados relativos ao diário de bordo, aos transbordos e aos desembarques. A mensagem deve incluir um aviso de recepção."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "321b8ba2225777f6": {
+   "fragment_id": "ISENÇÕES",
+   "type": "divisao",
+   "heading": "ISENÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ISENÇÕES"
+  },
+  "a4a5bdb809025a19": {
+   "fragment_id": "Artigo 9.º — Isenções",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Isenções\n\n1. Os Estados-Membros podem isentar os capitães dos navios que arvoram o seu pavilhão das obrigações enunciadas no n.º 1 do artigo 4.º e da obrigação de possuírem a bordo meios de transmissão de dados por via electrónica, em conformidade com os n.^os^ 1 e 2 do artigo 1.º do Regulamento (CE) n.º 1966/2006 do Conselho, nos casos em que estes se ausentam do porto por um período igual ou inferior a 24 horas nas águas sob a sua soberania ou jurisdição, sob condição de não desembarcarem as respectivas capturas fora do território do Estado-Membro de pavilhão.\n\n2. Os capitães dos navios de pesca comunitários que registem electronicamente e transmitam, por via electrónica, os dados relativos às actividades de pesca ficam isentos da obrigação de manter um diário de bordo e declarações de desembarque e transbordo em papel.\n\n3. Os capitães dos navios comunitários, ou seus mandatários, que desembarquem as suas capturas num Estado-Membro diferente do Estado-Membro de pavilhão ficarão isentos da obrigação de apresentar uma declaração de desembarque em papel ao Estado-Membro costeiro.\n\n4. Os Estados-Membros podem celebrar acordos bilaterais sobre a utilização de sistemas electrónicos de transmissão de dados em navios que arvoram o seu pavilhão, nas águas sob a sua soberania ou jurisdição. Os navios abrangidos pelo âmbito destes acordos ficam isentos da obrigação de preencher um diário de bordo em papel nessas águas.\n\n5. Os capitães dos navios comunitários que registam nos seus diários de bordo electrónicos as informações relativas ao esforço de pesca exigidas por força do artigo 19.º-B do Regulamento (CEE) n.º 2847/93 ficam isentos da obrigação de transmitir *effort reports* por telex, VMS, fax, telefone ou rádio."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "22c913ba2bdb0231": {
+   "fragment_id": "FUNCIONAMENTO DOS SISTEMAS ELECTRÓNICOS DE REGISTO E TRANSMISSÃO DE DADOS",
+   "type": "divisao",
+   "heading": "FUNCIONAMENTO DOS SISTEMAS ELECTRÓNICOS DE REGISTO E TRANSMISSÃO DE DADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### FUNCIONAMENTO DOS SISTEMAS ELECTRÓNICOS DE REGISTO E TRANSMISSÃO DE DADOS"
+  },
+  "34cb03785713992b": {
+   "fragment_id": "Artigo 10.º — Disposições em caso de deficiência técnica ou avaria dos sistemas electrónicos de registo e transmissão de dados",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Disposições em caso de deficiência técnica ou avaria dos sistemas electrónicos de registo e transmissão de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposições em caso de deficiência técnica ou avaria dos sistemas electrónicos de registo e transmissão de dados\n\n1. Em caso de deficiência técnica ou avaria do sistema electrónico de registo e transmissão de dados, o capitão ou o proprietário do navio ou o seu mandatário comunica os dados relativos ao diário de bordo, à declaração de desembarque e ao transbordo às autoridades competentes do Estado-Membro de pavilhão segundo a forma prevista pelo Estado-Membro de pavilhão, diariamente e o mais tardar até às 24 horas, mesmo em caso de inexistência de capturas:\n\na) A pedido da autoridade competente do Estado de pavilhão;\n\nb) Imediatamente após a conclusão da última operação de pesca;\n\nc) Antes de entrar no porto;\n\nd) Por ocasião de qualquer inspecção no mar;\n\ne) Em ocasiões determinadas pela legislação comunitária ou pelo Estado de pavilhão.\n\n2. As autoridades competentes do Estado-Membro de pavilhão actualizarão o diário de bordo electrónico logo que receberem os dados a que se refere o n.º 1.\n\n3. Sempre que seja detectada uma deficiência técnica ou uma avaria do sistema electrónico de registo e transmissão de dados, os navios de pesca comunitários só podem sair do porto após as autoridades competentes do Estado-Membro de pavilhão terem considerado que o sistema está a funcionar de forma satisfatória ou após terem sido de outro modo autorizados a sair do porto por essas autoridades. O Estado-Membro de pavilhão notifica imediatamente o Estado-Membro costeiro sempre que tiver autorizado um navio de pesca que arvore o seu pavilhão a sair do porto do Estado-Membro costeiro."
+  },
+  "85b5573b13f1e7a0": {
+   "fragment_id": "Artigo 11.º — Não recepção dos dados",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Não recepção dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Não recepção dos dados\n\n1. Sempre que recebam as transmissões de dados em conformidade com os n.^os^ 1 e 2 do artigo 4.º, as autoridades competentes do Estado-Membro de pavilhão comunicam este facto ao capitão ou proprietário do navio, ou ao seu mandatário, o mais rapidamente possível. Se, durante um período de um ano, essa situação se repetir mais do que três vezes em relação a um determinado navio, o Estado-Membro de pavilhão procede à revisão do sistema electrónico de transmissão de dados do navio em causa e investiga o caso, a fim de determinar o motivo da não recepção dos dados.\n\n2. Sempre que não recebam as transmissões de dados em conformidade com os n.^os^ 1 e 2 do artigo 4.º e que a última posição recebida através do sistema de localização dos navios por satélites (VMS) corresponda a águas de um Estado-Membro costeiro, as autoridades competentes do Estado-Membro de pavilhão comunicam este facto às autoridades competentes desse Estado-Membro costeiro o mais rapidamente possível.\n\n3. O capitão ou o proprietário do navio ou o seu mandatário envia às autoridades competentes do Estado-Membro de pavilhão todos os dados relativamente aos quais tenha recebido uma notificação em conformidade com o n.º 1 imediatamente após recepção da referida notificação."
+  },
+  "c51a17ba24bfc479": {
+   "fragment_id": "Artigo 12.º — Impossibilidade de aceder aos dados",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Impossibilidade de aceder aos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Impossibilidade de aceder aos dados\n\n1. Se observarem um navio de pesca que arvora o pavilhão de outro Estado-Membro nas suas águas e não puderem aceder aos dados do diário de bordo ou do transbordo em conformidade com o artigo 15.º, as autoridades competentes de um Estado-Membro costeiro solicitam às autoridades competentes do Estado-Membro de pavilhão que garantam o acesso aos dados.\n\n2. Se o acesso a que se refere o n.º 1 não for assegurado no prazo de quatro horas a partir da apresentação do pedido, o Estado-Membro costeiro notifica o Estado-Membro de pavilhão. Logo que receba a notificação, o Estado-Membro de pavilhão envia imediatamente os dados ao Estado-Membro costeiro por quaisquer meios electrónicos disponíveis.\n\n3. Se o Estado-Membro costeiro não receber os dados a que se refere o n.º 2, o capitão ou o proprietário do navio ou o seu mandatário envia os dados e uma cópia da mensagem de resposta a que se refere o artigo 8.º às autoridades competentes do Estado-Membro costeiro, a pedido das mesmas, por quaisquer meios electrónicos disponíveis.\n\n4. Se o capitão ou o proprietário do navio ou o seu mandatário não puder fornecer às autoridades competentes do Estado-Membro costeiro uma cópia da mensagem de resposta a que se refere o artigo 8.º, o navio em causa fica proibido de exercer actividades de pesca nas águas do Estado-Membro costeiro até que o capitão ou o seu mandatário envie uma cópia da mensagem de resposta ou as informações previstas no n.º 1 do artigo 6.º às referidas autoridades."
+  },
+  "a0c9e7fbebc3b679": {
+   "fragment_id": "Artigo 13.º — Dados sobre o funcionamento do sistema electrónico de transmissão de dados",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Dados sobre o funcionamento do sistema electrónico de transmissão de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Dados sobre o funcionamento do sistema electrónico de transmissão de dados\n\n1. Os Estados-Membros mantêm bases de dados sobre o funcionamento do seu sistema electrónico de transmissão de dados. As bases devem contemplar no mínimo as seguintes informações:\n\na) A lista dos navios que arvoram o seu pavilhão cujos sistemas electrónicos de transmissão de dados tenham apresentado deficiências técnicas ou tenham deixado de funcionar;\n\nb) O número de transmissões de diários de bordo electrónicos recebidas por dia e o número médio de transmissões recebidas por navio, repartidos por Estado-Membro de pavilhão;\n\nc) O número de transmissões de declarações de desembarque, declarações de transbordo, declarações de tomada a cargo e de notas de venda recebidas, repartidas por Estado de pavilhão.\n\n2. A pedido da Comissão, são-lhe enviados resumos das informações sobre o funcionamento dos sistemas electrónicos de transmissão de dados dos Estados-Membros, num formato e a intervalos a decidir conjuntamente pelos Estados-Membros e a Comissão."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "c37cce4ae9779b7f": {
+   "fragment_id": "INTERCÂMBIO DE DADOS E ACESSO AOS MESMOS",
+   "type": "divisao",
+   "heading": "INTERCÂMBIO DE DADOS E ACESSO AOS MESMOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INTERCÂMBIO DE DADOS E ACESSO AOS MESMOS"
+  },
+  "bb2110db9ea3bcfc": {
+   "fragment_id": "Artigo 14.º — Formato a utilizar para o intercâmbio de dados entre os Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Formato a utilizar para o intercâmbio de dados entre os Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Formato a utilizar para o intercâmbio de dados entre os Estados-Membros\n\n1. Os Estados-Membros procedem ao intercâmbio de dados utilizando o formato definido no anexo em que se baseia a XML (Linguagem de marcação extensível — *Extensible mark-up language*).\n\n2. As correcções dos dados a que se refere o n.º 1 são claramente identificadas.\n\n3. Sempre que recebam informações electrónicas de outro Estado-Membro, os Estados-Membros devem assegurar a emissão de uma mensagem de resposta às autoridades competentes desse Estado-Membro. A mensagem deve incluir um aviso de recepção.\n\n4. Os elementos de dados do anexo, que os capitães são obrigados a registar no diário de bordo em conformidade com a regulamentação comunitária, são igualmente obrigatórios nos intercâmbios entre Estados-Membros."
+  },
+  "b516e40c3d95fc3c": {
+   "fragment_id": "Artigo 15.º — Acesso aos dados",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Acesso aos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Acesso aos dados\n\n1. Os Estados-Membros de pavilhão devem assegurar que os Estados-Membros costeiros tenham acesso em linha, em tempo real, aos dados do diário de bordo electrónico e da declaração de desembarque dos navios que arvoram o seu pavilhão e realizam operações de pesca nas águas sob a soberania ou jurisdição do Estado-Membro costeiro ou que entram num porto deste último.\n\n2. Os dados a que se refere o n.º 1 abrangem pelo menos os dados relativos ao período compreendido entre a última saída do porto e o final do desembarque. Se solicitados, devem ser disponibilizados os dados relativos às operações de pesca realizadas nos 12 meses precedentes.\n\n3. Os capitães dos navios de pesca comunitários devem dispor de um acesso seguro às suas próprias informações sobre o diário de bordo electrónico, armazenadas na base de dados do Estado-Membro de pavilhão, 24 horas por dia e sete dias por semana.\n\n4. No contexto de um plano de utilização conjunta, um Estado-Membro costeiro deve conceder o acesso em linha à sua base de dados do diário de bordo a um navio de patrulha das pescas de outro Estado-Membro."
+  },
+  "7d1b52cd0a6b2d03": {
+   "fragment_id": "Artigo 16.º — Intercâmbio de dados entre os Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Intercâmbio de dados entre os Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Intercâmbio de dados entre os Estados-Membros\n\n1. O acesso aos dados a que se refere o n.º 1 do artigo 15.º é efectuado por uma ligação segura à internet, 24 horas por dia e sete dias por semana.\n\n2. Os Estados-Membros trocam as informações técnicas pertinentes para garantir o acesso mútuo aos diários de bordo electrónicos.\n\n3. Os Estados-Membros devem:\n\na) Garantir que os dados recebidos em conformidade com o presente regulamento sejam armazenados de forma segura em bases de dados informáticas e adoptar todas as medidas necessárias para assegurar que sejam tratados como dados confidenciais;\n\nb) Adoptar todas as medidas técnicas necessárias para proteger esses dados contra qualquer destruição acidental ou ilícita, perda acidental, deterioração, divulgação ou consulta não autorizada."
+  },
+  "46934953fa253081": {
+   "fragment_id": "Artigo 17.º — Autoridade única",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Autoridade única",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Autoridade única\n\n1. Cada Estado-Membro tem uma única autoridade responsável pela transmissão, pela recepção, pela gestão e pelo processamento de todos os dados que são objecto do presente regulamento.\n\n2. Os Estados-Membros trocam listas e contactos das autoridades referidas no n.º 1 e mantêm a Comissão informada dos mesmos.\n\n3. Quaisquer alterações das informações a que se referem os n.^os^ 1 e 2 são imediatamente comunicadas à Comissão e aos outros Estados-Membros."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "30090059a75fa202": {
+   "fragment_id": "Artigo 18.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Revogação\n\n1. É revogado o Regulamento (CE) n.º 1566/2007.\n\n2. As referências ao regulamento revogado devem entender-se como sendo feitas ao presente regulamento."
+  },
+  "79564ef5f7dc4e95": {
+   "fragment_id": "Artigo 19.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente regulamento entra em vigor em 1 de Janeiro de 2008.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 3 de Novembro de 2008.\n\n***Pela Comissão***\n\n**Joe BORG**\n\n***Membro da Comissão***\n\n---"
+  },
+  "1c881d4a558f2f31": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/b4c92b8a-3ceb-4a27-b331-fc3eb0c9b93b.0018.02/DOC_1#ntc1-L_2008295PT.01000301-E0001) [JO L 409 de 30.12.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_409_R_TOC). Rectificação no [JO L 36 de 8.2.2007, p. 3](http://publications.europa.eu/resource/oj/JOL_2007_036_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/b4c92b8a-3ceb-4a27-b331-fc3eb0c9b93b.0018.02/DOC_1#ntc2-L_2008295PT.01000301-E0002) [JO L 358 de 31.12.2002, p. 59](http://publications.europa.eu/resource/oj/JOL_2002_358_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/b4c92b8a-3ceb-4a27-b331-fc3eb0c9b93b.0018.02/DOC_1#ntc3-L_2008295PT.01000301-E0003) [JO L 261 de 20.10.1993, p. 1](http://publications.europa.eu/resource/oj/JOL_1993_261_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/b4c92b8a-3ceb-4a27-b331-fc3eb0c9b93b.0018.02/DOC_1#ntc4-L_2008295PT.01000301-E0004) [JO L 351 de 28.12.2002, p. 6](http://publications.europa.eu/resource/oj/JOL_2002_351_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/b4c92b8a-3ceb-4a27-b331-fc3eb0c9b93b.0018.02/DOC_1#ntc5-L_2008295PT.01000301-E0005) [JO L 128 de 21.5.2005, p. 1](http://publications.europa.eu/resource/oj/JOL_2005_128_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/b4c92b8a-3ceb-4a27-b331-fc3eb0c9b93b.0018.02/DOC_1#ntc6-L_2008295PT.01000301-E0006) [JO L 340 de 22.12.2007, p. 46](http://publications.europa.eu/resource/oj/JOL_2007_340_R_TOC)."
+  },
+  "7a37c76136066e51": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Novembro de 2008\n\nque estabelece normas de execução do Regulamento (CE) n.º 1966/2006 do Conselho relativo ao registo e à transmissão electrónicos de dados sobre as actividades de pesca e aos sistemas de teledetecção e que revoga o Regulamento (CE) n.º 1566/2007\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1966/2006 do Conselho, de 21 de Dezembro de 2006, relativo ao registo e à transmissão electrónicos de dados sobre as actividades de pesca e aos sistemas de teledetecção ([^1^](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#E0001)), nomeadamente o artigo 5.º,\n\n(1) O n.º 1, alínea c), do artigo 22.º do Regulamento (CE) n.º 2371/2002 do Conselho ([^2^](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#E0002)) prevê a proibição das actividades exercidas ao abrigo da política comum das pescas a não ser que os capitães registem e notifiquem, sem demora, quaisquer informações sobre as actividades de pesca, incluindo os desembarques e transbordos, devendo igualmente ser colocadas à disposição das autoridades cópias dos referidos registos.\n\n(2) Em conformidade com o Regulamento (CE) n.º 1966/2006 do Conselho, a obrigação de registo e transmissão por via electrónica dos dados relativos ao diário de bordo, à declaração de desembarque e ao transbordo aplica-se aos capitães dos navios de pesca de comprimento de fora a fora superior a 24 metros dentro de um prazo de 24 meses a contar da data de entrada em vigor das normas de execução e aos capitães dos navios de comprimento de fora a fora superior a 15 metros dentro de um prazo de 42 meses a contar da mesma data.\n\n(3) A transmissão diária de dados sobre as actividades de pesca contribui para melhorar significativamente a eficiência e a eficácia das operações de acompanhamento, controlo e vigilância, tanto no mar como em terra.\n\n(4) O artigo 6.º do Regulamento (CEE) n.º 2847/93 do Conselho, de 12 de Outubro de 1993, que institui um regime de controlo aplicável à política comum das pescas ([^3^](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#E0003)), estabelece que os capitães dos navios de pesca comunitários devem manter um diário de bordo das respectivas operações.\n\n(5) O artigo 8.º do Regulamento (CEE) n.º 2847/93 prevê que os capitães dos navios de pesca comunitários com um comprimento de fora a fora igual ou superior a 10 metros, ou os seus mandatários, devem, depois de cada campanha e nas 48 horas seguintes ao desembarque, apresentar uma declaração às autoridades competentes do Estado-Membro em que for efectuado o desembarque.\n\n(6) O artigo 9.º do Regulamento (CEE) n.º 2847/93 prevê que as lotas ou outros organismos ou pessoas autorizados pelos Estados-Membros, responsáveis pela primeira colocação no mercado dos produtos da pesca, apresentem, após a primeira venda, uma nota de venda às autoridades competentes do Estado-Membro em cujo território for efectuada a primeira colocação no mercado.\n\n(7) O artigo 9.º do Regulamento (CEE) n.º 2847/93 prevê igualmente que, sempre que a primeira colocação no mercado dos produtos da pesca não seja efectuada no Estado-Membro em que foram desembarcados, o Estado-Membro responsável pelo controlo da primeira colocação no mercado deve assegurar o envio, logo que possível, de uma cópia da nota de venda às autoridades responsáveis pelo controlo do desembarque dos produtos em causa.\n\n(8) O artigo 19.º do Regulamento (CEE) n.º 2847/93 prevê que cada Estado-Membro crie uma base de dados informatizada e estabeleça um sistema de validação que inclua, nomeadamente, o cruzamento e a verificação de dados.\n\n(9) Os artigos 19.º-B e 19.º-E do Regulamento (CEE) n.º 2847/93 prevêem que os capitães dos navios de pesca comunitários elaborem *effort reports* e os registem nos seus diários de bordo.\n\n(10) O artigo 5.º do Regulamento (CE) n.º 2347/2002 do Conselho ([^4^](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#E0004)), prevê que os capitães dos navios de pesca comunitários que possuam uma autorização de pesca de profundidade registem no diário de bordo ou num formulário fornecido pelo Estado-Membro de pavilhão as informações relativas às características das artes de pesca e das operações de pesca.\n\n(11) O Regulamento (CE) n.º 768/2005 do Conselho ([^5^](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#E0005)), que estabelece uma Agência Comunitária de Controlo das Pescas e que altera o Regulamento (CEE) n.º 2847/93 que institui um regime de controlo aplicável à política comum das pescas, prevê que sejam estabelecidos planos de utilização conjunta.\n\n(12) O Regulamento (CE) n.º 1566/2007 da Comissão ([^6^](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#E0006)) estabeleceu normas de execução do Regulamento (CE) n.º 1966/2006 do Conselho no respeitante ao registo e à transmissão electrónicos de dados sobre as actividades de pesca.\n\n(13) É, agora, necessário mais bem definir e esclarecer determinadas disposições constantes do Regulamento (CE) n.º 1566/2007. Para o efeito, é conveniente revogar o Regulamento (CE) n.º 1566/2007 e substituí-lo por um novo regulamento.\n\n(14) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão das Pescas e da Aquicultura,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "eff7b3a982a1a018": {
+   "fragment_id": "Artigo 19.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente regulamento entra em vigor em 1 de Janeiro de 2009.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "05c407671b12fd7d": {
+   "fragment_id": "ANEXO ([^7^](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#E0007))",
+   "type": "divisao",
+   "heading": "ANEXO ([^7^](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#E0007))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO ([^7^](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#E0007))\n\n**FORMATO DE TROCA DE INFORMAÇÕES ELECTRÓNICAS**\n\n| N.º | Elemento ou atributo | Código | Descrição e conteúdo | Obrigatório (C)/Obrigatório se (CIF) [(^1^)](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#E0008)/Facultativo (O) [(^2^)](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#E0009) |\n| --- | --- | --- | --- | --- |\n| 1 | **ELEMENTO RELATIVO ÀS OPERAÇÕES** | **OPS** | **Elemento relativo às operações: nível mais elevado – envelope de todas as operações transmitidas ao serviço** ***web**.* **Deve conter um dos subelementos seguintes: DAT, RET, DEL, COR, QUE, RSP** |  |\n| 2 | País destinatário | AD | Destino da mensagem (código ISO alfa-3 do país). | C |\n| 3 | País remetente | FR | País que transmite os dados (código ISO alfa-3 do país). | C |\n| 4 | N.º da operação | ON | N.º de identificação único (AAAAMMDD999999) gerado pelo remetente. | C |\n| 5 | Data da operação | OD | Data de transmissão da mensagem (AAAA-MM-DD). | C |\n| 6 | Hora da operação | OT | Hora de envio da mensagem (HH:MM em UTC). | C |\n| 7 | Indicador de teste | TS | Indicar 1 se a operação for considerada um teste. | O |\n| 8 | Operação de transmissão de dados | DAT | *(ver pormenores sobre subelementos e atributos de DAT).* | CIF |\n| 9 | Mensagem de aviso de recepção | RET | *(ver pormenores sobre subelementos e atributos de RET).* | CIF |\n| 10 | Operação de supressão | DEL | *(ver pormenores sobre subelementos e atributos de DEL).* | CIF |\n| 11 | Operação de correcção | COR | *(ver pormenores sobre subelementos e atributos de COR).* | CIF |\n| 12 | Operação de interrogação | QUE | *(ver pormenores sobre subelementos e atributos de QUE).* | CIF |\n| 13 | Operação de resposta | RSP | *(ver pormenores sobre subelementos e atributos de RSP).* | CIF |\n| 14 |  |  |  |  |\n| 15 | **Operação de transmissão de dados** | **DAT** | **Operação de transmissão de dados para comunicação de informações do diário de bordo ou da nota de venda a outro E-M** |  |\n| 16 | Mensagem ERS | ERS | Inclui todos os dados ERS pertinentes, isto é, toda a mensagem. | C |\n| 17 |  |  |  |  |\n| 18 | **Operação de supressão** | **DEL** | **Operação de supressão para solicitar ao E-M receptor que suprima dados enviados previamente** |  |\n| 19 | N.º de registo | RN | N.º de registo a suprimir (AAAAAAAMMDD999999). | C |\n| 20 | Motivo da rejeição | RE | Texto livre em que são indicados os motivos da rejeição. | O |\n| 21 |  |  |  |  |\n| 22 | **Operação de correcção** | **COR** | **Operação de correcção para solicitar ao E-M receptor que corrija dados enviados previamente** |  |\n| 23 | N.º da mensagem original | RN | Número de registo da mensagem que é corrigida (formato AAAAAAAMMDD999999). | C |\n| 24 | Motivo da correcção | RE | Lista dos códigos disponível em: http://ec.europa.eu/fisheries/cfp/control_enforcement/ers_en.htm Campo de para texto livre. | O |\n| 25 | Novos dados corrigidos | ERS | Inclui todos os dados ERS pertinentes, isto é, toda a mensagem. | C |\n| 26 |  |  |  |  |\n| 27 | **Operação de aviso de recepção** | **RET** | **Operação de confirmação de recepção em resposta a operações DAT, DEL ou COR** |  |\n| 28 | N.º da mensagem enviada | ON | N.º da operação (AAAAAAAMMDD999999) cuja recepção é confirmada. | C |\n| 29 | Estatuto da recepção | RS | Indica o estatuto da mensagem/comunicação recebida. Lista dos códigos disponível em: http://ec.europa.eu/fisheries/cfp/control_enforcement/ers_en.htm | C |\n| 30 | Motivo da rejeição | RE | Texto livre em que são indicados os motivos da rejeição. | O |\n| 31 |  |  |  |  |\n| 32 | **Operação de interrogação** | **QUE** | **Operação de interrogação para obter de outro E-M informações do diário de bordo** |  |\n| 33 | Acções a executar | CD | Pode ser uma das seguintes: get_vessel_data / get_historical_data / get_all_vessel_data. | C |\n| 34 | Tipo do identificador do navio | ID | Pelo menos um dos seguintes tipos: RC/IR/XR/NA. | O |\n| 35 | Valor do identificador do navio | IV | Exemplo: | O |\n| 36 | Data de início | SD | Data do início do período solicitado (AAAA-MM-DD). | CIF get_all_vessel_data |\n| 37 | Data de termo | ED | Data do termo do período solicitado (AAAA-MM-DD). | O |\n| 38 |  |  |  |  |\n| 39 | **Operação de resposta** | **RSP** | **Operação de resposta a uma operação QUE** |  |\n| 40 | Mensagem ERS | ERS | Inclui todos os dados ERS pertinentes, isto é, toda a mensagem. | O |\n| 41 | Estatuto da recepção | RS | Indica o estatuto da mensagem/comunicação recebida. Lista dos códigos disponível em: http://ec.europa.eu/fisheries/cfp/control_enforcement/ers_en.htm | C |\n| 42 | N.º da operação | ON | Operação n.º (AAAAAAAMMDD999999) a que é dada resposta. | C |\n| 43 | Motivo da rejeição | RE | Se a resposta for negativa, motivo para não apresentar dados. Texto livre em que são indicados os motivos da rejeição. | O |\n| 44 |  |  |  |  |\n\n| N.º | Elemento ou atributo | Código | Descrição e conteúdo | Obrigatório (C)/ Obrigatório se (CIF) [(^1^)](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#E0008)/ Facultativo (O) [(^2^)](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#E0009) |\n| --- | --- | --- | --- | --- |\n| 45 | **Mensagem ERS** |  |  |  |\n| 46 | Início da mensagem | ERS | Etiqueta que indica o início da mensagem ERS | C |\n| 47 | Número (de registo) da mensagem | RN | Número sequencial da mensagem (formato AAAAAAAMMDD999999). | C |\n| 48 | Data (de registo) da mensagem | RD | Data de transmissão da mensagem (AAAA-MM-DD). | C |\n| 49 | Hora (de registo) da mensagem | RT | Hora de retransmissão da mensagem (HH:MM em UTC). | C |\n| 50 |  |  |  |  |\n| 51 | **Declaração do diário de bordo: LOG** |  | **LOG é uma declaração do diário de bordo** |  |\n| 52 | Devem ser especificados os seguintes atributos |  | O LOG contém uma ou várias das seguintes declarações: DEP, FAR, RLC, TRA, COE, COX, ENT, EXI, CRO, TRZ, INS, DIS, PNO, EOF, RTP, LAN. |  |\n| 53 | Início do registo do diário de bordo | LOG | Etiqueta que indica o início do registo do diário de bordo. | C |\n| 54 | Número de inscrição do navio no ficheiro da frota de pesca comunitária (CFR) | IR | Com o formato AAAXXXXXXXXX, em que A é uma letra maiúscula que representa o país do primeiro registo na UE e X uma letra ou um número. | C |\n| 55 | Identificação principal do navio | RC | Indicativo de chamada rádio internacional. | CIF CFR não actualizado |\n| 56 | Identificação externa do navio | XR | Número lateral (casco) de registo do navio. | O |\n| 57 | Nome do navio | NA | Nome do navio. | O |\n| 58 | Nome do capitão | MA | Nome do capitão (qualquer alteração verificada durante a viagem deve ser indicada na transmissão LOG seguinte). | C |\n| 59 | Endereço do capitão | MD | Endereço do capitão (qualquer alteração verificada durante a viagem deve ser indicada na transmissão LOG seguinte). | C |\n| 60 | País de registo | FS | Estado de pavilhão em que o navio foi registado. Código ISO alfa-3 do país. | C |\n| 61 |  |  |  |  |\n| 62 | **DEP: elemento de declaração** |  | Exigido em cada saída do porto, a enviar na mensagem seguinte |  |\n| 63 | Início da declaração de saída | DEP | Etiqueta que indica o início da declaração de saída do porto. | C |\n| 64 | Data | DA | Data da saída (AAAA-MM-DD). | C |\n| 65 | Hora | TI | Hora da saída (HH:MM em UTC). | C |\n| 66 | Nome do porto | PO | Código do porto (código ISO alfa-2 do país + código do porto de três letras). Lista dos códigos dos portos (CCPPP) disponível em: http://ec.europa.eu/fisheries/cfp/control_enforcement/ers_en.htm | C |\n| 67 | Actividade prevista | AA | Lista dos códigos disponível em: http://ec.europa.eu/fisheries/cfp/control_enforcement/ers_en.htm | CIF declaração do esforço exigida para a actividade pretendida |\n| 68 | Artes a bordo | GEA | *(ver pormenores sobre subelementos e atributos de GEA).* | C |\n| 69 | Subdeclaração das capturas a bordo (lista das subdeclarações de espécies SPE) | SPE | *(ver pormenores sobre subelementos e atributos de SPE).* | CIF capturas a bordo do navio |\n| 70 |  |  |  |  |\n| 71 | **FAR: declaração relativa à actividade de pesca** |  | A comunicar, até à meia-noite de cada dia passado no mar ou a pedido do Estado de pavilhão |  |\n| 72 | Início da declaração relativa ao relatório sobre a actividade de pesca | FAR | Etiqueta que indica o início de uma declaração relativa ao relatório sobre a actividade de pesca. | C |\n| 73 | Marcador de último relatório | LR | Marcador que indica que se trata do último relatório FAR a ser enviado (LR=1). | CIF última mensagem |\n| 74 | Marcador de inspecção | IS | Marcador que indica que o relatório sobre a actividade de pesca foi recebido após uma inspecção efectuada a bordo do navio. (IS=1). | CIF inspecção efectuada |\n| 75 | Data | DA | Data em relação à qual são comunicadas actividades de pesca enquanto o navio se encontra no mar (AAAA-MM-DD). | C |\n| 76 | Hora | TI | Hora de início da actividade de pesca (HH:MM em UTC). | O |\n| 77 | Subdeclaração relativa à zona em causa | RAS | Especificada caso não tenham sido efectuadas capturas (para efeitos de esforço). Lista dos códigos disponível em: http://ec.europa.eu/fisheries/cfp/control_enforcement/ers_en.htm. *(ver pormenores sobre subelementos e atributos de RAS).* | CIF não existirem SPE a registar |\n| 78 | Operações de pesca | FO | Número de operações de pesca. | O |\n| 79 | Tempo de pesca | DU | Duração da actividade de pesca em minutos (definida como «tempo de pesca»):equivale ao número de horas no mar menos o tempo do trajecto percorrido em direcção aos pesqueiros, entre pesqueiros e no regresso destes, bem como os períodos em que o navio efectua manobras de desvio, está inactivo ou aguarda reparação. | CIF exigido [(^2^)](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#E0009) |\n| 80 | Subdeclaração relativa às artes | GEA | *(ver pormenores sobre subelementos e atributos de GEA).* | CIF artes utilizadas |\n| 81 | Subdeclaração relativa à perda de artes | GLS | *(ver pormenores sobre subelementos e atributos de GLS).* | CIF exigido pela regulamentação [(^2^)](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#E0009) |\n| 82 | Subdeclaração relativa às capturas (lista das subdeclarações de espécies SPE) | SPE | *(ver pormenores sobre subelementos e atributos de SPE).* | CIF capturas efectuadas |\n| 83 |  |  |  |  |\n| 84 | **RLC: declaração de transferência** |  | Utilizada quando as capturas (a totalidade ou parte delas) são transferidas ou deslocadas de artes de pesca partilhadas para um navio ou do porão ou artes de pesca de um navio para uma rede de conservação, um contentor ou uma jaula (fora do navio) em que as capturas vivas são conservadas até ao desembarque |  |\n| 85 | Início da declaração de transferência | RLC | Etiqueta que indica o início de uma declaração de transferência. | C |\n| 86 | Data | DA | Data da transferência das capturas enquanto o navio se encontra no mar (AAAA-MM-DD). | C |\n| 87 | Hora | TI | Hora da transferência (HH:MM em UTC). | C |\n| 88 | Número CFR do navio receptor | IR | Com o formato AAAXXXXXXXXX,em que A é uma letra maiúscula que representa o país do primeiro registo na UE e X uma letra ou um número. | CIF operação conjunta de pesca e navio da UE |\n| 89 | Indicativo de chamada de rádio do navio receptor | TT | Indicativo de chamada rádio internacional do navio receptor. | CIF operação conjunta de pesca |\n| 90 | Estado de pavilhão do navio receptor | TC | Estado de pavilhão do navio que recebe as capturas (código ISO alfa-3 do país). | CIF operação conjunta de pesca |\n| 91 | Número CFR do ou dos outros navios participantes | RF | Com o formato AAAXXXXXXXXX, em que A é uma letra maiúscula que representa o país do primeiro registo na UE e X uma letra ou um número. | CIF operação conjunta de pesca e navio participante da UE |\n| 92 | Indicativo de chamada rádio do ou dos outros navios participantes | TF | Indicativo de chamada rádio internacional do ou dos navios participantes. | CIF operação conjunta de pesca e outros navios participantes |\n| 93 | Estado ou Estados de pavilhão do ou dos outros navios participantes | FC | Estado de pavilhão do ou dos navios participantes (código ISO alfa-3 do país). | CIF operação conjunta de pesca e outros navios participantes |\n| 94 | Transferência para | RT | Código de 3 letras para local de transferência (rede de conservação: KNE, jaula: CGE, etc.) Lista dos códigos disponível em:http://ec.europa.eu/fisheries/cfp/control_enforcement/ers_en.htm | CIF |\n| 95 | Subdeclaração POS | POS | *Local de transferência (ver pormenores sobre subelementos e atributos de POS).* | C |\n| 96 | Subdeclaração relativa às capturas (lista das subdeclarações de espécies SPE) | SPE | Quantidade de pescado transferido *(ver pormenores sobre subelementos e atributos de SPE)*. | C |\n| 97 |  |  |  |  |\n| 98 | **TRA: declaração de transbordo** |  | Para todos os transbordos de capturas, declaração exigida tanto do dador como do receptor |  |\n| 99 | Início da declaração de transbordo | TRA | Etiqueta que indica o início de uma declaração de transbordo. | C |\n| 100 | Data | DA | Início de TRA (AAAA-MM-DD). | C |\n| 101 | Hora | TI | Início de TRA (HH:MM em UTC). | C |\n| 102 | Subdeclaração relativa à zona em causa | RAS | Zona geográfica em que o transbordo teve lugar. Lista dos códigos disponível em: http://ec.europa.eu/fisheries/cfp/control_enforcement/ers_en.htm *(ver pormenores sobre subelementos e atributos de RAS).* | CIF transbordo no mar |\n| 103 | Nome do porto | PO | Código do porto (código ISO alfa-2 do país + código do porto de três letras) Lista dos códigos dos portos (CCPPP) disponível em: http://ec.europa.eu/fisheries/cfp/control_enforcement/ers_en.htm | CIF transbordo no porto |\n| 104 | Número CFR do navio receptor | IR | Com o formato AAAXXXXXXXXX, em que A é uma letra maiúscula que representa o país de registo na UE e X uma letra ou um número. | CIF navio de pesca da União Europeia |\n| 105 | Transbordo: navio receptor | TT | Se navio dador: indicativo de chamada rádio internacional do navio receptor. | C |\n| 106 | Transbordo: Estado de pavilhão do navio receptor | TC | Se navio dador: Estado de pavilhão do navio que recebe o transbordo (código ISO alfa-3 do país). | C |\n| 107 | Número CFR do navio dador | RF | Com o formato AAAXXXXXXXXX, em que A é uma letra maiúscula que representa o país do primeiro registo na UE e X uma letra ou um número. | CIF navio de pesca da União Europeia |\n| 108 | Transbordo: navio (dador) | TF | Se navio receptor: indicativo de chamada rádio internacional do navio dador. | C |\n| 109 | Transbordo: Estado de pavilhão do navio dador | FC | Se navio receptor: Estado de pavilhão do navio dador (código ISO alfa-3 do país). | C |\n| 110 | Subdeclaração POS | POS | *(ver pormenores sobre subelementos e atributos de POS).* | CIF exigido [(^2^)](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#E0009) (águas da NEAFC ou NAFO ou pescaria do atum rabilho) |\n| 111 | Capturas transbordadas (lista das subdeclarações de espécies SPE) | SPE | *(ver pormenores sobre subelementos e atributos de SPE).* | C |\n| 112 |  |  |  |  |\n| 113 | **COE: declaração de entrada na zona** |  | Em caso de pesca numa zona de recuperação de uma unidade populacional ou nas águas ocidentais |  |\n| 114 | Início da declaração de esforço:entrada na zona | COE | Etiqueta que indica o início de uma declaração aquando da entrada na zona de esforço. | C |\n| 115 | Data | DA | Data da entrada (AAAA-MM-DD). | C |\n| 116 | Hora | TI | Hora da entrada (HH:MM em UTC). | C |\n| 117 | Espécie(s)-alvo | TS | Espécies a que a pesca é dirigida no interior da zona (demersais, pelágicas, vieiras, caranguejos). Lista dos códigos disponível em: http://ec.europa.eu/fisheries/cfp/control_enforcement/ers_en.htm | C |\n| 118 | Subdeclaração relativa à zona em causa | RAS | Localização geográfica do navio. Lista dos códigos disponível em: http://ec.europa.eu/fisheries/cfp/control_enforcement/ers_en.htm *(ver pormenores sobre subelementos e atributos de RAS).* | C |\n| 119 | Subdeclaração relativa às capturas a bordo (lista das subdeclarações de espécies SPE) | SPE | *(ver pormenores sobre subelementos e atributos de SPE).* | O |\n| 120 |  |  |  |  |\n| 121 | **COX: declaração de saída da zona** |  | Em caso de pesca numa zona de recuperação de uma unidade populacional ou nas águas ocidentais |  |\n| 122 | Início da declaração de esforço:saída da zona | COX | Etiqueta que indica o início de uma declaração aquando da saída da zona de esforço. | C |\n| 123 | Data | DA | Data da saída (AAAA-MM-DD). | C |\n| 124 | Hora | TI | Hora da saída (HH:MM em UTC). | C |\n| 125 | Espécie(s)-alvo | TS | Espécies a que a pesca é dirigida no interior da zona (demersais, pelágicas, vieiras, caranguejos). Lista dos códigos disponível em: http://ec.europa.eu/fisheries/cfp/control_enforcement/ers_en.htm | CIF não forem exercidas outras actividades de pesca |\n| 126 | Subdeclaração relativa à zona em causa | RAS | Localização geográfica do navio. Lista dos códigos disponível em: http://ec.europa.eu/fisheries/cfp/control_enforcement/ers_en.htm *(ver pormenores sobre subelementos e atributos de RAS).* | CIF não forem exercidas outras actividades de pesca |\n| 127 | Subdeclaração relativa à posição | POS | Posição no momento da saída *(ver pormenores sobre subelementos e atributos de POS).* | C |\n| 128 | Subdeclaração relativa às capturas efectuadas | SPE | Capturas efectuadas na zona *(ver pormenores sobre subelementos e atributos de SPE).* | O |\n| 129 |  |  |  |  |\n| 130 | **CRO: declaração de travessia de zona** |  | Em caso de travessia de uma zona de recuperação de uma unidade populacional ou de uma zona das águas ocidentais |  |\n| 131 | Início da declaração de esforço: travessia de uma zona | CRO | Etiqueta que indica o início de uma declaração de travessia da zona de esforço (sem operações de pesca). Nas declarações COE e COX, deve especificar-se exclusivamente DA TI e POS. | C |\n| 132 | Declaração de entrada na zona | COE | *(ver pormenores sobre subelementos e atributos de COE).* | C |\n| 133 | Declaração de saída da zona | COX | *(ver pormenores sobre subelementos e atributos de COX).* | C |\n| 134 |  |  |  |  |\n| 135 | **TRZ: declaração de pesca transzonal** |  | Em caso de pesca transzonal |  |\n| 136 | Início da declaração de esforço:pesca transzonal | TRZ | Etiqueta que indica o início de uma declaração de pesca transzonal. | C |\n| 137 | Declaração de entrada | COE | Primeira entrada *(ver pormenores sobre subelementos e atributos de COE).* | C |\n| 138 | Declaração de saída | COX | Última saída *(ver pormenores sobre subelementos e atributos de COX).* | C |\n| 139 |  |  |  |  |\n| 140 | **INS: declaração de inspecção** |  | A fornecer pelas autoridades, mas não o capitão |  |\n| 141 | Início da declaração de inspecção | INS | Etiqueta que indica o início de uma subdeclaração relativa à inspecção. | O |\n| 142 | País de inspecção | IC | Código ISO alfa-3 do país. | C |\n| 143 | Inspector designado | IA | Para cada Estado, fornecer um número de 4 dígitos que identifique o inspector. | C |\n| 144 | Data | DA | Data da inspecção (AAAA-MM-DD). | C |\n| 145 | Hora | TI | Hora da inspecção (HH:MM em UTC). | C |\n| 146 | Subdeclaração relativa à posição | POS | Posição no momento da inspecção *(ver pormenores sobre subelementos e atributos de POS).* | C |\n| 147 |  |  |  |  |\n| 148 | **DIS: declaração de devolução** |  |  | CIF exigido [(^2^)](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#E0009) (NEAFC, NAFO) |\n| 149 | Início da declaração de devolução | DIS | Etiqueta que contém a pormenorização dos peixes devolvidos. | C |\n| 150 | Data | DA | Data da devolução (AAAA-MM-DD). | C |\n| 151 | Hora | TI | Hora da devolução (HH:MM em UTC). | C |\n| 152 | Subdeclaração relativa à posição | POS | Posição no momento da devolução *(ver pormenores sobre subelementos e atributos de POS).* | C |\n| 153 | Subdeclaração relativa aos peixes devolvidos | SPE | Peixes devolvidos *(ver pormenores sobre subelementos e atributos de SPE).* | C |\n| 154 |  |  |  |  |\n| 155 | **PNO: declaração de notificação prévia de regresso** |  | A transmitir antes do regresso ao porto ou se exigido pela regulamentação comunitária | CIF exigido [(^2^)](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#E0009) |\n| 156 | Início da notificação prévia | PNO | Etiqueta que indica o início de uma declaração de notificação prévia. | C |\n| 157 | Data prevista de chegada ao porto | PD | Data prevista de chegada/travessia (AAAA-MM-DD). | C |\n| 158 | Hora prevista de chegada ao porto | PT | Hora prevista de chegada/travessia (HH:MM em UTC). | C |\n| 159 | Nome do porto | PO | Código do porto (código do país de duas letras (código do país ISO alfa-2) + código do porto de três letras). Lista dos códigos dos portos (CCPPP) disponível em: http://ec.europa.eu/fisheries/cfp/control_enforcement/ers_en.htm | C |\n| 160 | Subdeclaração relativa à zona em causa | RAS | Zona de pesca a utilizar para efeitos da notificação prévia do bacalhau. A lista dos códigos para as zonas de pesca e zonas de esforço/conservação está disponível em: http://ec.europa.eu/fisheries/cfp/control_enforcement/ers_en.htm *(ver pormenores sobre subelementos e atributos de RAS).* | CIF no mar Báltico |\n| 161 | Data prevista | DA | Data prevista para o desembarque (AAAA-MM-DD) no mar Báltico para saída da zona. | CIF no mar Báltico |\n| 162 | Hora prevista | TI | Hora prevista para o desembarque (HH:MM em UTC) no mar Báltico para saída da zona. | CIF no mar Báltico |\n| 163 | Subdeclaração relativa às capturas a bordo (lista das subdeclarações de espécies SPE) | SPE | Capturas a bordo (se pelágicos, é necessário indicar a zona CIEM) *(ver pormenores da subdeclaração SPE).* | C |\n| 164 | Subdeclaração relativa à posição | POS | Posição no momento da entrada numa área/zona ou da saída de uma área/zona. *(ver pormenores sobre subelementos e atributos de POS).* | CIF |\n| 165 |  |  |  |  |\n| 166 | **EOF: fim da declaração de pesca** |  | A transmitir imediatamente após a operação de pesca e antes do regresso ao porto e do desembarque do pescado |  |\n| 167 | Início do fecho da declaração de capturas | EOF | Etiqueta que indica o fim das operações de pesca antes de regresso ao porto. | C |\n| 168 | Data | DA | Data do fecho (AAAA-MM-DD). | C |\n| 169 | Hora | TI | Hora do fecho (HH:MM em UTC). | C |\n| 170 |  |  |  |  |\n| 171 | **RTP: declaração de regresso ao porto** |  | A transmitir aquando da entrada no porto, após qualquer declaração PNO e antes de desembarcar o pescado |  |\n| 172 | Início da declaração de regresso ao porto | RTP | Etiqueta que indica o regresso ao porto no final da viagem de pesca. | C |\n| 173 | Data | DA | Data do regresso (AAAA-MM-DD). | C |\n| 174 | Hora | TI | Hora do regresso (HH:MM em UTC). | C |\n| 175 | Nome do porto | PO | Lista (CCPPP)dos códigos dos portos (código ISO alfa-2 do país + código do porto de três letras) disponível em:http://ec.europa.eu/fisheries/cfp/control_enforcement/ers_en.htm. | C |\n| 176 | Motivo do regresso | RE | Motivo para regressar ao porto (por exemplo, procura de abrigo, abastecimento, desembarque).Lista dos códigos dos motivos disponível em:http://ec.europa.eu/fisheries/cfp/control_enforcement/ers_en.htm. | CIF |\n| 177 | Artes a bordo | GEA | *(ver pormenores sobre subelementos e atributos de GEA).* | O |\n| 178 |  |  |  |  |\n| 179 | **LAN:declaração de desembarque** |  | A transmitir após o desembarque das capturas |  |\n| 180 | Início da declaração de desembarque | LAN | Etiqueta que indica o início de uma declaração de desembarque. | C |\n| 181 | Data | DA | AAAA-MM-DD – data do desembarque. | C |\n| 182 | Hora | TI | HH:MM em UTC – hora do desembarque. | C |\n| 183 | Tipo de remetente | TS | Código de três letras (MAS: capitão, REP: o seu representante, AGE: agente). | C |\n| 184 | Nome do porto | PO | Código do porto (código do país de duas letras (código do país ISO alfa-2) + código do porto de três letras). Lista dos códigos dos portos (CCPPP) disponível em: http://ec.europa.eu/fisheries/cfp/control_enforcement/ers_en.htm. | C |\n| 185 | Subdeclaração relativa às capturas desembarcadas (lista de SPE com subdeclarações PRO) | SPE | Espécies, zonas de pesca, pesos desembarcados, artes correspondentes e apresentações *(ver pormenores sobre subelementos e atributos de SPE).* | C |\n| 186 |  |  |  |  |\n| 187 | **POS: subdeclaração relativa à posição** |  |  |  |\n| 188 | Início da subdeclaração relativa à posição | POS | Etiqueta que contém as coordenadas da posição geográfica. | C |\n| 189 | Latitude (decimal) | LT | Latitude expressa em conformidade com o formato WGS84 utilizado para VMS. | C |\n| 190 | Longitude (decimal) | LG | Longitude expressa em conformidade com o formato WGS84 utilizado para VMS. | C |\n| 191 |  |  |  |  |\n| 192 | **GEA: subdeclaração relativa à utilização das artes** |  |  |  |\n| 193 | Início da subdeclaração relativa à utilização das artes | GEA | Etiqueta que contém as coordenadas da posição geográfica. | C |\n| 194 | Tipo de arte | GE | Código da arte em conformidade com a «Classificação estatística normalizada internacional das artes de pesca» da FAO. | C |\n| 195 | Malhagem | ME | Dimensão da malha (em milímetros). | CIF arte com malhagem sujeita a requisitos de dimensão |\n| 196 | Capacidade das artes | GC | Número e dimensão das artes. | CIF exigido para tipo de arte utilizada |\n| 197 | Operações de pesca | FO | Número de operações de pesca (lanços) por período de 24 horas. | CIF navio com licença para pescar unidades populacionais da profundidade |\n| 198 | Tempo de pesca | DU | Número de horas de utilização da arte. | CIF navio com licença para pescar unidades populacionais da profundidade |\n| 199 | Subdeclaração relativa ao lançamento das artes | GES | Subdeclaração relativa ao lançamento das artes *(ver pormenores sobre subelementos e atributos de GES).* | CIF exigido [(^2^)](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#E0009) (navio utiliza artes estáticas ou fixas) |\n| 200 | Subdeclaração relativa à recuperação das artes | GER | Subdeclaração relativa à recuperação das artes *(ver pormenores sobre subelementos e atributos de GER).* | CIF exigido [(^2^)](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#E0009) (navio utiliza artes estáticas ou fixas) |\n| 201 | Subdeclaração relativa à utilização de redes de emalhar | GIL | Subdeclaração relativa à utilização de redes de emalhar *(ver pormenores sobre subelementos e atributos de GIL).* | CIF navio possuir autorização para zonas CIEM IIIa, IVa, IVb, Vb, VIa, VIb, VIIb,c,j,k, XII |\n| 202 | Profundidades de pesca | FD | Distância entre a superfície da água e a parte mais baixa da arte de pesca (em metros). Aplica-se aos navios que utilizam artes rebocadas, palangres e redes fixas. | CIF pesca de profundidade e em águas norueguesas |\n| 203 | Número médio de anzóis utilizados nos palangres | NH | Número médio de anzóis nos palangres. | CIF pesca de profundidade e em águas norueguesas |\n| 204 | Comprimento médio das redes | GL | Comprimento médio das redes em caso de utilização de redes fixas (em metros). | CIF pesca de profundidade e em águas norueguesas |\n| 205 | Altura média das redes | GD | Altura média das redes em caso de utilização de redes fixas (em metros). | CIF pesca de profundidade e em águas norueguesas |\n| 206 |  |  |  |  |\n| 207 | **GES: subdeclaração relativa ao lançamento das artes** |  |  | CIF exigido pela regulamentação [(^2^)](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#E0009) |\n| 208 | Início da subdeclaração relativa à posição | GES | Etiqueta que contém informações sobre o lançamento das artes. | C |\n| 209 | Data | DA | Data do lançamento das artes (AAAA-MM-DD). | C |\n| 210 | Hora | TI | Hora do lançamento das artes (HH:MM em UTC). | C |\n| 211 | Subdeclaração POS | POS | Posição no momento do lançamento das artes *(ver pormenores sobre subelementos e atributos de POS).* | C |\n| 212 |  |  |  |  |\n| 213 | **GER: subdeclaração relativa à recuperação das artes** |  |  | CIF exigido pela regulamentação [(^2^)](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#E0009) |\n| 214 | Início da subdeclaração relativa à posição | GER | Etiqueta que contém informações sobre a recuperação das artes. | C |\n| 215 | Data | DA | Data da recuperação das artes (AAAA-MM-DD). | C |\n| 216 | Hora | TI | Hora da recuperação das artes (HH:MM em UTC). | C |\n| 217 | Subdeclaração POS | POS | Posição no momento da recuperação das artes *(ver pormenores sobre subelementos e atributos de POS).* | C |\n| 218 |  |  |  |  |\n| 219 | **GIL: subdeclaração relativa à utilização de redes de emalhar** |  |  | CIF navio possuir autorização para zonas CIEM IIIa, IVa, IVb, Vb, VIa, VIb, VIIb,c,j,k, XII |\n| 220 | Início da subdeclaração relativa às redes de emalhar | GIL | Etiqueta que indica o início da utilização de redes de emalhar. |  |\n| 221 | Comprimento nominal de uma rede | NL | Informação a registar em cada viagem de pesca (em metros). | C |\n| 222 | Número de redes | NN | Número de redes numa caçada. | C |\n| 223 | Número de caçadas | FL | Número de caçadas utilizadas. | C |\n| 224 | Subdeclaração POS | POS | Posição de cada caçada utilizada *(ver pormenores sobre subelementos e atributos de POS*). | C |\n| 225 | Profundidade de cada caçada utilizada | FD | Profundidade de cada caçada utilizada (distância entre a superfície da água e a parte mais baixa da arte de pesca). | C |\n| 226 | Tempo de imersão de cada caçada utilizada | ST | Tempo de imersão de cada caçada utilizada (horas). | C |\n| 227 |  |  |  |  |\n| 228 | **GLS: subdeclaração relativa à perda de artes** |  | Perda de artes fixas | CIF exigido pela regulamentação [(^2^)](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#E0009) |\n| 229 | Início da subdeclaração GLS | GLS | Dados relativos à perda de artes fixas. |  |\n| 230 | Data da perda de artes | DA | Data da perda das artes (AAAA-MM-DD). | C |\n| 231 | Número de unidades | NN | Número de artes perdidas. | CIF |\n| 232 | Subdeclaração POS | POS | Última posição conhecida da arte *(ver pormenores sobre subelementos e atributos de POS).* | CIF |\n| 233 |  |  |  |  |\n| 234 | **RAS: subdeclaração relativa à zona em causa** | RAS | Zona em causa, de acordo com as exigências aplicáveis em matéria de comunicação – é necessário preencher pelo menos um campo. A lista dos códigos será colocada no sítio *web* da CE, num espaço a indicar | CIF |\n| 235 | Zona FAO | FA | Zona FAO (p.ex. 27). | CIF |\n| 236 | Subzona FAO (CIEM) | SA | Subzona FAO (CIEM) (p.ex.3). | CIF |\n| 237 | Divisão FAO (CIEM) | ID | Divisão FAO (CIEM) (p.ex. d). | CIF |\n| 238 | Subdivisão FAO (CIEM) | SD | Subdivisão FAO (CIEM) (p.ex. 24) (isto é, juntamente com os códigos indicados *supra*, 27.3.d.24). | CIF |\n| 239 | Zona económica | EZ | Zona económica. | CIF |\n| 240 | Rectângulo estatístico CIEM | SR | Rectângulo estatístico CIEM (p.ex. 49E6). | CIF |\n| 241 | Zona de esforço de pesca | FE | Lista dos códigos disponível em: http://ec.europa.eu/fisheries/cfp/control_enforcement/ers_en.htm | CIF |\n| 242 |  |  |  |  |\n| 243 | **SPE: subdeclaração relativa às espécies** |  | Quantidade agregada por espécie |  |\n| 244 | Início da subdeclaração SPE | SPE | Dados relativos às capturas discriminadas por espécie. | C |\n| 245 | Nome da espécie | SN | Nome da espécie (código alfa-3 da FAO). | C |\n| 246 | Peso dos peixes | WT | Em função do contexto, este ponto pode conter: 1. Peso total do pescado (em quilogramas) no período de captura; 2. Peso total do pescado (em quilogramas) a bordo (agregado); 3. Peso total do pescado (em quilogramas) desembarcado; 4. Peso total do pescado devolvido ou utilizado como isco vivo. | CIF espécie não contada; para a pescaria do atum rabilho |\n| 247 | Número de peixes | NF | Número de peixes (se as capturas tiverem de ser registadas em número de indivíduos, como no caso do salmão e do atum). | CIF pescaria do salmão, do atum |\n| 248 | Quantidade retida nas redes | NQ | Estimativa da quantidade retida nas redes, i.e., não no porão. | CIF atum vivo |\n| 249 | Número de peixes retidos nas redes | NB | Estimativa do número de peixes nas redes, i.e., não no porão. | CIF atum vivo |\n| 250 | Subdeclaração relativa à zona em causa | RAS | Zona geográfica em que foi efectuada a maior parte das capturas. Lista dos códigos disponível em: http://ec.europa.eu/fisheries/cfp/control_enforcement/ers_en.htm *(ver pormenores sobre subelementos e atributos de RAS).* | C |\n| 251 | Tipo de arte | GE | Código alfabético em conformidade com a «Classificação estatística normalizada internacional das artes de pesca» da FAO. | CIF declaração de desembarque unicamente para certas espécies e zonas de captura |\n| 252 | Subdeclaração relativa à transformação | PRO | *(ver pormenores sobre subelementos e atributos de PRO).* | CIF para declaração de desembarque (transbordo) |\n| 253 |  |  |  |  |\n| 254 | **PRO: subdeclaração relativa à transformação** |  | Transformação/apresentação para cada espécie desembarcada |  |\n| 255 | Início da subdeclaração relativa à transformação | PRO | Etiqueta que contém a pormenorização da transformação do pescado. | C |\n| 256 | Categoria de frescura do peixe | FF | Categoria de frescura do peixe (A, B, E, V, SO). | CIF Nota de Venda |\n| 257 | Estado de preservação | PS | Código alfabético para o estado do peixe (por exemplo, vivo, congelado, salgado). Lista dos códigos disponível em: http://ec.europa.eu/fisheries/cfp/control_enforcement/ers_en.htm | C |\n| 258 | Apresentação dos peixes | PR | Código alfabético para a apresentação do produto (reflecte a forma de transformação) -utilizar códigos disponíveis em:http://ec.europa.eu/fisheries/cfp/control_enforcement/ers_en.htm. | C |\n| 259 | Tipo de acondicionamento | TY | Código de 3 letras (CRT=caixas de cartão, BOX=caixas, BGS=sacos, BLC=blocos). | CIF para TRA, O para LAN |\n| 260 | Número de unidades de embalagem | NN | Número de unidades de embalagem: caixas de cartão, caixas, sacos, contentores, blocos, etc. | CIF para TRA, O para LAN |\n| 261 | Peso médio por unidade de embalagem | AW | Peso do produto (kg). | CIF para TRA, O para LAN |\n| 262 | Factor de conversão | CF | Factor numérico utilizado em equivalente peso vivo para converter o peso do pescado transformado. | O |\n| 263 |  |  |  |  |\n| 264 | **Declaração relativa à nota de venda:SAL** |  | **SAL é uma mensagem de venda** |  |\n| 265 | Devem ser especificados os seguintes atributos |  | Uma mensagem de venda pode referir-se a uma nota de venda ou a uma tomada a cargo. |  |\n| 266 | Início do registo de venda | SAL | Etiqueta que indica o início do registo de venda. | C |\n| 267 | Número de inscrição do navio no ficheiro da frota de pesca comunitária (CFR) | IR | Com o formato AAAXXXXXXXXX, em que A é uma letra maiúscula que representa o país do primeiro registo na UE e X uma letra ou um número. | C |\n| 268 | Indicativo de chamada rádio do navio | RC | Indicativo de chamada rádio internacional. | CIF CFR não actualizado |\n| 269 | Identificação externa do navio | XR | Número lateral (casco) de registo do navio que desembarcou os peixes. | O |\n| 270 | País de registo | FS | Código ISO alfa-3 do país. | C |\n| 271 | Nome do navio | NA | Nome do navio que desembarcou os peixes. | O |\n| 272 | Declaração SLI | SLI | *(ver pormenores sobre subelementos e atributos de SLI).* | CIF venda |\n| 273 | Declaração TLI | TLI | *(ver pormenores sobre subelementos e atributos de TLI).* | CIF tomada a cargo |\n| 274 |  |  |  |  |\n| 275 | **SLI: declaração relativa ao talão de venda** |  |  |  |\n| 276 | Início da declaração relativa ao talão de venda | SLI | Etiqueta que contém a pormenorização da venda de um lote. | C |\n| 277 | Data | DA | Data da venda (AAAA–MM-DD). | C |\n| 278 | País de venda | SC | País onde a venda foi efectuada (código ISO alfa-3 do país). | C |\n| 279 | Local de venda | SL | Lista dos códigos dos portos (CCPPP) disponível em: http://ec.europa.eu/fisheries/cfp/control_enforcement/ers_en.htm | C |\n| 280 | Nome do vendedor | NS | Nome da lota ou de outro organismo ou pessoa que vende o pescado. | C |\n| 281 | Nome do comprador | NB | Nome do organismo ou da pessoa que compra o pescado. | C |\n| 282 | Número de referência do contrato de venda | CN | Número de referência do contrato de venda. | O |\n| 283 | Subdeclaração relativa ao documento de origem | SRC | *(ver pormenores sobre subelementos e atributos de SRC).* | C |\n| 284 | Subdeclaração relativa ao lote vendido | CSS | *(ver pormenores sobre subelementos e atributos de CSS).* | C |\n| 285 |  |  |  |  |\n| 286 | **Subdeclaração SRC** |  | As autoridades do Estado de pavilhão devem rastrear o documento de origem com base no diário de bordo do navio e nos dados de desembarque |  |\n| 287 | Início da subdeclaração relativa ao documento de origem | SRC | Etiqueta que contém pormenores sobre o documento de origem para o lote vendido. | C |\n| 288 | Data do desembarque | DL | Data da entrada (AAAA-MM-DD). | C |\n| 289 | País e nome do porto | PO | País e nome do porto para o local de desembarque. Lista dos códigos dos países (CCPPP) disponível em: http://ec.europa.eu/fisheries/cfp/control_enforcement/ers_en.htm | C |\n| 290 |  |  |  |  |\n| 291 | **Subdeclaração CSS** |  |  |  |\n| 292 | Início da subdeclaração relativa ao lote vendido | CSS | Etiqueta que contém a pormenorização do lote vendido. | C |\n| 293 | Preço do peixe | FP | Preço por kg. | C |\n| 294 | Moeda de venda | CR | Divisa do preço de venda - lista de símbolos/códigos das divisas disponível no sítio *web* da CE, num espaço a indicar. | C |\n| 295 | Categoria de tamanho dos peixes | SF | Tamanho dos peixes (1-8; um tamanho ou kg, g, cm, mm ou número de peixes por kg, consoante o caso). | CIF |\n| 296 | Destino dos produtos (finalidade) | PP | Códigos para consumo humano, reporte, fins industriais. | CIF |\n| 297 | Retirados | WD | Retirados através de uma organização de produtores (Y-sim, N-não, T-temporariamente). | C |\n| 298 | Código de utilização OP | OP | A lista dos códigos será colocada no sítio *web* da CE, num espaço a indicar. | O |\n| 299 | Espécies presentes no lote | SPE | *(ver pormenores sobre subelementos e atributos de SPE).* | C |\n| 300 | **TLI: declaração de tomada a cargo** |  |  |  |\n| 301 | Início da declaração TLI | TLI | Etiqueta que contém a pormenorização da operação de tomada a cargo. | C |\n| 302 | Data | DA | Data da tomada a cargo (AAAA-MM-DD). | C |\n| 303 | País de tomada a cargo | SC | País onde a tomada a cargo foi efectuada (código ISO alfa-3 do país). | C |\n| 304 | Local de tomada a cargo | SL | Código do porto ou nome do local (se não no porto) onde a tomada a cargo teve lugar – lista disponível no sítio *web* da CE, http://ec.europa.eu/fisheries/cfp/control_enforcement_en.htm, num espaço a indicar. | C |\n| 305 | Nome da organização responsável pela tomada a cargo | NT | Nome da organização que tomou a cargo o pescado. | C |\n| 306 | Número do contrato de referência da tomada a cargo | CN | Número do contrato de referência da tomada a cargo. | O |\n| 307 | Subdeclaração SRC | SRC | *(ver pormenores sobre subelementos e atributos de SRC).* | C |\n| 308 | Subdeclaração relativa ao lote tomado a cargo | CST | *(ver pormenores sobre subelementos e atributos de CST).* | C |\n| 309 |  |  |  |  |\n| 310 | **Subdeclaração CST** |  |  |  |\n| 311 | Início da linha para cada lote tomado a cargo | CST | Etiqueta que contém uma linha de dados para cada espécie tomada a cargo. | C |\n| 312 | Categoria de tamanho dos peixes | SF | Tamanho dos peixes (1-8; um tamanho ou kg, g, cm, mm ou número de peixes por kg, consoante o caso). | O |\n| 313 | Espécies presentes no lote | SPE | *(ver pormenores sobre subelementos e atributos de SPE).* | C |\n\n---"
+  },
+  "d4f83effa0a3a032": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#src.E0001)) JO L 409 de 30.12.2006, p. 1. Rectificação no JO L 36 de 8.2.2007, p. 3.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#src.E0002)) JO L 358 de 31.12.2002, p. 59.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#src.E0003)) JO L 261 de 20.10.1993, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#src.E0004)) JO L 351 de 28.12.2002, p. 6.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#src.E0005)) JO L 128 de 21.5.2005, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#src.E0006)) JO L 340 de 22.12.2007, p. 46.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#src.E0007)) O presente anexo substitui na íntegra o anexo do Regulamento (CE) n.º 1566/2007 da Comissão, de 21 de Dezembro de 2007, que estabelece normas de execução do Regulamento (CE) n.º 1966/2006 do Conselho relativo ao registo e à transmissão electrónicos de dados sobre as actividades de pesca e aos sistemas de teledetecção.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#src.E0008)) Obrigatório se exigido pela regulamentação comunitária ou por acordos internacionais ou bilaterais.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/a473f8d3-6e08-48a7-818c-42ae5a453876.0018.03/DOC_1#src.E0009)) Quando a condição CIF não se aplica, o atributo é facultativo."
+  },
+  "33171ef08423330f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2008R1077 — PT — 07.05.2011 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32008R1077) [REGULAMENTO (CE) N.º 1077/2008 DA COMISSÃO](http://publications.europa.eu/resource/celex/32008R1077) [de 3 de Novembro de 2008](http://publications.europa.eu/resource/celex/32008R1077) [que estabelece normas de execução do Regulamento (CE) n.º 1966/2006 do Conselho relativo ao registo e à transmissão electrónicos de dados sobre as actividades de pesca e aos sistemas de teledetecção e que revoga o Regulamento (CE) n.º 1566/2007](http://publications.europa.eu/resource/celex/32008R1077) (JO L 295, 4.11.2008, p.3)\n\n**revogado por:**\n\n- [Regulamento de Execução (UE) n.o 404/2011 da Comissão de 8 de Abril de 2011](http://publications.europa.eu/resource/celex/32011R0404) — L 112 — 1 — 30.4.2011"
+  }
+ }
+}

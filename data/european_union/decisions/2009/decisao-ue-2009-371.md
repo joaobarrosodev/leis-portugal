@@ -34,6 +34,82 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2017-05-01'
+version_history:
+  file: decisao-ue-2009-371.versoes.json
+  count: 3
+  source_lastmod: '2017-05-01'
+  versions:
+  - date: '2009-05-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Funções
+    - Altera Artigo 6.º — Participação em equipas de investigação conjuntas
+    - Altera Artigo 22.º — Relações com instituições, órgãos e organismos da União ou da Comunidade
+    - Altera Artigo 23.º — Relações com organizações e Estados terceiros
+    - Altera Artigo 25.º — Informação proveniente de organismos privados e pessoas particulares
+    - Altera Artigo 37.º — Conselho de Administração
+    - Altera Artigo 39.º — Pessoal
+    - Altera Artigo 42.º — Orçamento
+    - Altera Artigo 43.º — Execução e controlo orçamental
+    - Altera Artigo 45.º — Regras relativas ao acesso a documentos da Europol
+    - Altera Artigo 46 — Informações classificadas da UE
+    - Altera Artigo 47.º — Línguas
+    - Altera Artigo 49.º — Luta contra a fraude
+    - Altera Artigo 53.º — Outros tipos de responsabilidade
+    - Altera Artigo 57.º — Pessoal
+    - Altera Artigo 64.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita ANEXO
+  - date: '2017-05-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime CRIAÇÃO E FUNÇÕES
+    - Suprime Artigo 1.º — Criação
+    - Suprime Artigo 2.º — Capacidade jurídica
+    - Suprime Artigo 3.º — Objectivo
+    - Suprime Artigo 4.º — Competência
+    - Suprime Artigo 5.º — Funções
+    - Suprime Artigo 6.º — Participação em equipas de investigação conjuntas
+    - Suprime Artigo 7.º — Pedidos da Europol para iniciar investigações criminais
+    - Suprime Artigo 8.º — Unidades nacionais
+    - Suprime Artigo 9.º — Agentes de ligação
+    - Suprime CAPÍTULO II
+    - Suprime SISTEMAS DE TRATAMENTO DE INFORMAÇÕES
+    - Suprime Artigo 10.º — Tratamento de informações
+    - Suprime Artigo 11.º — Sistema de Informações Europol
+    - Suprime Artigo 12.º — Conteúdo do Sistema de Informações Europol
+    - Suprime Artigo 13.º — Utilização do Sistema de Informações Europol
+    - Suprime Artigo 14.º — Ficheiros de análise
+    - Suprime Artigo 15.º — Função de indexação
+    - Suprime Artigo 16.º — Ordem de criação de um ficheiro de análise
+    - Suprime CAPÍTULO III
+    - Suprime DISPOSIÇÕES COMUNS SOBRE O TRATAMENTO DAS INFORMAÇÕES
+    - Suprime Artigo 17.º — Dever de informação
+    - Suprime Artigo 18.º — Regras sobre o controlo das consultas
+    - Suprime Artigo 19.º — Regras sobre a utilização dos dados
+    - Suprime Artigo 20.º — Prazos de conservação e apagamento dos ficheiros de dados
+    - Suprime Artigo 21.º — Acesso a dados de outros sistemas de informações
+    - Suprime CAPÍTULO IV
+    - Suprime RELAÇÕES COM PARCEIROS
+    - Suprime Artigo 22.º — Relações com instituições, órgãos e organismos da União ou da Comunidade
+    - Suprime Artigo 23.º — Relações com organizações e Estados terceiros
+    - Suprime Artigo 24.º — Transmissão de dados
+    - Suprime Artigo 25.º — Informação proveniente de organismos privados e pessoas particulares
+    - Suprime Artigo 26.º — Regras de execução que regulam as relações da Europol
+    - Suprime CAPÍTULO V
+    - Suprime PROTECÇÃO E SEGURANÇA DOS DADOS
+    - Suprime Artigo 27.º — Nível de protecção dos dados
+    - Suprime Artigo 28.º — Responsável pela protecção de dados
+    - Suprime Artigo 29.º — Responsabilidade em matéria de protecção de dados
 identifiers:
   celex: 32009D0371
   eli: http://data.europa.eu/eli/dec/2009/371/oj
@@ -48,7 +124,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/be6f8698-9fe8-423e-8678-b347f1611d6a.0018
   content_url: http://publications.europa.eu/resource/cellar/c1e68924-d298-4909-8c15-10baf91eb723.0002.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009D0371-20170501
-  retrieved_at: '2026-10-22T03:14:01Z'
+  retrieved_at: '2026-10-22T15:32:22Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T00:57:19.225+02:00'
 integrity:
@@ -57,9 +133,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:14:01Z'
-  notes: Texto consolidado 02009D0371-20170501.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:32:22Z'
+  notes: 3 versão(ões); histórico completo em decisao-ue-2009-371.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -522,16 +598,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:14:01Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:32:22Z'
+  warnings: []
   errors: []
 ---
 

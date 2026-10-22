@@ -34,6 +34,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-12-24'
+version_history:
+  file: regulamento-ue-2008-1205.versoes.json
+  count: 2
+  source_lastmod: '2008-12-24'
+  versions:
+  - date: '2008-12-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-12-24'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO
+    - Adita DISPOSIÇÕES DE EXECUÇÃO DE METADADOS
+    - Adita PARTE A
+    - Adita Interpretação
+    - Adita PARTE B
+    - Adita Elementos de metadados
+    - Adita 1. IDENTIFICAÇÃO
+    - Adita 1.1. Título do recurso
+    - Adita 1.2. Resumo do recurso
+    - Adita 1.3. Tipo do recurso
+    - Adita 1.4. Localizador do recurso
+    - Adita 1.5. Identificador único do recurso
+    - Adita 1.6. Recurso associado
+    - Adita 1.7. Idioma do recurso
+    - Adita 2. CLASSIFICAÇÃO DOS DADOS E SERVIÇOS GEOGRÁFICOS
+    - Adita 2.1. Categoria temática
+    - Adita 2.2. Tipo de serviço de dados geográficos
+    - Adita 3. PALAVRA-CHAVE
+    - Adita 3.1. Valor da palavra-chave
+    - Adita 3.2. Léxico controlado de origem
+    - Adita 4. Localização Geográfica
+    - Adita 4.1. Rectângulo envolvente
+    - Adita 5. REFERÊNCIA TEMPORAL
+    - Adita 5.1. Extensão temporal
+    - Adita 5.2. Data de publicação
+    - Adita 5.3. Data da última revisão
+    - Adita 5.4. Data da criação
+    - Adita 6. QUALIDADE E VALIDADE
+    - Adita 6.1. Histórico
+    - Adita 6.2. Resolução espacial
+    - Adita 7. CONFORMIDADE
+    - Adita 7.1. Especificação
+    - Adita 7.2. Grau
+    - Adita 8. RESTRIÇÕES RELACIONADAS COM O ACESSO E UTILIZAÇÃO
+    - Adita 8.1. Condições aplicáveis ao acesso e utilização
+    - Adita 8.2. Restrições ao acesso do público
+    - Adita 9. ORGANIZAÇÕES RESPONSÁVEIS PELO ESTABELECIMENTO, GESTÃO, MANUTENÇÃO E DISTRIBUIÇÃO DE CONJUNTOS E SERVIÇOS DE
+      DADOS GEOGRÁFICOS
 identifiers:
   celex: 32008R1205
   eli: http://data.europa.eu/eli/reg/2008/1205/oj
@@ -48,7 +102,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/33641cfc-da0e-4d57-8108-a88b7a89862d.0018
   content_url: http://publications.europa.eu/resource/cellar/547976e9-073d-4a2a-b834-a435cd0fb5e0.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R1205-20081224
-  retrieved_at: '2026-10-22T03:13:51Z'
+  retrieved_at: '2026-10-22T15:20:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T22:54:36.647+01:00'
 integrity:
@@ -57,9 +111,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:13:51Z'
-  notes: Texto consolidado 02008R1205-20081224.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:20:29Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2008-1205.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -96,29 +150,19 @@ relationships:
   date: '2009-12-16'
 article_structure:
   article_count: 4
-  section_count: 99
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 100
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:13:51Z'
+  checked_at: '2026-10-22T15:20:29Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 1205/2008 da Comissão, de 3 de Dezembro de 2008
-
-> 2008R1205 — PT — 24.12.2008 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32008R1205R%2802%29) — [Rectificação, JO L 328, 15.12.2009, p. 83 (1205/08)](http://publications.europa.eu/resource/celex/32008R1205R%2802%29)
-
-## REGULAMENTO (CE) N.º 1205/2008 DA COMISSÃO
 
 de 3 de Dezembro de 2008
 

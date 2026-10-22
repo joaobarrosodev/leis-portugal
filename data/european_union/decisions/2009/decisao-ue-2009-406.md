@@ -36,6 +36,32 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-07-01'
+version_history:
+  file: decisao-ue-2009-406.versoes.json
+  count: 2
+  source_lastmod: '2013-07-01'
+  versions:
+  - date: '2009-06-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-07-01'
+    amending: null
+    amending_title: ►A1
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.o — Utilização de créditos de actividades de projectos
+    - Altera Artigo 6.o — Comunicação de informações, avaliação dos progressos, alterações e revisão
+    - Altera Artigo 12.o — Alterações ao Regulamento (CE) n.º 994/2008
+    - Altera Artigo 16.o — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita CATEGORIAS REFERIDAS NO PONTO 1 DO ARTIGO 2.º DA PRESENTE DECISÃO ESPECIFICADAS NO ANEXO I, CATEGORIAS 1 A 4 E
+      6 DA DECISÃO 2005/166/CE
+    - Adita ANEXO II
+    - Adita LIMITES DAS EMISSÕES DE GASES COM EFEITO DE ESTUFA DOS ESTADOS-MEMBROS AO ABRIGO DO ARTIGO 3.º
+    - Adita ANEXO III
+    - Adita ESTADOS-MEMBROS REFERIDOS NO N.º 5 DO ARTIGO 5.º
 identifiers:
   celex: 32009D0406
   eli: http://data.europa.eu/eli/dec/2009/406/oj
@@ -50,7 +76,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/96e9d2d4-ff06-4da6-8789-97d94b340454.0018
   content_url: http://publications.europa.eu/resource/cellar/1e4be72c-d098-40f1-b3b7-b5eb1c59d56f.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009D0406-20130701
-  retrieved_at: '2026-10-22T02:59:07Z'
+  retrieved_at: '2026-10-22T15:32:25Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T01:30:19.216+02:00'
 integrity:
@@ -59,9 +85,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:07Z'
-  notes: Texto consolidado 02009D0406-20130701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:32:25Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-2009-406.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -140,31 +166,19 @@ relationships:
   date: '2013-05-22'
 article_structure:
   article_count: 16
-  section_count: 6
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 7
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:07Z'
+  checked_at: '2026-10-22T15:32:25Z'
   warnings: []
   errors: []
 ---
 
 # Decisão n. o 406/2009/CE do Parlamento Europeu e do Conselho, de 23 de Abril de 2009
-
-> 2009D0406 — PT — 01.07.2013 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-**Alterado por:**
-
-- [►A1](http://publications.europa.eu/resource/celex/12012J) — L 112 — 10 — 24.4.2012
-
-## DECISÃO N.º 406/2009/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 23 de Abril de 2009
 

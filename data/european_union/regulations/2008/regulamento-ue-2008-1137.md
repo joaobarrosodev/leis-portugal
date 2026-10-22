@@ -36,6 +36,194 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2016-04-20'
+version_history:
+  file: regulamento-ue-2008-1137.versoes.json
+  count: 3
+  source_lastmod: '2016-04-20'
+  versions:
+  - date: '2008-11-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-12-11'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Notas
+    - Adita ANEXO
+    - Adita 1. AGRICULTURA
+    - Adita 1.1. Directiva 1999/4/CE do Parlamento Europeu e do Conselho, de 22 de Fevereiro de 1999, relativa aos extractos
+      de café e aos extractos de chicória ([^7^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0007)).
+    - Adita 1.2. Directiva 2000/36/CE do Parlamento Europeu e do Conselho, de 23 de Junho de 2000, relativa aos produtos de
+      cacau e de chocolate destinados à alimentação humana ([^9^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0009)).
+    - Adita 2. EMPREGO
+    - Adita 2.1. Directiva 89/391/CEE do Conselho, de 12 de Junho de 1989, relativa à aplicação de medidas destinadas a promover
+      a melhoria da segurança e da saúde dos trabalhadores no trabalho ([^11^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0011)).
+    - Adita 2.2. Directiva 92/29/CEE do Conselho, de 31 de Março de 1992, relativa às prescrições mínimas de segurança e de
+      saúde com vista a promover uma melhor assistência médica a bordo dos navios ([^12^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0012))
+    - Adita 2.3. Directiva 2002/44/CE do Parlamento Europeu e do Conselho, de 25 de Junho de 2002, relativa às prescrições
+      mínimas de segurança e saúde respeitantes à exposição dos trabalhadores aos riscos devidos aos agentes físicos (vibrações)
+      (décima sexta directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE) ([^13^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0013)).
+    - Adita 2.4. Directiva 2003/10/CE do Parlamento Europeu e do Conselho, de 6 de Fevereiro de 2003, relativa às prescrições
+      mínimas de segurança e de saúde em matéria de exposição dos trabalhadores aos riscos devidos aos agentes físicos (ruído)
+      (décima sétima directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE) ([^14^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0014)).
+    - Adita 2.5. Directiva 2004/40/CE do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, relativa às prescrições
+      mínimas de segurança e saúde em matéria de exposição dos trabalhadores aos riscos devidos aos agentes físicos (campos
+      electromagnéticos) (décima oitava directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE) ([^15^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0015)).
+    - Adita 2.6. Directiva 2006/25/CE do Parlamento Europeu e do Conselho, de 5 de Abril de 2006, relativa às prescrições
+      mínimas de saúde e segurança em matéria de exposição dos trabalhadores aos riscos devidos aos agentes físicos (radiação
+      óptica artificial) (décima nona directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE) ([^16^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0016)).
+    - Adita 3. EMPRESA
+    - Adita 3.1. Directiva 76/767/CEE do Conselho, de 27 de Julho de 1976, relativa à aproximação das legislações dos Estados-Membros
+      respeitantes às disposições comuns sobre os recipientes sob pressão e os métodos de controlo desses recipientes ([^17^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0017)).
+    - Adita 3.2. Directiva 76/769/CEE do Conselho, de 27 de Julho de 1976, relativa à aproximação das disposições legislativas,
+      regulamentares e administrativas dos Estados-Membros respeitantes à limitação da colocação no mercado e da utilização
+      de algumas substâncias e preparações perigosas ([^18^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0018)).
+    - Adita 3.3. Directiva 94/25/CE do Parlamento Europeu e do Conselho, de 16 de Junho de 1994, relativa à aproximação das
+      disposições legislativas, regulamentares e administrativas dos Estados-Membros respeitantes às embarcações de recreio
+      ([^20^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0020)).
+    - Adita 3.4. Directiva 96/73/CE do Parlamento Europeu e do Conselho, de 16 de Dezembro de 1996, relativa a certos métodos
+      de análise quantitativa de misturas binárias de fibras têxteis ([^21^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0021)).
+    - Adita 3.5. Directiva 1999/45/CE do Parlamento Europeu e do Conselho, de 31 de Maio de 1999, relativa à aproximação das
+      disposições legislativas, regulamentares e administrativas dos Estados-Membros respeitantes à classificação, embalagem
+      e rotulagem das preparações perigosas ([^22^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0022)).
+    - Adita 3.6. Directiva 2002/24/CE do Parlamento Europeu e do Conselho, de 18 de Março de 2002, relativa à homologação
+      dos veículos a motor de duas ou três rodas ([^24^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0024)).
+    - Adita 3.7. Directiva 2003/37/CE do Parlamento Europeu e do Conselho, de 26 de Maio de 2003, relativa à homologação de
+      tractores agrícolas ou florestais, seus reboques e máquinas intermutáveis rebocadas, e dos sistemas, componentes e unidades
+      técnicas destes veículos e que revoga a Directiva 74/150/CEE ([^25^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0025)).
+    - Adita 3.8. Directiva 2004/22/CE do Parlamento Europeu e do Conselho, de 31 de Março de 2004, relativa aos instrumentos
+      de medição ([^26^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0026)).
+    - Adita 4. AMBIENTE
+    - Adita 4.1. Directiva 76/160/CEE do Conselho, de 8 de Dezembro de 1975, relativa à qualidade das águas balneares ([^27^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0027)).
+    - Adita 4.2. Directiva 91/271/CEE do Conselho, de 21 de Maio de 1991, relativa ao tratamento de águas residuais urbanas
+      ([^28^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0028)).
+    - Adita 4.3. Directiva 91/676/CEE do Conselho, de 12 de Dezembro de 1991, relativa à protecção das águas contra a poluição
+      causada por nitratos de origem agrícola ([^29^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0029)).
+    - Adita 4.4. Directiva 94/63/CEE do Parlamento Europeu e do Conselho, de 20 de Dezembro de 1994, relativa ao controlo
+      das emissões de compostos orgânicos voláteis (COV) resultantes do armazenamento de gasolinas e da sua distribuição dos
+      terminais para as estações de serviço ([^30^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0030)).
+    - Adita 4.5. Directiva 96/82/CE do Conselho, de 9 de Dezembro de 1996, relativa ao controlo dos perigos associados a acidentes
+      graves que envolvem substâncias perigosas ([^31^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0031)).
+    - Adita 4.6. Directiva 1999/31/CE do Conselho, de 26 de Abril de 1999, relativa à deposição de resíduos em aterros ([^32^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0032)).
+    - Adita 4.7. Directiva 1999/94/CE do Parlamento Europeu e do Conselho, de 13 de Dezembro de 1999, relativa às informações
+      sobre a economia de combustível e as emissões de CO2 disponíveis para o consumidor na comercialização de automóveis
+      novos de passageiros ([^33^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0033)).
+    - Adita 4.8. Directiva 2000/76/CE do Parlamento Europeu e do Conselho, de 4 de Dezembro de 2000, relativa à incineração
+      de resíduos ([^34^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0034)).
+    - Adita 4.9. Directiva 2002/49/CE do Parlamento Europeu e do Conselho, de 25 de Junho de 2002, relativa à avaliação e
+      gestão do ruído ambiente ([^35^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0035)).
+    - Adita 4.10. Regulamento (CE) n.º 1830/2003 do Parlamento Europeu e do Conselho, de 22 de Setembro de 2003, relativo
+      à rastreabilidade e rotulagem de organismos geneticamente modificados e à rastreabilidade dos géneros alimentícios e
+      alimentos para animais produzidos a partir de organismos geneticamente modificados ([^36^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0036)).
+    - Adita 4.11. Directiva 2004/42/CE do Parlamento Europeu e do Conselho, de 21 de Abril de 2004, relativa à limitação das
+      emissões de compostos orgânicos voláteis resultantes da utilização de solventes orgânicos em determinadas tintas e vernizes
+      e em produtos de retoque de veículos ([^37^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0037)).
+    - Adita 4.12. Regulamento (CE) n.º 842/2006 do Parlamento Europeu e do Conselho, de 17 de Maio de 2006, relativo a determinados
+      gases fluorados com efeito de estufa ([^38^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0038)).
+    - Adita 4.13. Directiva 2006/44/CE do Parlamento Europeu e do Conselho, de 6 de Setembro de 2006, relativa à qualidade
+      das águas doces que necessitam de ser protegidas ou melhoradas a fim de estarem aptas para a vida dos peixes ([^39^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0039)).
+    - Adita 4.14. Directiva 2006/113/CE do Parlamento Europeu e do Conselho, de 12 de Dezembro de 2006, relativa à qualidade
+      exigida das águas conquícolas ([^40^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0040)).
+    - Adita 5. EUROSTAT
+    - Adita 5.1. Regulamento (CEE) n.º 696/93 do Conselho, de 15 de Março de 1993, relativo às unidades estatísticas de observação
+      e de análise do sistema produtivo na Comunidade ([^41^](http://publications.europa.eu/resource/cellar/72da160b-4638-4dfa-af0a-8c39d1a8bcfd.0014.03/DOC_1#E0041)).
+  - date: '2016-04-20'
+    amending: eu:celex:32014L0032:por
+    amending_title: DIRETIVA 2014/32/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 26 de fevereiro
+      de 2014
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita 1.1. Directiva 1999/4/CE do Parlamento Europeu e do Conselho, de 22 de Fevereiro de 1999, relativa aos extractos
+      de café e aos extractos de chicória ([^7^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0007)).
+    - Adita 1.2. Directiva 2000/36/CE do Parlamento Europeu e do Conselho, de 23 de Junho de 2000, relativa aos produtos de
+      cacau e de chocolate destinados à alimentação humana ([^9^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0009)).
+    - Adita 2.1. Directiva 89/391/CEE do Conselho, de 12 de Junho de 1989, relativa à aplicação de medidas destinadas a promover
+      a melhoria da segurança e da saúde dos trabalhadores no trabalho ([^11^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0011)).
+    - Adita 2.2. Directiva 92/29/CEE do Conselho, de 31 de Março de 1992, relativa às prescrições mínimas de segurança e de
+      saúde com vista a promover uma melhor assistência médica a bordo dos navios ([^12^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0012))
+    - Adita 2.3. Directiva 2002/44/CE do Parlamento Europeu e do Conselho, de 25 de Junho de 2002, relativa às prescrições
+      mínimas de segurança e saúde respeitantes à exposição dos trabalhadores aos riscos devidos aos agentes físicos (vibrações)
+      (décima sexta directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE) ([^13^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0013)).
+    - Adita 2.4. Directiva 2003/10/CE do Parlamento Europeu e do Conselho, de 6 de Fevereiro de 2003, relativa às prescrições
+      mínimas de segurança e de saúde em matéria de exposição dos trabalhadores aos riscos devidos aos agentes físicos (ruído)
+      (décima sétima directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE) ([^14^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0014)).
+    - Adita 2.5. Directiva 2004/40/CE do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, relativa às prescrições
+      mínimas de segurança e saúde em matéria de exposição dos trabalhadores aos riscos devidos aos agentes físicos (campos
+      electromagnéticos) (décima oitava directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE) ([^15^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0015)).
+    - Adita 2.6. Directiva 2006/25/CE do Parlamento Europeu e do Conselho, de 5 de Abril de 2006, relativa às prescrições
+      mínimas de saúde e segurança em matéria de exposição dos trabalhadores aos riscos devidos aos agentes físicos (radiação
+      óptica artificial) (décima nona directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE) ([^16^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0016)).
+    - Adita 3.1. Directiva 76/767/CEE do Conselho, de 27 de Julho de 1976, relativa à aproximação das legislações dos Estados-Membros
+      respeitantes às disposições comuns sobre os recipientes sob pressão e os métodos de controlo desses recipientes ([^17^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0017)).
+    - Adita 3.2. Directiva 76/769/CEE do Conselho, de 27 de Julho de 1976, relativa à aproximação das disposições legislativas,
+      regulamentares e administrativas dos Estados-Membros respeitantes à limitação da colocação no mercado e da utilização
+      de algumas substâncias e preparações perigosas ([^18^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0018)).
+    - Adita 3.3. Directiva 94/25/CE do Parlamento Europeu e do Conselho, de 16 de Junho de 1994, relativa à aproximação das
+      disposições legislativas, regulamentares e administrativas dos Estados-Membros respeitantes às embarcações de recreio
+      ([^20^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0020)).
+    - Adita 3.4. Directiva 96/73/CE do Parlamento Europeu e do Conselho, de 16 de Dezembro de 1996, relativa a certos métodos
+      de análise quantitativa de misturas binárias de fibras têxteis ([^21^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0021)).
+    - Adita 3.5. Directiva 1999/45/CE do Parlamento Europeu e do Conselho, de 31 de Maio de 1999, relativa à aproximação das
+      disposições legislativas, regulamentares e administrativas dos Estados-Membros respeitantes à classificação, embalagem
+      e rotulagem das preparações perigosas ([^22^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0022)).
+    - Adita 3.6. Directiva 2002/24/CE do Parlamento Europeu e do Conselho, de 18 de Março de 2002, relativa à homologação
+      dos veículos a motor de duas ou três rodas ([^24^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0024)).
+    - Adita 3.7. Directiva 2003/37/CE do Parlamento Europeu e do Conselho, de 26 de Maio de 2003, relativa à homologação de
+      tractores agrícolas ou florestais, seus reboques e máquinas intermutáveis rebocadas, e dos sistemas, componentes e unidades
+      técnicas destes veículos e que revoga a Directiva 74/150/CEE ([^25^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0025)).
+    - Adita 4.1. Directiva 76/160/CEE do Conselho, de 8 de Dezembro de 1975, relativa à qualidade das águas balneares ([^26^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0027)).
+    - Adita 4.2. Directiva 91/271/CEE do Conselho, de 21 de Maio de 1991, relativa ao tratamento de águas residuais urbanas
+      ([^27^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0028)).
+    - Adita 4.3. Directiva 91/676/CEE do Conselho, de 12 de Dezembro de 1991, relativa à protecção das águas contra a poluição
+      causada por nitratos de origem agrícola ([^28^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0029)).
+    - Adita 4.4. Directiva 94/63/CEE do Parlamento Europeu e do Conselho, de 20 de Dezembro de 1994, relativa ao controlo
+      das emissões de compostos orgânicos voláteis (COV) resultantes do armazenamento de gasolinas e da sua distribuição dos
+      terminais para as estações de serviço ([^29^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0030)).
+    - Adita 4.5. Directiva 96/82/CE do Conselho, de 9 de Dezembro de 1996, relativa ao controlo dos perigos associados a acidentes
+      graves que envolvem substâncias perigosas ([^30^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0031)).
+    - Adita 4.6. Directiva 1999/31/CE do Conselho, de 26 de Abril de 1999, relativa à deposição de resíduos em aterros ([^31^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0032)).
+    - Adita 4.7. Directiva 1999/94/CE do Parlamento Europeu e do Conselho, de 13 de Dezembro de 1999, relativa às informações
+      sobre a economia de combustível e as emissões de CO2 disponíveis para o consumidor na comercialização de automóveis
+      novos de passageiros ([^32^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0033)).
+    - Adita 4.8. Directiva 2000/76/CE do Parlamento Europeu e do Conselho, de 4 de Dezembro de 2000, relativa à incineração
+      de resíduos ([^33^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0034)).
+    - Adita 4.9. Directiva 2002/49/CE do Parlamento Europeu e do Conselho, de 25 de Junho de 2002, relativa à avaliação e
+      gestão do ruído ambiente ([^34^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0035)).
+    - Adita 4.10. Regulamento (CE) n.º 1830/2003 do Parlamento Europeu e do Conselho, de 22 de Setembro de 2003, relativo
+      à rastreabilidade e rotulagem de organismos geneticamente modificados e à rastreabilidade dos géneros alimentícios e
+      alimentos para animais produzidos a partir de organismos geneticamente modificados ([^35^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0036)).
+    - Adita 4.11. Directiva 2004/42/CE do Parlamento Europeu e do Conselho, de 21 de Abril de 2004, relativa à limitação das
+      emissões de compostos orgânicos voláteis resultantes da utilização de solventes orgânicos em determinadas tintas e vernizes
+      e em produtos de retoque de veículos ([^36^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0037)).
+    - Adita 4.12. Regulamento (CE) n.º 842/2006 do Parlamento Europeu e do Conselho, de 17 de Maio de 2006, relativo a determinados
+      gases fluorados com efeito de estufa ([^37^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0038)).
+    - Adita 4.13. Directiva 2006/44/CE do Parlamento Europeu e do Conselho, de 6 de Setembro de 2006, relativa à qualidade
+      das águas doces que necessitam de ser protegidas ou melhoradas a fim de estarem aptas para a vida dos peixes ([^38^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0039)).
+    - Adita 4.14. Directiva 2006/113/CE do Parlamento Europeu e do Conselho, de 12 de Dezembro de 2006, relativa à qualidade
+      exigida das águas conquícolas ([^39^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0040)).
+    - Adita 5.1. Regulamento (CEE) n.º 696/93 do Conselho, de 15 de Março de 1993, relativo às unidades estatísticas de observação
+      e de análise do sistema produtivo na Comunidade ([^40^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0041)).
+    - Adita 5.2. Directiva 95/57/CE do Conselho, de 23 de Novembro de 1995, relativa à recolha de informações estatísticas
+      no sector do turismo ([^41^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0042)).
+    - Adita 5.3. Regulamento (CE) n.º 1059/2003 do Parlamento Europeu e do Conselho, de 26 de Maio de 2003, relativo à instituição
+      de uma Nomenclatura Comum das Unidades Territoriais Estatísticas (NUTS) ([^42^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0043)).
+    - Adita 5.4. Regulamento (CE) n.º 1177/2003 do Parlamento Europeu e do Conselho, de 16 de Junho de 2003, relativo às estatísticas
+      do rendimento e das condições de vida na Comunidade (EU-SILC) ([^43^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0044)).
+    - Adita 5.5. Regulamento (CE) n.º 138/2004 do Parlamento Europeu e do Conselho, de 5 de Dezembro de 2003, sobre as contas
+      económicas da agricultura na Comunidade ([^44^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0045)).
+    - Adita 5.6. Regulamento (CE) n.º 808/2004 do Parlamento Europeu e do Conselho, de 21 de Abril de 2004, relativo às estatísticas
+      comunitárias sobre a sociedade da informação ([^45^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0046)).
+    - Adita 5.7. Regulamento (CE) n.º 184/2005 do Parlamento Europeu e do Conselho, de 12 de Janeiro de 2005, relativo a estatísticas
+      comunitárias sobre a balança de pagamentos, o comércio internacional de serviços e o investimento directo estrangeiro
+      ([^46^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0047)).
+    - Adita 5.8. Regulamento (CE) n.º 1161/2005 do Parlamento Europeu e do Conselho, de 6 de Julho de 2005, relativo à elaboração
+      de contas não financeiras trimestrais por sector institucional ([^47^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0048)).
+    - Adita 6.1. Directiva 1999/93/CE do Parlamento Europeu e do Conselho, de 13 de Dezembro de 1999, relativa a um quadro
+      legal comunitário para as assinaturas electrónicas ([^48^](http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1#E0049)).
 identifiers:
   celex: 32008R1137
   eli: http://data.europa.eu/eli/reg/2008/1137/oj
@@ -50,7 +238,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e115172d-3ab3-4b14-b0a4-dfdcc9871793.0019
   content_url: http://publications.europa.eu/resource/cellar/78419d4c-bc66-48ed-85b5-11e649e5937a.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R1137-20160420
-  retrieved_at: '2026-10-22T02:39:48Z'
+  retrieved_at: '2026-10-22T15:20:28Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-31T01:35:46.294+01:00'
 integrity:
@@ -59,9 +247,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:48Z'
-  notes: Texto consolidado 02008R1137-20160420.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:20:28Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2008-1137.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -631,33 +819,19 @@ relationships:
   date: '2023-04-05'
 article_structure:
   article_count: 3
-  section_count: 69
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 70
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:48Z'
+  checked_at: '2026-10-22T15:20:28Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 1137/2008 do Parlamento Europeu e do Conselho, de 22 de Outubro de 2008
-
-> 2008R1137 — PT — 20.04.2016 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014L0032) — [DIRETIVA 2014/32/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 26 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014L0032) — L 96 — 149 — 29.3.2014
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32008R1137R%2801%29) — [Rectificação, JO L 276, 20.10.2010, p. 80 (1137/2008)](http://publications.europa.eu/resource/celex/32008R1137R%2801%29)
-
-## REGULAMENTO (CE) N.º 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 22 de Outubro de 2008
 

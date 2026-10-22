@@ -35,6 +35,97 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-07-01'
+version_history:
+  file: regulamento-ue-2008-800.versoes.json
+  count: 3
+  source_lastmod: '2014-07-01'
+  versions:
+  - date: '2008-08-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-12-01'
+    amending: eu:celex:32013R1224:por
+    amending_title: REGULAMENTO (UE) N. o 1224/2013 DA COMISSÃO de 29 de novembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Transparência dos auxílios
+    - Altera Artigo 6.º — Limiares de notificação individual
+    - Altera Artigo 7.º — Cumulação
+    - Altera Artigo 11.º — Relatórios anuais
+    - Altera Artigo 12.º — Condições específicas aplicáveis aos auxílios ao investimento
+    - Altera Artigo 15.º — Auxílios ao investimento e ao emprego a favor das PME
+    - Altera Artigo 17.º — Definições
+    - Altera Artigo 30.º — Definições
+    - Altera Artigo 31.º — Auxílios a projectos de investigação e desenvolvimento
+    - Altera Artigo 38.º — Definições
+    - Altera Artigo 45.º — Entrada em vigor e aplicabilidade
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Definição de PME
+    - Adita Artigo 1.º — Empresa
+    - Adita Artigo 2.º — Efectivos e limiares financeiros que definem as categorias de empresas
+    - Adita Artigo 3.º — Tipos de empresas tomadas em consideração no que se refere ao cálculo dos efectivos e dos montantes
+      financeiros
+    - Adita Artigo 4.º — Dados a considerar para o cálculo dos efectivos e dos montantes financeiros e período de referência
+    - Adita Artigo 5.º — Efectivos
+    - Adita Artigo 6.º — Determinação dos dados da empresa
+    - Adita ANEXO II
+    - Adita Modelo para a apresentação do resumo de informações relativas aos auxílios à investigação e desenvolvimento abrangidos
+      pela obrigação alargada de apresentação de relatórios prevista no n.º 4 do artigo 9.º
+    - Adita Modelo para a apresentação do resumo de informações relativas aos auxílios para grandes projectos de investimento
+      abrangidos pela obrigação alargada de apresentação de relatórios prevista no n.º 4 do artigo 9.º
+    - Adita ANEXO III
+    - Adita Modelo para o fornecimento, nos termos do n.º 1 do artigo n.º 9, do resumo de informações
+  - date: '2014-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime DISPOSIÇÕES COMUNS
+    - Suprime Artigo 1.º — Âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Condições de isenção
+    - Suprime Artigo 4.º — Intensidade do auxílio e custos elegíveis
+    - Suprime Artigo 5.º — Transparência dos auxílios
+    - Suprime Artigo 6.º — Limiares de notificação individual
+    - Suprime Artigo 7.º — Cumulação
+    - Suprime Artigo 8.º — Efeito de incentivo
+    - Suprime Artigo 9.º — Transparência
+    - Suprime Artigo 10.º — Monitorização
+    - Suprime Artigo 11.º — Relatórios anuais
+    - Suprime Artigo 12.º — Condições específicas aplicáveis aos auxílios ao investimento
+    - Suprime CAPÍTULO II
+    - Suprime DISPOSIÇÕES ESPECÍFICAS APLICÁVEIS ÀS DIFERENTES CATEGORIAS DE AUXÍLIOS
+    - Suprime SECÇÃO 1
+    - Suprime Auxílios com finalidade regional
+    - Suprime Artigo 13.º — Auxílios com finalidade regional a favor do investimento e do emprego
+    - Suprime Artigo 14.º — Auxílios às pequenas empresas recentemente criadas
+    - Suprime SECÇÃO 2
+    - Suprime Auxílios ao investimento e ao emprego a favor das PME
+    - Suprime Artigo 15.º — Auxílios ao investimento e ao emprego a favor das PME
+    - Suprime SECÇÃO 3
+    - Suprime Auxílios a favor de mulheres empresárias
+    - Suprime Artigo 16.º — Auxílios concedidos a pequenas empresas recentemente criadas por mulheres empresárias
+    - Suprime SECÇÃO 4
+    - Suprime Auxílios à protecção do ambiente
+    - Suprime Artigo 17.º — Definições
+    - Suprime Artigo 18.º — Auxílios ao investimento que permitem às empresas superar as normas comunitárias em matéria de
+      protecção do ambiente ou, na sua ausência, aumentar o nível de protecção do ambiente
+    - Suprime Artigo 19.º — Auxílios à aquisição de novos veículos de transporte que superem as normas comunitárias ou, na
+      sua ausência, que melhorem o nível de protecção do ambiente
+    - Suprime Artigo 20.º — Auxílios à adaptação antecipada a futuras normas comunitárias a favor das PME
+    - Suprime Artigo 21.º — Auxílios ao investimento a favor de medidas de poupança de energia
+    - Suprime Artigo 22.º — Auxílios ao investimento no domínio do ambiente a favor da co-geração de elevada eficiência
+    - Suprime Artigo 23.º — Auxílios ao investimento no domínio do ambiente a favor da promoção da energia produzida a partir
+      de fontes renováveis
+    - Suprime Artigo 24.º — Auxílios a favor de estudos ambientais
+    - Suprime Artigo 25.º — Auxílios sob a forma de reduções dos impostos ambientais
+    - Suprime SECÇÃO 5
+    - Suprime Auxílios em matéria de consultoria a favor de PME e auxílios à participação de PME em feiras
 identifiers:
   celex: 32008R0800
   eli: http://data.europa.eu/eli/reg/2008/800/oj
@@ -49,7 +140,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b1e24aa4-d04e-4593-b587-09df9e505275.0018
   content_url: http://publications.europa.eu/resource/cellar/ac1456bd-5411-4982-b449-c905df05cba7.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0800-20140701
-  retrieved_at: '2026-10-22T02:36:53Z'
+  retrieved_at: '2026-10-22T15:18:13Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-31T03:50:29.340+01:00'
 integrity:
@@ -58,9 +149,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:53Z'
-  notes: Texto consolidado 02008R0800-20140701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:18:13Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2008-800.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -223,16 +314,15 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:53Z'
+  checked_at: '2026-10-22T15:18:13Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02008R0800-20080829: versão indisponível (Sem expressão na língua por para CELEX 02008R0800-20080829.)'
   errors: []
 ---
 

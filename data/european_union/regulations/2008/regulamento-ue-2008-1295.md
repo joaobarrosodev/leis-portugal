@@ -34,6 +34,56 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-05-06'
+version_history:
+  file: regulamento-ue-2008-1295.versoes.json
+  count: 3
+  source_lastmod: '2022-05-06'
+  versions:
+  - date: '2008-12-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-01-01'
+    amending: eu:celex:32009R0267:por
+    amending_title: M1; M2; M3; M4; REGULAMENTO DE EXECUÇÃO (UE) 2015/2000 DA COMISSÃO de 9 de novembro de 2015; REGULAMENTO
+      DE EXECUÇÃO (UE) 2020/2103 DA COMISSÃO de 15 de dezembro de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º
+    - Altera Notas
+    - Adita ANEXO I
+    - 'Adita ORGANISMOS HABILITADOS A EMITIR ATESTADOS PARA:'
+    - Adita Lúpulo em cones do código NC ex 12 10
+    - Adita Pós de lúpulo do código NC ex 12 10
+    - Adita Sucos e extratos de lúpulo do código NC 1302 13 00
+    - Adita ANEX0 II
+    - Adita FORMULÁRIO DO ATESTADO DE EQUIVALÊNCIA
+    - Adita ANEXO III
+    - Adita FORMULÁRIO DO EXTRACTO DO ATESTADO DE EQUIVALÊNCIA
+    - Adita ANEXO IV
+    - Adita DISPOSIÇÕES RELATIVAS AOS FORMULÁRIOS REFERIDOS NOS ARTIGOS 4.º E 6.º
+    - Adita I. PAPEL
+    - Adita II. FORMATO
+    - Adita III. LÍNGUAS
+    - Adita IV. PREENCHIMENTO
+    - Adita ANEXO V
+    - Adita ANEXO VI
+  - date: '2022-05-06'
+    amending: eu:celex:32022R0700:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/700 DA COMISSÃO de 4 de maio de 2022
+    changes:
+    - Altera Artigo 9.º
+    - Altera Notas
+    - Adita ORGANISMOS HABILITADOS A EMITIR ATESTADOS PARA
+    - 'Adita Lúpulo em cones Código NC: ex 12 10'
+    - 'Adita Pós de lúpulo Código NC: ex 12 10'
+    - 'Adita Sucos e extratos de lúpulo Código NC: 1302 13 00'
+    - 'Suprime ORGANISMOS HABILITADOS A EMITIR ATESTADOS PARA:'
+    - Suprime Lúpulo em cones do código NC ex 12 10
+    - Suprime Pós de lúpulo do código NC ex 12 10
+    - Suprime Sucos e extratos de lúpulo do código NC 1302 13 00
 identifiers:
   celex: 32008R1295
   eli: http://data.europa.eu/eli/reg/2008/1295/oj
@@ -48,7 +98,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6bf01c54-d572-4952-beaa-159de150f119.0018
   content_url: http://publications.europa.eu/resource/cellar/e1685f07-e274-11ec-a534-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R1295-20220506
-  retrieved_at: '2026-10-22T02:59:05Z'
+  retrieved_at: '2026-10-22T15:22:47Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-29T22:53:21.963+01:00'
 integrity:
@@ -57,9 +107,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:05Z'
-  notes: Texto consolidado 02008R1295-20220506.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:22:47Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2008-1295.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -192,35 +242,24 @@ relationships:
   date: '2010-03-08'
 article_structure:
   article_count: 12
-  section_count: 17
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 18
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:05Z'
-  warnings: []
+  checked_at: '2026-10-22T15:22:47Z'
+  warnings:
+  - '02008R1295-20090405: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1295-20120218: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1295-20120720: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1295-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1295-20151116: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 1295/2008 da Comissão, de 18 de Dezembro de 2008
-
-> 02008R1295 — PT — 06.05.2022 — 007.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32009R0267) — [REGULAMENTO (CE) N.º 267/2009 DA COMISSÃO de 1 de Abril de 2009](http://publications.europa.eu/resource/celex/32009R0267) — L 90 — 3 — 2.4.2009
-- [M2](http://publications.europa.eu/resource/celex/32012R0117) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 117/2012 DA COMISSÃO de 10 de fevereiro de 2012](http://publications.europa.eu/resource/celex/32012R0117) — L 38 — 33 — 11.2.2012
-- [M3](http://publications.europa.eu/resource/celex/32012R0631) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 631/2012 DA COMISSÃO de 12 de julho de 2012](http://publications.europa.eu/resource/celex/32012R0631) — L 182 — 27 — 13.7.2012
-- [M4](http://publications.europa.eu/resource/celex/32013R0519) — [REGULAMENTO (UE) N.º 519/2013 DA COMISSÃO de 21 de fevereiro de 2013](http://publications.europa.eu/resource/celex/32013R0519) — L 158 — 74 — 10.6.2013
-- [►M5](http://publications.europa.eu/resource/celex/32015R2000) — [REGULAMENTO DE EXECUÇÃO (UE) 2015/2000 DA COMISSÃO de 9 de novembro de 2015](http://publications.europa.eu/resource/celex/32015R2000) — L 292 — 4 — 10.11.2015
-- [M6](http://publications.europa.eu/resource/celex/32020R2103) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/2103 DA COMISSÃO de 15 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R2103) — L 425 — 87 — 16.12.2020
-- [►M7](http://publications.europa.eu/resource/celex/32022R0700) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/700 DA COMISSÃO de 4 de maio de 2022](http://publications.europa.eu/resource/celex/32022R0700) — L 131 — 1 — 5.5.2022
-
-## REGULAMENTO (CE) N.º 1295/2008 DA COMISSÃO
 
 de 18 de Dezembro de 2008
 

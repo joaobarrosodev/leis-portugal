@@ -1,0 +1,569 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32008R1249:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R1249-20180711",
+ "dre_path": null,
+ "source_lastmod": "2018-07-11",
+ "versions": [
+  {
+   "date": "2008-12-16",
+   "future": false,
+   "celex": "32008R1249",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "bffd7578bb3dcb88",
+    "226c39ffd0a88dad",
+    "707b247288f2485e",
+    "110a2d4b96dc71a1",
+    "f0f8c960bfdbce9b",
+    "cb6ea8de5ed628f7",
+    "596abd0f5acc2c21",
+    "965e0cdf656ef5c8",
+    "684499732c5c1aff",
+    "70b864d4863ad867",
+    "3d28be33bed29caa",
+    "d863d3962b0ed2f4",
+    "564226fcaf666dcc",
+    "c2440a64726b124a",
+    "0d56a3e7af155d6e",
+    "58ca12f2b3e54fb6",
+    "ebe73d1b95a1c52c",
+    "6bd5875908af6700",
+    "f15f759496cc08e0",
+    "557de3e5a6ad52c3",
+    "0fced4ecf8d80d13",
+    "e7caf803123af400",
+    "564fb76529a9c205",
+    "6f9303bbcc722999",
+    "1e7a0903d2eed348",
+    "c2a0c4ea2b9fcb19",
+    "b20965b57b815417",
+    "b2abdab7c3db5143",
+    "00b11bb1602e8e17",
+    "b4bbccad93b2b46b",
+    "e4b6c171ff962bb6",
+    "bb1b96f2d4b927c2",
+    "7d5d5422049a32aa",
+    "ac887b2831a9ee86",
+    "1ecfc79da3f1ac7f",
+    "6453974404f8e6c8",
+    "3fc9b29b00e69360",
+    "886792c5b75ea1b9",
+    "81bf7e3d00e9f233",
+    "a21bbb7748d9e102",
+    "3ecc4d1d76d1c960",
+    "2d4e10e2fff2c2c5",
+    "4afb8532a257076b",
+    "ffef31cb64f0b5f9",
+    "40ed6b62e188ac6f",
+    "2820a0672e2df197",
+    "77bf2c0eb4b9537c",
+    "d7e751fb4ff445f4",
+    "68821e8eb063bd15",
+    "1179fbdd799e18a4",
+    "553e1791df29fbf5",
+    "fcf14ce798dc06bd",
+    "941adb20bd591742"
+   ]
+  },
+  {
+   "date": "2018-07-11",
+   "future": false,
+   "celex": "02008R1249-20180711",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime ÂMBITO DE APLICAÇÃO",
+    "Suprime Artigo 1.º — Âmbito de aplicação",
+    "Suprime CAPÍTULO II",
+    "Suprime SECTOR DA CARNE DE BOVINO",
+    "Suprime Artigo 2.º — Âmbito de aplicação e disposições gerais",
+    "Suprime Artigo 3.º — Disposições complementares relativas às classes de conformação e de camada de gordura",
+    "Suprime Artigo 4.º — Classe de conformação S",
+    "Suprime Artigo 5.º — Derrogação da obrigatoriedade de classificação das carcaças",
+    "Suprime Artigo 6.º — Classificação e identificação",
+    "Suprime Artigo 7.º — Comunicação dos resultados da classificação",
+    "Suprime Artigo 8.º — Classificação por classificadores qualificados",
+    "Suprime Artigo 9.º — Autorização de técnicas de classificação automatizada",
+    "Suprime Artigo 10.º — Classificação automatizada",
+    "Suprime Artigo 11.º — Controlos in loco",
+    "Suprime Artigo 12.º — Relatórios de controlo e acções de seguimento",
+    "Suprime Artigo 13.º — Preço de mercado a registar",
+    "Suprime Artigo 14.º — Categorias e classes para efeitos do registo dos preços de mercado",
+    "Suprime Artigo 15.º — Preços representativos",
+    "Suprime Artigo 16.º — Cálculo dos preços semanais",
+    "Suprime Artigo 17.º — Comunicação semanal dos preços à Comissão",
+    "Suprime Artigo 18.º — Preços comunitários médios",
+    "Suprime Artigo 19.º — Notificação anual dos Estados-Membros à Comissão",
+    "Suprime CAPÍTULO III",
+    "Suprime SECTOR DA CARNE DE SUÍNO",
+    "Suprime Artigo 20.º — Derrogações da obrigatoriedade de classificação das carcaças",
+    "Suprime Artigo 21.º — Pesagem, classificação e marcação",
+    "Suprime Artigo 22.º — Peso da carcaça",
+    "Suprime Artigo 23.º — Teor de carne magra das carcaças de suínos",
+    "Suprime Artigo 24.º — Controlos in loco",
+    "Suprime Artigo 25.º — Preço de mercado das carcaças de suíno nos Estados-Membros",
+    "Suprime Artigo 26.º — Preço comunitário médio",
+    "Suprime Artigo 27.º — Comunicação semanal das cotações à Comissão",
+    "Suprime CAPÍTULO IV",
+    "Suprime SECTOR DA CARNE DE OVINO",
+    "Suprime Artigo 28.º — Critérios de definição das carcaças de borregos leves",
+    "Suprime Artigo 29.º — Disposições complementares relativas às classes de conformação e de camada de gordura, peso da carcaça e cor da carne",
+    "Suprime Artigo 30.º — Classificação e identificação",
+    "Suprime Artigo 31.º — Classificação por classificadores qualificados",
+    "Suprime Artigo 32.º — Controlos in loco",
+    "Suprime Artigo 33.º — Preço de mercado a registar",
+    "Suprime Artigo 34.º — Comunicação dos preços à Comissão",
+    "Suprime Artigo 35.º — Preços médios comunitários",
+    "Suprime CAPÍTULO V",
+    "Suprime DISPOSIÇÕES COMUNS E FINAIS",
+    "Suprime Artigo 36.º — Comunicação semanal dos preços à Comissão",
+    "Suprime Artigo 37.º — Revisão periódica dos coeficientes de ponderação",
+    "Suprime Artigo 38.º — Comité de controlo comunitário",
+    "Suprime Artigo 39.º — Medidas a tomar pelos Estados-Membros",
+    "Suprime Artigo 40.º",
+    "Suprime Artigo 41.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "f37028b9a92c015d"
+   ]
+  }
+ ],
+ "fragments": {
+  "bffd7578bb3dcb88": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 Dezembro de 2008\n\nque estabelece regras de execução no respeitante às grelhas comunitárias de classificação das carcaças de bovinos, suínos e ovinos e à comunicação dos respectivos preços\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de Outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única») [([^1])](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntr1-L_2008337PT.01000301-E0001), nomeadamente a alínea m) do artigo 43.º, em conjugação com o artigo 4.º,\n\nConsiderando o seguinte:\n\n(1) Nos termos da alínea h) do n.º 2 do artigo 204.º, o Regulamento (CE) n.º 1234/2007 é aplicável a partir de 1 de Janeiro de 2009, no que se refere às grelhas comunitárias de classificação de carcaças. É necessário, por conseguinte, adoptar regras de execução, aplicáveis a partir de 1 de Janeiro de 2009, no respeitante a essas grelhas comunitárias e à comunicação pelos Estados-Membros dos preços que nelas se baseiam.\n\n(2) Actualmente, as regras de execução no respeitante às grelhas comunitárias de classificação de carcaças são estabelecidas por vários actos, designadamente os Regulamentos (CEE) n.º 563/82 da Comissão, de 10 de Março de 1982, que estabelece modalidades de aplicação do Regulamento (CEE) n.º 1208/81 para a verificação dos preços de mercado dos bovinos adultos com base na grelha comunitária de classificação das carcaças [([^2])](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntr2-L_2008337PT.01000301-E0002), (CEE) n.º 2967/85 da Comissão, de 24 de Outubro de 1985, que estabelece as modalidades de aplicação da grelha comunitária de classificação das carcaças de suínos [([^3])](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntr3-L_2008337PT.01000301-E0003), (CEE) n.º 344/91 da Comissão, de 13 de Fevereiro de 1991, que prevê as normas de execução do Regulamento (CEE) n.º 1186/90 do Conselho, que estabelece a extensão do âmbito de aplicação da grelha comunitária de classificação das carcaças de bovinos adultos [([^4])](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntr4-L_2008337PT.01000301-E0004), (CE) n.º 295/96 da Comissão, de 16 de Fevereiro de 1996, que estabelece normas de execução do Regulamento (CEE) n.º 1892/87 do Conselho no que diz respeito à verificação dos preços de mercado de bovinos adultos com base na grelha comunitária de classificação de carcaças [([^5])](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntr5-L_2008337PT.01000301-E0005), (CE) n.º 103/2006 da Comissão, de 20 de Janeiro de 2006, que estabelece disposições complementares para a aplicação da grelha comunitária de classificação das carcaças de bovinos adultos [([^6])](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntr6-L_2008337PT.01000301-E0006), (CE) n.º 908/2006 da Comissão, de 20 de Junho de 2006, que estabelece a lista dos mercados representativos para o sector da carne de suíno na Comunidade [([^7])](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntr7-L_2008337PT.01000301-E0007), (CE) n.º 1128/2006 da Comissão, de 24 de Julho de 2006, relativo à fase de comercialização a que se refere a média dos preços de suínos abatidos [([^8])](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntr8-L_2008337PT.01000301-E0008), (CE) n.º 1319/2006 da Comissão, de 5 de Setembro de 2006, relativo a certas comunicações recíprocas entre os Estados-Membros e a Comissão no sector da carne de suíno [([^9])](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntr9-L_2008337PT.01000301-E0009), (CE) n.º 710/2008 da Comissão, de 24 de Julho de 2008, que fixa, para o exercício de 2008/2009, os coeficientes de ponderação que servem para o cálculo do preço comunitário de mercado do suíno abatido [([^10])](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntr10-L_2008337PT.01000301-E0010) e (CE) n.º 22/2008 da Comissão, de 11 de Janeiro de 2008, que estabelece as regras de execução da grelha comunitária de classificação das carcaças de ovinos [([^11])](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntr11-L_2008337PT.01000301-E0011), bem como a Decisão 83/471/CEE da Comissão, de 7 de Setembro de 1983, relativa ao Comité de Controlo Comunitário para a aplicação da grelha de classificação das carcaças de bovinos adultos [([^12])](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntr12-L_2008337PT.01000301-E0012). Por razões de clareza e racionalidade, é conveniente substituir esses regulamentos e essa decisão por um único acto.\n\n(3) Nos termos do n.º 1 do artigo 42.º do Regulamento (CE) n.º 1234/2007, são aplicáveis, em conformidade com determinadas regras previstas no anexo V do mesmo regulamento, grelhas comunitárias de classificação das carcaças de bovinos adultos e de suínos, podendo também os Estados-Membros aplicar uma grelha comunitária de classificação das carcaças de ovinos.\n\n(4) Nos termos da alínea a) do n.º 1 do artigo 42.º do Regulamento (CE) n.º 1234/2007, a grelha comunitária de classificação de carcaças é aplicável, no sector da carne de bovino, no que se refere às carcaças de bovinos adultos. O ponto IV.2 do anexo III do referido regulamento define «bovino adulto» em função do peso vivo do animal. Não obstante essa definição, é conveniente, para garantir uma aplicação uniforme, permitir aos Estados-Membros tornar obrigatória a aplicação da grelha comunitária às carcaças de bovinos a partir de certa idade, determinada com base no regime de identificação e registo de bovinos previsto no Regulamento (CE) n.º 1760/2000 do Parlamento Europeu e do Conselho, de 17 de Julho de 2000, que estabelece um regime de identificação e registo de bovinos e relativo à rotulagem da carne de bovino e dos produtos à base de carne de bovino [([^13])](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntr13-L_2008337PT.01000301-E0013). Esse regime de identificação e registo deve também ser utilizado para dividir as carcaças pelas categorias A e B referidas no ponto A.II do anexo V do Regulamento (CE) n.º 1234/2007.\n\n(5) Para garantir a classificação uniforme das carcaças de bovinos e ovinos adultos na Comunidade, é necessário tornar mais precisas as definições das classes de conformação e de camada de gordura referidas nos pontos A.III e C.III do anexo V do Regulamento (CE) n.º 1234/2007.\n\n(6) O ponto A.III do anexo V do Regulamento (CE) n.º 1234/2007 prevê uma classe de conformação S para as carcaças de bovinos com duplos músculos. Dado que esta classe de conformação reflecte as características específicas do efectivo bovino nalguns Estados-Membros, é conveniente prever que os Estados-Membros possam optar pela utilização da classe de conformação S.\n\n(7) De acordo com o segundo travessão da alínea m) iii) do artigo 43.º do Regulamento (CE) n.º 1234/2007, podem ser concedidas aos Estados-Membros que o solicitem derrogações, para os pequenos estabelecimentos, da obrigação geral de classificação das carcaças de bovinos adultos. Com base na experiência adquirida com a aplicação da grelha comunitária de classificação, os Estados-Membros consideram apropriado poder recorrer a tal derrogação para os matadouros que não abatam mais de 75 bovinos adultos por semana, em média anual. A Comissão considera esta derrogação justificada, atendendo ao volume de produção limitado desses matadouros. Pelas mesmas razões, essa derrogação foi também prevista no segundo travessão do n.º 2 do artigo 2.º do Regulamento (CEE) n.º 344/91. Para simplificar a aplicação do segundo travessão da alínea m) iii) do Regulamento (CE) n.º 1234/2007 é conveniente, por conseguinte, autorizar os próprios Estados-Membros a concederem essa derrogação.\n\n(8) A alínea m) iv) do artigo 43.º do Regulamento (CE) n.º 1234/2007 prevê que os Estados-Membros sejam autorizados a não aplicar a grelha de classificação das carcaças de suínos. Essa disposição deve aplicar-se, em especial, aos pequenos matadouros, que não abatam mais de 200 suínos por semana, em média.\n\n(9) Para que as grelhas comunitárias de classificação sejam aplicadas com precisão, com vista a uma maior transparência do mercado, é necessário especificar as condições e os métodos práticos de classificação, pesagem e identificação das carcaças de bovinos adultos, de suínos e de ovinos.\n\n(10) É necessário, contudo, prever determinadas derrogações, nomeadamente no respeitante ao prazo de classificação e pesagem das carcaças em caso de falha das técnicas de classificação automatizada, à localização nas carcaças dos carimbos e rótulos com indicação da classificação e aos matadouros que procedem igualmente à desossagem da totalidade das carcaças. No respeitante às carcaças de suínos, o peso deve referir-se ao peso da carcaça fria, calculado por aplicação ao resultado da pesagem de um coeficiente a determinar. Este coeficiente deve variar em função do intervalo entre a pesagem e a degola do porco. É conveniente, por conseguinte, autorizar a sua adaptação.\n\n(11) As pessoas singulares ou colectivas que mandem efectuar as operações de abate de bovinos devem ser informadas do resultado da classificação dos animais entregues para abate. Essa comunicação deve também incluir determinadas informações suplementares, para garantir total transparência relativamente aos fornecedores.\n\n(12) Para garantir a precisão e a fiabilidade da classificação das carcaças dos bovinos adultos e dos ovinos, essa classificação deve ser efectuada por pessoal que possua as qualificações necessárias, devidamente sancionadas por uma licença ou aprovação.\n\n(13) A fim de autorizar alternativas à apreciação visual directa da conformação e da camada de gordura das carcaças de bovinos adultos, podem ser introduzidas técnicas de classificação automatizada que se baseiem em métodos estatisticamente testados. A autorização de técnicas de classificação automatizada deve ser subordinada ao respeito de determinadas condições e exigências, bem como de uma tolerância máxima do erro estatístico na classificação, que deve ser especificada.\n\n(14) É conveniente prever a possibilidade de alterar as especificações técnicas das técnicas de classificação automatizada das carcaças de bovinos adultos após a concessão da autorização, a fim de melhorar a respectiva precisão. Tais alterações devem, no entanto, ficar sujeitas à aprovação prévia das autoridades competentes, que devem averiguar se as mesmas resultarão pelo menos na mesma precisão.\n\n(15) O valor de uma carcaça de suíno é determinado, em especial, pelo seu teor de carne magra, em peso. A fim de garantir que o teor de carne magra seja avaliado objectivamente, a avaliação deve ser feita medindo determinadas partes anatómicas da carcaça por métodos autorizados e estatisticamente testados. Embora possam ser utilizados vários métodos na avaliação do teor de carne magra de uma carcaça de suíno, é necessário garantir que a escolha do método não afecte a estimativa do teor de carne magra. Na determinação do valor comercial das carcaças de suínos, deve ser também autorizado o uso de outros critérios de avaliação, além do peso e do teor estimado de carne magra.\n\n(16) O ponto C.III do anexo V do Regulamento (CE) n.º 1234/2007 determina que as carcaças de ovinos sejam classificadas em diversas categorias, em função da conformação e da camada de gordura. No entanto, podem ser utilizados outros critérios na classificação de carcaças de borregos com peso inferior a 13 quilogramas, nomeadamente o peso, a cor da carne e a camada de gordura.\n\n(17) A fiabilidade da classificação das carcaças de bovinos adultos, de suínos e de ovinos deve ser verificada por controlos regulares *in loco*, efectuados por organismos independentes dos estabelecimentos inspeccionados. É necessário estabelecer as condições e exigências mínimas destes controlos, incluindo a comunicação de informações sobre os controlos efectuados e eventuais acções de seguimento. Caso a classificação das carcaças de bovinos adultos seja efectuada utilizando técnicas de classificação automatizada, é necessário prever disposições complementares relativas aos controlos *in loco*, incluindo igualmente a exigência de aumento da frequência dos mesmos no período inicial após a concessão da licença.\n\n(18) Para a obtenção de preços comparáveis das carcaças de bovinos, de suínos e de ovinos na Comunidade, é necessário prever que o registo dos preços se refira a um estádio de comercialização bem definido. Além disso, é necessário determinar a apresentação de referência das carcaças de bovinos adultos e de ovinos. Devem ser também determinados certos factores de correcção para ajustar as apresentações utilizadas em certos Estados-Membros à apresentação de referência da UE.\n\n(19) Para garantir que os preços das carcaças registados sejam representativos da produção do Estado-Membro nos sectores da carne de bovino, de suíno e de ovino, é necessário definir as categorias e classes, bem como determinados critérios que determinam os estabelecimentos ou as pessoas para os quais a comunicação dos preços deve ser obrigatória.\n\n(20) Para efeitos da comunicação dos preços das carcaças de bovinos, os Estados-Membros devem poder decidir se o seu território está dividido e, se for o caso, em quantas regiões. É conveniente prever que a comunicação dos preços no Reino Unido se refira a duas regiões, a Grã-Bretanha e a Irlanda do Norte.\n\n(21) Se os Estados-Membros tiverem estabelecido comités regionais para a determinação dos preços das carcaças de bovinos adultos, deve prever-se que a composição dos comités garanta uma abordagem equilibrada e objectiva e que os preços determinados por esses comités sejam tidos em conta no cálculo do preço nacional.\n\n(22) Caso sejam efectuados quaisquer pagamentos suplementares aos fornecedores de bovinos adultos, os estabelecimentos ou as pessoas sujeitos à obrigação de comunicação dos preços devem ter que efectuar determinadas correcções dos mesmos, de forma a evitar distorções no cálculo dos preços nacionais médios.\n\n(23) É necessário estabelecer o método prático a utilizar pelos Estados-Membros no cálculo dos preços semanais médios. Os preços devem ser comunicados à Comissão semanalmente e servir de base para a determinação da média ponderada dos preços a nível comunitário.\n\n(24) Com vista à monitorização da comunicação dos preços das carcaças de bovinos adultos, de suínos e de ovinos, os Estados-Membros devem ser obrigados a transmitir periodicamente determinadas informações à Comissão.\n\n(25) Para garantir a aplicação uniforme das grelhas comunitárias de classificação das carcaças de bovinos e de ovinos em toda a Comunidade, o n.º 2 do artigo 42.º do Regulamento (CE) n.º 1234/2007 prevê verificações *in loco* a efectuar por um comité de controlo comunitário composto por peritos da Comissão e peritos designados pelos Estados-Membros. É necessário estabelecer regras de execução relativas à composição e ao funcionamento desse comité.\n\n(26) É necessário determinar que os Estados-Membros tomem certas medidas para garantir a correcta aplicação das grelhas comunitárias de classificação, de forma a assegurar a exactidão dos preços verificados e reprimir eventuais infracções. É conveniente, além disso, obrigar os Estados-Membros a informar a Comissão dessas medidas.\n\n(27) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão para a Organização Comum dos Mercados Agrícolas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "707b247288f2485e": {
+   "fragment_id": "ÂMBITO DE APLICAÇÃO",
+   "type": "divisao",
+   "heading": "ÂMBITO DE APLICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ÂMBITO DE APLICAÇÃO"
+  },
+  "110a2d4b96dc71a1": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nO presente regulamento estabelece as regras de execução no respeitante às grelhas comunitárias de classificação de carcaças de bovinos, suínos e ovinos e à comunicação dos respectivos preços de mercado, previstas na alínea m) do artigo 43.º do Regulamento (CE) n.º 1234/2007."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "cb6ea8de5ed628f7": {
+   "fragment_id": "SECTOR DA CARNE DE BOVINO",
+   "type": "divisao",
+   "heading": "SECTOR DA CARNE DE BOVINO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SECTOR DA CARNE DE BOVINO"
+  },
+  "596abd0f5acc2c21": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação e disposições gerais",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação e disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação e disposições gerais\n\n1. A grelha comunitária de classificação das carcaças no sector da carne de bovino é aplicável às carcaças de bovinos adultos.\n\n2. Não obstante o disposto na parte IV.2 do anexo III do Regulamento (CE) n.º 1234/2007, os Estados-Membros podem decidir que a grelha comunitária a que se refere o n.º 1 seja aplicável às carcaças de bovinos com 12 meses de idade, pelo menos, aquando do abate.\n\n3. Para efeitos da aplicação do ponto A.II do anexo V do Regulamento (CE) n.º 1234/2007, as carcaças de machos não castrados com menos de dois anos (categoria A) e as carcaças de outros machos não castrados (categoria B) distinguem-se com base na idade do animal.\n\n4. A idade dos bovinos a que se referem os n.^os^ 2 e 3 é verificada com base nas informações disponíveis no regime de identificação e registo de bovinos estabelecido por cada Estado-Membro em conformidade com o título I do Regulamento (CE) n.º 1760/2000."
+  },
+  "965e0cdf656ef5c8": {
+   "fragment_id": "Artigo 3.º — Disposições complementares relativas às classes de conformação e de camada de gordura",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Disposições complementares relativas às classes de conformação e de camada de gordura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Disposições complementares relativas às classes de conformação e de camada de gordura\n\nO anexo I do presente regulamento estabelece disposições complementares relativas às definições das classes de conformação e de camada de gordura referidas no ponto A.III do anexo V do Regulamento (CE) n.º 1234/2007."
+  },
+  "684499732c5c1aff": {
+   "fragment_id": "Artigo 4.º — Classe de conformação S",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Classe de conformação S",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Classe de conformação S\n\nA classe de conformação S referida no ponto A.III do anexo V do Regulamento (CE) n.º 1234/2007 pode ser utilizada pelos Estados-Membros para terem em conta as características específicas do seu efectivo bovino."
+  },
+  "70b864d4863ad867": {
+   "fragment_id": "Artigo 5.º — Derrogação da obrigatoriedade de classificação das carcaças",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Derrogação da obrigatoriedade de classificação das carcaças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Derrogação da obrigatoriedade de classificação das carcaças\n\nOs Estados-Membros podem decidir não tornar obrigatórias as disposições relativas à classificação das carcaças de bovinos adultos previstas no ponto A.V do anexo V do Regulamento (CE) n.º 1234/2007, em relação aos estabelecimentos aprovados que não abatam mais de 75 bovinos adultos por semana, em média anual."
+  },
+  "3d28be33bed29caa": {
+   "fragment_id": "Artigo 6.º — Classificação e identificação",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Classificação e identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Classificação e identificação\n\n1. A classificação e a identificação a que se refere o ponto A.V do anexo V do Regulamento (CE) n.º 1234/2007 são efectuadas no próprio matadouro.\n\n2. A classificação, a identificação e a pesagem da carcaça são efectuadas o mais tardar uma hora depois de o animal ter sido degolado.\n\nContudo, a classificação e a identificação das carcaças cuja classificação não tenha sido possível pelas técnicas de classificação automatizada referidas no artigo 9.º devem ser efectuadas no dia do abate.\n\n3. A identificação das carcaças é efectuada mediante uma marcação que indique a categoria e as classes de conformação e de camada de gordura a que se referem, respectivamente, os pontos A.II e A.III do anexo V do Regulamento (CE) n.º 1234/2007.\n\nEsta marcação é efectuada por estampilhagem, na face externa da carcaça, com uma tinta indelével e não tóxica, de acordo com um processo aprovado pelas autoridades competentes; as letras e os algarismos têm uma altura de, pelo menos, dois centímetros.\n\nAs marcas são apostas nos quartos traseiros, ao nível da vazia, à altura da quarta vértebra lombar, e nos quartos dianteiros, ao nível da maçã do peito, de dez a trinta centímetros, aproximadamente, do corte sagital do esterno. No entanto, os Estados-Membros podem determinar outras posições em cada quarto, desde que informem previamente a Comissão.\n\n4. Sem prejuízo do disposto na alínea c) do n.º 3 do artigo 4.º do Regulamento (CE) n.º 1669/2006 da Comissão [([^14])](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntr14-L_2008337PT.01000301-E0014) e na alínea a) do ponto I do anexo I do Regulamento (CE) n.º 826/2008 da Comissão [([^15])](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntr15-L_2008337PT.01000301-E0015), os Estados-Membros podem autorizar a substituição da marcação por uma rotulagem efectuada nas seguintes condições:\n\na) Só os estabelecimentos aprovados que procedem ao abate de animais podem deter e apor os rótulos, cuja dimensão não pode ser inferior a 50 cm^2^;\n\nb) Para além das indicações previstas no n.º 3, os rótulos devem indicar o número de aprovação do matadouro, o número de identificação ou de abate do animal, a data de abate, o peso da carcaça e ainda, se for caso disso, que a classificação foi efectuada utilizando técnicas de classificação automatizada;\n\nc) As indicações referidas na alínea b) devem ser perfeitamente legíveis, não sendo autorizada qualquer alteração, a não ser que esteja claramente assinalada no rótulo e seja efectuada sob a supervisão das autoridades competentes e nas condições práticas determinadas pelas mesmas;\n\nd) Os rótulos devem ser invioláveis, resistentes ao rasgamento e firmemente fixados a cada quarto nos locais definidos no terceiro parágrafo do n.º 3.\n\nCaso a classificação seja efectuada utilizando técnicas de classificação automatizada referidas no artigo 11.º, a rotulagem é obrigatória.\n\n5. A marcação e a rotulagem a que se referem os n.^os^ 3 e 4 não devem ser retiradas antes de os quartos serem desossados.\n\n6. A categoria é indicada em conformidade com o ponto A.II do anexo V do Regulamento (CE) n.º 1234/2007 e com o disposto nos n.^os^ 3 e 4 do artigo 2.º do presente regulamento.\n\nA eventual indicação de subclasses ou, se for caso disso, a discriminação da categoria em função da idade são efectuadas por meio de símbolos diferentes dos utilizados para a classificação.\n\n7. As obrigações relativas à identificação das carcaças previstas nos n.^os^ 3 a 6 não são aplicáveis aos estabelecimentos aprovados que procedam igualmente à desossagem da totalidade das carcaças obtidas."
+  },
+  "d863d3962b0ed2f4": {
+   "fragment_id": "Artigo 7.º — Comunicação dos resultados da classificação",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Comunicação dos resultados da classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Comunicação dos resultados da classificação\n\n1. Os resultados da classificação efectuada em conformidade com o ponto A.V do anexo V do Regulamento (CE) n.º 1234/2007 são comunicados por escrito ou por meios electrónicos à pessoa singular ou colectiva que mande proceder às operações de abate.\n\n2. Para efeitos da comunicação dos resultados da classificação, são indicados na factura, ou num documento anexo a esta, enviada ao fornecedor do animal ou, na sua falta, à pessoa singular ou colectiva que mande realizar as operações de abate, por carcaça:\n\na) A categoria e as classes de conformação e de camada de gordura, por meio das letras e dos algarismos correspondentes, referidos nos pontos A.II e A.III do anexo V do Regulamento (CE) n.º 1234/2007;\n\nb) O peso da carcaça determinado em conformidade com o n.º 2 do artigo 13.º do presente regulamento, especificando se se refere ao peso verificado a frio ou a quente;\n\nc) A apresentação da carcaça utilizada aquando da pesagem e da classificação no gancho;\n\nd) Se for caso disso, que a classificação foi efectuada utilizando técnicas de classificação automatizada.\n\n3. Os Estados-Membros podem exigir que a comunicação referida na alínea a) do n.º 2 inclua as subclasses de conformação e de camada de gordura, caso essa informação esteja disponível.\n\nA indicação da apresentação da carcaça referida na alínea c) do n.º 2 não é obrigatória se só for permitida uma única apresentação nos termos da legislação adoptada a nível do Estado-Membro."
+  },
+  "564226fcaf666dcc": {
+   "fragment_id": "Artigo 8.º — Classificação por classificadores qualificados",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Classificação por classificadores qualificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Classificação por classificadores qualificados\n\nOs Estados-Membros velam por que a classificação seja efectuada por classificadores qualificados que disponham de uma licença para esse efeito. A licença pode ser substituída por uma aprovação concedida pelo Estado-Membro sempre que esta equivalha ao reconhecimento de uma qualificação."
+  },
+  "c2440a64726b124a": {
+   "fragment_id": "Artigo 9.º — Autorização de técnicas de classificação automatizada",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Autorização de técnicas de classificação automatizada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Autorização de técnicas de classificação automatizada\n\n1. Os Estados-Membros podem conceder licenças que autorizem a utilização de técnicas de classificação automatizada, aplicáveis na totalidade ou numa parte do seu território.\n\nA autorização está subordinada ao respeito das condições e exigências mínimas do teste de certificação definidas na parte A do anexo II.\n\nOs Estados-Membros comunicam à Comissão, pelo menos dois meses antes do início do teste de certificação, as informações referidas na parte B do anexo II. Os Estados-Membros designam um organismo independente, que analisa os resultados do teste de certificação. No prazo de dois meses a contar do final do teste de certificação, os Estados-Membros comunicam à Comissão as informações referidas na parte C do anexo II.\n\n2. Se uma licença que autorize técnicas de classificação automatizada for concedida com base num teste de certificação em que tenha sido utilizada mais do que uma apresentação da carcaça, as diferenças entre as apresentações utilizadas não devem dar origem a diferenças nos resultados da classificação.\n\n3. Os Estados-Membros podem, uma vez informada a Comissão, conceder uma licença que autorize a utilização de técnicas de classificação automatizada, aplicável na totalidade ou numa parte do seu território, sem terem realizado um teste de certificação, se tal licença tiver sido já concedida em relação às mesmas técnicas de classificação automatizada, para aplicação noutra parte do Estado-Membro em causa ou noutro Estado-Membro, com base num teste de certificação efectuado com uma amostra de carcaças que considerem igualmente representativa, em termos de categoria e de classes de conformação e de camada de gordura, dos bovinos adultos abatidos no Estado-Membro em causa, ou numa parte do mesmo.\n\n4. A alteração das especificações técnicas das técnicas de classificação automatizada em relação às quais tenha sido concedida uma licença só é permitida depois de ter sido aprovada pelas autoridades competentes do Estado-Membro em causa, e se tiver sido provado que resulta, pelo menos, na mesma precisão que a obtida no teste de certificação.\n\nOs Estados-Membros comunicam à Comissão todas as alterações que tiverem aprovado."
+  },
+  "0d56a3e7af155d6e": {
+   "fragment_id": "Artigo 10.º — Classificação automatizada",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Classificação automatizada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Classificação automatizada\n\n1. Os estabelecimentos que recorram a técnicas de classificação automatizada:\n\na) Identificam a categoria da carcaça; para tal, devem utilizar o regime de identificação e registo de bovinos referido no título I do Regulamento (CE) n.º 1760/2000;\n\nb) Conservam relatórios de controlo diários do funcionamento das técnicas de classificação automatizada, incluindo, nomeadamente, quaisquer insuficiências detectadas e medidas tomadas, quando necessário.\n\n2. A classificação automatizada só é válida se:\n\na) A apresentação da carcaça for idêntica à utilizada no teste de certificação; ou\n\nb) For demonstrado, perante as autoridades competentes do Estado-Membro em causa, que a utilização de uma apresentação da carcaça diferente não tem qualquer incidência no resultado obtido mediante as técnicas de classificação automatizada."
+  },
+  "58ca12f2b3e54fb6": {
+   "fragment_id": "Artigo 11.º — Controlos in loco",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Controlos in loco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Controlos in loco\n\n1. O desempenho dos classificadores referidos no artigo 8.º, bem como a classificação e a identificação das carcaças nos estabelecimentos abrangidos pelo ponto A.V do anexo V do Regulamento (CE) n.º 1234/2007 são objecto de controlos *in loco* sem aviso prévio, efectuados por um organismo independente dos organismos responsáveis pela classificação e dos estabelecimentos.\n\nNo entanto, a independência relativamente aos organismos responsáveis pela classificação não é necessária quando seja a própria autoridade competente a executar os referidos controlos.\n\n2. Os controlos devem ser efectuados pelo menos duas vezes por trimestre em todos os estabelecimentos aprovados que abatam mais de 75 bovinos adultos por semana, em média anual. Cada controlo deve incidir, pelo menos, em 40 carcaças, seleccionadas aleatoriamente.\n\nContudo, nos estabelecimentos aprovados que abatam 75 bovinos adultos por semana ou menos, em média anual, os Estados-Membros determinam a frequência dos controlos e o número mínimo de carcaças a controlar com base na avaliação de riscos que tiverem efectuado, nomeadamente tendo em conta o número de abates de bovinos adultos nos matadouros em causa e os resultados dos controlos anteriores efectuados nesses matadouros.\n\nOs Estados-Membros notificam à Comissão até 1 de Julho de 2009 as medidas que tiverem adoptado em execução do disposto no segundo parágrafo e, posteriormente, no prazo de um mês a contar de qualquer alteração às informações a notificar.\n\n3. Em todos os estabelecimentos aprovados que recorram à classificação automatizada devem ser efectuados pelo menos seis controlos por trimestre, durante os primeiros 12 meses a contar da concessão da licença referida no n.º 1 do artigo 9.º. Após esse período, os controlos devem ser efectuados pelo menos duas vezes por trimestre em todos os estabelecimentos aprovados que recorram à classificação automatizada. Cada controlo deve incidir pelo menos em 40 carcaças, seleccionadas aleatoriamente. Nos controlos verificam-se, nomeadamente:\n\na) A categoria da carcaça;\n\nb) A precisão das técnicas de classificação automatizada, com base no sistema de pontos e nos limites referidos na parte A.3 do anexo II;\n\nc) A apresentação da carcaça;\n\nd) A aferição diária, bem como outros aspectos técnicos das técnicas de classificação automatizada necessários para assegurar que a precisão dos resultados obtidos com a sua utilização seja pelo menos igual à registada no teste de certificação;\n\ne) Os relatórios de controlo diários referidos na alínea b) do n.º 1 do artigo 10.º\n\n4. Sempre que o organismo de controlo não esteja sob a autoridade de um organismo público, os controlos previstos nos n.^os^ 2 e 3 devem ser objecto de uma supervisão física nas mesmas condições por um organismo público, pelo menos uma vez por ano. O organismo público é informado regularmente dos resultados dos trabalhos do organismo de controlo."
+  },
+  "ebe73d1b95a1c52c": {
+   "fragment_id": "Artigo 12.º — Relatórios de controlo e acções de seguimento",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Relatórios de controlo e acções de seguimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Relatórios de controlo e acções de seguimento\n\n1. São elaborados e conservados pelos organismos nacionais de controlo relatórios dos controlos a que se refere o artigo 11.º. Esses relatórios indicam nomeadamente o número de carcaças examinadas e o número de carcaças cuja classificação ou identificação seja incorrecta. Incluem igualmente todas as indicações relativas aos modos de apresentação utilizados e, quando for caso disso, à sua conformidade com as regras comunitárias.\n\n2. No caso de ser constatado um número significativo de classificações incorrectas ou de identificações não conformes aquando dos controlos a que se refere o artigo 11.º:\n\na) O número de carcaças examinadas e a frequência dos controlos *in loco* são aumentados;\n\nb) As licenças previstas no artigo 8.º e no n.º 1 do artigo 9.º podem ser retiradas."
+  },
+  "6bd5875908af6700": {
+   "fragment_id": "Artigo 13.º — Preço de mercado a registar",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Preço de mercado a registar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Preço de mercado a registar\n\n1. O preço de mercado a estabelecer com base na grelha comunitária de classificação referida na alínea a) do n.º 1 do artigo 42.º do Regulamento (CE) n.º 1234/2007 é o preço, à entrada do matadouro, sem o imposto sobre o valor acrescentado, pago ao fornecedor pelo animal. Este preço é expresso por 100 quilogramas de peso de carcaça apresentada em conformidade com o disposto no n.º 3 do presente artigo, pesada e classificada no gancho do matadouro.\n\n2. O peso a tomar em consideração é o da carcaça a quente, o mais tardar uma hora depois de o animal ter sido degolado.\n\nO peso da carcaça fria corresponde ao peso a quente, referido no primeiro parágrafo, menos 2 %.\n\n3. Para o estabelecimento dos preços de mercado, a carcaça é apresentada sem remoção das gorduras de acabamento, sendo o pescoço seccionado em conformidade com as prescrições veterinárias, e:\n\na) Sem os rins;\n\nb) Sem a gordura dos rins;\n\nc) Sem a gordura da bacia;\n\nd) Sem o diafragma;\n\ne) Sem os pilares do diafragma;\n\nf) Sem a cauda;\n\ng) Sem espinal medula,\n\nh) Sem gordura da virilha;\n\ni) Sem a gordura de cobertura do pojadouro;\n\nj) Sem a goteira jugular e a gordura adjacente.\n\n4. Para efeitos da aplicação do segundo parágrafo do ponto A.V do anexo V do Regulamento (CE) n.º 1234/2007 e em derrogação do n.º 3 do presente artigo, a remoção das gorduras de acabamento comporta exclusivamente a remoção parcial das gorduras externas:\n\na) Ao nível da alcatra, da vazia e do acém;\n\nb) Ao nível da maçã do peito, da região perineal e da cauda;\n\nc) Ao nível do pojadouro.\n\n5. Caso a apresentação da carcaça, aquando da pesagem e classificação no gancho, difira da apresentação de referência prevista no n.º 3, o seu peso é ajustado, mediante a utilização dos factores de correcção fixados no anexo III, para passar dessa apresentação à apresentação de referência. Neste caso, o preço por 100 quilogramas de carcaça será ajustado em conformidade.\n\nSempre que os ajustamentos referidos no primeiro parágrafo sejam os mesmos em todo o território de um Estado-Membro, são calculados a nível nacional. Caso difiram de um matadouro para outro, são calculados individualmente."
+  },
+  "f15f759496cc08e0": {
+   "fragment_id": "Artigo 14.º — Categorias e classes para efeitos do registo dos preços de mercado",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Categorias e classes para efeitos do registo dos preços de mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Categorias e classes para efeitos do registo dos preços de mercado\n\n1. O registo nacional e comunitário dos preços de mercado com base na grelha comunitária de classificação referida na alínea a) do n.º 1 do artigo 42.º do Regulamento (CE) n.º 1234/2007 é efectuado semanalmente, em relação às classes de conformação e de camada de gordura a seguir indicadas, para as cinco categorias especificadas no ponto A.II do anexo V desse regulamento:\n\na) Carcaças de machos não castrados com menos de dois anos: U2, U3, R2, R3, O2 e O3;\n\nb) Carcaças de outros machos não castrados: R3;\n\nc) Carcaças de machos castrados: U2, U3, U4, R3, R4, O3, O4;\n\nd) Carcaças de fêmeas que tenham parido: R3, R4, O2, O3, O4, P2, P3;\n\ne) Carcaças de outras fêmeas: U2, U3, R2, R3, R4, O2, O3, O4.\n\n2. Os Estados-Membros decidem se os seus territórios devem compreender uma única região ou ser divididos em mais do que uma região. A decisão deve ser tomada com base:\n\na) Na dimensão dos seus territórios;\n\nb) Na existência de divisões administrativas, se for caso disso;\n\nc) Em variações geográficas dos preços.\n\nNo entanto, o Reino Unido deve ser dividido em, pelo menos, duas regiões, nomeadamente a Grã-Bretanha e a Irlanda do Norte, que podem ser subdivididas com base nos critérios previstos no primeiro parágrafo."
+  },
+  "557de3e5a6ad52c3": {
+   "fragment_id": "Artigo 15.º — Preços representativos",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Preços representativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Preços representativos\n\n1. Devem proceder ao registo dos preços:\n\na) O explorador de qualquer matadouro que abata anualmente 20 000 ou mais bovinos adultos criados por ele ou por sua conta e/ou por ele adquiridos;\n\nb) O explorador de qualquer matadouro designado pelo Estado-Membro que abata anualmente menos de 20 000 bovinos adultos criados por ele ou por sua conta e/ou por ele adquiridos;\n\nc) Qualquer pessoa singular ou colectiva que envie anualmente para abate num matadouro 10 000 ou mais bovinos adultos;\n\nd) Qualquer pessoa singular ou colectiva designada pelo Estado-Membro que envie anualmente para abate num matadouro menos de 10 000 bovinos adultos.\n\nO Estado-Membro assegura que sejam registados os preços para, pelo menos:\n\na) 25 % dos abates nas regiões que, em conjunto, abrangem pelo menos 75 % da totalidade dos abates nesse Estado-Membro, e\n\nb) 30 % dos bovinos adultos abatidos no seu território.\n\n2. Os preços registados em conformidade com o n.º 1 são os respeitantes aos bovinos adultos abatidos durante o período de registo em causa, com base no peso da carcaça fria referido no segundo parágrafo do n.º 2 do artigo 13.º\n\nNo caso de um matadouro que abata bovinos adultos criados por ele ou por sua conta, o preço registado é o preço médio pago pelas carcaças da categoria e classe equivalentes abatidas durante a mesma semana nesse matadouro.\n\nOs preços registados para cada classe referida no n.º 1 do artigo 14.º indicam o peso-carcaça médio a que dizem respeito e se foram ou não corrigidos para ter em conta cada um dos elementos referidos no artigo 13.º"
+  },
+  "0fced4ecf8d80d13": {
+   "fragment_id": "Artigo 16.º — Cálculo dos preços semanais",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Cálculo dos preços semanais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Cálculo dos preços semanais\n\n1. Os preços registados nos termos do artigo 15.º, no período compreendido entre segunda-feira e domingo, são:\n\na) Comunicados, por escrito ou por meios electrónicos, à autoridade competente do Estado-Membro pelo explorador do matadouro ou pela pessoa singular ou colectiva em causa, no prazo fixado pelo Estado-Membro; ou\n\nb) À escolha do Estado-Membro, postos à disposição da respectiva autoridade competente no matadouro ou nas instalações da pessoa singular ou colectiva.\n\nNo entanto, sempre que um Estado-Membro tenha criado um comité para determinar os preços relativos a uma região e os membros desse comité representem paritariamente os compradores e os vendedores de bovinos adultos e suas carcaças, estando a presidência assegurada por um agente da autoridade competente, o referido Estado-Membro pode decidir que os preços e informações sejam enviados directamente ao presidente do comité na região em causa. No caso de o Estado-Membro não decidir desse modo, a autoridade competente envia esses preços e informações ao presidente do referido comité. O presidente assegura que a origem de cada preço não possa ser identificada quando comunicada aos membros do comité.\n\n2. Os preços comunicados são preços médios por classe.\n\n3. Os matadouros ou as pessoas singulares ou colectivas referidos no primeiro parágrafo do n.º 1 do artigo 15.º que efectuem pagamentos suplementares a fornecedores de bovinos adultos ou suas carcaças, não tidos em conta nos preços comunicados, comunicam às autoridades competentes do respectivo Estado-Membro o último pagamento suplementar efectuado e o período a que diz respeito. Em seguida, comunicam ao Estado-Membro o montante de quaisquer pagamentos suplementares sempre que estes sejam efectuados.\n\n4. A autoridade competente do Estado-Membro, com base nos preços que lhe tenham sido comunicados nos termos do n.º 1 do presente artigo, determina os preços regionais médios para cada classe referida no n.º 1 do artigo 14.º\n\nOs comités referidos no segundo parágrafo do n.º 1 do presente artigo, com base nos preços que lhes tenham sido comunicados nos termos do n.º 1 do presente artigo, determinam os preços regionais médios para cada classe referida no n.º 1 do artigo 14.º e comunicam-nos à autoridade competente do Estado-Membro.\n\n5. No caso de compras efectuadas numa base forfetária, sempre que as carcaças de uma remessa pertençam no máximo a três classes de conformação consecutivas e três classes de camada de gordura consecutivas na mesma categoria, o preço deve ser tido em conta na determinação dos preços referidos no n.º 4 para a classe de conformação em que esteja classificado o maior número de carcaças ou, se estas estiverem igualmente divididas pelas classes, para a classe intermédia, caso exista. Nos outros casos, o preço não é tido em conta.\n\nNo entanto, quando as compras efectuadas numa base forfetária corresponderem a menos de 35 % dos abates totais de bovinos adultos num Estado-Membro, este pode decidir não ter em conta os preços dessas compras para os cálculos referidos no n.º 4.\n\n6. A autoridade competente calcula em seguida um preço nacional inicial para cada classe através da ponderação dos preços regionais, a fim de ter em conta a importância dos abates na região a que dizem respeito, para a categoria em causa, relativamente ao número total de abates para essa categoria no Estado-Membro em questão.\n\n7. A autoridade competente corrige o preço nacional inicial por classe referido no n.º 6:\n\na) Para ter em conta cada um dos elementos referidos no artigo 13.º, se essa correcção não tiver sido já efectuada;\n\nb) Para garantir que o preço é calculado com base no peso da carcaça fria referido no segundo parágrafo do n.º 2 do artigo 13.º;\n\nc) Para ter em conta os pagamentos suplementares efectuados, referidos no n.º 3, no caso de a correcção ser de pelo menos 1 % do preço para a classe em questão.\n\nA correcção referida na alínea c) é obtida pela autoridade competente dividindo os pagamentos suplementares totais efectuados a título do sector da carne de bovino no Estado-Membro em causa durante o exercício financeiro anterior pela produção anual total, expressa em toneladas, de bovinos adultos a que dizem respeito os preços comunicados.\n\n8. Sempre que a autoridade competente do Estado-Membro considere que os preços que lhe são comunicados:\n\na) Dizem respeito a um número insignificante de carcaças, essa autoridade não os toma em conta;\n\nb) Não parecem fiáveis, só os toma em conta se puder certificar-se de que são fiáveis."
+  },
+  "e7caf803123af400": {
+   "fragment_id": "Artigo 17.º — Comunicação semanal dos preços à Comissão",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Comunicação semanal dos preços à Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Comunicação semanal dos preços à Comissão\n\n1. Os Estados-Membros comunicam à Comissão, nos termos do artigo 36.º, os preços calculados em conformidade com os n.^os^ 4 a 7 do artigo 16.º. Os Estados-Membros não comunicam esses preços a qualquer outro organismo antes de os terem comunicado à Comissão.\n\n2. Sempre que, devido a circunstâncias excepcionais ou ao carácter sazonal da oferta, não seja possível, num Estado-Membro ou região, registar preços respeitantes a um número significativo de carcaças de uma ou várias classes referidas no n.º 1 do artigo 14.º, a Comissão pode recorrer aos últimos preços registados anteriormente para a ou as classes referidas. Se essa situação persistir por mais de duas semanas consecutivas, a Comissão pode decidir eliminar temporariamente a ou as classes em questão para efeitos da comunicação dos preços e redistribuir temporariamente a ou as ponderações atribuídas a essas classes."
+  },
+  "564fb76529a9c205": {
+   "fragment_id": "Artigo 18.º — Preços comunitários médios",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Preços comunitários médios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Preços comunitários médios\n\n1. Para uma determinada categoria:\n\na) O preço comunitário médio para cada classe de conformação e de camada de gordura referida no n.º 1 do artigo 14.º é a média ponderada dos preços de mercado nacionais registados para essa classe. A ponderação baseia-se na proporção dos abates dessa classe em cada Estado-Membro relativamente aos abates comunitários totais da mesma classe;\n\nb) O preço comunitário médio para cada classe de conformação é a média ponderada dos preços comunitários médios para as classes de camada de gordura que compõem essa classe de conformação. A ponderação baseia-se na proporção dos abates de cada classe de camada de gordura relativamente aos abates comunitários totais dessa classe de conformação;\n\nc) O preço comunitário médio é a média ponderada dos preços comunitários médios referidos na alínea a). A ponderação baseia-se na proporção dos abates de cada classe referida na alínea a) relativamente aos abates comunitários totais na categoria.\n\n2. O preço comunitário médio para o conjunto das categorias é a média ponderada dos preços médios referidos na alínea c) do n.º 1. A ponderação baseia-se na proporção de cada categoria relativamente aos abates totais de bovinos adultos na Comunidade."
+  },
+  "6f9303bbcc722999": {
+   "fragment_id": "Artigo 19.º — Notificação anual dos Estados-Membros à Comissão",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Notificação anual dos Estados-Membros à Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Notificação anual dos Estados-Membros à Comissão\n\nOs Estados-Membros transmitem anualmente à Comissão, até 15 de Abril:\n\na) Uma lista confidencial dos matadouros que procedem ao registo dos preços por força da alínea a) ou da alínea b) do n.º 1 do artigo 15.º, com indicação da quantidade de bovinos adultos abatidos em cada um desses matadouros, expressa em número de animais e, se possível, em toneladas de peso-carcaça, no ano civil anterior;\n\nb) Uma lista confidencial das pessoas singulares ou colectivas que procedem ao registo dos preços por força da alínea c) ou da alínea d) do n.º 1 do artigo 15.º, com indicação da quantidade de bovinos adultos, expressa em número de animais e, se possível, em toneladas de peso-carcaça, que mandaram abater no decurso do ano civil anterior;\n\nc) Uma lista das regiões em que os preços são registados e as ponderações relativas a cada uma delas em conformidade com o n.º 6 do artigo 16.º"
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "c2a0c4ea2b9fcb19": {
+   "fragment_id": "SECTOR DA CARNE DE SUÍNO",
+   "type": "divisao",
+   "heading": "SECTOR DA CARNE DE SUÍNO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SECTOR DA CARNE DE SUÍNO"
+  },
+  "b20965b57b815417": {
+   "fragment_id": "Artigo 20.º — Derrogações da obrigatoriedade de classificação das carcaças",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Derrogações da obrigatoriedade de classificação das carcaças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Derrogações da obrigatoriedade de classificação das carcaças\n\n1. A grelha comunitária de classificação das carcaças de suínos referida no n.º 1 do artigo 42.º do Regulamento (CE) n.º 1234/2007 é utilizada por todos os matadouros para permitir aos produtores obter um pagamento justo baseado no peso e na composição dos suínos entregues ao matadouro.\n\n2. Em derrogação do n.º 1, os Estados-Membros podem decidir não tornar obrigatória a aplicação dessa grelha nos matadouros:\n\na) De que fixam o número máximo de abates realizados, não podendo este número ultrapassar, numa média anual, 200 porcos por semana;\n\nb) Que apenas abatem suínos nascidos e engordados nos seus próprios estabelecimentos de reprodução e procedem à desmancha da totalidade das carcaças obtidas.\n\nOs Estados-Membros em causa notificam à Comissão a decisão referida no primeiro parágrafo, especificando o número máximo de abates que podem ser realizados em cada matadouro dispensado da aplicação da grelha comunitária."
+  },
+  "b2abdab7c3db5143": {
+   "fragment_id": "Artigo 21.º — Pesagem, classificação e marcação",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Pesagem, classificação e marcação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Pesagem, classificação e marcação\n\n1. As carcaças de suíno são classificadas, segundo a classificação definida no ponto B.II do anexo V do Regulamento (CE) n.º 1234/2007, no momento da pesagem.\n\nNo caso dos suínos abatidos no seu território, os Estados-Membros podem ser autorizados a permitir que a classificação anteceda a pesagem, de acordo com o procedimento previsto no n.º 2 do artigo 195.º do Regulamento (CE) n.º 1234/2007.\n\n2. Em conformidade com a alínea m) iv) do artigo 43.º do Regulamento (CE) n.º 1234/2007, o disposto no ponto B.II do anexo V desse regulamento e no n.º 1 do presente artigo não impede, no que diz respeito aos suínos abatidos no território de um Estado-Membro, a utilização de outros critérios de avaliação, para além do peso e do teor estimado de carne magra.\n\n3. Imediatamente após a classificação, as carcaças de suínos são marcadas com a letra maiúscula que designe a classe da carcaça ou com a percentagem que exprima o teor estimado de carne magra em conformidade com o ponto B.II do anexo V do Regulamento (CE) n.º 1234/2007.\n\nAs letras ou os algarismos devem ter, pelo menos, dois centímetros de altura. A marcação pode ser efectuada com qualquer tinta não tóxica, indelével e resistente ao calor ou por qualquer outro meio de marcação permanente aprovado previamente pelas autoridades nacionais competentes.\n\nSem prejuízo do primeiro parágrafo, pode ser aposta na carcaça uma indicação relativa ao peso da carcaça ou outras indicações consideradas adequadas.\n\nAs meias-carcaças são marcadas sobre a pele ao nível do pernil posterior ou da perna.\n\nÉ igualmente considerada como marcação satisfatória a aposição de rótulos colocados de modo a impedir a sua deslocação sem os estragar.\n\n4. Em derrogação do n.º 3, os Estados-Membros podem prever que não seja necessário marcar as carcaças de suínos sempre que seja redigido um relatório que contenha, pelo menos, relativamente a cada carcaça:\n\na) A identificação da carcaça, efectuada de modo inalterável;\n\nb) O peso da carcaça a quente; e\n\nc) O teor estimado de carne magra.\n\nEste relatório deve ser conservado durante seis meses e ser autenticado, no dia da sua elaboração, por uma pessoa encarregada dessa função de fiscalização.\n\nTodavia, para serem comercializadas inteiras noutro Estado-Membro, as carcaças devem ser marcadas segundo a designação de classe apropriada prevista no ponto B.II do anexo V do Regulamento (CE) n.º 1234/2007 ou segundo a percentagem que exprime o teor de carne magra.\n\n5. Sem prejuízo do segundo parágrafo do ponto B.III do anexo V do Regulamento (CE) n.º 1234/2007, antes da pesagem, da classificação e da marcação não pode ser retirado destas carcaças nenhum tecido adiposo, muscular ou outro."
+  },
+  "00b11bb1602e8e17": {
+   "fragment_id": "Artigo 22.º — Peso da carcaça",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Peso da carcaça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Peso da carcaça\n\n1. Para efeitos da aplicação da alínea b) do n.º 1 do artigo 42.º do Regulamento (CE) n.º 1234/2007, o peso refere-se à carcaça fria com a apresentação descrita no ponto B.III do anexo V do mesmo regulamento.\n\n2. A carcaça é pesada o mais depressa possível depois do abate, mas o mais tardar 45 minutos depois de o porco ter sido degolado.\n\nO peso da carcaça fria corresponde ao peso registado a quente em conformidade com o primeiro parágrafo, menos 2 %.\n\nSe, num dado matadouro, o intervalo de 45 minutos entre a degola e a pesagem do suíno não puder ser respeitado, as autoridades competentes do Estado-Membro em causa podem autorizar que este limite seja ultrapassado desde que a dedução de 2 % estabelecida no segundo parágrafo seja diminuída de 0,1 pontos por cada quarto de hora suplementar, mesmo incompleto.\n\n3. Em derrogação dos n.^os^ 1 e 2, o peso da carcaça fria pode ser calculado por uma dedução, em valor absoluto, de acordo com uma tabela de reduções previamente estabelecida pelos Estados-Membros em conformidade com as características dos seus efectivos suínos e notificada à Comissão. A utilização de tais tabelas é autorizada de acordo com o procedimento previsto no n.º 2 do artigo 195.º do Regulamento (CE) n.º 1234/2007, desde que as reduções previstas por classe de peso correspondam, na medida do possível, à dedução resultante dos n.^os^ 1 e 2."
+  },
+  "b4bbccad93b2b46b": {
+   "fragment_id": "Artigo 23.º — Teor de carne magra das carcaças de suínos",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Teor de carne magra das carcaças de suínos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Teor de carne magra das carcaças de suínos\n\n1. Para efeitos da aplicação do ponto B.IV do anexo V do Regulamento (CE) n.º 1234/2007, o teor de carne magra de uma carcaça de suíno é a relação entre:\n\n— o peso do conjunto dos músculos estriados vermelhos que possam ser separados por meio de uma faca, por um lado,\n\n— o peso da carcaça, por outro lado.\n\nO peso do conjunto dos músculos estriados vermelhos é obtido pela dissecação total ou parcial da carcaça, ou por uma combinação de dissecação total ou parcial com um método rápido nacional, baseado em métodos estatisticamente testados e aprovados de acordo com o procedimento previsto no n.º 2 do artigo 195.º do Regulamento (CE) n.º 1234/2007.\n\nA dissecação a que se refere o segundo parágrafo pode também ser substituída por uma avaliação da percentagem de carne magra por dissecação total com um aparelho de tomografia computorizada, desde que sejam fornecidos resultados comparados de dissecação satisfatórios.\n\n2. O método estatístico padrão de estimativa do teor de carne magra das carcaças de suínos autorizado como método de classificação, na acepção do ponto IV.B do anexo V do Regulamento (CE) n.º 1234/2007, é o método dos mínimos quadrados ordinários ou o método da redução matricial, mas podem ser utilizados outros métodos estatisticamente testados.\n\nO método deve basear-se numa amostra representativa da produção nacional ou regional de carne de suíno em causa, constituída no mínimo por 120 carcaças cujo teor de carne magra tenha sido avaliado em conformidade com o método de dissecação previsto no anexo IV do presente regulamento. Se forem utilizados métodos de amostragem múltipla, a referência é medida em pelo menos 50 carcaças e a precisão é pelo menos igual à obtida com o método estatístico padrão em 120 carcaças utilizando o método previsto no anexo IV.\n\n3. Os métodos de classificação apenas são autorizados se a raiz quadrada do erro quadrático médio de previsão (RMSEP), calculado por uma técnica de validação cruzada ou por um ensaio de validação numa amostra representativa de 60 carcaças pelo menos, for inferior a 2,5. Além disso, os valores atípicos são incluídos no cálculo do RMSEP.\n\n4. Os Estados-Membros comunicam à Comissão, através de um protocolo, os métodos de classificação que pretendam que sejam autorizados para aplicação no respectivo território, descrevendo o ensaio de dissecação e indicando os princípios destes métodos e as equações de estimativa da percentagem de carne magra utilizadas. O protocolo deve ser constituído por duas partes e incluir os elementos previstos no anexo V. A primeira parte do protocolo deve ser apresentada à Comissão antes do início do ensaio de dissecação.\n\nA aplicação dos métodos de classificação no território de um Estado-Membro é autorizada de acordo com o procedimento previsto no n.º 2 do artigo 195.º do Regulamento (CE) n.º 1234/2007, com base no protocolo.\n\n5. A aplicação dos métodos de classificação deve corresponder a todas as especificações fixadas na decisão comunitária de autorização."
+  },
+  "e4b6c171ff962bb6": {
+   "fragment_id": "Artigo 24.º — Controlos in loco",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Controlos in loco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Controlos in loco\n\n1. A classificação, a pesagem e a marcação das carcaças nos estabelecimentos referidos no artigo 20.º são objecto de controlos *in loco* sem aviso prévio, efectuados por um organismo independente dos organismos responsáveis pela classificação e dos estabelecimentos.\n\nNo entanto, a independência relativamente aos organismos responsáveis pela classificação não é necessária quando seja a própria autoridade competente a executar os referidos controlos.\n\n2. Os controlos devem ser efectuados pelo menos duas vezes por trimestre em todos os estabelecimentos aprovados que abatam 200 suínos ou mais por semana, em média anual.\n\nContudo, nos estabelecimentos que abatam menos de 200 suínos por semana, em média anual, os Estados-Membros determinam a frequência dos controlos.\n\n3. Para efeitos da aplicação do disposto nos n.^os^ 1 e 2, os Estados-Membros:\n\na) Determinam o âmbito dos controlos com base na avaliação de riscos que tiverem efectuado, nomeadamente tendo em conta o número de abates de suínos nos matadouros em causa e os resultados dos controlos anteriores efectuados nesses matadouros;\n\nb) Notificam à Comissão até 1 de Julho de 2009 as medidas que tiverem adoptado em execução das presentes disposições e, posteriormente, no prazo de um mês a contar de qualquer alteração às informações a notificar.\n\n4. Sempre que o organismo de controlo não esteja sob a responsabilidade de um organismo público, os controlos previstos nos n.^os^ 1 e 2 devem ser objecto de uma supervisão física nas mesmas condições por um organismo público, pelo menos uma vez por ano. O organismo público é informado regularmente dos resultados dos trabalhos do organismo de controlo."
+  },
+  "bb1b96f2d4b927c2": {
+   "fragment_id": "Artigo 25.º — Preço de mercado das carcaças de suíno nos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Preço de mercado das carcaças de suíno nos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Preço de mercado das carcaças de suíno nos Estados-Membros\n\n1. O preço de mercado das carcaças de suíno num Estado-Membro é igual à média das cotações das carcaças de suíno registadas nos mercados ou centros de cotações representativos desse Estado-Membro.\n\n2. O preço referido no n.º 1 é determinado pelas cotações estabelecidas para as carcaças com um peso de:\n\n— 60 até menos de 120 quilogramas, da classe E,\n\n— 120 até menos de 180 quilogramas, da classe R.\n\nA escolha das categorias de peso e a sua eventual ponderação são deixadas ao Estado-Membro em causa; o Estado-Membro informa a Comissão da sua escolha.\n\n3. Os Estados-Membros notificam à Comissão os mercados ou centros de cotações representativos referidos no n.º 1 até 1 de Julho de 2009 e, posteriormente, no prazo de um mês a contar de qualquer alteração às informações a notificar.\n\nA Comissão transmite aos restantes Estados-Membros as notificações referidas no primeiro parágrafo."
+  },
+  "7d5d5422049a32aa": {
+   "fragment_id": "Artigo 26.º — Preço comunitário médio",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Preço comunitário médio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Preço comunitário médio\n\n1. O preço médio de mercado das carcaças de suíno na Comunidade, referido nos artigos 17.º e 37.º do Regulamento (CE) n.º 1234/2007, é determinado a partir dos preços, à entrada no matadouro, sem o imposto sobre o valor acrescentado, pagos aos fornecedores de suínos vivos.\n\n2. Os preços determinados nos termos do n.º 1 incluem o valor das miudezas e sobras não transformadas e são expressos por 100 quilogramas de carcaça fria de suíno:\n\n— apresentada de acordo com a apresentação de referência mencionada no ponto B.III do anexo V do Regulamento (CE) n.º 1234/2007, e\n\n— pesada e classificada no gancho do matadouro, sendo o peso registado convertido em peso da carcaça fria de acordo com os métodos previstos no artigo 22.º do presente regulamento.\n\n3. Para efeitos do cálculo do preço de mercado na Comunidade previsto no n.º 1, os preços registados em cada Estado-Membro são ponderados por coeficientes que exprimam a importância relativa do efectivo suíno de cada Estado-Membro.\n\nOs coeficientes referidos no primeiro parágrafo são determinados a partir dos efectivos suínos recenseados no início de Dezembro de cada ano em aplicação da Directiva 93/23/CEE do Conselho [([^16])](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntr16-L_2008337PT.01000301-E0016)."
+  },
+  "ac887b2831a9ee86": {
+   "fragment_id": "Artigo 27.º — Comunicação semanal das cotações à Comissão",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Comunicação semanal das cotações à Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Comunicação semanal das cotações à Comissão\n\n1. Em conformidade com o artigo 36.º, os Estados-Membros comunicam à Comissão:\n\na) As cotações determinadas nos termos do n.º 1 do artigo 25.º e dos n.^os^ 1 e 2 do artigo 26.º;\n\nb) As cotações representativas para os leitões, por unidade de peso vivo médio de cerca de 20 quilogramas.\n\n2. Caso uma ou diversas cotações não sejam recebidas pela Comissão, esta considera a última cotação disponível. Caso a ou as cotações faltem pela terceira semana consecutiva, a Comissão deixa de considerar a ou as cotações em causa.\n\n3. A pedido da Comissão, os Estados-Membros comunicam as seguintes informações, relativas aos produtos abrangidos pela parte XVII do anexo I do Regulamento (CE) n.º 1234/2007, desde que delas disponham:\n\na) Os preços de mercado praticados nos Estados-Membros para os produtos importados de países terceiros;\n\nb) Os preços praticados nos mercados representativos de países terceiros."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "6453974404f8e6c8": {
+   "fragment_id": "SECTOR DA CARNE DE OVINO",
+   "type": "divisao",
+   "heading": "SECTOR DA CARNE DE OVINO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SECTOR DA CARNE DE OVINO"
+  },
+  "3fc9b29b00e69360": {
+   "fragment_id": "Artigo 28.º — Critérios de definição das carcaças de borregos leves",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Critérios de definição das carcaças de borregos leves",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Critérios de definição das carcaças de borregos leves\n\n1. Para efeitos da aplicação dos critérios referidos no n.º 2 do ponto C.III do anexo V do Regulamento (CE) n.º 1234/2007, são aplicáveis as regras estabelecidas no anexo VI do presente regulamento.\n\n2. A cor da carne, referida no anexo VI, é determinada no flanco, no *rectus abdominus*, por referência a uma escala de cores padrão."
+  },
+  "886792c5b75ea1b9": {
+   "fragment_id": "Artigo 29.º — Disposições complementares relativas às classes de conformação e de camada de gordura, peso da carcaça e cor da carne",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Disposições complementares relativas às classes de conformação e de camada de gordura, peso da carcaça e cor da carne",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Disposições complementares relativas às classes de conformação e de camada de gordura, peso da carcaça e cor da carne\n\nO anexo VII do presente regulamento estabelece disposições complementares que explicitam as definições das classes de conformação e de camada de gordura referidas no ponto C.III do anexo V do Regulamento (CE) n.º 1234/2007."
+  },
+  "81bf7e3d00e9f233": {
+   "fragment_id": "Artigo 30.º — Classificação e identificação",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Classificação e identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Classificação e identificação\n\n1. A classificação e a identificação a que se referem os pontos C.III e C.V do anexo V do Regulamento (CE) n.º 1234/2007 são efectuadas no próprio matadouro.\n\n2. A classificação, a identificação e a pesagem da carcaça são efectuadas o mais tardar uma hora depois de o animal ter sido degolado.\n\n3. A identificação das carcaças e meias-carcaças classificadas em conformidade com a grelha referida no segundo parágrafo do n.º 1 do artigo 42.º do Regulamento (CE) n.º 1234/2007 nos estabelecimentos participantes é efectuada mediante uma marcação que indique a categoria e as classes de conformação e de camada de gordura.\n\nEssa marcação é efectuada por estampilhagem com tinta indelével e não tóxica, de acordo com um processo aprovado pelas autoridades nacionais competentes.\n\nAs categorias são designadas do seguinte modo:\n\na) L: carcaças de ovinos com menos de 12 meses (borregos);\n\nb) S: carcaças de outros ovinos.\n\n4. Os Estados-Membros podem permitir a substituição da marcação por um rótulo inalterável e que possa ser fixado de forma segura."
+  },
+  "a21bbb7748d9e102": {
+   "fragment_id": "Artigo 31.º — Classificação por classificadores qualificados",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Classificação por classificadores qualificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Classificação por classificadores qualificados\n\nOs Estados-Membros velam por que a classificação seja efectuada por classificadores suficientemente qualificados. Os Estados-Membros determinam tais pessoas mediante um processo de aprovação ou por designação de um organismo responsável."
+  },
+  "3ecc4d1d76d1c960": {
+   "fragment_id": "Artigo 32.º — Controlos in loco",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Controlos in loco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Controlos in loco\n\n1. O desempenho dos classificadores referidos no artigo 31.º, bem como a classificação e a identificação das carcaças nos estabelecimentos participantes são objecto de controlos *in loco* sem aviso prévio, efectuados por um organismo designado pelo Estado-Membro e independente dos organismos responsáveis pela classificação e do estabelecimento participante.\n\nNo entanto, a independência relativamente aos organismos responsáveis pela classificação não é necessária quando seja a própria autoridade competente a executar os referidos controlos.\n\nSempre que o organismo de controlo não esteja sob a autoridade de um organismo público, os controlos previstos nos primeiro e segundo parágrafos devem ser objecto de uma supervisão física nas mesmas condições por um organismo público, pelo menos uma vez por ano. O organismo público é informado regularmente dos resultados dos trabalhos do organismo de controlo.\n\n2. Os controlos devem ser realizados pelo menos uma vez por trimestre em todos os estabelecimentos participantes que procedam à classificação e que abatam mais de 80 ovinos por semana, em média anual. Cada controlo deve incidir, pelo menos, em 40 carcaças, seleccionadas aleatoriamente.\n\nContudo, nos estabelecimentos participantes que abatam menos de 80 ovinos por semana, em média anual, os Estados-Membros determinam a frequência dos controlos e o número mínimo de carcaças a controlar com base na avaliação de riscos que tiverem efectuado, nomeadamente tendo em conta o número de abates de ovinos nos estabelecimentos em causa e os resultados dos controlos anteriores efectuados nesses estabelecimentos."
+  },
+  "2d4e10e2fff2c2c5": {
+   "fragment_id": "Artigo 33.º — Preço de mercado a registar",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Preço de mercado a registar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Preço de mercado a registar\n\n1. O preço de mercado a estabelecer com base na grelha comunitária de classificação das carcaças de ovinos referida no segundo parágrafo do n.º 1 do artigo 42.º do Regulamento (CE) n.º 1234/2007 é o preço, à entrada do matadouro, sem o imposto sobre o valor acrescentado, pago ao fornecedor pelos borregos de origem comunitária. Este preço é expresso por 100 quilogramas de peso de carcaça, apresentada conforme a apresentação de referência prevista no ponto C.IV do anexo V do Regulamento (CE) n.º 1234/2007, pesada e classificada no gancho do matadouro.\n\n2. O peso a tomar em consideração é o da carcaça a quente, corrigido de forma a ter em conta a perda de peso durante a refrigeração. Os Estados-Membros informam a Comissão dos factores de correcção utilizados.\n\n3. Caso a apresentação da carcaça, após pesagem e classificação no gancho, difira da apresentação de referência, o seu peso é ajustado pelos Estados-Membros, mediante a utilização dos factores de correcção previstos no segundo parágrafo do ponto C.IV do anexo V do Regulamento (CE) n.º 1234/2007. Os Estados-Membros notificam a Comissão dos factores de correcção utilizados."
+  },
+  "4afb8532a257076b": {
+   "fragment_id": "Artigo 34.º — Comunicação dos preços à Comissão",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Comunicação dos preços à Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Comunicação dos preços à Comissão\n\n1. Os Estados-Membros cuja produção de carne de ovino exceda 200 toneladas por ano comunicam à Comissão a lista confidencial dos matadouros ou outros estabelecimentos que participam no estabelecimento dos preços de acordo com a grelha comunitária, a seguir designados «estabelecimentos participantes», acompanhada de uma indicação da produção anual aproximada desses estabelecimentos participantes.\n\n2. Em conformidade com o disposto no artigo 36.º, os Estados-Membros referidos no n.º 1 comunicam à Comissão, relativamente a todos os estabelecimentos participantes, o preço médio de cada qualidade de borrego das grelhas comunitárias, com indicação da importância relativa de cada qualidade. No entanto, se uma qualidade representar menos de 1 % do total, não é necessário comunicar o seu preço. Os Estados-Membros comunicam igualmente à Comissão o preço médio, numa base ponderal, de todos os borregos classificados em cada grelha utilizada para efeitos da comunicação de preços.\n\nTodavia, os Estados-Membros podem subdividir os preços comunicados por classes de conformação e de desenvolvimento da camada de gordura previstas no n.º 1 do ponto C.III do anexo V do Regulamento (CE) n.º 1234/2007, com base em critérios de peso. O termo «qualidade» é definido como a combinação das classes de conformação e de camada de gordura."
+  },
+  "ffef31cb64f0b5f9": {
+   "fragment_id": "Artigo 35.º — Preços médios comunitários",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Preços médios comunitários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Preços médios comunitários\n\nPara efeitos do cálculo do preço médio das carcaças de borregos na Comunidade, os preços referidos no n.º 2 do artigo 34.º são ponderados por coeficientes que exprimam a importância relativa da produção de carne de ovino de cada Estado-Membro, relativamente à produção total de carne de ovino na Comunidade."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "2820a0672e2df197": {
+   "fragment_id": "DISPOSIÇÕES COMUNS E FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES COMUNS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES COMUNS E FINAIS"
+  },
+  "77bf2c0eb4b9537c": {
+   "fragment_id": "Artigo 36.º — Comunicação semanal dos preços à Comissão",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Comunicação semanal dos preços à Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Comunicação semanal dos preços à Comissão\n\n1. Os Estados-Membros comunicam à Comissão, até às 12.00 horas (hora de Bruxelas) de quarta-feira de cada semana, as cotações ou os preços de mercado referidos no n.º 1 do artigo 17.º, no n.º 1 do artigo 27.º e no n.º 2 do artigo 34.º do presente regulamento.\n\nOs preços ou cotações referem-se ao período, compreendido entre segunda-feira e domingo, anterior à semana em que a informação é comunicada.\n\nOs preços ou cotações comunicados são expressos em euros ou, se for caso disso, em moeda nacional.\n\n2. As comunicações previstas no n.º 1 são efectuadas por meios electrónicos, utilizando o formulário posto à disposição dos Estados-Membros pela Comissão."
+  },
+  "d7e751fb4ff445f4": {
+   "fragment_id": "Artigo 37.º — Revisão periódica dos coeficientes de ponderação",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Revisão periódica dos coeficientes de ponderação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Revisão periódica dos coeficientes de ponderação\n\n1. Os coeficientes de ponderação referidos no artigo 18.º, no n.º 3 do artigo 26.º e no artigo 35.º do presente regulamento são revistos periodicamente para ter em conta as tendências registadas a nível nacional e comunitário.\n\n2. Em relação a cada revisão referida no n.º 1, a Comissão comunica aos Estados-Membros os coeficiente de ponderação revistos."
+  },
+  "68821e8eb063bd15": {
+   "fragment_id": "Artigo 38.º — Comité de controlo comunitário",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Comité de controlo comunitário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Comité de controlo comunitário\n\n1. O comité de controlo comunitário referido no n.º 2 do artigo 42.º do Regulamento (CE) n.º 1234/2007, a seguir designado «comité», é responsável pela realização de controlos *in loco* que incidam:\n\na) Na aplicação das disposições relativas às grelhas comunitárias de classificação de carcaças de bovinos e de ovinos;\n\nb) No registo dos preços de mercado de acordo com as referidas grelhas;\n\nc) Na classificação, identificação e marcação dos produtos no âmbito das compras efectuadas no quadro da intervenção pública no sector da carne de bovino previstas no n.º 1, alínea e), do artigo 6.º do Regulamento (CE) n.º 1234/2007.\n\n2. O comité é composto, no máximo, por:\n\na) Três peritos da Comissão, um dos quais exerce a presidência do comité;\n\nb) Um perito do Estado-Membro em questão;\n\nc) Oito peritos de outros Estados-Membros.\n\nOs Estados-Membros designam os peritos em função das suas independência e competência, em particular no tocante à classificação das carcaças e ao registo dos preços de mercado, bem como à natureza específica do trabalho a realizar.\n\nEstes peritos não devem em caso algum divulgar nem utilizar para fins pessoais as informações recolhidas durante os trabalhos do comité.\n\n3. Os controlos são efectuados nos matadouros, nos mercados de carne, nos centros de intervenção, nos centros de cotação e nos serviços centrais e regionais competentes para a aplicação das disposições referidas no n.º 1.\n\n4. Os controlos são efectuados nos Estados-Membros a intervalos regulares, podendo a sua frequência variar em função nomeadamente da importância relativa da produção de carne de bovino e de ovino nos Estados-Membros visitados ou de problemas ligados à aplicação das grelhas de classificação.\n\nO programa das visitas de controlo é estabelecido pela Comissão, após consulta dos Estados-Membros. Podem participar nos controlos representantes do Estado-Membro visitado.\n\nOs Estados-Membros organizam as visitas a efectuar no seu território com base nas condições definidas pela Comissão. Para o efeito, 30 dias antes da visita, o Estado-Membro envia à Comissão o programa pormenorizado das visitas de controlo previstas, podendo esta solicitar alterações ao referido programa.\n\nAntes de cada visita, a Comissão informa os Estados-Membros, tão cedo quanto possível, do programa e da condução da mesma.\n\n5. No termo de cada visita, os membros do comité e os representantes do Estado-Membro visitado reúnem-se para apreciar os resultados. Os membros do comité tiram então as conclusões da visita no respeitante aos pontos referidos no n.º 1.\n\nO presidente do comité redige um relatório sobre os controlos efectuados, que inclui as conclusões referidas no primeiro parágrafo. O relatório é enviado no mais curto prazo possível ao Estado-Membro visitado e, seguidamente, aos outros Estados-Membros.\n\nSempre que o relatório referido no segundo parágrafo revele insuficiências nos diversos domínios de actividade em que incidiram as verificações ou formule recomendações destinadas a melhorar o respectivo funcionamento, os Estados-Membros informam a Comissão, no prazo de três meses a contar da data de transmissão do relatório, de todas as alterações previstas ou já efectuadas.\n\n6. As despesas de viagem e de estadia dos membros do comité são custeadas pela Comissão, em conformidade com a regulamentação aplicável ao reembolso de despesas de viagem e de estadia das pessoas estranhas à Comissão e a que esta recorre na qualidade de peritos."
+  },
+  "1179fbdd799e18a4": {
+   "fragment_id": "Artigo 39.º — Medidas a tomar pelos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Medidas a tomar pelos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Medidas a tomar pelos Estados-Membros\n\n1. Os Estados-Membros tomam todas as medidas necessárias para:\n\na) Assegurar a aplicação das disposições do presente regulamento;\n\nb) Assegurar a exactidão dos preços comunicados em conformidade com o n.º 1 do artigo 17.º, o n.º 1 do artigo 27.º e o n.º 2 do artigo 34.º do presente regulamento;\n\nc) Reprimir eventuais infracções, designadamente a falsificação e a utilização fraudulenta de carimbos e rótulos ou a classificação efectuada por pessoal que não possua licença.\n\n2. Os Estados-Membros informam a Comissão das medidas referidas no n.º 1 o mais rapidamente possível."
+  },
+  "553e1791df29fbf5": {
+   "fragment_id": "Artigo 40.º",
+   "type": "artigo",
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nSão revogados os Regulamentos (CEE) n.º 563/82, (CEE) n.º 2967/85, (CEE) n.º 344/91, (CE) n.º 295/96, (CE) n.º 103/2006, (CE) n.º 1128/2006, (CE) n.º 908/2006, (CE) n.º 1319/2006, (CE) n.º 710/2008, (CE) n.º 22/2008 e a Decisão 83/471/CEE.\n\nAs remissões feitas para os regulamentos e a decisão revogados devem entender-se como feitas para o presente regulamento e ser lidas de acordo com o quadro de correspondência que consta do anexo VIII."
+  },
+  "fcf14ce798dc06bd": {
+   "fragment_id": "Artigo 41.º",
+   "type": "artigo",
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de Janeiro de 2009.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 10 de Dezembro de 2008.\n\n***Pela Comissão***\n\n**Mariann FISCHER BOEL**\n\n***Membro da Comissão***\n\n---"
+  },
+  "941adb20bd591742": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntc1-L_2008337PT.01000301-E0001) [JO L 299 de 16.11.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_299_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntc2-L_2008337PT.01000301-E0002) [JO L 67 de 11.3.1982, p. 23](http://publications.europa.eu/resource/oj/JOL_1982_067_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntc3-L_2008337PT.01000301-E0003) [JO L 285 de 25.10.1985, p. 39](http://publications.europa.eu/resource/oj/JOL_1985_285_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntc4-L_2008337PT.01000301-E0004) [JO L 41 de 14.2.1991, p. 15](http://publications.europa.eu/resource/oj/JOL_1991_041_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntc5-L_2008337PT.01000301-E0005) [JO L 39 de 17.2.1996, p. 1](http://publications.europa.eu/resource/oj/JOL_1996_039_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntc6-L_2008337PT.01000301-E0006) [JO L 17 de 21.1.2006, p. 6](http://publications.europa.eu/resource/oj/JOL_2006_017_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntc7-L_2008337PT.01000301-E0007) [JO L 168 de 21.6.2006, p. 11](http://publications.europa.eu/resource/oj/JOL_2006_168_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntc8-L_2008337PT.01000301-E0008) [JO L 201 de 25.7.2006, p. 6](http://publications.europa.eu/resource/oj/JOL_2006_201_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntc9-L_2008337PT.01000301-E0009) [JO L 243 de 6.9.2006, p. 3](http://publications.europa.eu/resource/oj/JOL_2006_243_R_TOC).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntc10-L_2008337PT.01000301-E0010) [JO L 197 de 25.7.2008, p. 28](http://publications.europa.eu/resource/oj/JOL_2008_197_R_TOC).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntc11-L_2008337PT.01000301-E0011) [JO L 9 de 12.1.2008, p. 6](http://publications.europa.eu/resource/oj/JOL_2008_009_R_TOC).\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntc12-L_2008337PT.01000301-E0012) [JO L 259 de 20.9.1983, p. 30](http://publications.europa.eu/resource/oj/JOL_1983_259_R_TOC).\n\n> [(^13^)](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntc13-L_2008337PT.01000301-E0013) [JO L 204 de 11.8.2000, p. 1](http://publications.europa.eu/resource/oj/JOL_2000_204_R_TOC).\n\n> [(^14^)](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntc14-L_2008337PT.01000301-E0014) [JO L 312 de 11.11.2006, p. 6](http://publications.europa.eu/resource/oj/JOL_2006_312_R_TOC).\n\n> [(^15^)](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntc15-L_2008337PT.01000301-E0015) [JO L 223 de 21.8.2008, p. 3](http://publications.europa.eu/resource/oj/JOL_2008_223_R_TOC).\n\n> [(^16^)](http://publications.europa.eu/resource/cellar/130c2e06-e98c-4850-a782-b0d86f16152d.0018.02/DOC_1#ntc16-L_2008337PT.01000301-E0016) [JO L 149 de 21.6.1993, p. 1](http://publications.europa.eu/resource/oj/JOL_1993_149_R_TOC)."
+  },
+  "f37028b9a92c015d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02008R1249 — PT — 11.07.2018 — 003.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32008R1249) [REGULAMENTO (CE) N.º 1249/2008 DA COMISSÃO](http://publications.europa.eu/resource/celex/32008R1249) [de 10 Dezembro de 2008](http://publications.europa.eu/resource/celex/32008R1249) [que estabelece regras de execução no respeitante às grelhas comunitárias de classificação das carcaças de bovinos, suínos e ovinos e à comunicação dos respectivos preços](http://publications.europa.eu/resource/celex/32008R1249) (JO L 337, 16.12.2008, p.3)\n\n**Revogado por:**\n\n- [Regulamento Delegado (UE) 2017/1182 da Comissão de 20 de abril de 2017](http://publications.europa.eu/resource/celex/32017R1182) — L 171 — 74 — 4.7.2017"
+  }
+ }
+}

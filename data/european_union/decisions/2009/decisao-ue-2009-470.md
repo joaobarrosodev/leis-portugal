@@ -34,6 +34,84 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-06-30'
+version_history:
+  file: decisao-ue-2009-470.versoes.json
+  count: 3
+  source_lastmod: '2014-06-30'
+  versions:
+  - date: '2009-06-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0517:por
+    amending_title: REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 14.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 29.º
+    - Altera Artigo 33.º
+    - Altera Artigo 40.º
+    - Altera Artigo 43.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita DOENÇAS ANIMAIS E ZOONOSES
+    - Adita ANEXO II
+    - Adita ANEXO III
+  - date: '2014-06-30'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime CAPÍTULO I
+    - Suprime OBJECTO E ÂMBITO DE APLICAÇÃO
+    - Suprime Artigo 1.º
+    - Suprime CAPÍTULO II
+    - Suprime ACÇÕES VETERINÁRIAS PONTUAIS
+    - Suprime SECÇÃO 1
+    - Suprime Disposição geral
+    - Suprime Artigo 2.º
+    - Suprime SECÇÃO 2
+    - Suprime Intervenções de emergência
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Artigo 13.º
+    - Suprime SECÇÃO 3
+    - Suprime Luta contra a febre aftosa
+    - Suprime Artigo 14.º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16.º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18.º
+    - Suprime SECÇÃO 4
+    - Suprime Política de informação sobre saúde animal, bem-estar dos animais e segurança dos alimentos
+    - Suprime Artigo 19.º
+    - Suprime Artigo 20.º
+    - Suprime Artigo 21.º
+    - Suprime SECÇÃO 5
+    - Suprime Acções técnicas e científicas
+    - Suprime Artigo 22.º
+    - Suprime Artigo 23.º
+    - Suprime Artigo 24.º
+    - Suprime CAPÍTULO III
 identifiers:
   celex: 32009D0470
   eli: http://data.europa.eu/eli/dec/2009/470/oj
@@ -48,7 +126,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018
   content_url: http://publications.europa.eu/resource/cellar/fd7cf09e-73ff-4090-8ca9-3a88732b3629.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009D0470-20140630
-  retrieved_at: '2026-10-22T02:59:07Z'
+  retrieved_at: '2026-10-22T15:32:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T05:53:24.280+02:00'
 integrity:
@@ -57,9 +135,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:07Z'
-  notes: Texto consolidado 02009D0470-20140630.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:32:33Z'
+  notes: 3 versão(ões); histórico completo em decisao-ue-2009-470.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -271,16 +349,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:07Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:32:33Z'
+  warnings: []
   errors: []
 ---
 

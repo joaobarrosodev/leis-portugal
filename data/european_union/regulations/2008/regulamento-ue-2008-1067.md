@@ -35,6 +35,67 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-06-19'
+version_history:
+  file: regulamento-ue-2008-1067.versoes.json
+  count: 5
+  source_lastmod: '2020-06-19'
+  versions:
+  - date: '2008-10-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-01-01'
+    amending: eu:celex:32011R1253:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 1253/2011 DA COMISSÃO de 1 de Dezembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
+  - date: '2017-09-21'
+    amending: eu:celex:32017R1586:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2017/1586 DA COMISSÃO de 19 de setembro de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 8.º
+    - Altera Notas
+  - date: '2019-05-07'
+    amending: eu:celex:32019R0675:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2019/675 DA COMISSÃO de 29 de abril de 2019
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 8.º
+    - Altera Notas
+  - date: '2020-06-19'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime ANEXO I
+    - Suprime ANEXO II
+    - Suprime Notas
 identifiers:
   celex: 32008R1067
   eli: http://data.europa.eu/eli/reg/2008/1067/oj
@@ -49,7 +110,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b89714ab-077e-4c77-b6b2-415ce5c77bca.0018
   content_url: http://publications.europa.eu/resource/cellar/87660d6d-ccf4-11ea-adf7-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R1067-20200619
-  retrieved_at: '2026-10-22T03:13:48Z'
+  retrieved_at: '2026-10-22T15:20:04Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T22:15:43.513+01:00'
 integrity:
@@ -58,9 +119,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:13:48Z'
-  notes: Texto consolidado 02008R1067-20200619.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:20:04Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2008-1067.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -173,16 +234,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:13:48Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:20:04Z'
+  warnings: []
   errors: []
 ---
 

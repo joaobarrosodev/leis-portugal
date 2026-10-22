@@ -37,6 +37,31 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-06-17'
+version_history:
+  file: decisao-ue-2009-109.versoes.json
+  count: 2
+  source_lastmod: '2014-06-17'
+  versions:
+  - date: '2009-02-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-06-17'
+    amending: eu:celex:32014D0362:por
+    amending_title: DECISÃO DE EXECUÇÃO DA COMISSÃO de 13 de junho de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9.º — Duração
+    - Altera Artigo 10.º — Destinatários
+    - Altera Notas
+    - Adita Artigo 1.º — Objeto
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita CONDIÇÕES DA EXPERIÊNCIA
+    - Adita 1. Condições relativas às sementes das espécies referidas no artigo 1.º
+    - Adita 2. Condições relativas às misturas objecto da experiência
+    - Adita 3. Informações a registar
+    - Suprime Artigo 1.º — Objecto
 identifiers:
   celex: 32009D0109
   eli: http://data.europa.eu/eli/dec/2009/109(1)/oj
@@ -51,7 +76,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/481e60f2-af18-46ee-8a4f-b113b12548a5.0018
   content_url: http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009D0109-20140617
-  retrieved_at: '2026-10-22T03:13:55Z'
+  retrieved_at: '2026-10-22T15:32:05Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T06:36:20.289+02:00'
 integrity:
@@ -60,9 +85,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:13:55Z'
-  notes: Texto consolidado 02009D0109-20140617.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:32:05Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-2009-109.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -117,29 +142,19 @@ relationships:
   date: '2014-08-22'
 article_structure:
   article_count: 10
-  section_count: 6
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 7
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:13:55Z'
+  checked_at: '2026-10-22T15:32:05Z'
   warnings: []
   errors: []
 ---
 
 # 2009/109/CE: Decisão da Comissão, de 9 de Fevereiro de 2009
-
-> 2009D0109 — PT — 17.06.2014 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014D0362) — [DECISÃO DE EXECUÇÃO DA COMISSÃO de 13 de junho de 2014](http://publications.europa.eu/resource/celex/32014D0362) — L 177 — 58 — 17.6.2014
-
-## DECISÃO DA COMISSÃO
 
 de 9 de Fevereiro de 2009
 

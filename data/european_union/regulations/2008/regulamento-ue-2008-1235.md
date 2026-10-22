@@ -35,6 +35,164 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-01-01'
+version_history:
+  file: regulamento-ue-2008-1235.versoes.json
+  count: 4
+  source_lastmod: '2022-01-01'
+  versions:
+  - date: '2008-12-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-01-01'
+    amending: eu:celex:32009R0537:por
+    amending_title: M1; M2; M3; M4; REGULAMENTO DE EXECUÇÃO (UE) N. o 1267/2011 DA COMISSÃO de 6 de Dezembro de 2011; M6;
+      REGULAMENTO DE EXECUÇÃO (UE) N. o 508/2012 DA COMISSÃO de 20 de junho de 2012; M8; REGULAMENTO DE EXECUÇÃO (UE) N. o
+      125/2013 DA COMISSÃO de 13 de fevereiro de 2013; M10; REGULAMENTO DE EXECUÇÃO (UE) N. o 567/2013 DA COMISSÃO de 18 de
+      junho de 2013; REGULAMENTO DE EXECUÇÃO (UE) N. o 586/2013 DA COMISSÃO de 20 de junho de 2013; M13; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 442/2014 DA COMISSÃO de 30 de abril de 2014; REGULAMENTO DE EXECUÇÃO (UE) N. o 644/2014 DA COMISSÃO de 16
+      de junho de 2014; REGULAMENTO DE EXECUÇÃO (UE) N. o 829/2014 DA COMISSÃO de 30 de julho de 2014; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 1287/2014 DA COMISSÃO de 28 de novembro de 2014; REGULAMENTO DE EXECUÇÃO (UE) 2015/131 DA COMISSÃO de 26 de
+      janeiro de 2015; REGULAMENTO DE EXECUÇÃO (UE) 2015/931 DA COMISSÃO de 17 de junho de 2015; M20; REGULAMENTO DE EXECUÇÃO
+      (UE) 2015/2345 DA COMISSÃO de 15 de dezembro de 2015; REGULAMENTO DE EXECUÇÃO (UE) 2016/459 DA COMISSÃO de 18 de março
+      de 2016; M23; REGULAMENTO DE EXECUÇÃO (UE) 2016/1330 DA COMISSÃO de 2 de agosto de 2016; REGULAMENTO DE EXECUÇÃO (UE)
+      2016/1842 DA COMISSÃO de 14 de outubro de 2016; REGULAMENTO DE EXECUÇÃO (UE) 2016/2259 DA COMISSÃO de 15 de dezembro
+      de 2016; REGULAMENTO DE EXECUÇÃO (UE) 2017/872 DA COMISSÃO de 22 de maio de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/1473
+      DA COMISSÃO de 14 de agosto de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2017/1862 DA COMISSÃO de 16 de outubro de 2017; REGULAMENTO
+      DE EXECUÇÃO (UE) 2017/2329 DA COMISSÃO de 14 de dezembro de 2017; REGULAMENTO DE EXECUÇÃO (UE) 2018/949 DA COMISSÃO
+      de 3 de julho de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2019/39 DA COMISSÃO de 10 de janeiro de 2019; REGULAMENTO DE EXECUÇÃO
+      (UE) 2019/446 DA COMISSÃO de 19 de março de 2019; REGULAMENTO DE EXECUÇÃO (UE) 2020/25 DA COMISSÃO de 13 de janeiro
+      de 2020; REGULAMENTO DE EXECUÇÃO (UE) 2020/479 DA COMISSÃO de 1 de abril de 2020; REGULAMENTO DE EXECUÇÃO (UE) 2020/786
+      DA COMISSÃO de 15 de junho de 2020; REGULAMENTO DE EXECUÇÃO (UE) 2020/2196 DA COMISSÃO de 17 de dezembro de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Procedimento a seguir para solicitar a inclusão na lista dos organismos e autoridades de controlo
+      reconhecidos para efeitos de controlo da conformidade
+    - Altera Artigo 7.º — Estabelecimento e teor da lista de países terceiros
+    - Altera Artigo 8.º — Procedimento a seguir para solicitar a inclusão na lista de países terceiros
+    - Altera Artigo 9.º — Gestão e revisão da lista de países terceiros
+    - Altera Artigo 10.º — Estabelecimento e teor da lista dos organismos e autoridades de controlo reconhecidos para efeitos
+      de equivalência
+    - Altera Artigo 11.º — Procedimento a seguir para solicitar a inclusão na lista dos organismos e autoridades de controlo
+      reconhecidos para efeitos de equivalência
+    - Altera Artigo 12.º — Gestão e revisão da lista dos organismos e autoridades de controlo reconhecidos para efeitos de
+      equivalência
+    - Altera Artigo 14.º — Regimes aduaneiros especiais
+    - Altera Artigo 15.º — Produtos não conformes
+    - Altera Artigo 17.º — Comunicação
+    - Altera Artigo 18.º — Disposições transitórias relativas à lista de países terceiros
+    - Altera Artigo 21.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 13.º — Certificado de inspeção
+    - Adita Artigo 13.º-A — Força maior ou circunstâncias excecionais
+    - Adita Artigo 13.º-B — Importador
+    - Adita Artigo 13.º-C — Direitos de acesso
+    - Adita Artigo 13.º-D — Integridade e legibilidade da informação
+    - Adita Artigo 19.º-A — Disposições transitórias relativas à utilização de certificados de inspeção não emitidos no TRACES
+    - Adita ANEXO I
+    - Adita LISTA DOS ORGANISMOS E AUTORIDADES DE CONTROLO RECONHECIDOS PARA EFEITOS DE CONTROLO DA CONFORMIDADE E INFORMAÇÕES
+      PERTINENTES REFERIDOS NO ARTIGO 3.º
+    - Adita ANEXO II
+    - Adita ANEXO III
+    - Adita LISTA DE PAÍSES TERCEIROS E INFORMAÇÕES PERTINENTES REFERIDOS NO ARTIGO 7.º
+    - Adita ARGENTINA
+    - Adita AUSTRÁLIA
+    - Adita CANADÁ
+    - Adita CHILE
+    - Adita COSTA RICA
+    - Adita ÍNDIA
+    - Adita ISRAEL
+    - Adita JAPÃO
+    - Adita SUÍÇA
+    - Adita TUNÍSIA
+    - Adita ESTADOS UNIDOS
+    - Adita NOVA ZELÂNDIA
+    - Adita REPÚBLICA DA COREIA
+    - Adita ANEXO IV
+  - date: '2021-03-18'
+    amending: eu:celex:32021R0461:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/461 DA COMISSÃO de 16 de março de 2021
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 11.º — Procedimento a seguir para solicitar a inclusão na lista dos organismos e autoridades de controlo
+      reconhecidos para efeitos de equivalência
+    - Altera Artigo 13.º — Certificado de inspeção
+    - Altera Artigo 18.º — Disposições transitórias relativas à lista de países terceiros
+    - Altera ARGENTINA
+    - Altera AUSTRÁLIA
+    - Altera COSTA RICA
+    - Altera ISRAEL
+    - Altera JAPÃO
+    - Altera TUNÍSIA
+    - Altera ESTADOS UNIDOS
+    - Altera NOVA ZELÂNDIA
+    - Altera LISTA DOS ORGANISMOS E AUTORIDADES DE CONTROLO RECONHECIDOS PARA EFEITOS DE EQUIVALÊNCIA E INFORMAÇÕES PERTINENTES
+      REFERIDOS NO ARTIGO 10.º
+    - Altera «A CERT European Organization for Certification S.A.»
+    - Altera «Albinspekt»
+    - Altera «Biocert International Pvt Ltd»
+    - Altera «Bio.inspecta AG»
+    - Altera «CERES Certification of Environmental Standards GmbH»
+    - Altera «Control Union Certifications»
+    - Altera «Kiwa BCS Öko-Garantie GmbH»
+    - Altera «Organic crop improvement association»
+    - Altera «Organska Kontrola»
+    - Altera «Q-check»
+    - Altera «Quality Assurance International»
+    - Altera «Soil Association Certification Limited»
+    - Altera Notas
+  - date: '2022-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime DISPOSIÇÕES PRELIMINARES
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Definições
+    - Suprime TÍTULO II
+    - Suprime IMPORTAÇÃO DE PRODUTOS CONFORMES
+    - Suprime CAPÍTULO 1
+    - Suprime Lista dos organismos e autoridades de controlo reconhecidos para efeitos de controlo da conformidade
+    - Suprime Artigo 3.º — Estabelecimento e teor da lista dos organismos e autoridades de controlo reconhecidos para efeitos
+      de controlo da conformidade
+    - Suprime Artigo 4.º — Procedimento a seguir para solicitar a inclusão na lista dos organismos e autoridades de controlo
+      reconhecidos para efeitos de controlo da conformidade
+    - Suprime Artigo 5.º — Gestão e revisão da lista dos organismos e autoridades de controlo reconhecidos para efeitos de
+      controlo da conformidade
+    - Suprime CAPÍTULO 2
+    - Suprime Provas documentais exigidas para a importação de produtos conformes
+    - Suprime Artigo 6.º — Provas documentais
+    - Suprime TÍTULO III
+    - Suprime IMPORTAÇÃO DE PRODUTOS QUE OFERECEM GARANTIAS EQUIVALENTES
+    - Suprime Lista dos países terceiros reconhecidos
+    - Suprime Artigo 7.º — Estabelecimento e teor da lista de países terceiros
+    - Suprime Artigo 8.º — Procedimento a seguir para solicitar a inclusão na lista de países terceiros
+    - Suprime Artigo 9.º — Gestão e revisão da lista de países terceiros
+    - Suprime Lista dos organismos e autoridades de controlo reconhecidos para efeitos de equivalência
+    - Suprime Artigo 10.º — Estabelecimento e teor da lista dos organismos e autoridades de controlo reconhecidos para efeitos
+      de equivalência
+    - Suprime Artigo 11.º — Procedimento a seguir para solicitar a inclusão na lista dos organismos e autoridades de controlo
+      reconhecidos para efeitos de equivalência
+    - Suprime Artigo 12.º — Gestão e revisão da lista dos organismos e autoridades de controlo reconhecidos para efeitos de
+      equivalência
+    - Suprime CAPÍTULO 3
+    - Suprime Introdução em livre prática de produtos importados em conformidade com o artigo 33.º do regulamento (CE) n.º
+      834/2007
+    - Suprime Artigo 13.º — Certificado de inspeção
+    - Suprime Artigo 13.º-A — Força maior ou circunstâncias excecionais
+    - Suprime Artigo 13.º-B — Importador
+    - Suprime Artigo 13.º-C — Direitos de acesso
+    - Suprime Artigo 13.º-D — Integridade e legibilidade da informação
+    - Suprime Artigo 14.º — Regimes aduaneiros especiais
+    - Suprime Artigo 15.º — Produtos não conformes
+    - Suprime TÍTULO IV
+    - Suprime DISPOSIÇÕES COMUNS
+    - Suprime Artigo 16.º — Avaliação dos pedidos e publicação das listas
+    - Suprime Artigo 17.º — Comunicação
+    - Suprime TÍTULO V
+    - Suprime DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 identifiers:
   celex: 32008R1235
   eli: http://data.europa.eu/eli/reg/2008/1235/oj
@@ -49,7 +207,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6800df1d-082e-43ae-b606-c914c38b9de5.0018
   content_url: http://publications.europa.eu/resource/cellar/bd392130-8376-11ec-8c40-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R1235-20220101
-  retrieved_at: '2026-10-22T02:59:03Z'
+  retrieved_at: '2026-10-22T15:22:12Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T04:48:21.276+01:00'
 integrity:
@@ -58,9 +216,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:03Z'
-  notes: Texto consolidado 02008R1235-20220101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:22:12Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2008-1235.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -312,16 +470,46 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:03Z'
+  checked_at: '2026-10-22T15:22:12Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02008R1235-20090627: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20100608: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20110628: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20111028: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20120701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20130401: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20130628: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20140101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20140508: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20140620: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20140803: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20141224: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20150501: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20150701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20150708: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20151106: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20160105: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20160407: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20160707: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20160824: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20161026: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20170105: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20170507: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20170612: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20170818: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20171024: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20180104: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20180724: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20190409: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20200203: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R1235-20200706: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

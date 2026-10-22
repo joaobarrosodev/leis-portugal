@@ -37,6 +37,115 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-01-01'
+version_history:
+  file: regulamento-ue-2008-889.versoes.json
+  count: 3
+  source_lastmod: '2022-01-01'
+  versions:
+  - date: '2008-09-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-01-01'
+    amending: eu:celex:32008R1254:por
+    amending_title: REGULAMENTO (CE) N. o 1254/2008 DA COMISSÃO de 15 de Dezembro de 2008; REGULAMENTO (CE) N. o 710/2009
+      DA COMISSÃO de 5 de Agosto de 2009; REGULAMENTO (UE) N. o 271/2010 DA COMISSÃO de 24 de Março de 2010; REGULAMENTO DE
+      EXECUÇÃO (UE) N. o 344/2011 DA COMISSÃO de 8 de Abril de 2011; M5; REGULAMENTO DE EXECUÇÃO (UE) N. o 126/2012 DA COMISSÃO
+      de 14 de fevereiro de 2012; REGULAMENTO DE EXECUÇÃO (UE) N. o 203/2012 DA COMISSÃO de 8 de março de 2012; REGULAMENTO
+      DE EXECUÇÃO (UE) N. o 505/2012 DA COMISSÃO de 14 de junho de 2012; REGULAMENTO DE EXECUÇÃO (UE) N. o 392/2013 DA COMISSÃO
+      de 29 de abril de 2013; REGULAMENTO (UE) N. o 519/2013 DA COMISSÃO de 21 de fevereiro de 2013; REGULAMENTO DE EXECUÇÃO
+      (UE) N. o 1030/2013 DA COMISSÃO de 24 de outubro de 2013; M12; REGULAMENTO DE EXECUÇÃO (UE) N. o 354/2014 DA COMISSÃO
+      de 8 de abril de 2014; M14; REGULAMENTO DE EXECUÇÃO (UE) N. o 1358/2014 DA COMISSÃO de 18 de dezembro de 2014; REGULAMENTO
+      DE EXECUÇÃO (UE) 2016/673 DA COMISSÃO de 29 de abril de 2016; REGULAMENTO DE EXECUÇÃO (UE) 2016/1842 DA COMISSÃO de
+      14 de outubro de 2016; REGULAMENTO DE EXECUÇÃO (UE) 2017/838 DA COMISSÃO de 17 de maio de 2017; M19; REGULAMENTO DE
+      EXECUÇÃO (UE) 2018/1584 DA COMISSÃO de 22 de outubro de 2018; REGULAMENTO DE EXECUÇÃO (UE) 2019/2164 DA COMISSÃO de
+      17 de dezembro de 2019; REGULAMENTO DE EXECUÇÃO (UE) 2021/181 DA COMISSÃO de 15 de fevereiro de 2021
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Gestão e fertilização do solo
+    - Altera Artigo 6.º — Regras específicas aplicáveis à produção de cogumelos
+    - Altera Artigo 9.º — Origem dos animais de criação não biológica
+    - Altera Artigo 11.º — Condições de alojamento e práticas de criação específicas aplicáveis aos mamíferos
+    - Altera Artigo 12.º — Condições de alojamento e práticas de criação específicas aplicáveis às aves de capoeira
+    - Altera Artigo 13.º — Requisitos e condições específicas de alojamento aplicáveis em apicultura
+    - Altera Artigo 21.º — Alimentos em conversão
+    - Altera Artigo 24.º — Tratamentos veterinários
+    - Altera Artigo 25.º — Regras específicas aplicáveis à prevenção das doenças e aos tratamentos veterinários em apicultura
+    - Altera Artigo 27.º — Utilização de determinados produtos e substâncias na transformação dos géneros alimentícios
+    - Altera Artigo 32.º — Regras especiais aplicáveis ao transporte de alimentos para animais para outras unidades de produção/preparação
+      ou instalações de armazenagem
+    - Altera Artigo 35.º — Armazenagem dos produtos
+    - Altera Artigo 40.º — Produção paralela
+    - Altera Artigo 42.º — Utilização de animais de criação não biológica
+    - Altera Artigo 45.º — Utilização de sementes e material de propagação vegetativa não provenientes da produção biológica
+    - Altera Artigo 47.º — Catástrofes
+    - Altera Artigo 51.º — Informações registadas
+    - Altera Artigo 58.º — Condições de utilização do número de código e do local de origem
+    - Altera Artigo 59.º — Âmbito de aplicação, utilização de marcas comerciais e denominações de venda
+    - Altera Artigo 60.º — Indicações nos alimentos transformados para animais
+    - Altera Artigo 61.º — Condições de utilização das indicações nos alimentos transformados para animais
+    - Altera Artigo 63.º — Regime de controlo e compromisso do operador
+    - Altera Artigo 65.º — Visitas de controlo
+    - Altera Artigo 68.º — Provas documentais
+    - Altera Artigo 84.º — Informações relativas aos lotes importados
+    - Altera Artigo 93.º — Informações estatísticas
+    - Altera Artigo 94.º — Outras informações
+    - Altera Artigo 95.º — Medidas transitórias
+    - Altera Artigo 97.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita REGRAS SOBRE PRODUÇÃO, CONSERVAÇÃO, TRANSFORMAÇÃO, EMBALAGEM, TRANSPORTE E ARMAZENAMENTO DE PRODUTOS BIOLÓGICOS
+    - Adita CAPÍTULO 1-A
+    - Adita Produção de algas
+    - Adita Artigo 6.º-A — Âmbito de aplicação
+    - Adita Artigo 6.º-B — Adequação do meio aquático e plano de gestão sustentável
+    - Adita Artigo 6.º-C — Colheita sustentável de algas marinhas selvagens
+    - Adita Artigo 6.º-D — Cultura de algas marinhas
+  - date: '2022-01-01'
+    amending: eu:celex:32021R1165:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/1165 DA COMISSÃO de 15 de julho de 2021
+    changes:
+    - Altera preambulo
+    - Altera Produtos de limpeza e desinfecção
+    - Altera Notas
+    - Suprime TÍTULO I
+    - Suprime DISPOSIÇÕES INTRODUTÓRIAS
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime TÍTULO II
+    - Suprime REGRAS SOBRE PRODUÇÃO, CONSERVAÇÃO, TRANSFORMAÇÃO, EMBALAGEM, TRANSPORTE E ARMAZENAMENTO DE PRODUTOS BIOLÓGICOS
+    - Suprime CAPÍTULO 1
+    - Suprime Produção vegetal
+    - Suprime Artigo 3.º — Gestão e fertilização do solo
+    - Suprime Artigo 4.º — Proibição da produção hidropónica
+    - Suprime Artigo 5.º — Gestão das pragas, doenças e infestantes
+    - Suprime Artigo 6.º — Regras específicas aplicáveis à produção de cogumelos
+    - Suprime CAPÍTULO 1-A
+    - Suprime Produção de algas
+    - Suprime Artigo 6.º-A — Âmbito de aplicação
+    - Suprime Artigo 6.º-B — Adequação do meio aquático e plano de gestão sustentável
+    - Suprime Artigo 6.º-C — Colheita sustentável de algas marinhas selvagens
+    - Suprime Artigo 6.º-D — Cultura de algas marinhas
+    - Suprime Artigo 6.º-E — Medidas de tratamento anti-vegetativo e limpeza dos equipamentos e instalações de produção
+    - Suprime CAPÍTULO 2
+    - Suprime Produção animal
+    - Suprime Artigo 7.º — Âmbito de aplicação
+    - Suprime Secção 1
+    - Suprime Origem dos animais
+    - Suprime Artigo 8.º — Origem dos animais de criação biológica
+    - Suprime Artigo 9.º — Origem dos animais de criação não biológica
+    - Suprime Secção 2
+    - Suprime Alojamento dos animais e práticas de criação
+    - Suprime Artigo 10.º — Regras aplicáveis às condições de alojamento
+    - Suprime Artigo 11.º — Condições de alojamento e práticas de criação específicas aplicáveis aos mamíferos
+    - Suprime Artigo 12.º — Condições de alojamento e práticas de criação específicas aplicáveis às aves de capoeira
+    - Suprime Artigo 13.º — Requisitos e condições específicas de alojamento aplicáveis em apicultura
+    - Suprime Artigo 14.º — Acesso às áreas ao ar livre
+    - Suprime Artigo 15.º — Encabeçamento
+    - Suprime Artigo 16.º — Proibição da produção animal sem terra
+    - Suprime Artigo 17.º — Produção animal biológica e não biológica simultânea
+    - Suprime Artigo 18.º — Maneio dos animais
 identifiers:
   celex: 32008R0889
   eli: http://data.europa.eu/eli/reg/2008/889/oj
@@ -51,7 +160,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b86af126-fa74-4fbb-b42e-ffbfc16612ba.0018
   content_url: http://publications.europa.eu/resource/cellar/c88044c5-7dfd-11ec-8c40-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0889-20220101
-  retrieved_at: '2026-10-22T02:40:42Z'
+  retrieved_at: '2026-10-22T15:19:47Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-29T18:29:28.337+01:00'
 integrity:
@@ -60,9 +169,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:42Z'
-  notes: Texto consolidado 02008R0889-20220101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:19:47Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2008-889.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -347,58 +456,36 @@ relationships:
   date: '2010-03-08'
 article_structure:
   article_count: 0
-  section_count: 13
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 14
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:42Z'
+  checked_at: '2026-10-22T15:19:47Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
+  - '02008R0889-20090101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0889-20090809: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0889-20100701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0889-20110410: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0889-20120801: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0889-20130101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0889-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0889-20140101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0889-20140416: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0889-20150101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0889-20160507: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0889-20161107: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0889-20170507: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0889-20170521: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0889-20180101: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0889-20181112: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0889-20200107: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 889/2008 da Comissão de 5 de Setembro de 2008
-
-> 02008R0889 — PT — 01.01.2022 — 019.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32008R1254) — [REGULAMENTO (CE) N.º 1254/2008 DA COMISSÃO de 15 de Dezembro de 2008](http://publications.europa.eu/resource/celex/32008R1254) — L 337 — 80 — 16.12.2008
-- [►M2](http://publications.europa.eu/resource/celex/32009R0710) — [REGULAMENTO (CE) N.º 710/2009 DA COMISSÃO de 5 de Agosto de 2009](http://publications.europa.eu/resource/celex/32009R0710) — L 204 — 15 — 6.8.2009
-- [M3](http://publications.europa.eu/resource/celex/32010R0271) — [REGULAMENTO (UE) N.º 271/2010 DA COMISSÃO de 24 de Março de 2010](http://publications.europa.eu/resource/celex/32010R0271) — L 84 — 19 — 31.3.2010
-- [M4](http://publications.europa.eu/resource/celex/32011R0344) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 344/2011 DA COMISSÃO de 8 de Abril de 2011](http://publications.europa.eu/resource/celex/32011R0344) — L 96 — 15 — 9.4.2011
-- [M5](http://publications.europa.eu/resource/celex/32011R0426) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 426/2011 DA COMISSÃO de 2 de Maio de 2011](http://publications.europa.eu/resource/celex/32011R0426) — L 113 — 1 — 3.5.2011
-- [M6](http://publications.europa.eu/resource/celex/32012R0126) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 126/2012 DA COMISSÃO de 14 de fevereiro de 2012](http://publications.europa.eu/resource/celex/32012R0126) — L 41 — 5 — 15.2.2012
-- [M7](http://publications.europa.eu/resource/celex/32012R0203) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 203/2012 DA COMISSÃO de 8 de março de 2012](http://publications.europa.eu/resource/celex/32012R0203) — L 71 — 42 — 9.3.2012
-- [M8](http://publications.europa.eu/resource/celex/32012R0505) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 505/2012 DA COMISSÃO de 14 de junho de 2012](http://publications.europa.eu/resource/celex/32012R0505) — L 154 — 12 — 15.6.2012
-- [M9](http://publications.europa.eu/resource/celex/32013R0392) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 392/2013 DA COMISSÃO de 29 de abril de 2013](http://publications.europa.eu/resource/celex/32013R0392) — L 118 — 5 — 30.4.2013
-- [M10](http://publications.europa.eu/resource/celex/32013R0519) — [REGULAMENTO (UE) N.º 519/2013 DA COMISSÃO de 21 de fevereiro de 2013](http://publications.europa.eu/resource/celex/32013R0519) — L 158 — 74 — 10.6.2013
-- [M11](http://publications.europa.eu/resource/celex/32013R1030) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1030/2013 DA COMISSÃO de 24 de outubro de 2013](http://publications.europa.eu/resource/celex/32013R1030) — L 283 — 15 — 25.10.2013
-- [M12](http://publications.europa.eu/resource/celex/32013R1364) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1364/2013 DA COMISSÃO de 17 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1364) — L 343 — 29 — 19.12.2013
-- [M13](http://publications.europa.eu/resource/celex/32014R0354) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 354/2014 DA COMISSÃO de 8 de abril de 2014](http://publications.europa.eu/resource/celex/32014R0354) — L 106 — 7 — 9.4.2014
-- [M14](http://publications.europa.eu/resource/celex/32014R0836) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 836/2014 DA COMISSÃO de 31 de julho de 2014](http://publications.europa.eu/resource/celex/32014R0836) — L 230 — 10 — 1.8.2014
-- [►M15](http://publications.europa.eu/resource/celex/32014R1358) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 1358/2014 DA COMISSÃO de 18 de dezembro de 2014](http://publications.europa.eu/resource/celex/32014R1358) — L 365 — 97 — 19.12.2014
-- [M16](http://publications.europa.eu/resource/celex/32016R0673) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/673 DA COMISSÃO de 29 de abril de 2016](http://publications.europa.eu/resource/celex/32016R0673) — L 116 — 8 — 30.4.2016
-- [M17](http://publications.europa.eu/resource/celex/32016R1842) — [REGULAMENTO DE EXECUÇÃO (UE) 2016/1842 DA COMISSÃO de 14 de outubro de 2016](http://publications.europa.eu/resource/celex/32016R1842) — L 282 — 19 — 19.10.2016
-- [M18](http://publications.europa.eu/resource/celex/32017R0838) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/838 DA COMISSÃO de 17 de maio de 2017](http://publications.europa.eu/resource/celex/32017R0838) — L 125 — 5 — 18.5.2017
-- [M19](http://publications.europa.eu/resource/celex/32017R2273) — [REGULAMENTO DE EXECUÇÃO (UE) 2017/2273 DA COMISSÃO de 8 de dezembro de 2017](http://publications.europa.eu/resource/celex/32017R2273) — L 326 — 42 — 9.12.2017
-- [M20](http://publications.europa.eu/resource/celex/32018R1584) — [REGULAMENTO DE EXECUÇÃO (UE) 2018/1584 DA COMISSÃO de 22 de outubro de 2018](http://publications.europa.eu/resource/celex/32018R1584) — L 264 — 1 — 23.10.2018
-- [M21](http://publications.europa.eu/resource/celex/32019R2164) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/2164 DA COMISSÃO de 17 de dezembro de 2019](http://publications.europa.eu/resource/celex/32019R2164) — L 328 — 61 — 18.12.2019
-- [M22](http://publications.europa.eu/resource/celex/32021R0181) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/181 DA COMISSÃO de 15 de fevereiro de 2021](http://publications.europa.eu/resource/celex/32021R0181) — L 53 — 99 — 16.2.2021
-- [►M23](http://publications.europa.eu/resource/celex/32021R1165) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/1165 DA COMISSÃO de 15 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1165) — L 253 — 13 — 16.7.2021
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32012R0505R%2801%29) — [Rectificação, JO L 041, 12.2.2014, p. 22 (505/2012)](http://publications.europa.eu/resource/celex/32012R0505R%2801%29)
-- [C2](http://publications.europa.eu/resource/celex/32013R1364R%2802%29) — [Rectificação, JO L 157, 27.5.2014, p. 103 (1364/2013)](http://publications.europa.eu/resource/celex/32013R1364R%2802%29)
-- [C3](http://publications.europa.eu/resource/celex/32008R0889R%2812%29) — [Rectificação, JO L 049, 25.2.2017, p. 50 (889/2008)](http://publications.europa.eu/resource/celex/32008R0889R%2812%29)
-
-## REGULAMENTO (CE) N.º 889/2008 DA COMISSÃO
 
 de 5 de Setembro de 2008
 

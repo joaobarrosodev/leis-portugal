@@ -35,6 +35,38 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-01-28'
+version_history:
+  file: decisao-ue-2009-251.versoes.json
+  count: 4
+  source_lastmod: '2012-01-28'
+  versions:
+  - date: '2009-03-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-03-12'
+    amending: eu:celex:32010D0153:por
+    amending_title: DECISÃO DA COMISSÃO de 11 de Março de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 4.º — Período de aplicação
+    - Altera Artigo 5.º — Destinatários
+    - Altera Notas
+  - date: '2011-03-02'
+    amending: eu:celex:32011D0135:por
+    amending_title: Decisão da Comissão de 1 de Março de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Período de aplicação
+    - Altera Notas
+  - date: '2012-01-28'
+    amending: eu:celex:32012D0048:por
+    amending_title: DECISÃO DE EXECUÇÃO DA COMISSÃO de 26 de janeiro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Período de aplicação
+    - Altera Notas
 identifiers:
   celex: 32009D0251
   eli: http://data.europa.eu/eli/dec/2009/251/oj
@@ -49,7 +81,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/51bd3fa0-8492-4318-947f-fff7dc73ad54.0018
   content_url: http://publications.europa.eu/resource/cellar/04e2d540-089b-4493-8934-e45b48480201.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009D0251-20120128
-  retrieved_at: '2026-10-22T02:52:35Z'
+  retrieved_at: '2026-10-22T15:32:10Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T03:44:19.097+02:00'
 integrity:
@@ -58,9 +90,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:35Z'
-  notes: Texto consolidado 02009D0251-20120128.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:32:10Z'
+  notes: 4 versão(ões); histórico completo em decisao-ue-2009-251.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -144,31 +176,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/5a380587-970b-46c6-80b0-985dd1d4812d
 article_structure:
   article_count: 5
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:35Z'
+  checked_at: '2026-10-22T15:32:10Z'
   warnings: []
   errors: []
 ---
 
 # 2009/251/CE: Decisão da Comissão, de 17 de Março de 2009
-
-> 2009D0251 — PT — 28.01.2012 — 003.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32010D0153) — [DECISÃO DA COMISSÃO de 11 de Março de 2010](http://publications.europa.eu/resource/celex/32010D0153) — L 63 — 21 — 12.3.2010
-- [M2](http://publications.europa.eu/resource/celex/32011D0135) — [DECISÃO DA COMISSÃO de 1 de Março de 2011](http://publications.europa.eu/resource/celex/32011D0135) — L 57 — 43 — 2.3.2011
-- [►M3](http://publications.europa.eu/resource/celex/32012D0048) — [DECISÃO DE EXECUÇÃO DA COMISSÃO de 26 de janeiro de 2012](http://publications.europa.eu/resource/celex/32012D0048) — L 26 — 35 — 28.1.2012
-
-## DECISÃO DA COMISSÃO
 
 de 17 de Março de 2009
 

@@ -35,6 +35,35 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-09-01'
+version_history:
+  file: regulamento-ue-2008-149.versoes.json
+  count: 2
+  source_lastmod: '2008-09-01'
+  versions:
+  - date: '2008-03-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-09-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Notas
+    - Adita ANEXO
+    - Adita «ANEXO II
+    - Adita LMR anteriormente definidos nos termos das Directivas 86/362/CEE, 86/363/CEE e 90/642/CEE, referidos no n.º 1
+      do artigo 21.º
+    - Adita ANEXO III
+    - Adita LMR temporários referidos no n.º 1 do artigo 16.º e no n.º 1 do artigo 22.º
+    - Adita PARTE A
+    - Adita LMR temporários para substâncias sem LMR nos termos das Directivas 86/362/CEE, 86/363/CEE e 90/642/CEE
+    - Adita PARTE B
+    - Adita LMR temporários para produtos não definidos nos anexos I das Directivas 86/362/CEE, 86/363/CEE e 90/642/CEE
+    - Adita ANEXO IV
+    - Adita Lista de substâncias activas de produtos fitofarmacêuticos avaliadas no âmbito da Directiva 91/414/CEE, para as
+      quais não são exigidos LMR, referidas no n.º 1 do artigo 5.º
 identifiers:
   celex: 32008R0149
   eli: http://data.europa.eu/eli/reg/2008/149/oj
@@ -49,7 +78,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/19688ff1-1406-49f8-9371-3f69bf16b43e.0018
   content_url: http://publications.europa.eu/resource/cellar/944dff43-f1fc-4ca9-8a12-3d698bd92b49.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0149-20080901
-  retrieved_at: '2026-10-22T03:13:54Z'
+  retrieved_at: '2026-10-22T15:19:07Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-29T18:19:22.267+01:00'
 integrity:
@@ -58,9 +87,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:13:54Z'
-  notes: Texto consolidado 02008R0149-20080901.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:19:07Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2008-149.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -138,29 +167,19 @@ relationships:
   date: '2016-08-27'
 article_structure:
   article_count: 2
-  section_count: 11
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 12
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:13:54Z'
+  checked_at: '2026-10-22T15:19:07Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n.° 149/2008 da Comissão, de 29 de Janeiro de 2008
-
-> 2008R0149 — PT — 01.09.2008 — 000.002
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32008R0149R%2803%29) — [Rectificação, JO L 240, 9.9.2008, p. 9 (149/08)](http://publications.europa.eu/resource/celex/32008R0149R%2803%29)
-
-## REGULAMENTO (CE) N.º 149/2008 DA COMISSÃO
 
 de 29 de Janeiro de 2008
 

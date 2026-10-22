@@ -1,0 +1,488 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32008R1006:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R1006-20180117",
+ "dre_path": null,
+ "source_lastmod": "2018-01-17",
+ "versions": [
+  {
+   "date": "2008-10-29",
+   "future": false,
+   "celex": "32008R1006",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a88fa7ce4b0f20a8",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "59b37cf7ea5fca36",
+    "6f78b56415a81366",
+    "f0f8c960bfdbce9b",
+    "f8d0592dab4782fb",
+    "19572906891c0646",
+    "7fabed8a0a46afb5",
+    "17cd38782fd8c7e6",
+    "0b50b9972a75b595",
+    "b674770486c397ba",
+    "d315eb988273ec85",
+    "92c132ac52391e2d",
+    "a931e9bacdb9e4ef",
+    "6351d6868aa5a3e9",
+    "808d79f13ab4490a",
+    "1d91b0a15dc1b692",
+    "5f0f8d79a9d4e105",
+    "b4f1bfdbc841cf04",
+    "7a9e37354bf124bf",
+    "3f7243e63fc7b184",
+    "b9c1c438fac65788",
+    "41f42b101f60e30b",
+    "5a50c93a12bf1c34",
+    "89ebf019c4250d71",
+    "c4cbf0b79fe7ec43",
+    "bd2b237051ac72cc",
+    "619039201b58ce31",
+    "184c1b7a3d24aa39",
+    "5f43ac4e020838c4",
+    "53eab995bb28f529",
+    "1e7a0903d2eed348",
+    "4dd1eb80cd460111",
+    "3b4d1e80c7001660",
+    "ef67d92cfd49502b",
+    "f23b93beec827fe1",
+    "b9bf4b40c70e7578",
+    "0a976172d8a0aab0",
+    "237917c4081e8e6e",
+    "e640b6c45035feae",
+    "3ac105ec5903a8cf",
+    "1ecfc79da3f1ac7f",
+    "979895eea68bd540",
+    "8b4b81bbae577f8b",
+    "e876a6818a2f4bec",
+    "40ed6b62e188ac6f",
+    "2820a0672e2df197",
+    "082b208ffc0d3082",
+    "cdfa2f6dac7d08de",
+    "06a0b1c01e819631",
+    "4fc27d184b652183"
+   ]
+  }
+ ],
+ "fragments": {
+  "a88fa7ce4b0f20a8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Setembro de 2008\n\nrelativo às autorizações para as actividades de pesca exercidas pelos navios de pesca comunitários fora das águas comunitárias e ao acesso de navios de países terceiros às águas comunitárias, que altera os Regulamentos (CEE) n.º 2847/93 e (CE) n.º 1627/94 e que revoga o Regulamento (CE) n.º 3317/94\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.º 3317/94 do Conselho, de 22 de Dezembro de 1994, que estabelece as disposições gerais relativas às autorizações de pesca em águas de um país terceiro, no âmbito de um acordo de pesca [([^1])](http://publications.europa.eu/resource/cellar/0f134c9d-7069-49e6-aad7-da13020efa28.0018.02/DOC_1#ntr1-L_2008286PT.01003301-E0001) fixa o procedimento de autorização das actividades de pesca dos navios de pesca comunitários nas águas sob jurisdição dos países terceiros, no respeito dos acordos de pesca celebrados entre a Comunidade e esses países. O procedimento estabelecido nesse regulamento já não serve as necessidades em termos de obrigações internacionais decorrentes dos acordos de pesca bilaterais, dos acordos e das convenções multilaterais aprovados no quadro das organizações regionais de gestão da pesca (ORGP) ou convénios semelhantes. Além disso, o referido regulamento também já não permite atingir os objectivos da Política Comum das Pescas (PCP), nomeadamente em matéria de pesca sustentável e de controlo.\n\n(2) Na sequência do Plano de Acção 2006-2008 para a simplificação e a melhoria da política comum das pescas, apresentado na Comunicação da Comissão ao Conselho e ao Parlamento de 8 de Dezembro de 2005, e da evolução da situação da pesca fora das águas comunitárias desde a aprovação do Regulamento (CE) n.º 3317/94 e a fim de cumprir as obrigações internacionais, é necessário introduzir um sistema comunitário geral relativo à autorização de todas as actividades de pesca dos navios comunitários fora das águas comunitárias. Além disso, as regras de acesso dos navios de pesca que arvoram pavilhão de um país terceiro às águas comunitárias, actualmente estabelecidas noutros instrumentos legislativos deverão igualmente ser redefinidas e, se necessário, adaptadas às regras aplicáveis aos navios de pesca comunitários.\n\n(3) Os navios comunitários só deverão ser autorizados a exercer actividades de pesca fora das águas comunitárias após terem obtido uma autorização da autoridade competente responsável pela autorização das actividades em causa, nomeadamente a autoridade competente do país terceiro em cujas águas essas actividades são exercidas, a autoridade habilitada a autorizar actividades de pesca nas águas internacionais abrangidas por disposições adoptadas por uma ORGP ou convénio semelhante ou, no caso de actividades de pesca no alto mar não regulamentadas por um acordo, as autoridades competentes dos Estados-Membros sem prejuízo da legislação específica comunitária relativa às actividades de pesca no alto mar.\n\n(4) Importa definir claramente as responsabilidades da Comissão e dos Estados-Membros no que respeita ao procedimento de autorização das actividades de pesca dos navios comunitários fora das águas comunitárias. A este respeito a Comissão deverá poder assegurar que as obrigações internacionais e as disposições da PCP são observadas e que os pedidos de autorização estão completos e são transmitidos de acordo com os prazos estabelecidos no âmbito dos acordos em causa.\n\n(5) Os navios de pesca comunitários só deverão ser considerados elegíveis para autorização de actividades de pesca fora das águas comunitárias na medida em que estejam satisfeitos determinados critérios relativos às obrigações internacionais assumidas pela Comunidade, bem como às regras e objectivos da PCP.\n\n(6) Sempre que não for possível concluir o procedimento do Conselho para aprovação da decisão relativa à aplicação provisória de um novo protocolo de um acordo bilateral de pesca com um país terceiro que reparta as possibilidades de pesca entre Estados-Membros antes da data da respectiva aplicação provisória, a Comissão deverá poder enviar ao país terceiro, a título temporário, para evitar a interrupção das actividades de pesca dos navios comunitários, pedidos de autorização de pesca, nos seis meses subsequentes à caducidade do protocolo anterior.\n\n(7) A fim de assegurar que as possibilidades de pesca colocadas à disposição da Comunidade no quadro dos acordos de parceria no sector das pescas sejam plenamente exploradas, é necessário que a Comissão seja habilitada a redistribuir temporariamente as possibilidades de pesca não utilizadas por um Estado-Membro a outro Estado-Membro, sem prejuízo da atribuição ou da troca dessas possibilidades de pesca entre os Estados-Membros no âmbito do protocolo em causa.\n\n(8) Os acordos de parceria no sector das pescas são acordos como aqueles a que se referem as conclusões do Conselho de 15 de Julho de 2004 e que são descritos como tais pelo Conselho aquando da respectiva celebração ou aplicação provisória.\n\n(9) As disposições relativas ao controlo da utilização das possibilidades de pesca atribuídas aos navios comunitários fora das águas comunitárias, e das possibilidades de pesca atribuídas aos navios de países terceiros, deverão ser harmonizadas e permitir uma acção atempada para impedir que os Estados-Membros e os países terceiros excedam essas possibilidades.\n\n(10) Para perseguir judicialmente as infracções de forma coerente e eficaz, deverá ser prevista a possibilidade de explorar plenamente os relatórios de inspecção e de controlo elaborados pelos inspectores da Comissão, pelos inspectores da Comunidade, pelos inspectores dos Estados-Membros e pelos inspectores dos países terceiros.\n\n(11) Todos os dados relacionados com as actividades de pesca dos navios de pesca comunitários fora das águas comunitárias no respeito de acordos de pesca deverão ser actualizados e, se necessário, disponibilizados aos Estados-Membros e países terceiros em causa. Para o efeito, é necessário estabelecer um sistema de informação específico sobre autorizações de pesca.\n\n(12) As medidas necessárias à execução do presente regulamento deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^2])](http://publications.europa.eu/resource/cellar/0f134c9d-7069-49e6-aad7-da13020efa28.0018.02/DOC_1#ntr2-L_2008286PT.01003301-E0002). Essas regras podem igualmente prever isenções às obrigações estabelecidas no presente regulamento, caso estas obrigações constituam um ónus desproporcionado relativamente à importância económica da actividade e, por uma questão de eficiência, tais isenções deverão ser aprovadas pelo procedimento de gestão a que se refere o artigo 4.º da Decisão 1999/468/CE.\n\n(13) O Regulamento (CE) n.º 3317/94, assim como as disposições relativas ao acesso de navios de pesca de países terceiros às águas comunitárias estabelecidas no Regulamento (CE) n.º 1627/94 do Conselho, de 27 de Junho de 1994, que estabelece as disposições gerais relativas às autorizações de pesca especiais [([^3])](http://publications.europa.eu/resource/cellar/0f134c9d-7069-49e6-aad7-da13020efa28.0018.02/DOC_1#ntr3-L_2008286PT.01003301-E0003) e o Regulamento (CEE) n.º 2847/93 do Conselho, de 12 de Outubro de 1993, que institui um regime de controlo aplicável à política comum das pescas [([^4])](http://publications.europa.eu/resource/cellar/0f134c9d-7069-49e6-aad7-da13020efa28.0018.02/DOC_1#ntr4-L_2008286PT.01003301-E0004) deverão ser revogados,\n\nAPROVOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "59b37cf7ea5fca36": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação e objectivos",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação e objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação e objectivos\n\nO presente regulamento estabelece disposições em matéria de:\n\na) Autorização para que os navios de pesca comunitários exerçam as seguintes actividades de pesca: i) actividades nas águas sob soberania ou jurisdição de um país terceiro no âmbito de um acordo de pescas celebrado entre a Comunidade e esse país, ou ii) actividades abrangidas pelo âmbito de aplicação de medidas de conservação e gestão aprovadas no quadro de uma organização regional de gestão das pescas ou similar de que a Comunidade seja parte contratante ou parte não contratante cooperante (a seguir designada por «ORGP»), ou iii) actividades fora das águas comunitárias não abrangidas por um acordo de pesca ou por uma ORGP;\n\ni) actividades nas águas sob soberania ou jurisdição de um país terceiro no âmbito de um acordo de pescas celebrado entre a Comunidade e esse país, ou\n\nii) actividades abrangidas pelo âmbito de aplicação de medidas de conservação e gestão aprovadas no quadro de uma organização regional de gestão das pescas ou similar de que a Comunidade seja parte contratante ou parte não contratante cooperante (a seguir designada por «ORGP»), ou\n\niii) actividades fora das águas comunitárias não abrangidas por um acordo de pesca ou por uma ORGP;\n\nb) Autorização para que navios de pesca de países terceiros exerçam actividades de pesca em águas comunitárias;\n\ne bem assim das obrigações de notificação relativas às actividades autorizadas."
+  },
+  "6f78b56415a81366": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «Acordo», um acordo de pesca celebrado ou em relação ao qual tenha sido aprovada uma decisão de aplicação provisória em conformidade com o artigo 300.º do Tratado;\n\nb) «Organização regional de gestão das pescas» ou «ORGP», uma organização ou um convénio similar sub-regional ou regional com competência, reconhecida pelo direito internacional, para estabelecer medidas de conservação e de gestão dos recursos marinhos vivos sob a sua responsabilidade, por força da convenção ou do acordo que a institui;\n\nc) «Actividades de pesca», a captura, manutenção a bordo, transformação e transferência de peixe;\n\nd) «Navio de pesca comunitário», um navio de pesca comunitário, tal como referido na alínea d) do artigo 3.º do Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e à exploração sustentável dos recursos haliêuticos no âmbito da política comum das pescas [([^5])](http://publications.europa.eu/resource/cellar/0f134c9d-7069-49e6-aad7-da13020efa28.0018.02/DOC_1#ntr5-L_2008286PT.01003301-E0005);\n\ne) «Ficheiro da frota comunitária», o ficheiro da frota de pesca comunitária tal como referido no n.º 3 do artigo 15.º do Regulamento (CE) n.º 2371/2002;\n\nf) «Possibilidades de pesca», as possibilidades de pesca tal como definidas na alínea q) do artigo 3.º do Regulamento (CE) n.º 2371/2002;\n\ng) «Autoridade responsável pela emissão das autorizações», a autoridade competente para a autorização das actividades de pesca dos navios de pesca comunitários no âmbito de um acordo ou a autorização dos navios de pesca de países terceiros nas águas comunitárias;\n\nh) «Autorização de pesca», o direito de exercer actividades de pesca durante um período determinado, numa dada zona ou numa pescaria específica;\n\ni) «Esforço de pesca», o esforço de pesca tal como definido na alínea h) do artigo 3.º do Regulamento (CE) n.º 2371/2002;\n\nj) «Transmissão electrónica», a transferência de dados em formato electrónico, cujos conteúdos, formato e protocolo são estabelecidos pela Comissão ou acordados pelas partes num acordo;\n\nk) «Categoria de pesca», uma subdivisão da frota baseada em critérios tais como o tipo de navio, o tipo de actividades de pesca e o tipo de arte de pesca utilizada;\n\nl) «Infracção grave», uma infracção grave tal como definida no Regulamento (CE) n.º 1447/1999, de 24 de Junho de 1999, que fixa uma lista dos tipos de comportamento que infringem gravemente as regras da política comum das pescas [([^6])](http://publications.europa.eu/resource/cellar/0f134c9d-7069-49e6-aad7-da13020efa28.0018.02/DOC_1#ntr6-L_2008286PT.01003301-E0006), ou uma infracção ou violação graves nos termos do acordo em causa;\n\nm) «Lista INN», a lista dos navios de pesca que pratiquem a pesca ilegal, não declarada e não regulamentada e identificados no âmbito de uma ORGP ou pela Comissão ao abrigo do Regulamento (CE) n.º 1005/2008 do Conselho, de 29 de Setembro de 2008, que estabelece um regime comunitário para prevenir, impedir e eliminar a pesca ilegal, não declarada e não regulamentada [([^7])](http://publications.europa.eu/resource/cellar/0f134c9d-7069-49e6-aad7-da13020efa28.0018.02/DOC_1#ntr7-L_2008286PT.01003301-E0007);\n\nn) «Sistema comunitário de informação relativo às autorizações de pesca», o sistema de informação estabelecido pela Comissão nos termos do artigo 12.º;\n\no) «Navio de pesca de um país terceiro», um navio: — que, independentemente das suas dimensões, seja utilizado, principal ou acessoriamente, para o transporte de produtos da pesca, — que, mesmo que não utilizado para a captura pelos seus próprios meios, transporte produtos da pesca transbordados de outros navios, ou — a bordo do qual os produtos da pesca sejam sujeitos a uma ou mais das seguintes operações antes de serem acondicionados: cortados em filetes ou em postas, esfolados, picados, congelados e/ou sujeitos a qualquer outro tipo de transformação, e que arvore pavilhão de um país terceiro e/ou esteja registado num país terceiro.\n\n— que, independentemente das suas dimensões, seja utilizado, principal ou acessoriamente, para o transporte de produtos da pesca,\n\n— que, mesmo que não utilizado para a captura pelos seus próprios meios, transporte produtos da pesca transbordados de outros navios, ou\n\n— a bordo do qual os produtos da pesca sejam sujeitos a uma ou mais das seguintes operações antes de serem acondicionados: cortados em filetes ou em postas, esfolados, picados, congelados e/ou sujeitos a qualquer outro tipo de transformação,"
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "f8d0592dab4782fb": {
+   "fragment_id": "ACTIVIDADES DE PESCA EXERCIDAS POR NAVIOS DE PESCA COMUNITÁRIOS FORA DAS ÁGUAS COMUNITÁRIAS",
+   "type": "divisao",
+   "heading": "ACTIVIDADES DE PESCA EXERCIDAS POR NAVIOS DE PESCA COMUNITÁRIOS FORA DAS ÁGUAS COMUNITÁRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ACTIVIDADES DE PESCA EXERCIDAS POR NAVIOS DE PESCA COMUNITÁRIOS FORA DAS ÁGUAS COMUNITÁRIAS"
+  },
+  "19572906891c0646": {
+   "fragment_id": "SECÇÃO I",
+   "type": "divisao",
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO I"
+  },
+  "7fabed8a0a46afb5": {
+   "fragment_id": "Disposições gerais",
+   "type": "divisao",
+   "heading": "Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições gerais"
+  },
+  "17cd38782fd8c7e6": {
+   "fragment_id": "Artigo 3.º — Disposição geral",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Disposição geral\n\nSó estão autorizados a exercer actividades de pesca fora das águas comunitárias os navios de pesca comunitários para os quais tenha sido emitida uma autorização de pesca em conformidade com o presente regulamento."
+  },
+  "0b50b9972a75b595": {
+   "fragment_id": "SECÇÃO II",
+   "type": "divisao",
+   "heading": "SECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO II"
+  },
+  "b674770486c397ba": {
+   "fragment_id": "Autorizações para as actividades de pesca exercidas no âmbito de acordos",
+   "type": "divisao",
+   "heading": "Autorizações para as actividades de pesca exercidas no âmbito de acordos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Autorizações para as actividades de pesca exercidas no âmbito de acordos"
+  },
+  "d315eb988273ec85": {
+   "fragment_id": "Artigo 4.º — Apresentação dos pedidos de autorização",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Apresentação dos pedidos de autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Apresentação dos pedidos de autorização\n\n1. O mais tardar 5 dias úteis antes do termo do prazo estabelecido no acordo em causa para a transmissão dos pedidos de autorização ou, na ausência de prazo no acordo, o mais tardar em conformidade com as disposições estabelecidas no acordo e sem prejuízo das disposições específicas constantes da legislação comunitária, os Estados-Membros apresentam à Comissão, por via electrónica, os pedidos de autorizações de pesca para os navios em questão.\n\n2. Os pedidos referidos no n.º 1 contêm o número de identificação do ficheiro da frota comunitária e o indicativo de chamada rádio internacional dos navios, bem como quaisquer outros dados exigidos por força do acordo em causa ou estabelecidos nos termos do n.º 2 do artigo 27.º"
+  },
+  "92c132ac52391e2d": {
+   "fragment_id": "Artigo 5.º — Critérios de elegibilidade",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Critérios de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Critérios de elegibilidade\n\n1. Os Estados-Membros só apresentam à Comissão pedidos de autorização de pesca para navios de pesca que arvorem o seu pavilhão:\n\na) Que já exerçam actividades de pesca e que, nos últimos 12 meses de actividades de pesca levadas a cabo no âmbito do acordo em causa ou, no caso de um novo acordo, no âmbito do acordo que o antecedeu, tenham, sempre que adequado, satisfeito as condições estabelecidas no acordo relativamente ao período em questão;\n\nb) Que, nos 12 meses que antecederam o pedido de autorização de pesca, tenham sido objecto de acção sancionatória por infracções graves ou tenham sido considerados suspeitos de tais infracções de acordo com o direito nacional do Estado-Membro e/ou cujo proprietário tenha mudado, dando o novo proprietário garantias de que as condições serão satisfeitas;\n\nc) Que não figurem numa lista INN;\n\nd) Cujos dados no ficheiro da frota comunitária e no sistema comunitário de informação relativo às autorizações de pesca estejam completos e correctos;\n\ne) Que possuam uma licença de pesca válida tal como referida no Regulamento (CE) n.º 1281/2005 da Comissão, de 3 de Agosto de 2005, relativo à gestão das licenças de pesca e às informações mínimas que devem conter [([^8])](http://publications.europa.eu/resource/cellar/0f134c9d-7069-49e6-aad7-da13020efa28.0018.02/DOC_1#ntr8-L_2008286PT.01003301-E0008);\n\nf) Cujos dados exigidos pelo acordo em causa estejam disponíveis e acessíveis à autoridade responsável pela autorização; e\n\ng) Cujos pedidos de autorização de pesca sejam conformes com as disposições do acordo em causa e do presente regulamento.\n\n2. Cada Estado-Membro assegura que o número de pedidos de autorização de pesca cuja transmissão é solicitada seja proporcional às possibilidades de pesca disponíveis para esse Estado-Membro nos termos do acordo em causa."
+  },
+  "a931e9bacdb9e4ef": {
+   "fragment_id": "Artigo 6.º — Transmissão dos pedidos de autorização",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Transmissão dos pedidos de autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Transmissão dos pedidos de autorização\n\n1. A Comissão transmite os pedidos de autorização à autoridade responsável pela emissão das autorizações no prazo de 5 dias úteis após recepção do pedido do Estado-Membro e nos termos do presente artigo.\n\n2. A Comissão examina os pedidos de transmissão dos pedidos de autorização, tendo em conta o seguinte:\n\na) As possibilidades de pesca atribuídas pelo Conselho a cada Estado-Membro com base no artigo 20.º do Regulamento (CE) n.º 2371/2002 ou do artigo 37.º do Tratado; e\n\nb) As condições estabelecidas no acordo em causa e no presente regulamento.\n\n3. A Comissão verifica se:\n\na) As condições estabelecidas no artigo 5.º são observadas; e\n\nb) Os pedidos de autorizações de pesca cuja transmissão é solicitada pelos Estados-Membros em causa estão de acordo com as possibilidades de pesca disponíveis nos termos do acordo em causa, tendo em conta os pedidos de todos os Estados-Membros."
+  },
+  "6351d6868aa5a3e9": {
+   "fragment_id": "Artigo 7.º — Não transmissão de pedidos de autorização",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Não transmissão de pedidos de autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Não transmissão de pedidos de autorização\n\n1. A Comissão não transmite à autoridade responsável pela emissão das autorizações os pedidos em relação aos quais:\n\na) Os dados apresentados pelo Estado-Membro nos termos do n.º 2 do artigo 4.º estejam incompletos no que respeita ao navio em causa;\n\nb) As possibilidades de pesca para o Estado-Membro em causa sejam insuficientes, atendendo às especificações técnicas do acordo em causa e aos pedidos apresentados por esse Estado-Membro;\n\nc) As condições estabelecidas no acordo em causa e no presente regulamento não se encontrem preenchidas.\n\n2. Em caso de não transmissão de um ou mais pedidos de autorização, a Comissão informa de imediato do facto o Estado-Membro em causa, indicando os seus motivos.\n\nSe o Estado-Membro não concordar com as razões apresentadas pela Comissão, transmite à Comissão quaisquer informações ou documentos que justifiquem a sua objecção, no prazo de 5 dias úteis. A Comissão reanalisa o pedido à luz dessas informações."
+  },
+  "808d79f13ab4490a": {
+   "fragment_id": "Artigo 8.º — Informação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Informação\n\n1. A Comissão informa de imediato o Estado-Membro de pavilhão, por via electrónica, da autorização de pesca concedida pela autoridade responsável pela emissão das autorizações ou da decisão dessa autoridade de não emitir uma autorização de pesca para um determinado navio. Se um acordo o exigir, os documentos de acompanhamento e os originais são enviados em papel e/ou por via electrónica.\n\n2. Os Estados-Membros de pavilhão comunicam de imediato aos armadores dos navios de pesca em questão a informação recebida nos termos do n.º 1.\n\n3. Se uma autoridade responsável pela emissão das autorizações informar a Comissão de que decidiu suspender ou retirar uma autorização de pesca emitida para um navio de pesca comunitário no âmbito de um acordo, a Comissão informa imediatamente desse facto, por via electrónica, o Estado-Membro de pavilhão desse navio. O Estado Membro de pavilhão transmite de imediato essa informação ao proprietário do navio.\n\n4. A fim de determinar a compatibilidade da decisão de recusar ou suspender a autorização de pesca com o acordo em causa, a Comissão realiza controlos, em consulta com o Estado-Membro de pavilhão e a autoridade responsável pela emissão das autorizações, informando ambos dos resultados apurados."
+  },
+  "1d91b0a15dc1b692": {
+   "fragment_id": "Artigo 9.º — Continuidade das actividades de pesca",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Continuidade das actividades de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Continuidade das actividades de pesca\n\n1. Sempre que:\n\n— o protocolo de um acordo bilateral de pesca com um país terceiro que fixe a repartição das possibilidades de pesca estipuladas nesse acordo tenha caducado, e\n\n— o protocolo tenha sido rubricado pela Comissão mas ainda não tenha sido tomada uma decisão quanto à sua celebração ou aplicação provisória,\n\na Comissão pode, durante um período de seis meses a contar da data do termo de aplicação do referido protocolo, e sem prejuízo da competência do Conselho para determinar a celebração ou aplicação provisória do novo protocolo, transmitir os pedidos de autorização de pesca ao país terceiro em causa, em conformidade com o presente regulamento.\n\n2. De acordo com as regras estabelecidas no âmbito do acordo de pesca em causa, os navios comunitários autorizados a realizar actividades de pesca no âmbito desse acordo de pesca podem, na data do termo da validade das autorizações de pesca, continuar a pescar no âmbito desse acordo por um período máximo de 6 meses após essa data, desde que o parecer científico o permita.\n\n3. Neste contexto, a Comissão aplica o método de repartição das possibilidades de pesca em vigor do protocolo anterior para o n.º 1 e o método estabelecido no protocolo existente para o n.º 2."
+  },
+  "5f0f8d79a9d4e105": {
+   "fragment_id": "Artigo 10.º — Subutilização das possibilidades de pesca no contexto dos acordos de parceria no sector das pescas",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Subutilização das possibilidades de pesca no contexto dos acordos de parceria no sector das pescas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Subutilização das possibilidades de pesca no contexto dos acordos de parceria no sector das pescas\n\n1. No contexto de um acordo de parceria no sector das pescas, se, com base nas solicitações para a transmissão dos pedidos de autorização a que se refere o artigo 4.º do presente regulamento, se verificar que as autorizações de pesca ou as possibilidades de pesca atribuídas à Comunidade no âmbito de um acordo não são totalmente utilizadas, a Comissão informa desse facto os Estados-Membros em causa, pedindo-lhes que confirmem que não utilizam essas possibilidades na sua totalidade. A ausência de resposta nos prazos a fixar pelo Conselho aquando da celebração do acordo de parceria no sector das pescas, é considerada uma confirmação de que os navios do Estado-Membro em causa não utilizam plenamente as suas possibilidades de pesca no período em causa.\n\n2. Após confirmação pelo Estado-Membro em causa, a Comissão avalia o conjunto das possibilidades de pesca não utilizadas e disponibiliza os resultados dessa avaliação aos Estados-Membros.\n\n3. Os Estados-Membros que pretendam utilizar as possibilidades de pesca não utilizadas, a que se refere o n.º 2, apresentam à Comissão, no prazo por ela fixado, a lista de todos os navios para os quais tencionam pedir uma autorização de pesca, assim como a solicitação de transmissão dos pedidos de autorização para cada um dos navios nos termos do artigo 4.º\n\n4. A Comissão decide da reatribuição das possibilidades de pesca em estreita cooperação com os Estados-Membros em causa.\n\nSe um Estado-Membro em causa tiver objecções a essa reatribuição, a Comissão toma uma decisão sobre a reatribuição, tendo em conta os critérios estabelecidos no anexo I, nos termos do n.º 2 do artigo 27.º, e notifica a sua decisão aos Estados-Membros em causa.\n\n5. A transmissão dos pedidos de autorização em conformidade com o presente artigo não afecta de forma alguma a futura repartição das possibilidades de pesca ou o seu intercâmbio pelos Estados-Membros, nos termos do artigo 20.º do Regulamento (CE) n.º 2371/2002.\n\n6. Até à finalização dos prazos a que se refere o n.º 1, a Comissão não é impedida de aplicar o mecanismo fixado nos n.^os^ 1 a 4."
+  },
+  "b4f1bfdbc841cf04": {
+   "fragment_id": "SECÇÃO III",
+   "type": "divisao",
+   "heading": "SECÇÃO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO III"
+  },
+  "7a9e37354bf124bf": {
+   "fragment_id": "Actividades da pesca não abrangidas por um acordo",
+   "type": "divisao",
+   "heading": "Actividades da pesca não abrangidas por um acordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Actividades da pesca não abrangidas por um acordo"
+  },
+  "3f7243e63fc7b184": {
+   "fragment_id": "Artigo 11.º — Disposições gerais",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Disposições gerais\n\n1. O operador de um navio de pesca comunitário que pretenda efectuar actividades de pesca no alto mar em águas não abrangidas pelo âmbito de aplicação de um acordo ou de uma ORGP informa as autoridades do Estado-Membro de pavilhão sobre essas actividades.\n\nSem prejuízo da legislação comunitária relativa às actividades de pesca no alto mar, os navios de pesca comunitários são autorizados a exercer actividades de pesca no alto mar em águas não abrangidas pelo âmbito de aplicação de um acordo ou de uma ORGP se possuírem uma autorização do Estado-Membro do seu pavilhão em conformidade com as disposições nacionais.\n\nOs Estados-Membros comunicam à Comissão, dez dias antes do início das actividades de pesca a que se refere o primeiro parágrafo, os navios autorizados a pescar em conformidade com esse parágrafo, especificando as espécies, as artes de pesca, o período e a zona a que a autorização se aplica.\n\n2. Os Estados-Membros envidam esforços para obter informações sobre quaisquer acordos celebrados entre os seus nacionais e um país terceiro que autorizem os navios de pesca que arvoram o seu pavilhão a exercer actividades de pesca nas águas sob a jurisdição ou soberania de um país terceiro, e desse facto informam a Comissão por via electrónica, apresentando uma lista dos navios em causa.\n\n3. A presente secção só é aplicável aos navios com comprimento fora a fora superior a 24 metros."
+  },
+  "b9c1c438fac65788": {
+   "fragment_id": "SECÇÃO IV",
+   "type": "divisao",
+   "heading": "SECÇÃO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO IV"
+  },
+  "41f42b101f60e30b": {
+   "fragment_id": "Obrigações de notificação e encerramento de actividades de pesca",
+   "type": "divisao",
+   "heading": "Obrigações de notificação e encerramento de actividades de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Obrigações de notificação e encerramento de actividades de pesca"
+  },
+  "5a50c93a12bf1c34": {
+   "fragment_id": "Artigo 12.º — Sistema comunitário de informação relativo às autorizações de pesca",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Sistema comunitário de informação relativo às autorizações de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Sistema comunitário de informação relativo às autorizações de pesca\n\n1. A Comissão estabelece um sistema comunitário de informação relativo às autorizações de pesca, que contém os dados referentes às autorizações emitidas em conformidade com o presente regulamento. A Comissão cria um sítio *web* seguro para este efeito.\n\n2. Os Estados-Membros asseguram que os dados referentes às autorizações de pesca exigidos no âmbito de um acordo ou de uma ORGP constem do sistema comunitário de informação relativo às autorizações de pesca e mantêm esses dados permanentemente actualizados."
+  },
+  "89ebf019c4250d71": {
+   "fragment_id": "Artigo 13.º — Comunicação das capturas e do esforço de pesca",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Comunicação das capturas e do esforço de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Comunicação das capturas e do esforço de pesca\n\n1. Os navios de pesca comunitários para os quais tenha sido emitida uma autorização de pesca nos termos da secção II ou da secção III comunicam semanalmente à respectiva autoridade nacional competente os dados relativos às suas capturas e, sempre que exigido, ao seu esforço de pesca. Mediante pedido, a Comissão tem acesso a esses dados.\n\nNão obstante o parágrafo anterior, a partir de 1 de Janeiro de 2010, os navios de pesca comunitários com comprimento de fora a fora superior a 24 metros comunicam diariamente à respectiva autoridade nacional competente os dados relativos às suas capturas e, quando exigido, ao seu esforço de pesca, em conformidade com o Regulamento (CE) n.º 1566/2007 da Comissão, de 21 de Dezembro de 2007, que estabelece normas de execução do Regulamento (CE) n.º 1966/2006 do Conselho relativo ao registo e à transmissão electrónicos de dados sobre as actividades de pesca e os sistemas de teledetecção [([^9])](http://publications.europa.eu/resource/cellar/0f134c9d-7069-49e6-aad7-da13020efa28.0018.02/DOC_1#ntr9-L_2008286PT.01003301-E0009). A partir de 1 de Janeiro de 2011, o mesmo é aplicável aos navios de pesca comunitários cujo comprimento de fora a fora exceda 15 metros.\n\n2. Os Estados-Membros compilam os dados referidos no n.º 1 do presente artigo e, antes do dia 15 de cada mês, comunicam, por via electrónica, à Comissão ou a um organismo por ela designado para o efeito, para cada unidade populacional, grupo de unidades populacionais ou categoria de pesca, os dados relativos às quantidades capturadas e, sempre que exigido no âmbito de um acordo ou de um regulamento de execução do mesmo, o esforço desenvolvido durante o mês anterior, por navios que arvoram o seu pavilhão nas águas abrangidas por um acordo, e nos seis meses anteriores, no que respeita a actividades de pesca fora das águas comunitárias não abrangidas por um acordo.\n\n3. A Comissão decide, nos termos do artigo 27.º, o formato em que os dados a que se refere o n.º 1 do presente artigo devem ser transmitidos."
+  },
+  "c4cbf0b79fe7ec43": {
+   "fragment_id": "Artigo 14.º — Controlo das capturas e do esforço de pesca",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Controlo das capturas e do esforço de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Controlo das capturas e do esforço de pesca\n\nSem prejuízo do disposto no capítulo V do Regulamento (CE) n.º 2371/2002, os Estados-Membros asseguram o cumprimento das obrigações relativas à comunicação das capturas, e, quando exigido, do esforço de pesca, estabelecidas no acordo em causa."
+  },
+  "bd2b237051ac72cc": {
+   "fragment_id": "Artigo 15.º — Encerramento de pescarias",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Encerramento de pescarias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Encerramento de pescarias\n\n1. Sem prejuízo do n.º 4 do artigo 26.º do Regulamento (CE) n.º 2371/2002 e do n.º 3 do artigo 21.º do Regulamento (CEE) n.º 2847/93, quando um Estado-Membro estimar que as suas possibilidades de pesca disponíveis se consideram esgotadas, proíbe de imediato qualquer actividade de pesca na zona, relativamente à arte de pesca, à unidade populacional ou ao grupo de unidades populacionais em questão. A presente disposição é aplicável sem prejuízo das disposições específicas estabelecidas no acordo em causa.\n\n2. Sempre que as possibilidades de pesca disponíveis de um Estado-Membro forem simultaneamente expressas em termos de limite de captura e de limite esforço de pesca, o Estado-Membro proíbe as actividades de pesca na zona, relativamente à arte de pesca, unidade populacional ou grupo de unidades populacionais em questão, logo que uma dessas possibilidades for considerada esgotada. A fim de possibilitar que prossigam as actividades de pesca em relação às possibilidades de pesca não esgotadas que tenham igualmente como alvo possibilidades de pesca esgotadas, o Estado-Membro deve notificar à Comissão medidas técnicas que não tenham qualquer impacto negativo para as possibilidades de pesca esgotadas. A presente disposição é aplicável sem prejuízo das disposições específicas estabelecidas no acordo em causa.\n\n3. Os Estados-Membros notificam de imediato à Comissão qualquer proibição de pesca decidida em conformidade com o presente artigo.\n\n4. Sempre que considerar que as possibilidades de pesca disponíveis para a Comunidade ou para um Estado-Membro estão esgotadas, a Comissão informa desse facto os Estados-Membros em causa, solicitando-lhes que proíbam as actividades de pesca nos termos dos n.^os^ 1, 2 e 3.\n\n5. Quando as actividades de pesca tiverem sido proibidas nos termos dos n.^os^ 1 ou 2, as autorizações de pesca especificadas para a unidade populacional de peixes ou o grupo de unidades populacionais de peixes em causa são suspensas."
+  },
+  "619039201b58ce31": {
+   "fragment_id": "Artigo 16.º — Suspensão das autorizações de pesca",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Suspensão das autorizações de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Suspensão das autorizações de pesca\n\n1. Se uma autoridade responsável pela emissão de autorizações no âmbito de um acordo de pesca notificar a Comissão da sua decisão de suspender ou retirar uma autorização de pesca emitida para um navio de pesca que arvora pavilhão de um Estado-Membro, a Comissão informa imediatamente desse facto o Estado-Membro de pavilhão do navio em causa. A Comissão realiza os controlos pertinentes, se for caso disso, em conformidade com os procedimentos estabelecidos no âmbito do acordo em causa, em consulta com o Estado-Membro de pavilhão e com as autoridades responsáveis pela emissão das autorizações do país terceiro em causa, e comunica os resultados ao Estado-Membro de pavilhão e, sempre que adequado, às autoridades do país terceiro em causa responsáveis pela emissão das autorizações.\n\n2. Se a autoridade responsável pela emissão de autorizações de um país terceiro suspender uma autorização de pesca que tenha concedido a um navio de pesca comunitário, o Estado-Membro de pavilhão suspende a autorização de pesca no âmbito do acordo para todo o período de suspensão da autorização de pesca.\n\nSe a autorização de pesca for definitivamente retirada pelas autoridades responsáveis pela emissão das autorizações de um país terceiro, o Estado-Membro de pavilhão retira imediatamente a autorização de pesca concedida ao navio em causa no âmbito do acordo em causa.\n\n3. Os relatórios de inspecção e de controlo elaborados pelos inspectores da Comissão, pelos inspectores da Comunidade, pelos inspectores dos Estados-Membros ou pelos inspectores de um país terceiro que seja parte no acordo em causa, constituem elementos de prova admissíveis nos processos administrativos ou judiciais de qualquer Estado-Membro. Para efeitos de apuramento dos factos, tais relatórios devem ser tratados como os relatórios de inspecção e controlo do Estado-Membro em causa."
+  },
+  "184c1b7a3d24aa39": {
+   "fragment_id": "SECÇÃO V",
+   "type": "divisao",
+   "heading": "SECÇÃO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO V"
+  },
+  "5f43ac4e020838c4": {
+   "fragment_id": "Acesso aos dados",
+   "type": "divisao",
+   "heading": "Acesso aos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Acesso aos dados"
+  },
+  "53eab995bb28f529": {
+   "fragment_id": "Artigo 17.º — Acesso aos dados",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Acesso aos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Acesso aos dados\n\n1. Sem prejuízo das obrigações decorrentes da Directiva 2003/4/CE do Parlamento Europeu e do Conselho, de 28 de Janeiro de 2003, relativa ao acesso do público às informações sobre ambiente [([^10])](http://publications.europa.eu/resource/cellar/0f134c9d-7069-49e6-aad7-da13020efa28.0018.02/DOC_1#ntr10-L_2008286PT.01003301-E0010), os dados comunicados pelos Estados-Membros à Comissão, ou a um organismo por ela designado, nos termos do presente capítulo são colocados à disposição, no sítio seguro ligado ao sistema comunitário de informação sobre autorizações de pesca, de todos os utilizadores interessados que sejam autorizados:\n\na) Pelos Estados-Membros;\n\nb) Pela Comissão, ou um órgão designado pela Comissão, no que respeita ao controlo e à inspecção.\n\nOs dados acessíveis a essas pessoas limitam-se aos dados de que necessitam no âmbito do processo de emissão das autorizações de pesca e/ou das actividades de inspecção e ficam sujeitos às regras de confidencialidade dos dados.\n\n2. Os proprietários dos navios registados no sistema comunitário de informação relativo às autorizações de pesca ou os seus mandatários podem obter uma cópia electrónica dos dados contidos no registo, mediante pedido oficial à Comissão por intermédio da respectiva administração nacional."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "4dd1eb80cd460111": {
+   "fragment_id": "ACTIVIDADES DE PESCA EXERCIDAS POR NAVIOS DE PESCA DE PAÍSES TERCEIROS NAS ÁGUAS COMUNITÁRIAS",
+   "type": "divisao",
+   "heading": "ACTIVIDADES DE PESCA EXERCIDAS POR NAVIOS DE PESCA DE PAÍSES TERCEIROS NAS ÁGUAS COMUNITÁRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ACTIVIDADES DE PESCA EXERCIDAS POR NAVIOS DE PESCA DE PAÍSES TERCEIROS NAS ÁGUAS COMUNITÁRIAS"
+  },
+  "3b4d1e80c7001660": {
+   "fragment_id": "Artigo 18.º — Disposições gerais",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Disposições gerais\n\n1. Os navios de pesca dos países terceiros estão autorizados a:\n\na) Exercer actividades de pesca nas águas comunitárias desde que sejam titulares de uma autorização de pesca emitida em conformidade com o presente capítulo;\n\nb) Efectuar operações de desembarque, de transbordo nos portos ou de transformação de peixe desde que possuam uma autorização prévia do Estado-Membro em cujas águas decorrer a operação.\n\n2. Os navios de pesca de países terceiros autorizados, em 31 de Dezembro de qualquer ano civil, a exercer actividades de pesca no âmbito de um acordo, podem continuar a pescar no âmbito desse acordo a partir de 1 de Janeiro do ano seguinte até a Comissão decidir emitir uma autorização de pesca para esses navios relativamente a esse ano, nos termos do artigo 20.º"
+  },
+  "ef67d92cfd49502b": {
+   "fragment_id": "Artigo 19.º — Transmissão dos pedidos de autorização de países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Transmissão dos pedidos de autorização de países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Transmissão dos pedidos de autorização de países terceiros\n\n1. Na data de entrada em vigor do acordo que concede a um país terceiro possibilidades de pesca nas águas comunitárias, o país em causa apresenta à Comissão, por via electrónica, uma lista dos navios que arvoram o seu pavilhão e pretendem utilizar essas possibilidades de pesca.\n\n2. No prazo estabelecido no acordo em causa ou pela Comissão, as autoridades competentes do país terceiro apresentam à Comissão, por via electrónica, os pedidos de autorizações de pesca para os navios que arvoram o seu pavilhão, mencionando o indicativo de chamada rádio internacional do navio e quaisquer outros dados exigidos no âmbito do acordo ou decididos nos termos do n.º 2 do artigo 27.º"
+  },
+  "f23b93beec827fe1": {
+   "fragment_id": "Artigo 20.º — Emissão de autorizações de pesca",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Emissão de autorizações de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Emissão de autorizações de pesca\n\n1. A Comissão analisa os pedidos de autorização de pesca tendo em conta as possibilidades de pesca concedidas ao país terceiro e emite autorizações de pesca em conformidade com as medidas adoptadas pelo Conselho e as disposições previstas no acordo em causa.\n\n2. A Comissão informa as autoridades competentes do país terceiro e dos Estados-Membros sobre as autorizações de pesca emitidas."
+  },
+  "b9bf4b40c70e7578": {
+   "fragment_id": "Artigo 21.º — Critérios de elegibilidade",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Critérios de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Critérios de elegibilidade\n\nA Comissão só concede autorizações de pesca a navios de pesca de países terceiros:\n\na) Que sejam elegíveis para uma autorização de pesca no âmbito do acordo em causa e, se for caso disso, figurem na lista dos navios notificados como exercendo actividades de pesca no âmbito desse acordo;\n\nb) Que, nos últimos 12 meses de actividades de pesca levadas exercidas no âmbito do acordo em causa ou, no caso de um novo acordo, no âmbito do acordo que o antecedeu, tenham, sempre que adequado, satisfeito as condições estabelecidas no acordo relativamente ao período em questão;\n\nc) Que, nos doze meses que antecederam o pedido de autorização de pesca, tenham sido objecto de acções sancionatórias por infracções graves ou considerados suspeitos de tais violações de acordo com o direito nacional do Estado-Membro e/ou cujo proprietário tenha mudado, dando o novo proprietário garantias de que as condições serão satisfeitas;\n\nd) Que não figurem numa lista INN;\n\ne) Cujos dados exigidos pelo acordo em causa estejam disponíveis; e\n\nf) Cujos pedidos estejam em conformidade com as disposições do acordo em causa e do presente capítulo."
+  },
+  "0a976172d8a0aab0": {
+   "fragment_id": "Artigo 22.º — Obrigações gerais",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Obrigações gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Obrigações gerais\n\nOs navios de pesca dos países terceiros aos quais tenha sido concedida uma autorização de pesca em conformidade com o presente capítulo devem cumprir as disposições da PCP relativas às medidas de conservação e de controlo, assim como outras disposições que regem a pesca praticada por navios de pesca comunitários na zona de pesca em que operam, bem como as disposições estabelecidas no acordo em causa."
+  },
+  "237917c4081e8e6e": {
+   "fragment_id": "Artigo 23.º — Controlo das capturas e do esforço de pesca",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Controlo das capturas e do esforço de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Controlo das capturas e do esforço de pesca\n\n1. Os navios de pesca dos países terceiros que exerçam actividades de pesca nas águas comunitárias comunicam semanalmente às suas autoridades nacionais e à Comissão, ou a um organismo por ela designado, os dados:\n\na) Exigidos no âmbito do acordo em causa;\n\nb) Determinados pela Comissão pelo procedimento previsto no acordo em causa; ou\n\nc) Determinados nos termos do n.º 2 do artigo 27.º\n\nNão obstante o primeiro parágrafo, os navios de pesca de países terceiros com um comprimento de fora a fora superior a 24 metros comunicam diariamente esses dados por via electrónica a partir de 1 de Janeiro de 2010. O mesmo se aplica, a partir de 1 de Janeiro de 2011, aos navios de pesca de países terceiros com um comprimento de fora a fora superior a 15 metros.\n\n2. Sempre que exigido no âmbito do acordo em causa, os países terceiros recolhem os dados relativos às capturas, transmitidos pelos seus navios nos termos do n.º 1 e, antes do dia 15 de cada mês, comunicam, por via electrónica, à Comissão ou a um organismo por ela designado, as quantidades por unidade populacional, grupo de unidades populacionais ou categoria de pesca capturadas no mês anterior nas águas comunitárias por todos os navios que arvoram o seu pavilhão.\n\n3. Os dados de capturas a que se refere o n.º 2 devem ser acessíveis aos Estados-Membros, mediante pedido, e ficar sujeitos às regras que regulam a confidencialidade dos dados."
+  },
+  "e640b6c45035feae": {
+   "fragment_id": "Artigo 24.º — Encerramento das pescarias",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Encerramento das pescarias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Encerramento das pescarias\n\n1. Sempre que as possibilidades de pesca atribuídas a um país terceiro forem consideradas esgotadas, a Comissão informa imediatamente do facto esse país terceiro e as autoridades de inspecção competentes dos Estados-Membros. A fim de possibilitar que prossigam as actividades de pesca em relação às possibilidades de pesca não esgotadas que tenham igualmente como alvo possibilidades de pesca esgotadas, o país terceiro deve propor à Comissão medidas técnicas que não tenham qualquer impacto negativo para as possibilidades de pesca esgotadas. A presente disposição é aplicável sem prejuízo das disposições específicas estabelecidas no acordo em causa.\n\n2. A partir da data da notificação da Comissão, considera-se que as autorizações de pesca emitidas para os navios que arvoram pavilhão desse país estão suspensas para as actividades de pesca em causa e os navios deixam de estar autorizados a exercer tais actividades.\n\n3. Sempre que uma suspensão das actividades de pesca aplicável nos termos do n.º 2 abranger todas as actividades de pesca para as quais foram concedidas as autorizações de pesca, estas autorizações consideram-se retiradas.\n\n4. O país terceiro assegura que os navios de pesca em causa sejam de imediato informados da aplicação do presente artigo e cessem todas as actividades de pesca em causa.\n\n5. Logo que as actividades de pesca sejam proibidas nos termos dos n.^os^ 1 ou 2, são suspensas as autorizações especificadas para a unidade populacional ou grupo de unidades populacionais em causa."
+  },
+  "3ac105ec5903a8cf": {
+   "fragment_id": "Artigo 25.º — Incumprimento das regras relevantes",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Incumprimento das regras relevantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Incumprimento das regras relevantes\n\n1. Sem prejuízo de processos judiciais ao abrigo da legislação nacional, os Estados-Membros notificam de imediato à Comissão qualquer infracção observada relativa às actividades de pesca de um navio de pesca de um país terceiro exercidas nas águas comunitárias no âmbito do acordo em causa.\n\n2. Durante um período máximo de 12 meses, não é emitida qualquer licença ou autorização de pesca especial para os navios de pesca de países terceiros em relação aos quais não tenham sido cumpridas as obrigações estabelecidas no âmbito do acordo em causa.\n\nA Comissão comunica às autoridades do país terceiro em causa os nomes e as características dos navios de pesca de países terceiros que não serão autorizados a pescar na zona de pesca da Comunidade no mês ou meses seguintes como consequência de uma infracção às normas pertinentes do acordo em causa.\n\n3. A Comissão notifica as autoridades de inspecção dos Estados-Membros das medidas tomadas nos termos do n.º 2."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "979895eea68bd540": {
+   "fragment_id": "MEDIDAS DE EXECUÇÃO",
+   "type": "divisao",
+   "heading": "MEDIDAS DE EXECUÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MEDIDAS DE EXECUÇÃO"
+  },
+  "8b4b81bbae577f8b": {
+   "fragment_id": "Artigo 26.º — Regras de execução",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Regras de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Regras de execução\n\nAs regras de execução do presente regulamento são aprovadas nos termos do n.º 2 do artigo 27.º Essas regras podem igualmente prever isenções às obrigações estabelecidas no presente regulamento, sempre que essas obrigações dêem origem a ónus desproporcionados comparativamente à importância económica da actividade."
+  },
+  "e876a6818a2f4bec": {
+   "fragment_id": "Artigo 27.º — Comitologia",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Comitologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Comitologia\n\n1. A Comissão é assistida pelo Comité das Pescas e da Aquicultura criado ao abrigo do artigo 30.º do Regulamento (CE) n.º 2371/2002.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de vinte dias úteis."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "2820a0672e2df197": {
+   "fragment_id": "DISPOSIÇÕES COMUNS E FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES COMUNS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES COMUNS E FINAIS"
+  },
+  "082b208ffc0d3082": {
+   "fragment_id": "Artigo 28.º — Obrigações internacionais",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Obrigações internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Obrigações internacionais\n\nO presente regulamento é aplicável sem prejuízo das disposições estabelecidas nos acordos em causa e das disposições comunitárias de aplicação essas disposições."
+  },
+  "cdfa2f6dac7d08de": {
+   "fragment_id": "Artigo 29.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Revogação\n\n1. São suprimidos os artigos 18.º, 28.º-B, 28.º-C e 28.º-D do Regulamento (CEE) n.º 2847/93.\n\n2. São suprimidos o n.º 2 do artigo 3.º, o n.º 2 do artigo 4.º e os artigos 9.º e 10.º do Regulamento (CE) n.º 1627/94.\n\n3. É revogado o Regulamento (CE) n.º 3317/94.\n\n4. As remissões para as disposições suprimidas devem entender-se como sendo feitas para o presente regulamento e ler-se nos termos do quadro de correspondência constante do anexo II."
+  },
+  "06a0b1c01e819631": {
+   "fragment_id": "Artigo 30.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Entrada em vigor\n\n1. O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\n2. O artigo 18.º do Regulamento (CEE) n.º 2847/93 continua a aplicar-se até à entrada em vigor do regulamento que estabelece as regras pormenorizadas do artigo 13.º do presente regulamento.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 29 de Setembro de 2008.\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**M. BARNIER**\n\n---"
+  },
+  "4fc27d184b652183": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/0f134c9d-7069-49e6-aad7-da13020efa28.0018.02/DOC_1#ntc1-L_2008286PT.01003301-E0001) [JO L 350 de 31.12.1994, p. 13](http://publications.europa.eu/resource/oj/JOL_1994_350_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/0f134c9d-7069-49e6-aad7-da13020efa28.0018.02/DOC_1#ntc2-L_2008286PT.01003301-E0002) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/0f134c9d-7069-49e6-aad7-da13020efa28.0018.02/DOC_1#ntc3-L_2008286PT.01003301-E0003) [JO L 171 de 6.7.1994, p. 7](http://publications.europa.eu/resource/oj/JOL_1994_171_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/0f134c9d-7069-49e6-aad7-da13020efa28.0018.02/DOC_1#ntc4-L_2008286PT.01003301-E0004) [JO L 261 de 20.10.1993, p. 1](http://publications.europa.eu/resource/oj/JOL_1993_261_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/0f134c9d-7069-49e6-aad7-da13020efa28.0018.02/DOC_1#ntc5-L_2008286PT.01003301-E0005) [JO L 358 de 31.12.2002, p. 59](http://publications.europa.eu/resource/oj/JOL_2002_358_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/0f134c9d-7069-49e6-aad7-da13020efa28.0018.02/DOC_1#ntc6-L_2008286PT.01003301-E0006) [JO L 167 de 2.7.1999, p. 5](http://publications.europa.eu/resource/oj/JOL_1999_167_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/0f134c9d-7069-49e6-aad7-da13020efa28.0018.02/DOC_1#ntc7-L_2008286PT.01003301-E0007) Ver página 1 do presente Jornal Oficial.\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/0f134c9d-7069-49e6-aad7-da13020efa28.0018.02/DOC_1#ntc8-L_2008286PT.01003301-E0008) [JO L 203 de 4.8.2005, p. 3](http://publications.europa.eu/resource/oj/JOL_2005_203_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/0f134c9d-7069-49e6-aad7-da13020efa28.0018.02/DOC_1#ntc9-L_2008286PT.01003301-E0009) [JO L 340 de 22.12.2007, p. 46](http://publications.europa.eu/resource/oj/JOL_2007_340_R_TOC).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/0f134c9d-7069-49e6-aad7-da13020efa28.0018.02/DOC_1#ntc10-L_2008286PT.01003301-E0010) [JO L 41 de 14.2.2003, p. 26](http://publications.europa.eu/resource/oj/JOL_2003_041_R_TOC)."
+  }
+ }
+}

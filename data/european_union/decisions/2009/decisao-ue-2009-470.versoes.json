@@ -1,0 +1,1007 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009D0470:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009D0470-20140630",
+ "dre_path": null,
+ "source_lastmod": "2014-06-30",
+ "versions": [
+  {
+   "date": "2009-06-18",
+   "future": false,
+   "celex": "32009D0470",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "60a2fc2b28759ec3",
+    "226c39ffd0a88dad",
+    "bb751842acb7fc3b",
+    "ab0058a57b1722ca",
+    "f0f8c960bfdbce9b",
+    "166b5dd8bac10630",
+    "9b406af514eb9164",
+    "bd63550a14610a04",
+    "30ad05f0bd1fe927",
+    "c42c0c2b3cabd519",
+    "b774068e5cdbd5e2",
+    "c599f7cab0787010",
+    "2add6396e7a86121",
+    "c15698c2cdbc4eb3",
+    "992460b06fead0e5",
+    "358c67719f74cf09",
+    "dc91aca5d814f120",
+    "6b136037e5a06f09",
+    "40734648b8374fd6",
+    "3d8b7c6f56a2e539",
+    "2f03b45424ba6d83",
+    "19fed1bc1e9508d0",
+    "ac8387eef8dd0a6f",
+    "6324fc5e11c6955d",
+    "53a8ae04620893c7",
+    "c7f7e1d44382749c",
+    "a133abf541949979",
+    "e72094b9199e2b25",
+    "a40ae83993a86f76",
+    "2a6934845bb7c573",
+    "e24c23cec14b0247",
+    "df0c3ee902a664c3",
+    "e726ee9fe0d96075",
+    "7da75ea1d1aa51e6",
+    "6ec5cbd7da702b7f",
+    "0361d7623ff9edc5",
+    "7e7a16fb7b4b30ae",
+    "47745ca786777d44",
+    "d3edf8cbe4bcb84a",
+    "1e7a0903d2eed348",
+    "ad25bf85f9268928",
+    "7e432a66fe7a1363",
+    "c43a2884b277b08c",
+    "c9851b3e61c3b7fe",
+    "db869e6ec964e151",
+    "40a476531a187562",
+    "1ecfc79da3f1ac7f",
+    "b8cfa4e6f818680c",
+    "9b406af514eb9164",
+    "58e816fdb48fb5ab",
+    "fe129aa0760a236f",
+    "c42c0c2b3cabd519",
+    "468f33a0d5b3e99e",
+    "254d7e5b50fc4c51",
+    "ac8387eef8dd0a6f",
+    "d68bfc4f79824c6a",
+    "698ad4299ca4f354",
+    "8c2fe01f703f0a32",
+    "c6f84edc76dc0a98",
+    "4672e30151d46ede",
+    "25d4c94c1f17021b",
+    "d93c16c6129559c7",
+    "3f896b3ae6f89d42",
+    "40ed6b62e188ac6f",
+    "dde9cf53e9ae6c9a",
+    "518ef5c392704d74",
+    "db1d47facb084fd8",
+    "be4b0ba034bd6752",
+    "d64d18c6a891dfe8",
+    "f86ec73d3f7d4881",
+    "0aea4f45c49c5185"
+   ]
+  },
+  {
+   "date": "2013-07-01",
+   "future": false,
+   "celex": "02009D0470-20130701",
+   "acts": [
+    {
+     "id": "eu:celex:32013R0517:por",
+     "title": "REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013",
+     "published": null,
+     "celex": "32013R0517"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 33.º",
+    "Altera Artigo 40.º",
+    "Altera Artigo 43.º",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita DOENÇAS ANIMAIS E ZOONOSES",
+    "Adita ANEXO II",
+    "Adita ANEXO III"
+   ],
+   "fragments": [
+    "d6dfee907bc91978",
+    "226c39ffd0a88dad",
+    "bb751842acb7fc3b",
+    "f5e65a3f624f7a20",
+    "f0f8c960bfdbce9b",
+    "166b5dd8bac10630",
+    "9b406af514eb9164",
+    "bd63550a14610a04",
+    "30ad05f0bd1fe927",
+    "c42c0c2b3cabd519",
+    "b774068e5cdbd5e2",
+    "c599f7cab0787010",
+    "822896b83bfd362b",
+    "a900663ab9b96250",
+    "a12872676a108639",
+    "e4bc593f89267570",
+    "dc91aca5d814f120",
+    "e52c2dd3f6bf6ffe",
+    "40734648b8374fd6",
+    "3d8b7c6f56a2e539",
+    "2f03b45424ba6d83",
+    "19fed1bc1e9508d0",
+    "ac8387eef8dd0a6f",
+    "6324fc5e11c6955d",
+    "7536210417980327",
+    "c7f7e1d44382749c",
+    "a133abf541949979",
+    "76b2728ad799bd77",
+    "a40ae83993a86f76",
+    "2a6934845bb7c573",
+    "e24c23cec14b0247",
+    "7f23479744db27a2",
+    "e726ee9fe0d96075",
+    "7da75ea1d1aa51e6",
+    "6ec5cbd7da702b7f",
+    "0361d7623ff9edc5",
+    "7e7a16fb7b4b30ae",
+    "47745ca786777d44",
+    "d3edf8cbe4bcb84a",
+    "1e7a0903d2eed348",
+    "ad25bf85f9268928",
+    "7e432a66fe7a1363",
+    "132bf0d392a2d231",
+    "efc1f55667ecaa25",
+    "db869e6ec964e151",
+    "c644f271105e0df1",
+    "1ecfc79da3f1ac7f",
+    "b8cfa4e6f818680c",
+    "9b406af514eb9164",
+    "58e816fdb48fb5ab",
+    "fe129aa0760a236f",
+    "c42c0c2b3cabd519",
+    "468f33a0d5b3e99e",
+    "254d7e5b50fc4c51",
+    "ac8387eef8dd0a6f",
+    "d68bfc4f79824c6a",
+    "698ad4299ca4f354",
+    "f8ea78c886838b54",
+    "c6f84edc76dc0a98",
+    "4672e30151d46ede",
+    "25d4c94c1f17021b",
+    "d93c16c6129559c7",
+    "3f896b3ae6f89d42",
+    "40ed6b62e188ac6f",
+    "dde9cf53e9ae6c9a",
+    "518ef5c392704d74",
+    "f172407c273b1ba5",
+    "be4b0ba034bd6752",
+    "d64d18c6a891dfe8",
+    "8a0cc02ab0ee867b",
+    "d664376e2a8dcecd",
+    "cc16c7eb3f88a2c0",
+    "553fc24f3a754ac1",
+    "b5160e7e0e42c83e",
+    "c980629ba275ffae"
+   ]
+  },
+  {
+   "date": "2014-06-30",
+   "future": false,
+   "celex": "02009D0470-20140630",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime OBJECTO E ÂMBITO DE APLICAÇÃO",
+    "Suprime Artigo 1.º",
+    "Suprime CAPÍTULO II",
+    "Suprime ACÇÕES VETERINÁRIAS PONTUAIS",
+    "Suprime SECÇÃO 1",
+    "Suprime Disposição geral",
+    "Suprime Artigo 2.º",
+    "Suprime SECÇÃO 2",
+    "Suprime Intervenções de emergência",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime SECÇÃO 3",
+    "Suprime Luta contra a febre aftosa",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18.º",
+    "Suprime SECÇÃO 4",
+    "Suprime Política de informação sobre saúde animal, bem-estar dos animais e segurança dos alimentos",
+    "Suprime Artigo 19.º",
+    "Suprime Artigo 20.º",
+    "Suprime Artigo 21.º",
+    "Suprime SECÇÃO 5",
+    "Suprime Acções técnicas e científicas",
+    "Suprime Artigo 22.º",
+    "Suprime Artigo 23.º",
+    "Suprime Artigo 24.º",
+    "Suprime CAPÍTULO III",
+    "Suprime PROGRAMAS DE LUTA, ERRADICAÇÃO E VIGILÂNCIA DAS DOENÇAS ANIMAIS E ZOONOSES",
+    "Suprime Artigo 25.º",
+    "Suprime Artigo 26.º",
+    "Suprime Artigo 27.º",
+    "Suprime Artigo 28.º",
+    "Suprime Artigo 29.º",
+    "Suprime CAPÍTULO IV",
+    "Suprime CONTROLOS VETERINÁRIOS",
+    "Suprime Disposição preliminar",
+    "Suprime Artigo 30.º",
+    "Suprime Laboratórios de ligação ou de referência",
+    "Suprime Artigo 31.º",
+    "Suprime Estratégia em matéria de controlos",
+    "Suprime Artigo 32.º",
+    "Suprime Artigo 33.º",
+    "Suprime Artigo 34.º",
+    "Suprime Artigo 35.º",
+    "Suprime Artigo 36.º",
+    "Suprime Artigo 37.º",
+    "Suprime Artigo 38.º",
+    "Suprime CAPÍTULO V",
+    "Suprime DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 39.º",
+    "Suprime Artigo 40.º",
+    "Suprime Artigo 41.º",
+    "Suprime Artigo 42.º",
+    "Suprime Artigo 43.º",
+    "Suprime ANEXO I",
+    "Suprime DOENÇAS ANIMAIS E ZOONOSES",
+    "Suprime ANEXO II",
+    "Suprime ANEXO III",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "271618a9b4a46451"
+   ]
+  }
+ ],
+ "fragments": {
+  "60a2fc2b28759ec3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Maio de 2009\n\nrelativa a determinadas despesas no domínio veterinário\n\n(Versão codificada)\n\n(2009/470/CE)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu [([^1])](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntr1-L_2009155PT.01003001-E0001),\n\nConsiderando o seguinte:\n\n(1) A Decisão 90/424/CEE do Conselho, de 26 de Junho de 1990, relativa a determinadas despesas no domínio veterinário [([^2])](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntr2-L_2009155PT.01003001-E0002), foi por várias vezes alterada de modo substancial [([^3])](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntr3-L_2009155PT.01003001-E0003). Por razões de clareza e racionalidade, deverá proceder-se à codificação da referida decisão.\n\n(2) Os animais vivos e os produtos de origem animal fazem parte da lista constante do anexo I do Tratado. A criação animal e a comercialização dos produtos de origem animal constituem uma fonte de rendimentos para uma parte importante da população agrícola.\n\n(3) O desenvolvimento racional deste sector e a melhoria da produtividade implicam a realização de acções veterinárias destinadas a proteger e a elevar o nível sanitário e zoossanitário da Comunidade.\n\n(4) Com a prossecução deste objectivo, deve ser prevista uma ajuda da Comunidade às acções em curso ou a empreender.\n\n(5) Impõe-se a contribuição da Comunidade, através de uma participação financeira, na erradicação, tão rápida quanto possível, de qualquer foco de doenças contagiosas graves.\n\n(6) É igualmente conveniente prevenir e reduzir, por meio de medidas adequadas de controlo, a ocorrência de zoonoses que ponham em perigo a saúde humana.\n\n(7) À luz da aprovação da Directiva 2006/88/CE do Conselho, de 24 de Outubro de 2006, relativa aos requisitos zoossanitários aplicáveis aos animais de aquicultura e produtos derivados, assim como à prevenção e à luta contra certas doenças dos animais aquáticos [([^4])](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntr4-L_2009155PT.01003001-E0004), deverá possibilitar-se a atribuição de uma participação financeira da Comunidade também para medidas de erradicação, aplicadas pelos Estados-Membros, a fim de lutar contra outras doenças em animais da aquicultura, no âmbito de disposições de controlo da Comunidade.\n\n(8) As participações financeiras da Comunidade para efeitos de controlo de doenças em animais da aquicultura deverão ser objecto de exame minucioso no que diz respeito ao cumprimento das disposições de controlo estabelecidas na Directiva 2006/88/CE, de acordo com os mesmos procedimentos que se aplicam ao exame minucioso e ao controlo de certas doenças dos animais terrestres.\n\n(9) O funcionamento do mercado interno requer uma estratégia em matéria de controlo que pressupõe um regime de controlo harmonizado em relação aos produtos provenientes de países terceiros. Afigura-se adequado facilitar a aplicação desta estratégia pela previsão de uma participação financeira da Comunidade no estabelecimento e desenvolvimento desta estratégia.\n\n(10) A harmonização das exigências essenciais em matéria de protecção da saúde pública, da saúde animal e da protecção dos animais implica que se preveja a designação de laboratórios comunitários de ligação e de referência e que se empreendam acções de natureza técnica e científica. Afigura-se oportuno prever uma participação financeira da Comunidade. Em especial no sector da protecção dos animais, é útil criar uma base de dados que reúna as informações necessárias e susceptíveis de difusão.\n\n(11) As actividades de recolha de informação são necessárias para aperfeiçoar a elaboração e a aplicação da legislação nos domínios da saúde animal e da segurança dos alimentos. Além disso, urge divulgar de forma tão ampla quanto possível em toda a Comunidade as informações relativas à legislação aplicável em matéria de saúde animal e de segurança dos alimentos. Assim, afigura-se oportuno incluir a saúde animal e a segurança dos alimentos de origem animal no financiamento da política de informação no domínio da protecção dos animais.\n\n(12) Há acções comunitárias de erradicação de certas doenças animais que beneficiam já de uma ajuda financeira da Comunidade. A este respeito, é conveniente citar a Directiva 77/391/CEE do Conselho, de 17 de Maio de 1977, que instaura uma acção da Comunidade tendo em vista a erradicação da brucelose, da tuberculose e da leucose dos bovinos [([^5])](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntr5-L_2009155PT.01003001-E0005), a Directiva 82/400/CEE do Conselho, de 14 de Junho de 1982, que altera a Directiva 77/391/CEE e instaura uma acção complementar da Comunidade tendo em vista a erradicação da brucelose, da tuberculose e da leucose dos bovinos [([^6])](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntr6-L_2009155PT.01003001-E0006), a Decisão 80/1096/CEE do Conselho, de 11 de Novembro de 1980, que instaura uma acção financeira da Comunidade tendo em vista a erradicação da peste suína clássica [([^7])](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntr7-L_2009155PT.01003001-E0007), e a Decisão 89/455/CEE do Conselho, de 24 de Julho de 1989, que introduz medidas comunitárias para o estabelecimento de projectos-piloto destinados a lutar contra a raiva tendo em vista a sua erradicação ou prevenção [([^8])](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntr8-L_2009155PT.01003001-E0008). É conveniente que a participação financeira da Comunidade na erradicação de cada uma das doenças mencionadas continue a ser fixada pela decisão correspondente.\n\n(13) Importa prever uma acção financeira da Comunidade para a luta, a erradicação e a vigilância de certas doenças animais. É conveniente reunir num único capítulo todas as acções financeiras da Comunidade relativas à luta, à erradicação e à vigilância das doenças animais e zoonoses que impliquem despesas obrigatórias para o orçamento da Comunidade.\n\n(14) A Comissão deverá gerir directamente as despesas sujeitas a financiamento nos termos da presente decisão, devido à natureza das mesmas.\n\n(15) As medidas necessárias à execução do presente regulamento deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^9])](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntr9-L_2009155PT.01003001-E0009),\n\nAPROVOU A PRESENTE DECISÃO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "bb751842acb7fc3b": {
+   "fragment_id": "OBJECTO E ÂMBITO DE APLICAÇÃO",
+   "type": "divisao",
+   "heading": "OBJECTO E ÂMBITO DE APLICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJECTO E ÂMBITO DE APLICAÇÃO"
+  },
+  "ab0058a57b1722ca": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente decisão estabelece as regras de participação financeira da Comunidade em:\n\n— acções veterinárias pontuais,\n\n— acções de controlo no domínio veterinário,\n\n— programas de luta, erradicação e vigilância das doenças animais e zoonoses.\n\nA presente decisão não prejudica a possibilidade de certos Estados-Membros beneficiarem de uma participação financeira da Comunidade superior a 50 % ao abrigo do Regulamento (CE) n.º 1083/2006 do Conselho, de 11 de Julho de 2006, que estabelece disposições gerais sobre o Fundo Europeu de Desenvolvimento Regional, o Fundo Social Europeu e o Fundo de Coesão [([^10])](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntr10-L_2009155PT.01003001-E0010)."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "166b5dd8bac10630": {
+   "fragment_id": "ACÇÕES VETERINÁRIAS PONTUAIS",
+   "type": "divisao",
+   "heading": "ACÇÕES VETERINÁRIAS PONTUAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ACÇÕES VETERINÁRIAS PONTUAIS"
+  },
+  "9b406af514eb9164": {
+   "fragment_id": "SECÇÃO 1",
+   "type": "divisao",
+   "heading": "SECÇÃO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 1"
+  },
+  "bd63550a14610a04": {
+   "fragment_id": "Disposição geral",
+   "type": "divisao",
+   "heading": "Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposição geral"
+  },
+  "30ad05f0bd1fe927": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs acções veterinárias pontuais incluem:\n\n— as intervenções de emergência,\n\n— a luta contra a febre aftosa,\n\n— uma política de informação sobre saúde animal, bem-estar dos animais e segurança dos alimentos,\n\n— as acções técnicas ou científicas,\n\n— a participação em acções nacionais de erradicação de certas doenças."
+  },
+  "c42c0c2b3cabd519": {
+   "fragment_id": "SECÇÃO 2",
+   "type": "divisao",
+   "heading": "SECÇÃO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 2"
+  },
+  "b774068e5cdbd5e2": {
+   "fragment_id": "Intervenções de emergência",
+   "type": "divisao",
+   "heading": "Intervenções de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Intervenções de emergência"
+  },
+  "c599f7cab0787010": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. O disposto no presente artigo é aplicável em caso de ocorrência, no território de um Estado-Membro, das seguintes doenças:\n\n— peste bovina,\n\n— peste dos pequenos ruminantes,\n\n— doença vesiculosa do suíno,\n\n— febre catarral ovina,\n\n— doença de Teschen,\n\n— varíola ovina e caprina,\n\n— febre do vale do Rift,\n\n— dermatite nodular contagiosa,\n\n— peste equina,\n\n— estomatite vesiculosa,\n\n— encefalomielite viral venezuelana do cavalo,\n\n— doença hemorrágica epizoótica dos veados,\n\n— peste suína clássica,\n\n— peste suína africana,\n\n— peripneumonia bovina contagiosa,\n\n— necrose hematopoiética epizoótica (NHE) em peixes,\n\n— síndrome ulcerativa epizoótica (SUE) em peixes,\n\n— infecção por *Bonamia exitiosa*,\n\n— infecção por *Perkinsus marinus*,\n\n— infecção por *Microcytos mackini*,\n\n— síndrome de Taura em crustáceos,\n\n— doença da «cabeça amarela» em crustáceos.\n\n2. O Estado-Membro em causa deve beneficiar da participação financeira da Comunidade para a erradicação da doença, desde que as medidas imediatamente aplicadas incluam, pelo menos, o sequestro da exploração a partir do momento da suspeita e a partir da confirmação oficial da doença:\n\n— o abate dos animais das espécies sensíveis, atingidos ou contaminados ou suspeitos de terem sido atingidos ou de estarem contaminados, e a sua destruição,\n\n— a destruição dos alimentos contaminados ou dos materiais contaminados, na medida em que estes últimos não possam ser desinfectados nos termos do terceiro travessão,\n\n— a limpeza, desinsectização e desinfecção da exploração e do material utilizado na exploração,\n\n— a criação de zonas de protecção,\n\n— a aplicação de disposições adequadas para prevenir o risco de disseminação de infecções,\n\n— a fixação de um prazo pós-abate, a observar antes do repovoamento da exploração,\n\n— a indemnização rápida e adequada dos criadores.\n\n3. O Estado-Membro em causa deve beneficiar igualmente da participação financeira da Comunidade sempre que, quando surgir um foco de uma das doenças enumeradas no n.º 1, dois ou vários Estados-Membros colaborarem estreitamente no controlo dessa epidemia, nomeadamente na execução do inquérito epidemiológico e das medidas de vigilância da doença. A participação financeira específica da Comunidade deve ser decidida, sem prejuízo das medidas previstas no âmbito das organizações comuns de mercado interessadas, nos termos do n.º 2 do artigo 40.º.\n\n4. O Estado-Membro em causa informa sem demora a Comissão e os outros Estados-Membros das medidas aplicadas de acordo com a legislação comunitária em matéria de notificação e erradicação, bem como dos seus resultados. Logo que possível, a situação é examinada no comité referido no n.º 1 do artigo 40.º, a seguir denominado «Comité». A participação financeira específica da Comunidade é decidida nos termos do n.º 2 do artigo 40.º, sem prejuízo das medidas previstas no âmbito das organizações comuns de mercado abrangidas.\n\n5. Se, devido à evolução da situação na Comunidade, for necessário prosseguir a acção prevista no n.º 2 e no artigo 4.º, pode ser aprovada, nos termos do n.º 2 do artigo 40.º, uma nova decisão relativa à participação financeira da Comunidade, que poderá ser superior aos 50 % previstos no primeiro travessão do n.º 6. Ao ser aprovada essa decisão, podem ser adoptadas todas as medidas necessárias que o Estado-Membro em causa tenha de tomar para assegurar o êxito da acção, designadamente medidas diferentes das referidas no n.º 2 do presente artigo.\n\n6. Sem prejuízo das medidas de apoio ao mercado a tomar no âmbito das organizações comuns de mercado, a participação financeira da Comunidade, repartida se necessário por várias fracções, é de:\n\n— 50 % das despesas suportadas pelo Estado-Membro a título de indemnização dos proprietários pelo abate e a destruição dos animais e, eventualmente, dos seus produtos, a limpeza, desinsectização e desinfecção da exploração e do material e a destruição dos alimentos e materiais contaminados, referidos no segundo travessão do n.º 2,\n\n— caso tenha sido decidida a vacinação nos termos do n.º 5, 100 % dos fornecimentos de vacina e 50 % das despesas suportadas com a execução da vacinação."
+  },
+  "2add6396e7a86121": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. O presente artigo, assim como os n.^os^ 4 e 5 do artigo 3.º são aplicáveis em caso de ocorrência de gripe aviária no território de um Estado-Membro.\n\n2. O Estado-Membro em causa deve beneficiar de uma participação financeira da Comunidade para a erradicação da gripe aviária se as medidas mínimas de luta contra a doença previstas na Directiva 2005/94/CE do Conselho, de 20 de Dezembro de 2005, relativa a medidas comunitárias de luta contra a gripe aviária [([^11])](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntr11-L_2009155PT.01003001-E0011), tiverem sido plena e eficazmente aplicadas em conformidade com a legislação comunitária pertinente e se, em caso de abate de animais de espécies sensíveis, atingidos ou contaminados ou suspeitos de terem sido atingidos ou de estarem contaminados, os proprietários dos animais tiverem sido indemnizados de forma rápida e adequada.\n\n3. A participação financeira da Comunidade, repartida se necessário por várias fracções, é de:\n\n— 50 % das despesas suportadas pelo Estado-Membro a título de indemnização dos proprietários de animais pelo abate das aves de capoeira ou outras aves em cativeiro e pelo valor dos ovos destruídos,\n\n— 50 % das despesas suportadas pelo Estado-Membro pela destruição de animais, pela destruição de produtos de origem animal, pela limpeza e desinfecção de explorações e equipamentos, pela destruição dos alimentos para animais contaminados e pela destruição de equipamentos contaminados, quando esses equipamentos não possam ser desinfectados,\n\n— caso tenha sido decidida a vacinação de emergência nos termos do artigo 54.º da Directiva 2005/94/CE, 100 % do custo de fornecimento da vacina e 50 % das despesas suportadas com a execução da vacinação."
+  },
+  "c15698c2cdbc4eb3": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros podem atribuir fundos, no âmbito dos programas operacionais elaborados de acordo com o artigo 17.º do Regulamento (CE) n.º 1198/2006 do Conselho, de 27 de Julho de 2006, relativo ao Fundo Europeu das Pescas [([^12])](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntr12-L_2009155PT.01003001-E0012), para a erradicação de doenças exóticas em animais da aquicultura enunciadas no n.º 1 do artigo 3.º da presente decisão, nos termos dos n.^os^ 4, 5 e 6 do artigo 3.º da presente decisão, desde que sejam respeitadas as medidas mínimas de controlo e erradicação previstas na secção 3 do capítulo V da Directiva 2006/88/CE."
+  },
+  "992460b06fead0e5": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. O artigo 3.º é igualmente aplicável ao controlo de situações sanitárias graves para a Comunidade, decorrentes de doenças referidas no n.º 1 do referido artigo, mesmo que o território em que a doença se desenvolva esteja sujeito a um programa de erradicação nos termos do artigo 27.º\n\n2. O disposto no artigo 3.º é aplicável em caso de ocorrência da doença de Newcastle no território de um Estado-Membro.\n\nNo entanto, salvo decisão da Comissão, tomada nos termos do n.º 2 do artigo 40.º, e autorizando em determinadas condições, e por um período e região limitados, o recurso à vacinação, não é concedida qualquer participação financeira da Comunidade para o fornecimento da vacina ou a execução da vacinação.\n\n3. Aplicam-se as disposições do artigo 3.º, excluindo as previstas no quarto travessão do n.º 2 e no segundo travessão do n.º 6, no caso de surto de uma zoonose abrangida pela Directiva 2003/99/CE do Parlamento Europeu e do Conselho, de 17 de Novembro de 2003, relativa à vigilância das zoonoses e dos agentes zoonóticos [([^13])](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntr13-L_2009155PT.01003001-E0013), se esse surto constituir um risco imediato para a saúde pública. O cumprimento desta condição deve ser verificado no momento da adopção da decisão prevista no n.º 4 do artigo 3.º da presente decisão."
+  },
+  "358c67719f74cf09": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Nos termos do n.º 2 do artigo 40.º, a Comissão, a pedido de um Estado-Membro, adita à lista constante do n.º 1 do artigo 3.º uma doença exótica de declaração obrigatória susceptível de constituir um perigo para a Comunidade.\n\n2. Nos termos do n.º 2 do artigo 40.º, a lista constante do n.º 1 do artigo 3.º pode ser completada, em função da evolução da situação, a fim de incluir doenças que devem ser notificadas de acordo com a Directiva 82/894/CEE do Conselho, de 21 de Dezembro de 1982, relativa à notificação de doenças dos animais na Comunidade [([^14])](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntr14-L_2009155PT.01003001-E0014), bem como doenças transmissíveis aos animais da aquicultura. A lista pode igualmente ser alterada ou reduzida a fim de ter em conta os progressos realizados no âmbito de medidas de luta contra certas doenças, decididas a nível comunitário.\n\n3. O disposto no n.º 2 do artigo 3.º pode ser completado ou alterado nos termos do n.º 2 do artigo 40.º, designadamente para ter em conta a inclusão de novas doenças na lista constante do n.º 1 do artigo 3.º, a experiência adquirida ou a adopção de disposições comunitárias relativas às medidas de luta."
+  },
+  "dc91aca5d814f120": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. No caso de um Estado-Membro ser directamente ameaçado pelo aparecimento ou desenvolvimento, no território de um país terceiro ou de um Estado-Membro, de uma das doenças referidas nos n.º 1 do artigo 3.º, n.º 1 do artigo 4.º, n.^os^ 1 e 2 do artigo 6.º e n.º 1 do artigo 14.º ou no anexo I, esse Estado-Membro informa a Comissão e os outros Estados-Membros das medidas que tencione tomar para se proteger.\n\n2. Logo que possível, a situação é examinada no Comité. Pode ser decidido, nos termos do n.º 2 do artigo 40.º, adoptar todas as medidas adequadas à situação, nomeadamente a criação de uma zona-tampão vacinal, e conceder uma participação financeira da Comunidade para as medidas específicas consideradas necessárias para o êxito da acção empreendida.\n\n3. A decisão referida no n.º 2 define as despesas elegíveis e o nível da participação financeira da Comunidade."
+  },
+  "6b136037e5a06f09": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. A Comunidade pode decidir, a pedido de um Estado-Membro, que os Estados-Membros devem constituir reservas de produtos biológicos destinados à luta contra as doenças referidas nos n.º 1 do artigo 3.º, n.º 1 do artigo 4.º, n.º 1 do artigo 6.º (vacinas, estirpes virais adaptadas, soros de diagnóstico) e, sem prejuízo da decisão prevista no n.º 1 do artigo 69.º da Directiva 2003/85/CE do Conselho, de 29 de Setembro de 2003, relativa a medidas comunitárias de luta contra a febre aftosa [([^15])](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntr15-L_2009155PT.01003001-E0015), no n.º 1 do artigo 14.º da presente decisão.\n\n2. A acção referida no n.º 1, bem como as suas regras de execução relativas, nomeadamente, à selecção, produção, armazenamento, transporte e utilização dessas reservas e o nível da participação financeira da Comunidade são determinados nos termos do n.º 2 do artigo 40.º"
+  },
+  "40734648b8374fd6": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Se o aparecimento ou o desenvolvimento, num país terceiro, de uma das doenças referidas nos n.º 1 do artigo 3.º, n.º 1 do artigo 4.º, n.º 1 do artigo 6.º, n.º 1 do artigo 7.º e n.º 1 do artigo 14.º forem susceptíveis de representar um perigo para a Comunidade, esta pode dar o seu contributo à luta empreendida por esse país terceiro contra a doença em causa, fornecendo uma vacina ou financiando a respectiva aquisição.\n\n2. A acção referida no n.º 1, bem como as suas regras de execução, as condições a que pode estar sujeita e o nível da participação financeira da Comunidade são determinados nos termos do n.º 2 do artigo 40.º"
+  },
+  "3d8b7c6f56a2e539": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. A Comissão, em colaboração com as competentes autoridades nacionais, procede a controlos no local para se certificar, do ponto de vista veterinário, da aplicação das medidas previstas.\n\n2. Os Estados-Membros tomam as disposições necessárias para facilitar os controlos referidos no n.º 1 e, designadamente, para garantir que os peritos disponham, a seu pedido, de todas as informações e dos documentos necessários para apreciar a realização das acções.\n\n3. As regras gerais de execução de aplicação do presente artigo, nomeadamente no que se refere à frequência e às modalidades de execução dos controlos referidos no n.º 1, à designação dos peritos veterinários e ao processo que estes devem observar no estabelecimento do seu relatório, são adoptadas nos termos do n.º 2 do artigo 40.º"
+  },
+  "2f03b45424ba6d83": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nRelativamente às acções previstas na presente secção, o montante das dotações necessárias é fixado anualmente no âmbito do processo orçamental."
+  },
+  "19fed1bc1e9508d0": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nNão é concedida qualquer participação financeira da Comunidade se o montante total da acção for inferior a 10 000 EUR."
+  },
+  "ac8387eef8dd0a6f": {
+   "fragment_id": "SECÇÃO 3",
+   "type": "divisao",
+   "heading": "SECÇÃO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 3"
+  },
+  "6324fc5e11c6955d": {
+   "fragment_id": "Luta contra a febre aftosa",
+   "type": "divisao",
+   "heading": "Luta contra a febre aftosa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Luta contra a febre aftosa"
+  },
+  "53a8ae04620893c7": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. O disposto no presente artigo é aplicável em caso de aparecimento de febre aftosa no território de um Estado-Membro.\n\n2. O Estado-Membro em causa beneficia da participação financeira da Comunidade para a erradicação da febre aftosa desde que sejam imediatamente aplicadas as medidas previstas no n.º 2 do artigo 3.º e as disposições pertinentes da Directiva 2003/85/CE.\n\n3. É aplicável o disposto no n.º 4 do artigo 3.º\n\n4. Sem prejuízo das medidas a tomar no âmbito das organizações comuns de mercado com o objectivo de apoiar o mercado, a participação financeira específica ao abrigo da presente decisão é igual a 60 % das despesas suportadas pelo Estado-Membro a título:\n\na) De indemnização aos proprietários: i) Pelo abate e destruição dos animais; ii) Pela destruição do leite; iii) Pela limpeza e desinfecção da exploração; iv) Pela destruição dos alimentos contaminados e dos materiais contaminados quando estes não puderem ser desinfectados; v) Pelos prejuízos sofridos pelos criadores devido às restrições à comercialização de animais de exploração e de engorda, na sequência da reintrodução da vacinação de urgência, nos termos do n.º 3 do artigo 50.º da Directiva 2003/85/CE;\n\ni) Pelo abate e destruição dos animais;\n\nii) Pela destruição do leite;\n\niii) Pela limpeza e desinfecção da exploração;\n\niv) Pela destruição dos alimentos contaminados e dos materiais contaminados quando estes não puderem ser desinfectados;\n\nv) Pelos prejuízos sofridos pelos criadores devido às restrições à comercialização de animais de exploração e de engorda, na sequência da reintrodução da vacinação de urgência, nos termos do n.º 3 do artigo 50.º da Directiva 2003/85/CE;\n\nb) Do transporte eventual das carcaças para as fábricas de tratamento;\n\nc) De qualquer outra medida indispensável à erradicação da doença no foco.\n\nA Comissão define, nos termos do n.º 2 do artigo 40.º, a natureza das outras medidas previstas na alínea c) do presente número que poderão beneficiar da mesma participação financeira da Comunidade, assim como os casos a que se aplica o disposto na subalínea v) da alínea a) do presente número.\n\n5. Pela primeira vez e quarenta e cinco dias, o mais tardar, após a confirmação oficial do primeiro foco de febre aftosa e, posteriormente, em função da evolução da situação, esta é reexaminada no Comité. Esse exame deve incidir tanto na situação veterinária como na estimativa das despesas já suportadas ou a suportar. Na sequência do exame, pode ser adoptada, nos termos do n.º 3 do artigo 40.º, uma nova decisão relativa à participação financeira da Comunidade, que pode ser superior aos 60 % previstos no n.º 4. Essa decisão deve definir as despesas elegíveis e o nível da participação financeira da Comunidade. Além disso, aquando da adopção dessa decisão, podem ser tomadas todas as medidas necessárias a executar pelo Estado-Membro em causa para assegurar o êxito da acção, designadamente medidas diferentes das referidas no n.º 2 do presente artigo."
+  },
+  "c7f7e1d44382749c": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nPode beneficiar de uma participação financeira comunitária qualquer acção decidida pela Comunidade a favor da luta contra a febre aftosa no exterior da Comunidade, em especial acções decorrentes dos artigos 8.º e 10.º"
+  },
+  "a133abf541949979": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nAs acções e regras de execução das acções referidas no artigo 15.º, as condições a que podem estar sujeitas e o nível da participação financeira da Comunidade são determinados nos termos do n.º 3 do artigo 40.º"
+  },
+  "e72094b9199e2b25": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nA constituição das reservas comunitárias de vacinas antiaftosas estabelecida pela Decisão 91/666/CEE do Conselho, de 11 de Dezembro de 1991, relativa ao estabelecimento de reservas comunitárias de vacinas contra a febre aftosa [([^16])](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntr16-L_2009155PT.01003001-E0016), pode beneficiar de uma ajuda comunitária.\n\nO nível da participação comunitária e as condições a que esta pode ser subordinada são determinados nos termos do n.º 3 do artigo 40.º"
+  },
+  "a40ae83993a86f76": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nPara as acções previstas nos artigos 15.º, 16.º e 17.º, o montante das dotações necessárias é fixado anualmente no âmbito do processo orçamental.\n\nNo caso de uma grave epidemia de febre aftosa provocar, ao abrigo da presente secção, despesas superiores aos montantes fixados em conformidade com o primeiro parágrafo, a Comissão toma, no âmbito das competências existentes, as medidas necessárias ou faz as propostas necessárias à autoridade orçamental, a fim de garantir que sejam respeitados os compromissos financeiros previstos no artigo 14.º"
+  },
+  "2a6934845bb7c573": {
+   "fragment_id": "SECÇÃO 4",
+   "type": "divisao",
+   "heading": "SECÇÃO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 4"
+  },
+  "e24c23cec14b0247": {
+   "fragment_id": "Política de informação sobre saúde animal, bem-estar dos animais e segurança dos alimentos",
+   "type": "divisao",
+   "heading": "Política de informação sobre saúde animal, bem-estar dos animais e segurança dos alimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Política de informação sobre saúde animal, bem-estar dos animais e segurança dos alimentos"
+  },
+  "df0c3ee902a664c3": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nA Comunidade participa na execução de uma política de informação no domínio da saúde animal, do bem-estar dos animais e da segurança dos alimentos de origem animal, fornecendo uma participação financeira para:\n\na) A criação e o desenvolvimento de instrumentos de informação, incluindo uma base de dados adequada para efeitos de: i) Recolha e armazenagem de todas as informações relativas à legislação comunitária em matéria de saúde animal, bem-estar dos animais e segurança dos alimentos de origem animal; ii) Divulgação das informações mencionadas na subalínea i) às autoridades competentes, aos produtores e aos consumidores, tendo em conta as interfaces com as bases de dados nacionais, se for caso disso;\n\ni) Recolha e armazenagem de todas as informações relativas à legislação comunitária em matéria de saúde animal, bem-estar dos animais e segurança dos alimentos de origem animal;\n\nii) Divulgação das informações mencionadas na subalínea i) às autoridades competentes, aos produtores e aos consumidores, tendo em conta as interfaces com as bases de dados nacionais, se for caso disso;\n\nb) A realização de estudos necessários à elaboração e ao desenvolvimento da legislação no domínio do bem-estar dos animais."
+  },
+  "e726ee9fe0d96075": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nAs acções referidas no artigo 19.º, as suas regras de execução e o nível da participação financeira da Comunidade são determinados nos termos do n.º 2 do artigo 40.º"
+  },
+  "7da75ea1d1aa51e6": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nPara as acções previstas na presente secção, o montante das dotações necessárias é fixado anualmente no âmbito do processo orçamental."
+  },
+  "6ec5cbd7da702b7f": {
+   "fragment_id": "SECÇÃO 5",
+   "type": "divisao",
+   "heading": "SECÇÃO 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 5"
+  },
+  "0361d7623ff9edc5": {
+   "fragment_id": "Acções técnicas e científicas",
+   "type": "divisao",
+   "heading": "Acções técnicas e científicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Acções técnicas e científicas"
+  },
+  "7e7a16fb7b4b30ae": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nA Comunidade pode empreender ou ajudar os Estados-Membros ou as organizações internacionais a empreender as acções técnicas e científicas necessárias ao desenvolvimento da legislação comunitária no domínio veterinário, bem como ao desenvolvimento do ensino ou da formação veterinária."
+  },
+  "47745ca786777d44": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nAs acções referidas no artigo 22.º, as suas regras de execução e o nível da participação financeira da Comunidade são determinados nos termos do n.º 2 do artigo 40.º"
+  },
+  "d3edf8cbe4bcb84a": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nPara as acções previstas na presente secção, o montante das dotações necessárias é fixado anualmente no âmbito do processo orçamental."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "ad25bf85f9268928": {
+   "fragment_id": "PROGRAMAS DE LUTA, ERRADICAÇÃO E VIGILÂNCIA DAS DOENÇAS ANIMAIS E ZOONOSES",
+   "type": "divisao",
+   "heading": "PROGRAMAS DE LUTA, ERRADICAÇÃO E VIGILÂNCIA DAS DOENÇAS ANIMAIS E ZOONOSES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROGRAMAS DE LUTA, ERRADICAÇÃO E VIGILÂNCIA DAS DOENÇAS ANIMAIS E ZOONOSES"
+  },
+  "7e432a66fe7a1363": {
+   "fragment_id": "Artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nA participação financeira da Comunidade na erradicação da brucelose, da tuberculose e da leucose dos bovinos é, sem prejuízo do disposto no n.º 1 do artigo 28.º, fixada nos termos da Directiva 77/391/CEE e da Directiva 82/400/CEE."
+  },
+  "c43a2884b277b08c": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n1. A participação financeira da Comunidade na erradicação da peste suína clássica é fixada nos termos da Decisão 80/1096/CEE.\n\n2. A participação financeira da Comunidade na erradicação da brucelose ovina é fixada nos termos da Decisão 90/242/CEE do Conselho, de 21 de Maio de 1990, que instaura uma acção financeira comunitária para a erradicação da brucelose nos ovinos e nos caprinos [([^17])](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntr17-L_2009155PT.01003001-E0017)."
+  },
+  "c9851b3e61c3b7fe": {
+   "fragment_id": "Artigo 27.º",
+   "type": "artigo",
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n1. É instituída uma acção financeira da Comunidade para efeitos de reembolso das despesas efectuadas pelos Estados-Membros com o financiamento dos programas nacionais de luta, erradicação e vigilância das doenças animais e zoonoses constantes do anexo I (a seguir designados «programas»).\n\nA lista constante do anexo I pode ser alterada nos termos do n.º 2 do artigo 40.º, em especial no que diz respeito a doenças animais emergentes que representem um risco para a saúde animal e, indirectamente, para a saúde pública, ou à luz de novos conhecimentos epidemiológicos ou científicos.\n\n2. Anualmente, até 30 de Abril, o mais tardar, os Estados-Membros apresentam à Comissão os programas anuais ou plurianuais que têm início no ano seguinte e para os quais pretendem beneficiar de uma participação financeira da Comunidade.\n\nOs programas apresentados após 30 de Abril não são elegíveis para financiamento no ano seguinte.\n\nOs programas apresentados pelos Estados-Membros devem incluir, pelo menos:\n\na) Uma descrição da situação epidemiológica da doença antes da data de início do programa;\n\nb) A descrição e a delimitação das zonas geográfica e administrativa em que o programa irá ser aplicado;\n\nc) A duração prevista do programa, as medidas a aplicar e o objectivo a atingir no seu termo;\n\nd) Uma análise dos custos estimados e dos benefícios esperados do programa.\n\nOs critérios pormenorizados, incluindo os que envolvem mais do que um Estado-Membro, são adoptados nos termos do n.º 2 do artigo 40.º\n\nEm cada programa plurianual apresentado por um Estado-Membro, a informação exigida em conformidade com os critérios mencionados no presente número deve ser fornecida para cada ano de duração do programa.\n\n3. A Comissão pode convidar um Estado-Membro a apresentar um programa plurianual ou, se for caso disso, a prorrogar a duração de um programa anual já apresentado, caso entenda que a realização de um programa plurianual é necessária para garantir uma maior eficácia e eficiência a nível da luta, da erradicação e da vigilância de uma determinada doença, em especial no que diz respeito a possíveis ameaças para a saúde animal e, indirectamente, para a saúde pública.\n\nA Comissão poderá coordenar os programas regionais que envolvam mais do que um Estado-Membro, em cooperação com os Estados-Membros em causa.\n\n4. A Comissão procederá à análise dos programas apresentados pelos Estados-Membros, tanto do ponto de vista veterinário como do ponto de vista financeiro.\n\nOs Estados-Membros comunicam à Comissão as informações complementares pertinentes que esta considerar necessárias para a sua avaliação do programa.\n\nO prazo de recolha de toda a informação relativa aos programas termina em 15 de Setembro de cada ano.\n\n5. Anualmente, até 30 de Novembro, o mais tardar, são aprovados nos termos do n.º 3 do artigo 40.º:\n\na) Os programas, alterados, se for caso disso, para ter em conta a avaliação prevista no n.º 4 do presente artigo;\n\nb) O nível da participação financeira da Comunidade;\n\nc) O limite máximo da participação financeira da Comunidade;\n\nd) As eventuais condições a que pode estar sujeita a participação financeira da Comunidade.\n\nOs programas são aprovados por um período máximo de seis anos.\n\n6. As alterações aos programas são adoptadas nos termos do n.º 3 do artigo 40.º\n\n7. Relativamente a cada programa aprovado, os Estados-Membros apresentam à Comissão os seguintes relatórios:\n\na) Relatórios técnicos e financeiros intercalares;\n\nb) Anualmente até 30 de Abril, o mais tardar, um relatório técnico pormenorizado que inclua a avaliação dos resultados obtidos e uma descrição pormenorizada das despesas efectuadas no ano anterior.\n\n8. Os pedidos de pagamento relativos às despesas efectuadas por um Estado-Membro a título de um determinado programa no ano anterior devem ser apresentados à Comissão até 30 de Abril, o mais tardar.\n\nEm caso de atraso na apresentação dos pedidos de pagamento, a participação financeira da Comunidade é reduzida em 25 % em 1 de Junho, 50 % em 1 de Agosto, 75 % em 1 de Setembro e 100 % em 1 de Outubro do ano em questão.\n\nAnualmente, até 30 de Outubro, o mais tardar, a Comissão toma uma decisão relativa ao pagamento da participação comunitária, tendo em conta os relatórios técnicos e financeiros apresentados pelo Estado-Membro em conformidade com o n.º 7 do presente artigo.\n\n9. Os peritos da Comissão podem proceder a controlos no local, em colaboração com a autoridade competente, desde que tal seja necessário para garantir a aplicação uniforme da presente decisão, em conformidade com o artigo 45.º do Regulamento (CE) n.º 882/2004 do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, relativo aos controlos oficiais realizados para assegurar a verificação do cumprimento da legislação relativa aos alimentos para animais e aos géneros alimentícios e das normas relativas à saúde e ao bem-estar dos animais [([^18])](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntr18-L_2009155PT.01003001-E0018).\n\nNa realização desses controlos, os peritos da Comissão podem ser assistidos por um grupo de peritos instituído nos termos do n.º 2 do artigo 40.º\n\n10. As normas de execução do presente artigo são aprovadas nos termos do n.º 2 do artigo 40.º\n\n11. Os Estados-Membros podem atribuir fundos, no âmbito dos programas operacionais elaborados de acordo com o artigo 17.º do Regulamento (CE) n.º 1198/2006, para a erradicação das doenças em animais de aquicultura referidas no anexo I da presente decisão.\n\nEsses fundos devem ser atribuídos nos termos do presente artigo, com as seguintes adaptações:\n\na) A taxa de ajuda deve ser conforme com a taxa estabelecida no Regulamento (CE) n.º 1198/2006;\n\nb) Não é aplicável o n.º 8 do presente artigo.\n\nA erradicação deve ser realizada nos termos do n.º 1 do artigo 38.º da Directiva 2006/88/CE ou ao abrigo de um programa de erradicação."
+  },
+  "db869e6ec964e151": {
+   "fragment_id": "Artigo 28.º",
+   "type": "artigo",
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\n1. Sem prejuízo do disposto nos artigos 25.º, 26.º e 27.º, o nível da participação financeira da Comunidade em programas relativos às doenças referidas nestes artigos é fixado pela Comissão, nos termos do n.º 2 do artigo 40.º, em 50 % das despesas suportadas no Estado-Membro a título de indemnização dos proprietários pelo abate dos animais pela doença em causa.\n\n2. A pedido de um Estado-Membro, a Comissão procede, no âmbito do Comité, ao reexame da situação, tendo em atenção as doenças abrangidas pelos artigos 25.º, 26.º e 27.º. Este reexame deve incidir tanto sobre a situação veterinária como sobre a estimativa das despesas já contraídas ou a contrair. Na sequência desse exame, qualquer nova decisão relativa à participação financeira da Comunidade, que pode ser superior a 50 % dos custos ocasionados aos Estados-Membros a título de indemnização dos criadores pelo abate dos animais pela doença em causa, é adoptada nos termos do n.º 3 do artigo 40.º\n\nAquando da adopção dessa decisão, podem ser aprovadas todas as medidas necessárias a executar pelo Estado-Membro interessado a fim de garantir o êxito da acção."
+  },
+  "40a476531a187562": {
+   "fragment_id": "Artigo 29.º",
+   "type": "artigo",
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nAs autorizações orçamentais comunitárias relativas ao co-financiamento dos programas são efectuadas anualmente. As dotações de autorização das despesas a título dos programas plurianuais são aprovadas em conformidade com o n.º 3 do artigo 76.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, de 25 de Junho de 2002, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias [([^19])](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntr19-L_2009155PT.01003001-E0019). No que diz respeito aos programas plurianuais, a primeira autorização orçamental tem lugar após a respectiva aprovação. A Comissão atribui cada autorização subsequente com base na decisão de concessão de uma participação prevista no n.º 5 do artigo 27.º da presente decisão."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "b8cfa4e6f818680c": {
+   "fragment_id": "CONTROLOS VETERINÁRIOS",
+   "type": "divisao",
+   "heading": "CONTROLOS VETERINÁRIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONTROLOS VETERINÁRIOS"
+  },
+  "58e816fdb48fb5ab": {
+   "fragment_id": "Disposição preliminar",
+   "type": "divisao",
+   "heading": "Disposição preliminar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposição preliminar"
+  },
+  "fe129aa0760a236f": {
+   "fragment_id": "Artigo 30.º",
+   "type": "artigo",
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nA Comunidade contribui para tornar mais eficaz o regime dos controlos veterinários:\n\n— pela concessão de uma ajuda financeira a laboratórios de ligação ou de referência,\n\n— pela participação financeira na execução dos controlos tendentes à prevenção das zoonoses,\n\n— pela participação financeira na execução da estratégia em matéria de controlos necessários para o funcionamento do mercado interno."
+  },
+  "468f33a0d5b3e99e": {
+   "fragment_id": "Laboratórios de ligação ou de referência",
+   "type": "divisao",
+   "heading": "Laboratórios de ligação ou de referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Laboratórios de ligação ou de referência"
+  },
+  "254d7e5b50fc4c51": {
+   "fragment_id": "Artigo 31.º",
+   "type": "artigo",
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\n1. Qualquer laboratório de ligação ou de referência designado como tal em conformidade com a legislação veterinária comunitária e que cumpra as funções e exigências previstas nessa mesma legislação pode beneficiar de uma ajuda comunitária.\n\n2. As modalidades de concessão das ajudas previstas no n.º 1, as condições a que possam estar sujeitas e o seu nível são determinados nos termos do n.º 2 do artigo 40.º\n\n3. Para as acções previstas na presente secção, o montante das dotações necessárias é fixado anualmente no âmbito do processo orçamental."
+  },
+  "d68bfc4f79824c6a": {
+   "fragment_id": "Estratégia em matéria de controlos",
+   "type": "divisao",
+   "heading": "Estratégia em matéria de controlos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Estratégia em matéria de controlos"
+  },
+  "698ad4299ca4f354": {
+   "fragment_id": "Artigo 32.º",
+   "type": "artigo",
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\n1. Cada Estado-Membro estabelece um programa de intercâmbio de funcionários competentes no domínio veterinário.\n\n2. A Comissão procede com os Estados-Membros, no âmbito do Comité, a uma coordenação dos programas de intercâmbio.\n\n3. Os Estados-Membros tomam todas as medidas necessárias para permitir a realização dos programas de intercâmbio coordenados.\n\n4. Anualmente, e com base em relatório dos Estados-Membros, procede-se, no âmbito do Comité, a um exame da realização dos programas de intercâmbio.\n\n5. Os Estados-Membros tomam em linha de conta a experiência adquirida, com o objectivo de melhorar e aprofundar os programas de intercâmbio.\n\n6. Pode ser concedida uma ajuda financeira da Comunidade tendo em vista a realização eficaz dos programas de intercâmbio, nomeadamente por meio dos estágios de formação complementar previstos no n.º 1 do artigo 34.º. O nível da participação financeira da Comunidade e as eventuais condições a que possa estar sujeita são determinados nos termos do n.º 2 do artigo 40.º\n\n7. Para efeitos do disposto no presente artigo, são aplicáveis os artigos 23.º e 24.º"
+  },
+  "8c2fe01f703f0a32": {
+   "fragment_id": "Artigo 33.º",
+   "type": "artigo",
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nO disposto nos n.^os^ 6 e 7 do artigo 32.º é aplicável aos programas estabelecidos no âmbito da Directiva 91/496/CEE do Conselho, de 15 de Julho de 1991, que fixa os princípios relativos à organização dos controlos veterinários dos animais provenientes de países terceiros introduzidos na Comunidade [([^20])](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntr20-L_2009155PT.01003001-E0020), e da Directiva 97/78/CE do Conselho, de 18 de Dezembro de 1997 que fixa os princípios relativos à organização dos controlos veterinários dos produtos provenientes de países terceiros introduzidos na Comunidade [([^21])](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntr21-L_2009155PT.01003001-E0021), com vista à organização de controlos veterinários nas fronteiras externas de produtos provenientes de países terceiros e introduzidos na Comunidade."
+  },
+  "c6f84edc76dc0a98": {
+   "fragment_id": "Artigo 34.º",
+   "type": "artigo",
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\n1. A Comissão pode, quer directamente, quer por intermédio das autoridades nacionais competentes, organizar estágios ou sessões de aperfeiçoamento destinados a pessoal dos Estados-Membros, nomeadamente ao pessoal encarregado dos controlos veterinários previstos no artigo 33.º\n\nEsses estágios ou sessões de aperfeiçoamento podem, em função das disponibilidades, ser abertos, a pedido das autoridades competentes e após acordo da Comissão, ao pessoal de países terceiros que tenham celebrado com a Comunidade acordos de cooperação no domínio dos controlos veterinários, bem como a diplomados em ciências veterinárias que pretendam completar a sua formação no domínio da regulamentação comunitária.\n\n2. As modalidades de organização das acções previstas no n.º 1 e o nível da participação financeira da Comunidade são fixados pela Comissão nos termos do n.º 2 do artigo 40.º"
+  },
+  "4672e30151d46ede": {
+   "fragment_id": "Artigo 35.º",
+   "type": "artigo",
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\n1. A introdução de sistemas de identificação dos animais e de notificação das doenças no âmbito da regulamentação relativa aos controlos veterinários aplicáveis às trocas intracomunitárias de animais vivos, na perspectiva da realização do mercado interno, pode beneficiar de uma ajuda financeira da Comunidade.\n\n2. As modalidades de organização da acção prevista no n.º 1 e o nível da participação financeira da Comunidade são fixados pela Comissão após consulta ao Comité."
+  },
+  "25d4c94c1f17021b": {
+   "fragment_id": "Artigo 36.º",
+   "type": "artigo",
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\n1. A Comunidade pode conceder uma participação financeira à informatização dos procedimentos veterinários relativos:\n\na) Ao comércio intracomunitário e à importação de animais vivos e produtos de origem animal;\n\nb) À hospedagem, gestão e manutenção dos sistemas informáticos veterinários integrados, incluindo interfaces com bases de dados nacionais, se for caso disso.\n\n2. As modalidades de organização da acção prevista no n.º 1 e o nível da participação financeira da Comunidade são fixados nos termos do n.º 2 do artigo 40.º"
+  },
+  "d93c16c6129559c7": {
+   "fragment_id": "Artigo 37.º",
+   "type": "artigo",
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\n1. Um Estado-Membro que, do ponto de vista estrutural ou geográfico, tenha dificuldades de pessoal ou de infra-estrutura em executar a nova estratégia de controlos que a realização do mercado interno implica em relação aos animais vivos e aos produtos de origem animal pode, a título transitório, beneficiar de uma assistência financeira degressiva da Comunidade.\n\n2. O Estado-Membro em causa apresenta à Comissão um programa nacional destinado a melhorar o seu regime de controlo, acompanhado de todas as informações financeiras adequadas.\n\n3. Para efeitos do presente artigo, é aplicável o disposto nos n.^os^ 3 a 11 do artigo 27.º"
+  },
+  "3f896b3ae6f89d42": {
+   "fragment_id": "Artigo 38.º",
+   "type": "artigo",
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\nPara as acções previstas na presente secção, o montante das dotações necessárias é fixado anualmente no âmbito do processo orçamental."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "518ef5c392704d74": {
+   "fragment_id": "Artigo 39.º",
+   "type": "artigo",
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\nAs despesas objecto de financiamento nos termos da presente decisão são geridas directamente pela Comissão em conformidade com o n.º 2 do artigo 148.º do Regulamento (CE, Euratom) n.º 1605/2002."
+  },
+  "db1d47facb084fd8": {
+   "fragment_id": "Artigo 40.º",
+   "type": "artigo",
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo artigo 58.º do Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho, de 28 de Janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios [([^22])](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntr22-L_2009155PT.01003001-E0022).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de 15 dias."
+  },
+  "be4b0ba034bd6752": {
+   "fragment_id": "Artigo 41.º",
+   "type": "artigo",
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\nDe quatro em quatro anos, a Comissão deve apresentar ao Parlamento Europeu e ao Conselho um relatório sobre a situação da saúde animal e a relação custo-eficácia da aplicação dos programas nos diversos Estados-Membros, incluindo uma explicitação dos critérios adoptados."
+  },
+  "d64d18c6a891dfe8": {
+   "fragment_id": "Artigo 42.º",
+   "type": "artigo",
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\nÉ revogada a Decisão 90/424/CEE.\n\nAs remissões feitas para a decisão revogada devem entender-se como sendo feitas para a presente decisão e devem ler-se nos termos da tabela de correspondência que consta do anexo III."
+  },
+  "f86ec73d3f7d4881": {
+   "fragment_id": "Artigo 43.º",
+   "type": "artigo",
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\nOs Estados-Membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 25 de Maio de 2009.\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**J. ŠEBESTA**\n\n---"
+  },
+  "0aea4f45c49c5185": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntc1-L_2009155PT.01003001-E0001) Parecer emitido em 16 de Dezembro de 2008 (ainda não publicado no Jornal Oficial).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntc2-L_2009155PT.01003001-E0002) [JO L 224 de 18.8.1990, p. 19](http://publications.europa.eu/resource/oj/JOL_1990_224_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntc3-L_2009155PT.01003001-E0003) Ver anexo II.\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntc4-L_2009155PT.01003001-E0004) [JO L 328 de 24.11.2006, p. 14](http://publications.europa.eu/resource/oj/JOL_2006_328_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntc5-L_2009155PT.01003001-E0005) [JO L 145 de 13.6.1977, p. 44](http://publications.europa.eu/resource/oj/JOL_1977_145_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntc6-L_2009155PT.01003001-E0006) [JO L 173 de 19.6.1982, p. 18](http://publications.europa.eu/resource/oj/JOL_1982_173_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntc7-L_2009155PT.01003001-E0007) [JO L 325 de 1.12.1980, p. 5](http://publications.europa.eu/resource/oj/JOL_1980_325_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntc8-L_2009155PT.01003001-E0008) [JO L 223 de 2.8.1989, p. 19](http://publications.europa.eu/resource/oj/JOL_1989_223_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntc9-L_2009155PT.01003001-E0009) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntc10-L_2009155PT.01003001-E0010) [JO L 210 de 31.7.2006, p. 25](http://publications.europa.eu/resource/oj/JOL_2006_210_R_TOC).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntc11-L_2009155PT.01003001-E0011) [JO L 10 de 14.1.2006, p. 16](http://publications.europa.eu/resource/oj/JOL_2006_010_R_TOC).\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntc12-L_2009155PT.01003001-E0012) [JO L 223 de 15.8.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_223_R_TOC).\n\n> [(^13^)](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntc13-L_2009155PT.01003001-E0013) [JO L 325 de 12.12.2003, p. 31](http://publications.europa.eu/resource/oj/JOL_2003_325_R_TOC).\n\n> [(^14^)](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntc14-L_2009155PT.01003001-E0014) [JO L 378 de 31.12.1982, p. 58](http://publications.europa.eu/resource/oj/JOL_1982_378_R_TOC).\n\n> [(^15^)](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntc15-L_2009155PT.01003001-E0015) [JO L 306 de 22.11.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_306_R_TOC).\n\n> [(^16^)](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntc16-L_2009155PT.01003001-E0016) [JO L 368 de 31.12.1991, p. 21](http://publications.europa.eu/resource/oj/JOL_1991_368_R_TOC).\n\n> [(^17^)](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntc17-L_2009155PT.01003001-E0017) [JO L 140 de 1.6.1990, p. 123](http://publications.europa.eu/resource/oj/JOL_1990_140_R_TOC).\n\n> [(^18^)](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntc18-L_2009155PT.01003001-E0018) [JO L 165 de 30.4.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_165_R_TOC).\n\n> [(^19^)](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntc19-L_2009155PT.01003001-E0019) [JO L 248 de 16.9.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_248_R_TOC).\n\n> [(^20^)](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntc20-L_2009155PT.01003001-E0020) [JO L 268 de 24.9.1991, p. 56](http://publications.europa.eu/resource/oj/JOL_1991_268_R_TOC).\n\n> [(^21^)](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntc21-L_2009155PT.01003001-E0021) [JO L 24 de 30.1.1998, p. 9](http://publications.europa.eu/resource/oj/JOL_1998_024_R_TOC).\n\n> [(^22^)](http://publications.europa.eu/resource/cellar/dadfc845-8c67-4652-8a25-71e7978917e2.0018.02/DOC_1#ntc22-L_2009155PT.01003001-E0022) [JO L 31 de 1.2.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_031_R_TOC)."
+  },
+  "d6dfee907bc91978": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Maio de 2009\n\nrelativa a determinadas despesas no domínio veterinário\n\n(Versão codificada)\n\n(2009/470/CE)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#E0001)),\n\n(1) A Decisão 90/424/CEE do Conselho, de 26 de Junho de 1990, relativa a determinadas despesas no domínio veterinário ([^2^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#E0002)), foi por várias vezes alterada de modo substancial ([^3^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#E0003)). Por razões de clareza e racionalidade, deverá proceder-se à codificação da referida decisão.\n\n(2) Os animais vivos e os produtos de origem animal fazem parte da lista constante do anexo I do Tratado. A criação animal e a comercialização dos produtos de origem animal constituem uma fonte de rendimentos para uma parte importante da população agrícola.\n\n(3) O desenvolvimento racional deste sector e a melhoria da produtividade implicam a realização de acções veterinárias destinadas a proteger e a elevar o nível sanitário e zoossanitário da Comunidade.\n\n(4) Com a prossecução deste objectivo, deve ser prevista uma ajuda da Comunidade às acções em curso ou a empreender.\n\n(5) Impõe-se a contribuição da Comunidade, através de uma participação financeira, na erradicação, tão rápida quanto possível, de qualquer foco de doenças contagiosas graves.\n\n(6) É igualmente conveniente prevenir e reduzir, por meio de medidas adequadas de controlo, a ocorrência de zoonoses que ponham em perigo a saúde humana.\n\n(7) À luz da aprovação da Directiva 2006/88/CE do Conselho, de 24 de Outubro de 2006, relativa aos requisitos zoossanitários aplicáveis aos animais de aquicultura e produtos derivados, assim como à prevenção e à luta contra certas doenças dos animais aquáticos ([^4^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#E0004)), deverá possibilitar-se a atribuição de uma participação financeira da Comunidade também para medidas de erradicação, aplicadas pelos Estados-Membros, a fim de lutar contra outras doenças em animais da aquicultura, no âmbito de disposições de controlo da Comunidade.\n\n(8) As participações financeiras da Comunidade para efeitos de controlo de doenças em animais da aquicultura deverão ser objecto de exame minucioso no que diz respeito ao cumprimento das disposições de controlo estabelecidas na Directiva 2006/88/CE, de acordo com os mesmos procedimentos que se aplicam ao exame minucioso e ao controlo de certas doenças dos animais terrestres.\n\n(9) O funcionamento do mercado interno requer uma estratégia em matéria de controlo que pressupõe um regime de controlo harmonizado em relação aos produtos provenientes de países terceiros. Afigura-se adequado facilitar a aplicação desta estratégia pela previsão de uma participação financeira da Comunidade no estabelecimento e desenvolvimento desta estratégia.\n\n(10) A harmonização das exigências essenciais em matéria de protecção da saúde pública, da saúde animal e da protecção dos animais implica que se preveja a designação de laboratórios comunitários de ligação e de referência e que se empreendam acções de natureza técnica e científica. Afigura-se oportuno prever uma participação financeira da Comunidade. Em especial no sector da protecção dos animais, é útil criar uma base de dados que reúna as informações necessárias e susceptíveis de difusão.\n\n(11) As actividades de recolha de informação são necessárias para aperfeiçoar a elaboração e a aplicação da legislação nos domínios da saúde animal e da segurança dos alimentos. Além disso, urge divulgar de forma tão ampla quanto possível em toda a Comunidade as informações relativas à legislação aplicável em matéria de saúde animal e de segurança dos alimentos. Assim, afigura-se oportuno incluir a saúde animal e a segurança dos alimentos de origem animal no financiamento da política de informação no domínio da protecção dos animais.\n\n(12) Há acções comunitárias de erradicação de certas doenças animais que beneficiam já de uma ajuda financeira da Comunidade. A este respeito, é conveniente citar a Directiva 77/391/CEE do Conselho, de 17 de Maio de 1977, que instaura uma acção da Comunidade tendo em vista a erradicação da brucelose, da tuberculose e da leucose dos bovinos ([^5^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#E0005)), a Directiva 82/400/CEE do Conselho, de 14 de Junho de 1982, que altera a Directiva 77/391/CEE e instaura uma acção complementar da Comunidade tendo em vista a erradicação da brucelose, da tuberculose e da leucose dos bovinos ([^6^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#E0006)), a Decisão 80/1096/CEE do Conselho, de 11 de Novembro de 1980, que instaura uma acção financeira da Comunidade tendo em vista a erradicação da peste suína clássica ([^7^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#E0007)), e a Decisão 89/455/CEE do Conselho, de 24 de Julho de 1989, que introduz medidas comunitárias para o estabelecimento de projectos-piloto destinados a lutar contra a raiva tendo em vista a sua erradicação ou prevenção ([^8^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#E0008)). É conveniente que a participação financeira da Comunidade na erradicação de cada uma das doenças mencionadas continue a ser fixada pela decisão correspondente.\n\n(13) Importa prever uma acção financeira da Comunidade para a luta, a erradicação e a vigilância de certas doenças animais. É conveniente reunir num único capítulo todas as acções financeiras da Comunidade relativas à luta, à erradicação e à vigilância das doenças animais e zoonoses que impliquem despesas obrigatórias para o orçamento da Comunidade.\n\n(14) A Comissão deverá gerir directamente as despesas sujeitas a financiamento nos termos da presente decisão, devido à natureza das mesmas.\n\n(15) As medidas necessárias à execução do presente regulamento deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^9^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#E0009)),\n\nAPROVOU A PRESENTE DECISÃO:"
+  },
+  "f5e65a3f624f7a20": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente decisão estabelece as regras de participação financeira da Comunidade em:\n\n— acções veterinárias pontuais,\n\n— acções de controlo no domínio veterinário,\n\n— programas de luta, erradicação e vigilância das doenças animais e zoonoses.\n\nA presente decisão não prejudica a possibilidade de certos Estados-Membros beneficiarem de uma participação financeira da Comunidade superior a 50 % ao abrigo do Regulamento (CE) n.º 1083/2006 do Conselho, de 11 de Julho de 2006, que estabelece disposições gerais sobre o Fundo Europeu de Desenvolvimento Regional, o Fundo Social Europeu e o Fundo de Coesão ([^10^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#E0010))."
+  },
+  "822896b83bfd362b": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. O presente artigo, assim como os n.^os^ 4 e 5 do artigo 3.º são aplicáveis em caso de ocorrência de gripe aviária no território de um Estado-Membro.\n\n2. O Estado-Membro em causa deve beneficiar de uma participação financeira da Comunidade para a erradicação da gripe aviária se as medidas mínimas de luta contra a doença previstas na Directiva 2005/94/CE do Conselho, de 20 de Dezembro de 2005, relativa a medidas comunitárias de luta contra a gripe aviária ([^11^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#E0011)), tiverem sido plena e eficazmente aplicadas em conformidade com a legislação comunitária pertinente e se, em caso de abate de animais de espécies sensíveis, atingidos ou contaminados ou suspeitos de terem sido atingidos ou de estarem contaminados, os proprietários dos animais tiverem sido indemnizados de forma rápida e adequada.\n\n3. A participação financeira da Comunidade, repartida se necessário por várias fracções, é de:\n\n— 50 % das despesas suportadas pelo Estado-Membro a título de indemnização dos proprietários de animais pelo abate das aves de capoeira ou outras aves em cativeiro e pelo valor dos ovos destruídos,\n\n— 50 % das despesas suportadas pelo Estado-Membro pela destruição de animais, pela destruição de produtos de origem animal, pela limpeza e desinfecção de explorações e equipamentos, pela destruição dos alimentos para animais contaminados e pela destruição de equipamentos contaminados, quando esses equipamentos não possam ser desinfectados,\n\n— caso tenha sido decidida a vacinação de emergência nos termos do artigo 54.º da Directiva 2005/94/CE, 100 % do custo de fornecimento da vacina e 50 % das despesas suportadas com a execução da vacinação."
+  },
+  "a900663ab9b96250": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros podem atribuir fundos, no âmbito dos programas operacionais elaborados de acordo com o artigo 17.º do Regulamento (CE) n.º 1198/2006 do Conselho, de 27 de Julho de 2006, relativo ao Fundo Europeu das Pescas ([^12^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#E0012)), para a erradicação de doenças exóticas em animais da aquicultura enunciadas no n.º 1 do artigo 3.º da presente decisão, nos termos dos n.^os^ 4, 5 e 6 do artigo 3.º da presente decisão, desde que sejam respeitadas as medidas mínimas de controlo e erradicação previstas na secção 3 do capítulo V da Directiva 2006/88/CE."
+  },
+  "a12872676a108639": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. O artigo 3.º é igualmente aplicável ao controlo de situações sanitárias graves para a Comunidade, decorrentes de doenças referidas no n.º 1 do referido artigo, mesmo que o território em que a doença se desenvolva esteja sujeito a um programa de erradicação nos termos do artigo 27.º\n\n2. O disposto no artigo 3.º é aplicável em caso de ocorrência da doença de Newcastle no território de um Estado-Membro.\n\nNo entanto, salvo decisão da Comissão, tomada nos termos do n.º 2 do artigo 40.º, e autorizando em determinadas condições, e por um período e região limitados, o recurso à vacinação, não é concedida qualquer participação financeira da Comunidade para o fornecimento da vacina ou a execução da vacinação.\n\n3. Aplicam-se as disposições do artigo 3.º, excluindo as previstas no quarto travessão do n.º 2 e no segundo travessão do n.º 6, no caso de surto de uma zoonose abrangida pela Directiva 2003/99/CE do Parlamento Europeu e do Conselho, de 17 de Novembro de 2003, relativa à vigilância das zoonoses e dos agentes zoonóticos ([^13^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#E0013)), se esse surto constituir um risco imediato para a saúde pública. O cumprimento desta condição deve ser verificado no momento da adopção da decisão prevista no n.º 4 do artigo 3.º da presente decisão."
+  },
+  "e4bc593f89267570": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Nos termos do n.º 2 do artigo 40.º, a Comissão, a pedido de um Estado-Membro, adita à lista constante do n.º 1 do artigo 3.º uma doença exótica de declaração obrigatória susceptível de constituir um perigo para a Comunidade.\n\n2. Nos termos do n.º 2 do artigo 40.º, a lista constante do n.º 1 do artigo 3.º pode ser completada, em função da evolução da situação, a fim de incluir doenças que devem ser notificadas de acordo com a Directiva 82/894/CEE do Conselho, de 21 de Dezembro de 1982, relativa à notificação de doenças dos animais na Comunidade ([^14^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#E0014)), bem como doenças transmissíveis aos animais da aquicultura. A lista pode igualmente ser alterada ou reduzida a fim de ter em conta os progressos realizados no âmbito de medidas de luta contra certas doenças, decididas a nível comunitário.\n\n3. O disposto no n.º 2 do artigo 3.º pode ser completado ou alterado nos termos do n.º 2 do artigo 40.º, designadamente para ter em conta a inclusão de novas doenças na lista constante do n.º 1 do artigo 3.º, a experiência adquirida ou a adopção de disposições comunitárias relativas às medidas de luta."
+  },
+  "e52c2dd3f6bf6ffe": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. A Comunidade pode decidir, a pedido de um Estado-Membro, que os Estados-Membros devem constituir reservas de produtos biológicos destinados à luta contra as doenças referidas nos n.º 1 do artigo 3.º, n.º 1 do artigo 4.º, n.º 1 do artigo 6.º (vacinas, estirpes virais adaptadas, soros de diagnóstico) e, sem prejuízo da decisão prevista no n.º 1 do artigo 69.º da Directiva 2003/85/CE do Conselho, de 29 de Setembro de 2003, relativa a medidas comunitárias de luta contra a febre aftosa ([^15^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#E0015)), no n.º 1 do artigo 14.º da presente decisão.\n\n2. A acção referida no n.º 1, bem como as suas regras de execução relativas, nomeadamente, à selecção, produção, armazenamento, transporte e utilização dessas reservas e o nível da participação financeira da Comunidade são determinados nos termos do n.º 2 do artigo 40.º"
+  },
+  "7536210417980327": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. O disposto no presente artigo é aplicável em caso de aparecimento de febre aftosa no território de um Estado-Membro.\n\n2. O Estado-Membro em causa beneficia da participação financeira da Comunidade para a erradicação da febre aftosa desde que sejam imediatamente aplicadas as medidas previstas no n.º 2 do artigo 3.º e as disposições pertinentes da Directiva 2003/85/CE.\n\n3. É aplicável o disposto no n.º 4 do artigo 3.º\n\n4. Sem prejuízo das medidas a tomar no âmbito das organizações comuns de mercado com o objectivo de apoiar o mercado, a participação financeira específica ao abrigo da presente decisão é igual a 60 % das despesas suportadas pelo Estado-Membro a título:\n\na) De indemnização aos proprietários:\n\ni) Pelo abate e destruição dos animais;\n\nii) Pela destruição do leite;\n\niii) Pela limpeza e desinfecção da exploração;\n\niv) Pela destruição dos alimentos contaminados e dos materiais contaminados quando estes não puderem ser desinfectados;\n\nv) Pelos prejuízos sofridos pelos criadores devido às restrições à comercialização de animais de exploração e de engorda, na sequência da reintrodução da vacinação de urgência, nos termos do n.º 3 do artigo 50.º da Directiva 2003/85/CE;\n\nb) Do transporte eventual das carcaças para as fábricas de tratamento;\n\nc) De qualquer outra medida indispensável à erradicação da doença no foco.\n\nA Comissão define, nos termos do n.º 2 do artigo 40.º, a natureza das outras medidas previstas na alínea c) do presente número que poderão beneficiar da mesma participação financeira da Comunidade, assim como os casos a que se aplica o disposto na subalínea v) da alínea a) do presente número.\n\n5. Pela primeira vez e quarenta e cinco dias, o mais tardar, após a confirmação oficial do primeiro foco de febre aftosa e, posteriormente, em função da evolução da situação, esta é reexaminada no Comité. Esse exame deve incidir tanto na situação veterinária como na estimativa das despesas já suportadas ou a suportar. Na sequência do exame, pode ser adoptada, nos termos do n.º 3 do artigo 40.º, uma nova decisão relativa à participação financeira da Comunidade, que pode ser superior aos 60 % previstos no n.º 4. Essa decisão deve definir as despesas elegíveis e o nível da participação financeira da Comunidade. Além disso, aquando da adopção dessa decisão, podem ser tomadas todas as medidas necessárias a executar pelo Estado-Membro em causa para assegurar o êxito da acção, designadamente medidas diferentes das referidas no n.º 2 do presente artigo."
+  },
+  "76b2728ad799bd77": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nA constituição das reservas comunitárias de vacinas antiaftosas estabelecida pela Decisão 91/666/CEE do Conselho, de 11 de Dezembro de 1991, relativa ao estabelecimento de reservas comunitárias de vacinas contra a febre aftosa ([^16^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#E0016)), pode beneficiar de uma ajuda comunitária.\n\nO nível da participação comunitária e as condições a que esta pode ser subordinada são determinados nos termos do n.º 3 do artigo 40.º"
+  },
+  "7f23479744db27a2": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nA Comunidade participa na execução de uma política de informação no domínio da saúde animal, do bem-estar dos animais e da segurança dos alimentos de origem animal, fornecendo uma participação financeira para:\n\na) A criação e o desenvolvimento de instrumentos de informação, incluindo uma base de dados adequada para efeitos de:\n\ni) Recolha e armazenagem de todas as informações relativas à legislação comunitária em matéria de saúde animal, bem-estar dos animais e segurança dos alimentos de origem animal;\n\nii) Divulgação das informações mencionadas na subalínea i) às autoridades competentes, aos produtores e aos consumidores, tendo em conta as interfaces com as bases de dados nacionais, se for caso disso;\n\nb) A realização de estudos necessários à elaboração e ao desenvolvimento da legislação no domínio do bem-estar dos animais."
+  },
+  "132bf0d392a2d231": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n1. A participação financeira da Comunidade na erradicação da peste suína clássica é fixada nos termos da Decisão 80/1096/CEE.\n\n2. A participação financeira da Comunidade na erradicação da brucelose ovina é fixada nos termos da Decisão 90/242/CEE do Conselho, de 21 de Maio de 1990, que instaura uma acção financeira comunitária para a erradicação da brucelose nos ovinos e nos caprinos ([^17^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#E0017))."
+  },
+  "efc1f55667ecaa25": {
+   "fragment_id": "Artigo 27.º",
+   "type": "artigo",
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n1. É instituída uma acção financeira da Comunidade para efeitos de reembolso das despesas efectuadas pelos Estados-Membros com o financiamento dos programas nacionais de luta, erradicação e vigilância das doenças animais e zoonoses constantes do anexo I (a seguir designados «programas»).\n\nA lista constante do anexo I pode ser alterada nos termos do n.º 2 do artigo 40.º, em especial no que diz respeito a doenças animais emergentes que representem um risco para a saúde animal e, indirectamente, para a saúde pública, ou à luz de novos conhecimentos epidemiológicos ou científicos.\n\n2. Anualmente, até 30 de Abril, o mais tardar, os Estados-Membros apresentam à Comissão os programas anuais ou plurianuais que têm início no ano seguinte e para os quais pretendem beneficiar de uma participação financeira da Comunidade.\n\nOs programas apresentados após 30 de Abril não são elegíveis para financiamento no ano seguinte.\n\nOs programas apresentados pelos Estados-Membros devem incluir, pelo menos:\n\na) Uma descrição da situação epidemiológica da doença antes da data de início do programa;\n\nb) A descrição e a delimitação das zonas geográfica e administrativa em que o programa irá ser aplicado;\n\nc) A duração prevista do programa, as medidas a aplicar e o objectivo a atingir no seu termo;\n\nd) Uma análise dos custos estimados e dos benefícios esperados do programa.\n\nOs critérios pormenorizados, incluindo os que envolvem mais do que um Estado-Membro, são adoptados nos termos do n.º 2 do artigo 40.º\n\nEm cada programa plurianual apresentado por um Estado-Membro, a informação exigida em conformidade com os critérios mencionados no presente número deve ser fornecida para cada ano de duração do programa.\n\n3. A Comissão pode convidar um Estado-Membro a apresentar um programa plurianual ou, se for caso disso, a prorrogar a duração de um programa anual já apresentado, caso entenda que a realização de um programa plurianual é necessária para garantir uma maior eficácia e eficiência a nível da luta, da erradicação e da vigilância de uma determinada doença, em especial no que diz respeito a possíveis ameaças para a saúde animal e, indirectamente, para a saúde pública.\n\nA Comissão poderá coordenar os programas regionais que envolvam mais do que um Estado-Membro, em cooperação com os Estados-Membros em causa.\n\n4. A Comissão procederá à análise dos programas apresentados pelos Estados-Membros, tanto do ponto de vista veterinário como do ponto de vista financeiro.\n\nOs Estados-Membros comunicam à Comissão as informações complementares pertinentes que esta considerar necessárias para a sua avaliação do programa.\n\nO prazo de recolha de toda a informação relativa aos programas termina em 15 de Setembro de cada ano.\n\n5. Anualmente, até 30 de Novembro, o mais tardar, são aprovados nos termos do n.º 3 do artigo 40.º:\n\na) Os programas, alterados, se for caso disso, para ter em conta a avaliação prevista no n.º 4 do presente artigo;\n\nb) O nível da participação financeira da Comunidade;\n\nc) O limite máximo da participação financeira da Comunidade;\n\nd) As eventuais condições a que pode estar sujeita a participação financeira da Comunidade.\n\nOs programas são aprovados por um período máximo de seis anos.\n\n6. As alterações aos programas são adoptadas nos termos do n.º 3 do artigo 40.º\n\n7. Relativamente a cada programa aprovado, os Estados-Membros apresentam à Comissão os seguintes relatórios:\n\na) Relatórios técnicos e financeiros intercalares;\n\nb) Anualmente até 30 de Abril, o mais tardar, um relatório técnico pormenorizado que inclua a avaliação dos resultados obtidos e uma descrição pormenorizada das despesas efectuadas no ano anterior.\n\n8. Os pedidos de pagamento relativos às despesas efectuadas por um Estado-Membro a título de um determinado programa no ano anterior devem ser apresentados à Comissão até 30 de Abril, o mais tardar.\n\nEm caso de atraso na apresentação dos pedidos de pagamento, a participação financeira da Comunidade é reduzida em 25 % em 1 de Junho, 50 % em 1 de Agosto, 75 % em 1 de Setembro e 100 % em 1 de Outubro do ano em questão.\n\nAnualmente, até 30 de Outubro, o mais tardar, a Comissão toma uma decisão relativa ao pagamento da participação comunitária, tendo em conta os relatórios técnicos e financeiros apresentados pelo Estado-Membro em conformidade com o n.º 7 do presente artigo.\n\n9. Os peritos da Comissão podem proceder a controlos no local, em colaboração com a autoridade competente, desde que tal seja necessário para garantir a aplicação uniforme da presente decisão, em conformidade com o artigo 45.º do Regulamento (CE) n.º 882/2004 do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, relativo aos controlos oficiais realizados para assegurar a verificação do cumprimento da legislação relativa aos alimentos para animais e aos géneros alimentícios e das normas relativas à saúde e ao bem-estar dos animais ([^18^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#E0018)).\n\nNa realização desses controlos, os peritos da Comissão podem ser assistidos por um grupo de peritos instituído nos termos do n.º 2 do artigo 40.º\n\n10. As normas de execução do presente artigo são aprovadas nos termos do n.º 2 do artigo 40.º\n\n11. Os Estados-Membros podem atribuir fundos, no âmbito dos programas operacionais elaborados de acordo com o artigo 17.º do Regulamento (CE) n.º 1198/2006, para a erradicação das doenças em animais de aquicultura referidas no anexo I da presente decisão.\n\nEsses fundos devem ser atribuídos nos termos do presente artigo, com as seguintes adaptações:\n\na) A taxa de ajuda deve ser conforme com a taxa estabelecida no Regulamento (CE) n.º 1198/2006;\n\nb) Não é aplicável o n.º 8 do presente artigo.\n\nA erradicação deve ser realizada nos termos do n.º 1 do artigo 38.º da Directiva 2006/88/CE ou ao abrigo de um programa de erradicação.\n\n12. As datas de 30 de abril (mencionada no n.º 2), de 15 de setembro (mencionada no n.º 4) e de 30 de novembro (mencionada no n.º 5) não são aplicáveis aos programas a executar pela Croácia durante 2013."
+  },
+  "c644f271105e0df1": {
+   "fragment_id": "Artigo 29.º",
+   "type": "artigo",
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nAs autorizações orçamentais comunitárias relativas ao co-financiamento dos programas são efectuadas anualmente. As dotações de autorização das despesas a título dos programas plurianuais são aprovadas em conformidade com o n.º 3 do artigo 76.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, de 25 de Junho de 2002, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias ([^19^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#E0019)). No que diz respeito aos programas plurianuais, a primeira autorização orçamental tem lugar após a respectiva aprovação. A Comissão atribui cada autorização subsequente com base na decisão de concessão de uma participação prevista no n.º 5 do artigo 27.º da presente decisão."
+  },
+  "f8ea78c886838b54": {
+   "fragment_id": "Artigo 33.º",
+   "type": "artigo",
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nO disposto nos n.^os^ 6 e 7 do artigo 32.º é aplicável aos programas estabelecidos no âmbito da Directiva 91/496/CEE do Conselho, de 15 de Julho de 1991, que fixa os princípios relativos à organização dos controlos veterinários dos animais provenientes de países terceiros introduzidos na Comunidade ([^20^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#E0020)), e da Directiva 97/78/CE do Conselho, de 18 de Dezembro de 1997 que fixa os princípios relativos à organização dos controlos veterinários dos produtos provenientes de países terceiros introduzidos na Comunidade ([^21^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#E0021)), com vista à organização de controlos veterinários nas fronteiras externas de produtos provenientes de países terceiros e introduzidos na Comunidade."
+  },
+  "f172407c273b1ba5": {
+   "fragment_id": "Artigo 40.º",
+   "type": "artigo",
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\n1. A Comissão é assistida pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal, instituído pelo artigo 58.º do Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho, de 28 de Janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios ([^22^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#E0022)).\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de 15 dias."
+  },
+  "8a0cc02ab0ee867b": {
+   "fragment_id": "Artigo 43.º",
+   "type": "artigo",
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\nOs Estados-Membros são os destinatários da presente decisão."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "cc16c7eb3f88a2c0": {
+   "fragment_id": "DOENÇAS ANIMAIS E ZOONOSES",
+   "type": "divisao",
+   "heading": "DOENÇAS ANIMAIS E ZOONOSES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DOENÇAS ANIMAIS E ZOONOSES\n\n— Tuberculose bovina\n\n— Brucelose bovina\n\n— Brucelose ovina e caprina (B. *melitensis*)\n\n— Febre catarral dos ovinos em regiões endémicas ou de alto risco\n\n— Peste suína africana\n\n— Doença vesiculosa dos suínos\n\n— Peste suína clássica\n\n— Carbúnculo\n\n— Pleuropneumonia contagiosa dos bovinos\n\n— Gripe aviária\n\n— Raiva\n\n— Equinococose\n\n— Encefalopatias espongiformes transmissíveis (EET)\n\n— Campilobacteriose\n\n— Listeriose\n\n— Salmonelose (salmonelas zoonóticas)\n\n— Triquinose\n\n— *Escherichia coli* verotoxinogénica\n\n— Septicemia hemorrágica viral (SHV)\n\n— Necrose hematopoiética infecciosa (NHI)\n\n— Herpesvirose da carpa koi (KHV)\n\n— Anemia infecciosa do salmão (AIS)\n\n— Infecção por *Marteilia refringens*\n\n— Infecção por *Bonamia ostreae*\n\n— Doença da «mancha branca» nos crustáceos"
+  },
+  "553fc24f3a754ac1": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nDecisão 90/424/CEE do Conselho (JO L 224 de 18.8.1990, p. 19).\n\nDecisão 91/133/CEE do Conselho (JO L 66 de 13.3.1991, p. 18).\n\nRegulamento (CEE) n.º 3763/91 do Conselho (JO L 356 de 24.12.1991, p. 1). Apenas o artigo 10.º, n.º 1\n\nDecisão 92/337/CEE do Conselho (JO L 187 de 7.7.1992, p. 45).\n\nDecisão 92/438/CEE do Conselho (JO L 243 de 25.8.1992, p. 27). Apenas o artigo 11.º\n\nDirectiva 92/117/CEE do Conselho (JO L 62 de 15.3.1993, p. 38). Apenas o artigo 9.º, n.º 2\n\nDirectiva 92/119/CEE do Conselho (JO L 62 de 15.3.1993, p. 69). Apenas o artigo 23.º, n.º 2\n\nDecisão 93/439/CEE da Comissão (JO L 203 de 13.8.1993, p. 34).\n\nDecisão 94/77/CE da Comissão (JO L 36 de 8.2.1994, p. 15).\n\nDecisão 94/370/CE do Conselho (JO L 168 de 2.7.1994, p. 31).\n\nRegulamento (CE) n.º 1258/1999 do Conselho (JO L 160 de 26.6.1999, p. 103). Apenas o artigo 17.º\n\nDecisão 2001/12/CE do Conselho (JO L 3 de 6.1.2001, p. 27).\n\nDecisão 2001/572/CE do Conselho (JO L 203 de 28.7.2001, p. 16).\n\nRegulamento (CE) n.º 806/2003 do Conselho (JO L 122 de 16.5.2003, p. 1). Apenas o ponto 9 de anexo III\n\nDirectiva 2003/99/CE do Parlamento Europeu e do Conselho (JO L 325 de 12.12.2003, p. 31). Apenas o artigo 16.º\n\nDecisão 2006/53/CE do Conselho (JO L 29 de 2.2.2006, p. 37).\n\nDecisão 2006/782/CE do Conselho (JO L 328 de 24.11.2006, p. 57).\n\nRegulamento (CE) n.º 1791/2006 do Conselho (JO L 363 de 20.12.2006, p. 1). Apenas a referência à Decisão 90/424/CEE no segundo travessão do n.º 2 do artigo 1.º e ponto 3 da parte 5B-I) do anexo\n\nDecisão 2006/965/CE do Conselho (JO L 397 de 30.12.2006, p. 22). Apenas o artigo 1.º\n\nDecisão 2008/685/CE da Comissão (JO L 224 de 22.8.2008, p. 11)."
+  },
+  "b5160e7e0e42c83e": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nDecisão 90/424/CEE Presente decisão\n\nArtigos 1.º e 2.º Artigos 1.º e 2.º\n\nArtigo 3.º, n.^os^ 1 e 2 Artigo 3.º, n.^os^ 1 e 2\n\nArtigo 3.º, n.º 2-A Artigo 3.º, n.º 3\n\nArtigo 3.º, n.º 3 Artigo 3.º, n.º 4\n\nArtigo 3.º, n.º 4 Artigo 3.º, n.º 5\n\nArtigo 3.º, n.º 5 Artigo 3.º, n.º 6\n\nArtigo 3.º-A Artigo 4.º\n\nArtigo 3.º-B Artigo 5.º\n\nArtigo 4.º Artigo 6.º\n\nArtigo 5.º Artigo 7.º\n\nArtigo 6.º Artigo 8.º\n\nArtigo 7.º Artigo 9.º\n\nArtigo 8.º Artigo 10.º\n\nArtigo 9.º Artigo 11.º\n\nArtigo 10.º Artigo 12.º\n\nArtigo 10.º-A Artigo 13.º\n\nArtigo 11.º, n.^os^ 1 a 5 Artigo 14.º, n.^os^ 1 a 5\n\nArtigo 11.º, n.º 6 —\n\nArtigo 12.º Artigo 15.º\n\nArtigo 13.º Artigo 16.º\n\nArtigo 14.º Artigo 17.º\n\nArtigo 15.º Artigo 18.º\n\nArtigo 16.º Artigo 19.º\n\nArtigo 17.º Artigo 20.º\n\nArtigo 18.º Artigo 21.º\n\nArtigo 19.º Artigo 22.º\n\nArtigo 20.º Artigo 23.º\n\nArtigo 21.º Artigo 24.º\n\nArtigo 22.º, n.º 1 Artigo 25.º\n\nArtigo 22.º, n.º 2 —\n\nArtigo 23.º, n.º 1 Artigo 26.º, n.º 1\n\nArtigo 23.º, n.º 2 —\n\nArtigo 23.º, n.º 3 Artigo 26.º, n.º 2\n\nArtigo 23.º, n.º 4 —\n\nArtigo 24.º Artigo 27.º\n\nArtigo 25.º, n.^os^ 1 e 2 Artigo 28.º, n.^os^ 1 e 2\n\nArtigo 25.º, n.º 3 —\n\nArtigo 25.º, n.º 4 —\n\nArtigo 26.º Artigo 29.º\n\nArtigo 27.º Artigo 30.º\n\nArtigo 28.º Artigo 31.º\n\nArtigo 34.º Artigo 32.º\n\nArtigo 35.º Artigo 33.º\n\nArtigo 36.º Artigo 34.º\n\nArtigo 37.º Artigo 35.º\n\nArtigo 37.º-A Artigo 36.º\n\nArtigo 38.º Artigo 37.º\n\nArtigo 39.º Artigo 38.º\n\nArtigo 40.º-A Artigo 39.º\n\nArtigo 41.º, n.º 1 Artigo 40.º, n.º 1\n\nArtigo 41.º, n.º 2 Artigo 40.º, n.º 2\n\nArtigo 42.º, n.º 1 —\n\nArtigo 42.º, n.º 2 Artigo 40.º, n.º 3\n\nArtigo 41.º, n.º 3 Artigo 40.º, n.º 4\n\nArtigo 43.º, n.º 1 —\n\nArtigo 43.º, n.º 2 —\n\nArtigo 43.º-A Artigo 41.º\n\n— Artigo 42.º\n\nArtigo 44.º Artigo 43.º\n\nAnexo Anexo I\n\n— Anexo II\n\n— Anexo III\n\n---"
+  },
+  "c980629ba275ffae": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#src.E0001)) Parecer emitido em 16 de Dezembro de 2008 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#src.E0002)) JO L 224 de 18.8.1990, p. 19.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#src.E0003)) Ver anexo II.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#src.E0004)) JO L 328 de 24.11.2006, p. 14.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#src.E0005)) JO L 145 de 13.6.1977, p. 44.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#src.E0006)) JO L 173 de 19.6.1982, p. 18.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#src.E0007)) JO L 325 de 1.12.1980, p. 5.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#src.E0008)) JO L 223 de 2.8.1989, p. 19.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#src.E0009)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#src.E0010)) JO L 210 de 31.7.2006, p. 25.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#src.E0011)) JO L 10 de 14.1.2006, p. 16.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#src.E0012)) JO L 223 de 15.8.2006, p. 1.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#src.E0013)) JO L 325 de 12.12.2003, p. 31.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#src.E0014)) JO L 378 de 31.12.1982, p. 58.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#src.E0015)) JO L 306 de 22.11.2003, p. 1.\n\n> ([^16^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#src.E0016)) JO L 368 de 31.12.1991, p. 21.\n\n> ([^17^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#src.E0017)) JO L 140 de 1.6.1990, p. 123.\n\n> ([^18^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#src.E0018)) JO L 165 de 30.4.2004, p. 1.\n\n> ([^19^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#src.E0019)) JO L 248 de 16.9.2002, p. 1.\n\n> ([^20^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#src.E0020)) JO L 268 de 24.9.1991, p. 56.\n\n> ([^21^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#src.E0021)) JO L 24 de 30.1.1998, p. 9.\n\n> ([^22^](http://publications.europa.eu/resource/cellar/84ad79f5-a641-42cb-9536-cae41f324883.0018.03/DOC_1#src.E0022)) JO L 31 de 1.2.2002, p. 1."
+  },
+  "271618a9b4a46451": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2009D0470 — PT — 30.06.2014 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32009D0470) [DECISÃO DO CONSELHO](http://publications.europa.eu/resource/celex/32009D0470) [de 25 de Maio de 2009](http://publications.europa.eu/resource/celex/32009D0470) [relativa a determinadas despesas no domínio veterinário](http://publications.europa.eu/resource/celex/32009D0470) [(Versão codificada)](http://publications.europa.eu/resource/celex/32009D0470) [(2009/470/CE)](http://publications.europa.eu/resource/celex/32009D0470) (JO L 155, 18.6.2009, p.30)\n\n**revogado por:**\n\n- [Regulamento (UE) n.o 652/2014 do Parlamento Europeu e do Conselho de 15 de maio de 2014](http://publications.europa.eu/resource/celex/32014R0652) — L 189 — 1 — 27.6.2014"
+  }
+ }
+}

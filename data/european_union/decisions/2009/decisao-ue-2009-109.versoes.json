@@ -1,0 +1,263 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009D0109:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009D0109-20140617",
+ "dre_path": null,
+ "source_lastmod": "2014-06-17",
+ "versions": [
+  {
+   "date": "2009-02-11",
+   "future": false,
+   "celex": "32009D0109",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2c2d668cc13e4aec",
+    "8b286989bde6a687",
+    "7d335398ad7883b8",
+    "7f9bf5adf643b263",
+    "fa8d90885714f5ee",
+    "1a04e752ed41900a",
+    "adfc07e38922f254",
+    "727114a7bccd2605",
+    "58fd8ae2ce0d4f90",
+    "2a2646e929d2dea8",
+    "856c6a92be8db480",
+    "fe516691a5659592"
+   ]
+  },
+  {
+   "date": "2014-06-17",
+   "future": false,
+   "celex": "02009D0109-20140617",
+   "acts": [
+    {
+     "id": "eu:celex:32014D0362:por",
+     "title": "DECISÃO DE EXECUÇÃO DA COMISSÃO de 13 de junho de 2014",
+     "published": null,
+     "celex": "32014D0362"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 9.º — Duração",
+    "Altera Artigo 10.º — Destinatários",
+    "Altera Notas",
+    "Adita Artigo 1.º — Objeto",
+    "Adita ANEXO I",
+    "Adita ANEXO II",
+    "Adita CONDIÇÕES DA EXPERIÊNCIA",
+    "Adita 1. Condições relativas às sementes das espécies referidas no artigo 1.º",
+    "Adita 2. Condições relativas às misturas objecto da experiência",
+    "Adita 3. Informações a registar",
+    "Suprime Artigo 1.º — Objecto"
+   ],
+   "fragments": [
+    "99335298e898a7d4",
+    "60bee599f6da596c",
+    "7d335398ad7883b8",
+    "7f9bf5adf643b263",
+    "fa8d90885714f5ee",
+    "1a04e752ed41900a",
+    "adfc07e38922f254",
+    "727114a7bccd2605",
+    "58fd8ae2ce0d4f90",
+    "b357de7e6ff8762b",
+    "5b56760d82f4ba87",
+    "d4acb8063ffc7a88",
+    "852174729551523b",
+    "46be640468bef52b",
+    "c5527f860c9c15f3",
+    "386a1776cde7cc97",
+    "7a2b99840a570fdb",
+    "4c3d689f0c8dced0"
+   ]
+  }
+ ],
+ "fragments": {
+  "2c2d668cc13e4aec": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Fevereiro de 2009\n\nrelativa à organização de uma experiência temporária sobre certas derrogações à comercialização de misturas de sementes destinadas a ser utilizadas como plantas forrageiras, ao abrigo da Directiva 66/401/CEE do Conselho, para determinar se algumas espécies não enumeradas nas Directivas do Conselho 66/401/CEE, 66/402/CEE, 2002/55/CE ou 2002/57/CE cumprem os requisitos para a sua inclusão no n.º 1, ponto A, do artigo 2.º da Directiva 66/401/CEE\n\n[notificada com o número C(2009) 724]\n\n(Texto relevante para efeitos do EEE)\n\n(2009/109/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 66/401/CEE do Conselho, de 14 de Junho de 1966, relativa à comercialização de sementes de plantas forrageiras [([^1])](http://publications.europa.eu/resource/cellar/481e60f2-af18-46ee-8a4f-b113b12548a5.0018.03/DOC_1#ntr1-L_2009040PT.01002601-E0001), nomeadamente o artigo 13.º-A,\n\nConsiderando o seguinte:\n\n(1) Os conhecimentos tradicionais dos agricultores combinados com os recentes resultados da investigação indicam que algumas espécies de *Leguminosae* e *Plantago lanceolata* não enumeradas nas Directivas do Conselho 66/401/CEE, 66/402/CEE [([^2])](http://publications.europa.eu/resource/cellar/481e60f2-af18-46ee-8a4f-b113b12548a5.0018.03/DOC_1#ntr2-L_2009040PT.01002601-E0002), 2002/55/CE [([^3])](http://publications.europa.eu/resource/cellar/481e60f2-af18-46ee-8a4f-b113b12548a5.0018.03/DOC_1#ntr3-L_2009040PT.01002601-E0003) ou 2002/57/CE [([^4])](http://publications.europa.eu/resource/cellar/481e60f2-af18-46ee-8a4f-b113b12548a5.0018.03/DOC_1#ntr4-L_2009040PT.01002601-E0004) (a seguir designadas «legislação existente»), em especial quando utilizadas em misturas com espécies abrangidas pela legislação existente, são interessantes para a produção de forrageiras, permitindo uma alimentação equilibrada dos animais ao longo do ano, contribuindo simultaneamente para a reabilitação dos solos em terras não aráveis ou de culturas marginais. Encontram-se neste situação: *Biserrula pelecinus*, *Lotus glaber*, *Lotus uliginosus*, *Medicago italica*, *Medicago littoralis*, *Medicago murex*, *Medicago polymorpha*, *Medicago rugosa*, *Medicago scutelatta*, *Medicago truncatula*, *Ornithopus compressus*, *Ornithopus sativus*, *Plantago lanceolata*, *Trifolium fragiferum*, *Trifolium glanduliferum*, *Trifolium hirtum*, *Trifolium michelianum*, *Trifolium squarrosum*, *Trifolium subterraneum*, *Trifolium vesiculosum*, e *Vicia benghalensis* (a seguir designadas «espécies referidas no considerando 1»).\n\n(2) Em conformidade com o segundo travessão do n.º 1 do artigo 13.º da Directiva 66/401/CEE, apenas as sementes de plantas das espécies enumeradas na legislação existente, com excepção das variedades mencionadas no n.º 2 do artigo 4.º da Directiva 2002/53/CE do Conselho [([^5])](http://publications.europa.eu/resource/cellar/481e60f2-af18-46ee-8a4f-b113b12548a5.0018.03/DOC_1#ntr5-L_2009040PT.01002601-E0005), podem ser comercializadas na Comunidade em misturas de sementes destinadas a ser utilizadas como plantas forrageiras. Na ausência da possibilidade de comercializar misturas contendo sementes das espécies referidas no considerando 1, os agricultores que pretendam utilizar essas espécies têm de as transportar e semear como espécies distintas ou, em determinados casos, preparar eles próprios misturas na exploração, o que envolve custos e trabalho suplementares. Além disso, existe um risco maior que as diferentes espécies incluídas na mistura sejam distribuídas de forma desigual no campo, visto que as misturas não são preparadas por profissionais.\n\n(3) No sentido de permitir às espécies referidas no considerando 1 serem comercializadas em tais misturas, seria necessário alterar o n.º 1, ponto A, do artigo 2.º da Directiva 66/401/CEE, incluindo aquelas espécies na disposição mencionada.\n\n(4) Para decidir sobre uma tal alteração ao n.º 1, ponto A, do artigo 2.º da Directiva 66/401/CEE, é necessário coligir informação sobre a comercialização de misturas contendo as espécies referidas no considerando 1. Nomeadamente, é necessário verificar se, sempre que aquelas espécies são utilizadas em misturas, é possível confirmar através de controlo oficial *a posteriori* que a percentagem de sementes de cada componente indicada no rótulo da embalagem corresponde à composição da mistura e se as misturas do mesmo lote são homogéneas em todas as embalagens comercializadas. Na ausência desta informação, seria impossível garantir aos utilizadores que as sementes de misturas contendo as espécies referidas no considerando 1 darão origem a resultados de alta qualidade.\n\n(5) Por conseguinte, é adequado organizar uma experiência temporária para verificar se as espécies referidas no considerando 1 cumprem os requisitos para serem incluídas no n.º 1, ponto A, do artigo 2.º da Directiva 66/401/CEE.\n\n(6) Os Estados-Membros que participem nesta experiência devem ser exonerados das obrigações definidas no segundo travessão do n.º 1 do artigo 13.º da Directiva 66/401/CEE, no que se refere às espécies referidas no considerando 1. Devem permitir, sob determinadas condições, a colocação no mercado de misturas contendo aquelas espécies.\n\n(7) Importa prever requisitos específicos para a certificação das espécies referidas no considerando 1, no sentido de garantir que as sementes destas espécies cumprem os mesmos requisitos em todos os Estados-Membros participantes. Estes requisitos devem ter por base as condições definidas nos sistemas da OCDE relativos à certificação varietal ou ao controlo das sementes objecto de comércio internacional (a seguir designados «sistemas da OCDE») ou nas normas nacionais do Estado-Membro em que a semente é produzida.\n\n(8) Para além das condições gerais previstas na Decisão 2004/371/CE da Comissão, de 20 de Abril de 2004, relativa às condições para a colocação no mercado de misturas de sementes destinadas a ser utilizadas como plantas forrageiras [([^6])](http://publications.europa.eu/resource/cellar/481e60f2-af18-46ee-8a4f-b113b12548a5.0018.03/DOC_1#ntr6-L_2009040PT.01002601-E0006), devem ser definidas condições específicas para a comercialização de misturas objecto da experiência. As condições mencionadas devem garantir a recolha de informação suficiente para a avaliação da experiência. É, pois, necessário prever normas relativas à rotulagem, vigilância e notificação.\n\n(9) Tendo em conta a natureza experimental da medida prevista na presente decisão, deve ser fixada uma quantidade máxima para a comercialização de misturas de sementes, considerando a necessidade de testar diferentes misturas utilizando instalações existentes.\n\n(10) Para permitir aos Estados-Membros verificar que a quantidade máxima não é ultrapassada, as empresas que pretendam produzir tais misturas de sementes devem comunicar aos Estados-Membros em causa as quantidades que pretendem produzir. Os Estados-Membros devem dispor da possibilidade de proibir a comercialização de misturas de sementes sempre que considerem tal medida oportuna, tendo em conta a necessidade de testar diferentes misturas sem ultrapassar a quantidade máxima.\n\n(11) No sentido de permitir aos fornecedores a produção e comercialização de uma quantidade suficiente de sementes e de permitir às autoridades competentes a inspecção daquelas matérias e a recolha de dados suficientes e de informação comparável a utilizar na preparação do relatório, a experiência deve decorrer durante um período de, pelo menos, cinco campanhas de comercialização.\n\n(12) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "8b286989bde6a687": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ organizada a nível comunitário uma experiência temporária para avaliar se as espécies *Biserrula pelecinus*, *Lotus glaber*, *Lotus uliginosus*, *Medicago italica*, *Medicago littoralis*, *Medicago murex*, *Medicago polymorpha*, *Medicago rugosa*, *Medicago scutelatta*, *Medicago truncatula*, *Ornithopus compressus*, *Ornithopus sativus*, *Plantago lanceolata*, *Trifolium fragiferum*, *Trifolium glanduliferum*, *Trifolium hirtum*, *Trifolium michelianum*, *Trifolium squarrosum*, *Trifolium subterraneum*, *Trifolium vesiculosum*, e *Vicia benghalensis* (a seguir designadas «espécies referidas no artigo 1.º»), podem ser comercializadas como ou em misturas de sementes, com o objectivo de decidir se algumas daquelas espécies, ou a sua totalidade, devem ser incluídas na lista de plantas forrageiras constante do n.º 1, ponto A, do artigo 2.º da Directiva 66/401/CEE."
+  },
+  "7d335398ad7883b8": {
+   "fragment_id": "Artigo 2.º — Participação dos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Participação dos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Participação dos Estados-Membros\n\nTodos os Estados-Membros podem participar na experiência.\n\nOs Estados-Membros que decidam participar na experiência (a seguir designados «Estados-Membros participantes») informam a Comissão desse facto.\n\nPodem pôr termo à sua participação em qualquer altura, informando desse facto a Comissão."
+  },
+  "7f9bf5adf643b263": {
+   "fragment_id": "Artigo 3.º — Exoneração",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Exoneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Exoneração\n\n1. Para fins da experiência, as misturas de sementes contendo as espécies referidas no artigo 1.º, com ou sem sementes de espécies enumeradas nas Directivas 66/401/CEE, 66/402/CEE, 2002/55/CE ou 2002/57/CE, podem ser colocadas no mercado, nas condições previstas nos artigos 4.º e 5.º\n\n2. Os Estados-Membros participantes são exonerados das obrigações previstas no segundo travessão do n.º 1 do artigo 13.º da Directiva 66/401/CEE."
+  },
+  "fa8d90885714f5ee": {
+   "fragment_id": "Artigo 4.º — Condições relativas às sementes das espécies referidas no artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Condições relativas às sementes das espécies referidas no artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições relativas às sementes das espécies referidas no artigo 1.º\n\nAs sementes das espécies referidas no artigo 1.º devem preencher as seguintes condições:\n\na) Pertencer a uma variedade enumerada num catálogo nacional de um Estado-Membro ou na lista da OCDE de variedades elegíveis para a certificação de sementes;\n\nb) Estar certificadas em conformidade com o anexo I;\n\nc) Cumprir as condições definidas no ponto 1 do anexo II."
+  },
+  "1a04e752ed41900a": {
+   "fragment_id": "Artigo 5.º — Condições relativas às misturas objecto da experiência",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Condições relativas às misturas objecto da experiência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições relativas às misturas objecto da experiência\n\nPara além das condições previstas na Decisão 2004/371/CE, as misturas objecto da experiência devem cumprir as condições definidas no ponto 2 do anexo II."
+  },
+  "adfc07e38922f254": {
+   "fragment_id": "Artigo 6.º — Restrições quantitativas",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Restrições quantitativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Restrições quantitativas\n\n1. Os Estados-Membros participantes garantem que a quantidade total de sementes a utilizar em misturas objecto da experiência não ultrapassa 1 000 toneladas por ano.\n\n2. Os Estados-Membros participantes garantem que as empresas declaram ao serviço referido no n.º 2, alínea c), do ponto I, do ponto A do anexo IV da Directiva 66/401/CEE a quantidade de misturas de sementes que pretendem produzir.\n\nUm Estado-Membro pode proibir a colocação no mercado de uma mistura de sementes se considerar que, tendo em conta o objectivo da experiência, não é adequada a colocação no mercado de quantidades adicionais da mistura de sementes em questão. Desse facto informa imediatamente a(s) empresa(s) envolvida(s)."
+  },
+  "727114a7bccd2605": {
+   "fragment_id": "Artigo 7.º — Monitorização",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Monitorização\n\nO serviço dos Estados-Membros participantes, tal como referido no n.º 2, alínea c) do ponto I, do ponto A do anexo IV da Directiva 66/401/CEE, monitoriza a experiência."
+  },
+  "58fd8ae2ce0d4f90": {
+   "fragment_id": "Artigo 8.º — Obrigação de apresentação de relatórios",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Obrigação de apresentação de relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Obrigação de apresentação de relatórios\n\n1. Os Estados-Membros participantes apresentam, para cada ano, até 31 de Março do ano seguinte, à Comissão e aos restantes Estados-Membros um relatório que inclua a lista de espécies utilizadas nas misturas objecto da experiência e a quantidade comercializada de cada uma destas misturas. Os Estados-Membros podem decidir incluir no relatório qualquer outra informação pertinente.\n\n2. No final da experiência e, em todo o caso, no final da respectiva participação, os Estados-Membros participantes apresentam, até 31 de Março do ano seguinte, à Comissão e aos restantes Estados-Membros um relatório que inclua a informação referida no ponto 3 do anexo II. O relatório pode incluir outra informação que considerem pertinente, tendo em conta o objectivo da experiência."
+  },
+  "2a2646e929d2dea8": {
+   "fragment_id": "Artigo 9.º — Duração",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Duração\n\nA experiência tem início em 1 de Junho de 2009 e termina em 31 de Maio de 2014."
+  },
+  "856c6a92be8db480": {
+   "fragment_id": "Artigo 10.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 9 de Fevereiro de 2009.\n\n***Pela Comissão***\n\n**Androulla VASSILIOU**\n\n***Membro da Comissão***\n\n---"
+  },
+  "fe516691a5659592": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/481e60f2-af18-46ee-8a4f-b113b12548a5.0018.03/DOC_1#ntc1-L_2009040PT.01002601-E0001) [JO 125 de 11.7.1966, p. 2298/66](http://publications.europa.eu/resource/oj/JOP_1966_125_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/481e60f2-af18-46ee-8a4f-b113b12548a5.0018.03/DOC_1#ntc2-L_2009040PT.01002601-E0002) [JO 125 de 11.7.1966, p. 2309/66](http://publications.europa.eu/resource/oj/JOP_1966_125_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/481e60f2-af18-46ee-8a4f-b113b12548a5.0018.03/DOC_1#ntc3-L_2009040PT.01002601-E0003) [JO L 193 de 20.7.2002, p. 33](http://publications.europa.eu/resource/oj/JOL_2002_193_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/481e60f2-af18-46ee-8a4f-b113b12548a5.0018.03/DOC_1#ntc4-L_2009040PT.01002601-E0004) [JO L 193 de 20.7.2002, p. 74](http://publications.europa.eu/resource/oj/JOL_2002_193_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/481e60f2-af18-46ee-8a4f-b113b12548a5.0018.03/DOC_1#ntc5-L_2009040PT.01002601-E0005) [JO L 193 de 20.7.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_193_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/481e60f2-af18-46ee-8a4f-b113b12548a5.0018.03/DOC_1#ntc6-L_2009040PT.01002601-E0006) [JO L 116 de 22.4.2004, p. 39](http://publications.europa.eu/resource/oj/JOL_2004_116_R_TOC)."
+  },
+  "99335298e898a7d4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Fevereiro de 2009\n\nrelativa à organização de uma experiência temporária sobre certas derrogações à comercialização de misturas de sementes destinadas a ser utilizadas como plantas forrageiras, ao abrigo da Directiva 66/401/CEE do Conselho, para determinar se algumas espécies não enumeradas nas Directivas do Conselho 66/401/CEE, 66/402/CEE, 2002/55/CE ou 2002/57/CE cumprem os requisitos para a sua inclusão no n.º 1, ponto A, do artigo 2.º da Directiva 66/401/CEE\n\n[notificada com o número C(2009) 724]\n\n(Texto relevante para efeitos do EEE)\n\n(2009/109/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 66/401/CEE do Conselho, de 14 de Junho de 1966, relativa à comercialização de sementes de plantas forrageiras ([^1^](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0001)), nomeadamente o artigo 13.º-A,\n\n(1) Os conhecimentos tradicionais dos agricultores combinados com os recentes resultados da investigação indicam que algumas espécies de *Leguminosae* e *Plantago lanceolata* não enumeradas nas Directivas do Conselho 66/401/CEE, 66/402/CEE ([^2^](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0002)), 2002/55/CE ([^3^](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0003)) ou 2002/57/CE ([^4^](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0004)) (a seguir designadas «legislação existente»), em especial quando utilizadas em misturas com espécies abrangidas pela legislação existente, são interessantes para a produção de forrageiras, permitindo uma alimentação equilibrada dos animais ao longo do ano, contribuindo simultaneamente para a reabilitação dos solos em terras não aráveis ou de culturas marginais. Encontram-se neste situação: *Biserrula pelecinus*, *Lotus glaber*, *Lotus uliginosus*, *Medicago italica*, *Medicago littoralis*, *Medicago murex*, *Medicago polymorpha*, *Medicago rugosa*, *Medicago scutelatta*, *Medicago truncatula*, *Ornithopus compressus*, *Ornithopus sativus*, *Plantago lanceolata*, *Trifolium fragiferum*, *Trifolium glanduliferum*, *Trifolium hirtum*, *Trifolium michelianum*, *Trifolium squarrosum*, *Trifolium subterraneum*, *Trifolium vesiculosum*, e *Vicia benghalensis* (a seguir designadas «espécies referidas no considerando 1»).\n\n(2) Em conformidade com o segundo travessão do n.º 1 do artigo 13.º da Directiva 66/401/CEE, apenas as sementes de plantas das espécies enumeradas na legislação existente, com excepção das variedades mencionadas no n.º 2 do artigo 4.º da Directiva 2002/53/CE do Conselho ([^5^](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0005)), podem ser comercializadas na Comunidade em misturas de sementes destinadas a ser utilizadas como plantas forrageiras. Na ausência da possibilidade de comercializar misturas contendo sementes das espécies referidas no considerando 1, os agricultores que pretendam utilizar essas espécies têm de as transportar e semear como espécies distintas ou, em determinados casos, preparar eles próprios misturas na exploração, o que envolve custos e trabalho suplementares. Além disso, existe um risco maior que as diferentes espécies incluídas na mistura sejam distribuídas de forma desigual no campo, visto que as misturas não são preparadas por profissionais.\n\n(3) No sentido de permitir às espécies referidas no considerando 1 serem comercializadas em tais misturas, seria necessário alterar o n.º 1, ponto A, do artigo 2.º da Directiva 66/401/CEE, incluindo aquelas espécies na disposição mencionada.\n\n(4) Para decidir sobre uma tal alteração ao n.º 1, ponto A, do artigo 2.º da Directiva 66/401/CEE, é necessário coligir informação sobre a comercialização de misturas contendo as espécies referidas no considerando 1. Nomeadamente, é necessário verificar se, sempre que aquelas espécies são utilizadas em misturas, é possível confirmar através de controlo oficial *a posteriori* que a percentagem de sementes de cada componente indicada no rótulo da embalagem corresponde à composição da mistura e se as misturas do mesmo lote são homogéneas em todas as embalagens comercializadas. Na ausência desta informação, seria impossível garantir aos utilizadores que as sementes de misturas contendo as espécies referidas no considerando 1 darão origem a resultados de alta qualidade.\n\n(5) Por conseguinte, é adequado organizar uma experiência temporária para verificar se as espécies referidas no considerando 1 cumprem os requisitos para serem incluídas no n.º 1, ponto A, do artigo 2.º da Directiva 66/401/CEE.\n\n(6) Os Estados-Membros que participem nesta experiência devem ser exonerados das obrigações definidas no segundo travessão do n.º 1 do artigo 13.º da Directiva 66/401/CEE, no que se refere às espécies referidas no considerando 1. Devem permitir, sob determinadas condições, a colocação no mercado de misturas contendo aquelas espécies.\n\n(7) Importa prever requisitos específicos para a certificação das espécies referidas no considerando 1, no sentido de garantir que as sementes destas espécies cumprem os mesmos requisitos em todos os Estados-Membros participantes. Estes requisitos devem ter por base as condições definidas nos sistemas da OCDE relativos à certificação varietal ou ao controlo das sementes objecto de comércio internacional (a seguir designados «sistemas da OCDE») ou nas normas nacionais do Estado-Membro em que a semente é produzida.\n\n(8) Para além das condições gerais previstas na Decisão 2004/371/CE da Comissão, de 20 de Abril de 2004, relativa às condições para a colocação no mercado de misturas de sementes destinadas a ser utilizadas como plantas forrageiras ([^6^](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0006)), devem ser definidas condições específicas para a comercialização de misturas objecto da experiência. As condições mencionadas devem garantir a recolha de informação suficiente para a avaliação da experiência. É, pois, necessário prever normas relativas à rotulagem, vigilância e notificação.\n\n(9) Tendo em conta a natureza experimental da medida prevista na presente decisão, deve ser fixada uma quantidade máxima para a comercialização de misturas de sementes, considerando a necessidade de testar diferentes misturas utilizando instalações existentes.\n\n(10) Para permitir aos Estados-Membros verificar que a quantidade máxima não é ultrapassada, as empresas que pretendam produzir tais misturas de sementes devem comunicar aos Estados-Membros em causa as quantidades que pretendem produzir. Os Estados-Membros devem dispor da possibilidade de proibir a comercialização de misturas de sementes sempre que considerem tal medida oportuna, tendo em conta a necessidade de testar diferentes misturas sem ultrapassar a quantidade máxima.\n\n(11) No sentido de permitir aos fornecedores a produção e comercialização de uma quantidade suficiente de sementes e de permitir às autoridades competentes a inspecção daquelas matérias e a recolha de dados suficientes e de informação comparável a utilizar na preparação do relatório, a experiência deve decorrer durante um período de, pelo menos, cinco campanhas de comercialização.\n\n(12) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "60bee599f6da596c": {
+   "fragment_id": "Artigo 1.º — Objeto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ organizada a nível da União uma experiência temporária para avaliar se as seguintes espécies: *Biserrula pelecinus, Lathyrus cicera, Lotus glaber, Lotus uliginosus, Medicago doliata, Medicago italica, Medicago littoralis, Medicago murex, Medicago polymorpha, Medicago rugosa, Medicago scutelatta, Medicago truncatula, Ornithopus compressus, Ornithopus sativus, Plantago lanceolata, Trifolium fragiferum, Trifolium glanduliferum, Trifolium hirtum, Trifolium isthmocarpum, Trifolium michelianum, Trifolium squarrosum, Trifolium subterraneum, Trifolium vesiculosum* e *Vicia benghalensis* (a seguir denominadas espécies referidas no artigo 1.º) podem ser comercializadas como ou em misturas de sementes, com o objetivo de decidir se algumas daquelas espécies, ou a sua totalidade, devem ser incluídas na lista de plantas forrageiras constante do artigo 2.º, n.º 1, ponto A, da Diretiva 66/401/CEE."
+  },
+  "b357de7e6ff8762b": {
+   "fragment_id": "Artigo 9.º — Duração",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Duração\n\nA experiência tem início em 1 de Junho de 2009 e termina em [**►M1**](http://publications.europa.eu/resource/celex/32014D0362) 31 de maio de 2016**◄**."
+  },
+  "5b56760d82f4ba87": {
+   "fragment_id": "Artigo 10.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente decisão."
+  },
+  "d4acb8063ffc7a88": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| Espécie | Capacidade germinativa mínima (% de semente pura [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0007)) | Pureza analítica específica (% do peso) | Teor máximo de grãos de outras espécies de plantas (% de peso) | Teor máximo de sementes de outras espécies de plantas em número numa amostra com o peso previsto na coluna 7 | Peso máximo de um lote (t) | Peso mínimo duma amostra a retirar de um lote (g) |\n| --- | --- | --- | --- | --- | --- | --- |\n| 1 | 2 | 3 | 4 | 5 | 6 | 7 |\n| *Biserrula pelecinus* | 70 (incluindo sementes duras) | 98 | 0,5 | [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0009) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0010) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0011) | 10 | 30 |\n| [▼M1](http://publications.europa.eu/resource/celex/32014D0362) |  |  |  |  |  |  |\n| *Lathyrus cicera* | 80 | 95 | 1,0 | (^c^) (^d^) (^e^) | 25 | 1 000 |\n| [▼B](http://publications.europa.eu/resource/celex/32009D0109) |  |  |  |  |  |  |\n| *Lotus uliginosus* | 75 (40) | 97 | 0,5 | [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0009) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0010) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0011) | 10 | 25 |\n| *Lotus glaber* | 75 (40) | 97 | 0,5 | [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0009) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0010) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0011) | 10 | 30 |\n| [▼M1](http://publications.europa.eu/resource/celex/32014D0362) |  |  |  |  |  |  |\n| *Medicago doliata* | 70 | 98 | 2,0 | (^c^) (^d^) (^e^) | 10 | 100 |\n| [▼B](http://publications.europa.eu/resource/celex/32009D0109) |  |  |  |  |  |  |\n| *Medicago murex* | 70 (30) | 98 | 2,0 | [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0009) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0010) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0011) | 10 | 50 |\n| *Medicago polymorpha* | 70 (30) | 98 | 2,0 | [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0009) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0010) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0011) | 10 | 70 |\n| *Medicago rugosa* | 70 (20) | 98 | 2,0 | [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0009) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0010) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0011) | 10 | 180 |\n| *Medicago scutellata* | 70 | 98 | 2,0 | [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0009) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0010) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0011) | 10 | 400 |\n| *Medicago italica* | 70 (20) | 98 | 2,0 | [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0009) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0010) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0011) | 10 | 100 |\n| *Medicago littoralis* | 70 | 98 | 2,0 | [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0009) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0010) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0011) | 10 | 70 |\n| *Medicago truncatula* | 70 (20) | 98 | 2,0 | [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0009) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0010) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0011) | 10 | 100 |\n| *Ornithopus compressus* | 75 (incluindo sementes duras) | 90 | 1,0 | [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0009) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0010) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0011) | 10 | 120 |\n| *Ornithopus sativus* | 75 (incluindo sementes duras) | 90 | 1,0 | [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0009) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0010) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0011) | 10 | 90 |\n| *Plantago lanceolata* | 75 | 85 | 1,5 | [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0009) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0010) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0011) | 5 | 20 |\n| *Trifolium fragiferum* | 70 | 98 | 1,0 | [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0009) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0010) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0011) | 10 | 40 |\n| *Trifolium glanduliferum* | 70 (30) | 98 | 1,0 | [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0009) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0010) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0011) | 10 | 20 |\n| *Trifolium hirtum* | 70 | 98 | 1,0 | [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0009) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0010) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0011) | 10 | 70 |\n| [▼M1](http://publications.europa.eu/resource/celex/32014D0362) |  |  |  |  |  |  |\n| *Trifolium isthmocarpum* | 70 (incluindo sementes duras) | 98 | 1,0 | (^c^) (^d^) (^e^) | 10 | 100 |\n| [▼B](http://publications.europa.eu/resource/celex/32009D0109) |  |  |  |  |  |  |\n| *Trifolium. michelianum* | 75 (30) | 98 | 1,0 | [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0009) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0010) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0011) | 10 | 25 |\n| *Trifolium squarrosum* | 75 (20) | 97 | 1,5 | [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0009) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0010) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0011) | 10 | 150 |\n| *Trifolium subterraneum* | 80 (40) | 97 | 0,5 | [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0009) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0010) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0011) | 10 | 250 |\n| *Trifolium vesiculosum* | 70 (incluindo sementes duras) | 98 | 1,0 | [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0009) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0010) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0011) | 10 | 100 |\n| *Vicia benghalensis* | 80 (20) | 97 [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0008) | 1,0 | [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0009) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0010) [()](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#E0011) | 20 | 1 000 |\n| (^1^)Até ao teor máximo indicado, as sementes duras são consideradas sementes susceptíveis de germinação. (^2^)Um teor máximo total de 6 % em peso de sementes de *Vicia pannonica* e *Vicia villosa* ou de espécies cultivadas semelhantes a uma outra espécie correspondente, não é considerado impureza. (^3^)Não devem estar presentes sementes de *Avena fatua* e *Avena sterilis* numa amostra com o peso prescrito. (^4^)A presença de uma semente de *Cuscuta* spp. numa amostra com o dobro do peso fixado não é considerada impureza, se uma segunda amostra com um peso igual ao dobro do peso fixado não contiver sementes de *Cuscuta* spp. (^5^)A presença de sementes de *Rumex* spp., com excepção de *Rumex acetosella* e *Rumex maritimus*, não deve exceder 10 numa amostra com o peso prescrito. |  |  |  |  |  |  |"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "46be640468bef52b": {
+   "fragment_id": "CONDIÇÕES DA EXPERIÊNCIA",
+   "type": "divisao",
+   "heading": "CONDIÇÕES DA EXPERIÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONDIÇÕES DA EXPERIÊNCIA"
+  },
+  "c5527f860c9c15f3": {
+   "fragment_id": "1. Condições relativas às sementes das espécies referidas no artigo 1.º",
+   "type": "divisao",
+   "heading": "1. Condições relativas às sementes das espécies referidas no artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Condições relativas às sementes das espécies referidas no artigo 1.º\n\na) A inspecção de campo será efectuada de acordo com os sistemas da OCDE, sempre que a espécie seja abrangida por aqueles sistemas ou, em caso contrário, em conformidade com as normas nacionais do Estado-Membro onde são produzidas as sementes.\n\nb) Os Estados-Membros garantem que todos os lotes de sementes são sujeitos a inspecção de campo, amostragem e análise das sementes, em conformidade com a Directiva 66/401/CEE, antes da mistura, quer oficialmente quer sob supervisão oficial."
+  },
+  "386a1776cde7cc97": {
+   "fragment_id": "2. Condições relativas às misturas objecto da experiência",
+   "type": "divisao",
+   "heading": "2. Condições relativas às misturas objecto da experiência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Condições relativas às misturas objecto da experiência\n\na) São colhidas aleatoriamente amostras de sementes de lotes de misturas de sementes objecto da experiência por amostradores oficiais de sementes. Estas amostras serão utilizadas como amostras de controlo para verificar a composição das misturas objecto da experiência, em conformidade com o artigo 4.º da Decisão 2004/371/CE.\n\nb) Para além da informação exigida pela Directiva 66/401/CEE e pela Decisão 2004/371/CE, o rótulo oficial tem de incluir a seguinte informação:\n\ni) a designação botânica de todas as espécies referidas no artigo 1.º (incluindo, se oportuno, as variedades) incluídas na mistura objecto da experiência,\n\nii) a composição percentual por peso de cada um dos componentes por espécie referidas no artigo 1.º e, se oportuno, por variedade,\n\niii) uma referência à presente decisão."
+  },
+  "7a2b99840a570fdb": {
+   "fragment_id": "3. Informações a registar",
+   "type": "divisao",
+   "heading": "3. Informações a registar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Informações a registar\n\na) Nome das espécies (incluindo, se oportuno, as variedades) utilizadas nas misturas objecto da experiência;\n\nb) Quantidade de cada mistura de sementes objecto da experiência colocada no mercado durante o período autorizado e o Estado-Membro para o qual se destinou a mistura de sementes;\n\nc) Composição das misturas objecto da experiência;\n\nd) Procedimentos (normas) seguidos para a certificação das espécies referidas no artigo 1.º (sistemas da OCDE ou normas nacionais);\n\ne) Resultados da inspecção de campo e dos testes laboratoriais para a certificação das espécies referidas no artigo 1.º, sempre que os Estados-Membros os efectuem;\n\nf) Informação sobre as importações ao abrigo dos sistemas da OCDE, nomeadamente, quantidade, composição das misturas de sementes objecto da experiência, país de origem e rotulagem;\n\ng) Resultados dos testes efectuados, em conformidade com as alíneas a) e b) do n.º 2, em amostras de controlo;\n\nh) Uma análise de custo/benefício a utilizar em apoio ou não do objectivo da experiência.\n\n---"
+  },
+  "4c3d689f0c8dced0": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#src.E0001)) JO 125 de 11.7.1966, p. 2298/66.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#src.E0002)) JO 125 de 11.7.1966, p. 2309/66.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#src.E0003)) JO L 193 de 20.7.2002, p. 33.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#src.E0004)) JO L 193 de 20.7.2002, p. 74.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#src.E0005)) JO L 193 de 20.7.2002, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/6c953548-936a-4e24-bea6-8508bf8e1418.0015.02/DOC_1#src.E0006)) JO L 116 de 22.4.2004, p. 39."
+  }
+ }
+}

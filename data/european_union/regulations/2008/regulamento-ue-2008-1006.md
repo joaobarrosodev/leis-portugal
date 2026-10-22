@@ -36,6 +36,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2008-1006.versoes.json
+  count: 1
+  source_lastmod: '2018-01-17'
+  versions:
+  - date: '2008-10-29'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32008R1006
   eli: http://data.europa.eu/eli/reg/2008/1006/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0f134c9d-7069-49e6-aad7-da13020efa28.0018
   content_url: http://publications.europa.eu/resource/cellar/0f134c9d-7069-49e6-aad7-da13020efa28.0018.02/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T03:13:47Z'
+  retrieved_at: '2026-10-22T15:19:53Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-29T13:48:37.939+01:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:13:47Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:19:53Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2008-1006.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -134,21 +143,21 @@ relationships:
   date: '1994-12-31'
 article_structure:
   article_count: 30
-  section_count: 20
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 21
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:13:47Z'
+  checked_at: '2026-10-22T15:19:53Z'
   warnings:
-  - Versão consolidada 02008R1006-20180117 indisponível (Sem expressão na língua por para CELEX 02008R1006-20180117.); usado
-    o texto do JO.
+  - '02008R1006-20081118: versão indisponível (Sem expressão na língua por para CELEX 02008R1006-20081118.)'
+  - '02008R1006-20180117: versão indisponível (Sem expressão na língua por para CELEX 02008R1006-20180117.)'
   errors: []
 ---
 
-# REGULAMENTO (CE) N.º 1006/2008 DO CONSELHO
+# Regulamento (CE) n. o 1006/2008 do Conselho, de 29 de Setembro de 2008
 
 de 29 de Setembro de 2008
 

@@ -28,7 +28,9 @@ publication:
 entry_into_force_dates: []
 end_of_validity_date: null
 legal_status: in_force
-notes: []
+notes:
+- 'Fonte sem texto: o DRE lista este diploma como consolidado mas não tem texto consolidado em nenhuma data (verificado em
+  2026-10-22).'
 language: por
 version:
   kind: original

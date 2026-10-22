@@ -35,6 +35,248 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-08'
+version_history:
+  file: regulamento-ue-2008-440.versoes.json
+  count: 6
+  source_lastmod: '2026-01-08'
+  versions:
+  - date: '2008-05-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-03-22'
+    amending: eu:celex:32009R0761:por
+    amending_title: REGULAMENTO (CE) N. o 761/2009 DA COMISSÃO de 23 de Julho de 2009; REGULAMENTO (UE) N. o 1152/2010 DA
+      COMISSÃO de 8 de Dezembro de 2010; REGULAMENTO (UE) N. o 640/2012 DA COMISSÃO de 6 de julho de 2012; REGULAMENTO (UE)
+      N. o 260/2014 DA COMISSÃO de 24 de janeiro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Notas
+    - Adita ANEXO
+    - 'Adita PARTE A: MÉTODOS PARA A DETERMINAÇÃO DAS PROPRIEDADES FÍSICO-QUÍMICAS'
+    - Adita A.1. TEMPERATURA DE FUSÃO/CONGELAÇÃO
+    - Adita 1. MÉTODO
+    - Adita 1.1. INTRODUÇÃO
+    - Adita 1.2. DEFINIÇÕES E UNIDADES
+    - Adita 1.3. SUBSTÂNCIAS DE REFERÊNC1A
+    - Adita 1.4. PRINCÍPIO DO MÉTODO DE ENSAIO
+    - Adita 1.4.1. Método capilar
+    - Adita 1.4.1.1. Dispositivos para a determinação da temperatura de fusão, com banho líquido
+    - Adita 1.4.1.2. Dispositivos para a determinação da temperatura de fusão, com bloco metálico
+    - Adita 1.4.1.3. Detecção por célula fotoeléctrica
+    - Adita 1.4.2. Fases quentes
+    - Adita 1.4.2.1. Barra quente de Kofler
+    - Adita 1.4.2.2. Microscópio de fusão
+    - Adita 1.4.2.3. Método do menisco
+    - Adita 1.4.3. Método para determinar a temperatura de congelação
+    - Adita 1.4.4. Análise térmica
+    - Adita 1.4.4.1. Análise térmica diferencial (ATD)
+    - Adita 1.4.4.2. Calorimetria de exploração diferencial (CED)
+    - Adita 1.4.5. Ponto de fluidez
+    - Adita 1.5. CRITÉRIOS DE QUALIDADE
+    - Adita 1.6. DESCRIÇÃO DOS MÉTODOS
+    - Adita 1.6.1. Métodos com tubo capilar
+    - Adita 1.6.1.1. Dispositivos para a determinação da temperatura de fusão com aparelho de banho líquido
+    - Adita 1.6.1.2. Dispositivos para a determinação da temperatura de fusão, com bloco metálico
+    - Adita 1.6.1.3. Detecção por célula fotoeléctrica
+    - Adita 1.6.2. Fases quentes
+    - Adita 1.6.2.1. Barra quente de Kofler
+    - Adita 1.6.2.2. Microscópio de fusão
+    - Adita 1.6.2.3. Método do menisco (poliamidas)
+    - Adita 1.6.3. Métodos para a determinação da temperatura de congelação
+    - Adita 1.6.4. Análise térmica
+    - Adita 1.6.4.1. Análise térmica diferencial
+    - Adita 1.6.4.2. Calorimetria de exploração diferencial
+    - Adita 1.6.5. Determinação do ponto de fluidez
+    - Adita 2. RESULTADOS
+  - date: '2019-10-16'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - 'Altera PARTE C: MÉTODOS PARA A DETERMINAÇÃO DA ECOTOXICIDADE'
+    - Adita PARTE I. CONSIDERAÇÕES GERAIS — I.1. INTRODUÇÃO
+    - Adita PARTE II. ENSAIO DA REDUÇÃO GRADUAL DO COD (método C.4-A) — II.1. PRINCÍPIO DO MÉTODO
+    - Adita PARTE III. TESTE DE DESPISTE DA OCDE MODIFICADO (método C.4-B) — III.1. PRINCÍPIO DO MÉTODO
+    - Adita PARTE IV. ENSAIO DA LIBERTAÇÃO DE CO2 (método C.4-C) — IV.1. PRINCÍPIO DO MÉTODO
+    - Adita PARTE V. ENSAIO DE RESPIROMETRIA MANOMÉTRICA (método C.4-D) — V.1. PRINCÍPIO DO MÉTODO
+    - Adita PARTE VI. ENSAIO EM FRASCO FECHADO (métodoC.4-E) — VI.1. PRINCÍPIO DO MÉTODO
+    - Adita PARTE VII. ENSAIO DE MITI (método C.4-F) — VII.1. PRINCÍPIO DO MÉTODO
+    - 'Adita Capítulo C.4 deste anexo: "Determinação da biodegradabilidade "fácil''".'
+    - 'Adita Capítulo C.12 deste anexo: "Biodegradação - Ensaio L.A.S.C. modificado".'
+    - Adita Capítulo C.4 deste anexo:"Determinação da biodegradabilidade 'fácil' ". — Apêndice 6
+    - 'Adita Capítulo C.4 deste anexo: "Determinação da Biodegradabilidade ''Fácil'', A-F".'
+    - 'Adita Capítulo C.13 do presente anexo: Bioconcentração: ensaio dinâmico com peixe. — Capítulo A.6 do presente anexo:
+      Solubilidade em água'
+    - 'Adita Capítulo C.7 do presente anexo: Hidrólise em função do pH.'
+    - 'Adita Capítulo A.5 do presente anexo: Tensão superficial de soluções aquosas.'
+    - 'Adita Capítulo A.4 do presente anexo: Pressão de vapor. — Capítulo C.4 do presente anexo: Biodegradabilidade «fácil»'
+    - 'Adita Capítulo C.14 do presente anexo: Ensaio de crescimento juvenil em peixe.'
+    - 'Adita Capítulo C.20 do presente anexo: Ensaio sobre a reprodução da Daphnia magna.'
+    - Adita SECÇÃO DE EQUAÇÕES PARA O ENSAIO DE EXPOSIÇÃO POR VIA ALIMENTAR
+    - 'Adita Capítulo C.8 deste anexo: Toxicidade em relação às minhocas.'
+    - 'Adita Capítulo C.4 deste anexo: "Determinação da biodegradabilidade ''fácil''".'
+    - Adita Capítulo C.8 deste anexo — Toxicidade em relação às minhocas.
+    - 'Adita Capítulo C.13 deste anexo — Bioconcentração: ensaio dinâmico com peixe.'
+    - 'Adita Capítulo C.20 deste anexo: Ensaio de reprodução com Daphnia magna.'
+    - 'Adita Capítulo C.4 do presente anexo: Biodegradabilidade rápida.'
+    - 'Adita Capítulo C.2 do presente anexo: Daphnia sp., Acute Immobilistaion Test.'
+    - Adita Capítulo C.41 do presente anexo, Ensaio de desenvolvimento sexual em peixes.
+    - Adita Capítulo C.48 do presente anexo, Ensaio de reprodução a curto prazo em peixes.
+    - 'Adita Capítulo C.4 do presente anexo: Ensaio de biodegradabilidade fácil.'
+    - Adita Capítulo C.38 do presente anexo, Ensaio da Metamorfose dos Anfíbios.
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime ANEXO
+    - 'Suprime PARTE A: MÉTODOS PARA A DETERMINAÇÃO DAS PROPRIEDADES FÍSICO-QUÍMICAS'
+    - Suprime A.1. TEMPERATURA DE FUSÃO/CONGELAÇÃO
+    - Suprime 1. MÉTODO
+    - Suprime 1.1. INTRODUÇÃO
+  - date: '2023-03-26'
+    amending: eu:celex:32014R0900:por
+    amending_title: REGULAMENTO (UE) N. o 900/2014 DA COMISSÃO de 15 de julho de 2014; REGULAMENTO (UE) 2016/266 DA COMISSÃO
+      de 7 de dezembro de 2015; REGULAMENTO (UE) 2017/735 DA COMISSÃO de 14 de fevereiro de 2017; REGULAMENTO (UE) 2019/1390
+      DA COMISSÃO de 31 de julho de 2019; REGULAMENTO (UE) 2023/464 DA COMISSÃO de 3 de março de 2023
+    changes:
+    - Altera preambulo
+    - 'Altera PARTE C: MÉTODOS PARA A DETERMINAÇÃO DA ECOTOXICIDADE'
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita ANEXO
+    - Adita PARTE 0
+    - Adita MÉTODOS DE ENSAIO INTERNACIONAIS RECONHECIDOS COMO ADEQUADOS PARA PRODUZIR INFORMAÇÕES SOBRE AS PROPRIEDADES INTRÍNSECAS
+      DAS SUBSTÂNCIAS PARA EFEITOS DO REGULAMENTO (CE) N.º 1907/2006
+    - 'Adita QUADRO 1: MÉTODOS DE ENSAIO PARA A DETERMINAÇÃO DAS PROPRIEDADES FÍSICO-QUÍMICAS DA SUBSTÂNCIA'
+    - 'Adita QUADRO 2: MÉTODOS DE ENSAIO PARA A DETERMINAÇÃO DAS PROPRIEDADES TOXICOLÓGICAS'
+    - 'Adita QUADRO 3: MÉTODOS DE ENSAIO PARA A DETERMINAÇÃO DAS PROPRIEDADES ECOTOXICOLÓGICAS'
+    - 'Adita PARTE A: MÉTODOS PARA A DETERMINAÇÃO DAS PROPRIEDADES FÍSICO-QUÍMICAS'
+    - Adita A.1. TEMPERATURA DE FUSÃO/CONGELAÇÃO
+    - Adita 1. MÉTODO
+    - Adita 2. RESULTADOS
+    - Adita 3. RELATÓRIO
+    - Adita 4. REFERÊNCIAS
+    - Adita Apêndice
+    - 'Adita Para pormenores técnicos adicionais é possível consultar, por exemplo, as normas seguintes:'
+    - Adita A.2. TEMPERATURA DE EBULIÇÃO
+    - Adita 2. RESU LTADOS
+    - Adita A.3. DENSIDADE RELATIVA
+    - Adita A.4. PRESSÃO DE VAPOR
+    - Adita A.5. TENSÃO SUPERFICIAL
+    - Adita A.6. SOLUBILIDADE EM ÁGUA
+    - Adita INTRODUÇÃO
+    - Adita CONSIDERAÇÕES INICIAIS
+    - Adita DEFINIÇÕES E UNIDADES
+    - Adita PRODUTOS QUÍMICOS DE REFERÊNCIA
+    - Adita DESCRIÇÃO DOS MÉTODOS
+    - Adita DADOS E RELATÓRIOS
+    - Adita REFERÊNCIAS
+    - Adita A.8 COEFICIENTE DE PARTIÇÃO
+    - Adita A.9. PONTO DE INFLAMAÇÃO
+    - Adita A.10. INFLAMABILIDADE (SÓLIDOS)
+    - Adita A.11. INFLAMABILIDADE (GASES)
+    - Adita A.12. INFLAMABILIDADE (CONTACTO COM ÁGUA)
+    - Adita A.13 PROPRIEDADES PIROFÓRICAS DE SÓLIDOS E LÍQUIDOS
+    - Adita A.14. PROPRIEDADES EXPLOSIVAS
+  - date: '2024-10-14'
+    amending: eu:celex:32024R2492:por
+    amending_title: REGULAMENTO (UE) 2024/2492 DA COMISSÃO de 23 de setembro de 2024
+    changes:
+    - 'Altera QUADRO 2: MÉTODOS DE ENSAIO PARA A DETERMINAÇÃO DAS PROPRIEDADES TOXICOLÓGICAS'
+    - 'Altera QUADRO 3: MÉTODOS DE ENSAIO PARA A DETERMINAÇÃO DAS PROPRIEDADES ECOTOXICOLÓGICAS'
+    - Altera 1. MÉTODO
+    - Altera DESCRIÇÃO DO MÉTODO
+    - Altera MÉTODO — INTRODUÇÃO, FINALIDADE, ÂMBITO, PERTINÊNCIA, APLICAÇÃO E LIMITES DO ENSAIO
+    - Altera DEMONSTRAÇÃO DE COMPETÊNCIA
+    - Altera B.49. ENSAIO IN VITRO DE MICRONÚCLEOS EM CÉLULAS DE MAMÍFEROS
+    - Altera Exemplo 1
+    - Altera Exemplo 2
+    - Altera Exemplo 3
+    - Altera B.57. ENSAIO DE ESTEROIDOGÉNESE H295R
+    - Altera REALIZAÇÃO DO ENSAIO
+    - Altera COMPONENTES DO ENSAIO DE FIXAÇÃO HRER
+    - Altera Apêndice 3.2
+    - Altera EXEMPLOS DE ÁGUA RECONSTITUÍDA ADEQUADA PARA O ENSAIO
+    - Altera PARTE II. ENSAIO DA REDUÇÃO GRADUAL DO COD (método C.4-A)
+    - Altera PARTE III. TESTE DE DESPISTE DA OCDE MODIFICADO (método C.4-B)
+    - Altera PARTE IV. ENSAIO DA LIBERTAÇÃO DE CO2 (método C.4-C)
+    - Altera PARTE V. ENSAIO DE RESPIROMETRIA MANOMÉTRICA (método C.4-D)
+    - Altera PARTE VI. ENSAIO EM FRASCO FECHADO (métodoC.4-E)
+    - Altera PARTE VII. ENSAIO DE MITI (método C.4-F)
+    - Altera Definições e unidades
+    - Altera Sistemas-tampão
+    - Altera MÉTODO DE ENSAIO
+    - Altera CALENDÁRIO DE AMOSTRAGEM PARA ESTUDOS QUE SEGUEM A CONCEÇÃO MINIMIZADA
+    - Altera Séries logarítmicas de concentrações apropriadas para ensaio de toxicidade (9)
+    - Altera TEORES DE HUMIDADE DO SOLO (g de água por 100 g de solo seco) DE VÁRIOS TIPOS DE SOLOS PROVENIENTES DE DIFERENTES
+      PAÍSES
+    - Altera C.27. ENSAIO DE TOXICIDADE EM QUIRONOMÍDEOS NUM SISTEMA SEDIMENTOS-ÁGUA COM SEDIMENTOS ENRIQUECIDOS
+    - Altera C.28. ENSAIO DE TOXICIDADE EM QUIRONOMÍDEOS NUM SISTEMA SEDIMENTOS-ÁGUA COM ÁGUA ENRIQUECIDA
+    - Altera REPRODUTIBILIDADE
+    - Altera PLANEAMENTO DO ENSAIO
+    - Altera Apêndice 5B
+    - Altera Apêndice 11
+    - Altera MÉTODO DO BALÃO AGITADO
+    - Altera MÉTODO DO FRASCO FECHADO
+    - Altera REPRODUTIBILIDADE DOS RESULTADOS DO ENSAIO
+    - Altera C.52. ENSAIO ALARGADO DE REPRODUÇÃO NUMA GERAÇÃO EM PEIXE DO ARROZ-JAPONÊS (MEOGRT)
+    - Altera CRITÉRIOS DE VALIDADE DO ENSAIO
+    - Altera CONCEÇÃO DO ENSAIO
+    - Altera DADOS E RELATÓRIO
+  - date: '2026-01-08'
+    amending: eu:celex:32025R2573:por
+    amending_title: REGULAMENTO (UE) 2025/2573 DA COMISSÃO de 18 de dezembro de 2025
+    changes:
+    - 'Altera QUADRO 1: MÉTODOS DE ENSAIO PARA A DETERMINAÇÃO DAS PROPRIEDADES FÍSICO-QUÍMICAS DAS SUBSTÂNCIAS'
+    - 'Altera QUADRO 2: MÉTODOS DE ENSAIO PARA A DETERMINAÇÃO DAS PROPRIEDADES TOXICOLÓGICAS'
+    - 'Altera QUADRO 3: MÉTODOS DE ENSAIO PARA A DETERMINAÇÃO DAS PROPRIEDADES ECOTOXICOLÓGICAS'
+    - Altera 1. MÉTODO
+    - Altera A.13 PROPRIEDADES PIROFÓRICAS DE SÓLIDOS E LÍQUIDOS
+    - Altera DESCRIÇÃO DO MÉTODO
+    - Altera MÉTODO — INTRODUÇÃO, FINALIDADE, ÂMBITO, PERTINÊNCIA, APLICAÇÃO E LIMITES DO ENSAIO
+    - Altera FLUXOGRAMA PARA O ESTUDO DE DETERMINAÇÃO DE AMPLITUDE
+    - Altera FLUXOGRAMA PARA O ESTUDO PRINCIPAL
+    - Altera Orientações sobre a classificação em conformidade com o esquema transitório da UE, válido até à implementação
+      total do Sistema de Classificação Harmonizado a Nível Mundial (GHS) (obtido da referência (8))
+    - Altera PROCEDIMENTO A SEGUIR PARA CADA UMA DAS DOSES INICIAIS
+    - 'Altera MÉTODO DE ENSAIO B.l.tris: Orientações sobre a classificação em conformidade com o esquema transitório da UE
+      em vigor até à implementação total do Sistema de Classificação Harmonizado a Nível Mundial (GHS) [obtido da referência
+      (8)]'
+    - Altera B.2. TOXICIDADE AGUDA POR INALAÇÃO
+    - Altera PROCEDIMENTO
+    - Altera DEMONSTRAÇÃO DE COMPETÊNCIA
+    - Altera Exemplo de esquema de dispositivo tipicamente utilizado para definir e proteger o local de aplicação cutânea
+      nos estudos de absorção percutânea in vivo
+    - Altera Exemplo de esquema típico de uma célula de difusão estática para estudos de absorção percutânea in vitro
+    - Altera CONDIÇÕES DE EXPOSIÇÃO
+    - Altera MONITORIZAÇÃO DAS CONDIÇÕES DE EXPOSIÇÃO
+    - Altera EXAMES
+    - Altera Apêndice 2a
+    - Altera Apêndice 2b
+    - Altera Apêndice 2c
+    - Altera Apêndice 2d
+    - Altera Apêndice 3a
+    - Altera Apêndice 3b
+    - Altera Apêndice 3c
+    - Altera Apêndice 3d
+    - Altera Apêndice 4a
+    - Altera Apêndice 4b
+    - Altera Apêndice 4c
+    - Altera Apêndice 4d
+    - Altera Diagrama de resumo dos ensaios funcionais e comportamentais, da avaliação neuropatológica e da pesagem cerebral.
+      Baseia-se na descrição constante dos pontos 13 a 15. O apêndice 1 contém exemplos da repartição dos animais
+    - Altera Exemplo 1
+    - Altera Exemplo 2
+    - Altera Exemplo 3
+    - Altera ORIENTAÇÕES PARA INTERPRETAÇÃO E ACEITAÇÃO DOS RESULTADOS
+    - Altera REALIZAÇÃO DO ENSAIO
+    - Altera B.70. ENSAIOS IN VITRO DE RECETOR DE ESTROGÉNIO HUMANO RECOMBINANTE PARA DETEÇÃO DE PRODUTOS QUÍMICOS COM AFINIDADE
+      LIGANTE COM O ER
+    - Altera EXEMPLOS DE ÁGUA RECONSTITUÍDA ADEQUADA PARA O ENSAIO
 identifiers:
   celex: 32008R0440
   eli: http://data.europa.eu/eli/reg/2008/440/oj
@@ -49,7 +291,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0285a46f-374f-44a5-a14c-aff9f4a82384.0018
   content_url: http://publications.europa.eu/resource/cellar/a8ec786a-0110-11f1-825d-01aa75ed71a1.0017.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0440-20260108
-  retrieved_at: '2026-10-22T02:48:20Z'
+  retrieved_at: '2026-10-22T15:25:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-11-10T07:32:29.936+01:00'
 integrity:
@@ -58,9 +300,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:20Z'
-  notes: Texto consolidado 02008R0440-20260108.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:25:29Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2008-440.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -190,39 +432,25 @@ relationships:
   date: '2019-03-28'
 article_structure:
   article_count: 4
-  section_count: 1025
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1026
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:20Z'
-  warnings: []
+  checked_at: '2026-10-22T15:25:29Z'
+  warnings:
+  - '02008R0440-20090827: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0440-20101212: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0440-20120723: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02008R0440-20140824: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02008R0440-20160304: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02008R0440-20170518: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 440/2008 da Comissão, de 30 de Maio de 2008
-
-> 02008R0440 — PT — 08.01.2026 — 011.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009R0761) — [REGULAMENTO (CE) N.º 761/2009 DA COMISSÃO de 23 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0761) — L 220 — 1 — 24.8.2009
-- [M2](http://publications.europa.eu/resource/celex/32010R1152) — [REGULAMENTO (UE) N.º 1152/2010 DA COMISSÃO de 8 de Dezembro de 2010](http://publications.europa.eu/resource/celex/32010R1152) — L 324 — 13 — 9.12.2010
-- [►M3](http://publications.europa.eu/resource/celex/32012R0640) — [REGULAMENTO (UE) N.º 640/2012 DA COMISSÃO de 6 de julho de 2012](http://publications.europa.eu/resource/celex/32012R0640) — L 193 — 1 — 20.7.2012
-- [►M4](http://publications.europa.eu/resource/celex/32014R0260) — [REGULAMENTO (UE) N.º 260/2014 DA COMISSÃO de 24 de janeiro de 2014](http://publications.europa.eu/resource/celex/32014R0260) — L 81 — 1 — 19.3.2014
-- [►M5](http://publications.europa.eu/resource/celex/32014R0900) — [REGULAMENTO (UE) N.º 900/2014 DA COMISSÃO de 15 de julho de 2014](http://publications.europa.eu/resource/celex/32014R0900) — L 247 — 1 — 21.8.2014
-- [►M6](http://publications.europa.eu/resource/celex/32016R0266) — [REGULAMENTO (UE) 2016/266 DA COMISSÃO de 7 de dezembro de 2015](http://publications.europa.eu/resource/celex/32016R0266) — L 54 — 1 — 1.3.2016
-- [►M7](http://publications.europa.eu/resource/celex/32017R0735) — [REGULAMENTO (UE) 2017/735 DA COMISSÃO de 14 de fevereiro de 2017](http://publications.europa.eu/resource/celex/32017R0735) — L 112 — 1 — 28.4.2017
-- [►M8](http://publications.europa.eu/resource/celex/32019R1390) — [REGULAMENTO (UE) 2019/1390 DA COMISSÃO de 31 de julho de 2019](http://publications.europa.eu/resource/celex/32019R1390) — L 247 — 1 — 26.9.2019
-- [►M9](http://publications.europa.eu/resource/celex/32023R0464) — [REGULAMENTO (UE) 2023/464 DA COMISSÃO de 3 de março de 2023](http://publications.europa.eu/resource/celex/32023R0464) — L 68 — 37 — 6.3.2023
-- [►M10](http://publications.europa.eu/resource/celex/32024R2492) — [REGULAMENTO (UE) 2024/2492 DA COMISSÃO de 23 de setembro de 2024](http://publications.europa.eu/resource/celex/32024R2492) — L 2492 — 1 — 24.9.2024
-- [►M11](http://publications.europa.eu/resource/celex/32025R2573) — [REGULAMENTO (UE) 2025/2573 DA COMISSÃO de 18 de dezembro de 2025](http://publications.europa.eu/resource/celex/32025R2573) — L 2573 — 1 — 19.12.2025
-
-## REGULAMENTO (CE) N.º 440/2008 DA COMISSÃO
 
 de 30 de Maio de 2008
 

@@ -36,6 +36,146 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-08-24'
+version_history:
+  file: regulamento-ue-2008-1234.versoes.json
+  count: 6
+  source_lastmod: '2026-08-24'
+  versions:
+  - date: '2008-12-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-11-02'
+    amending: eu:celex:32012R0712:por
+    amending_title: REGULAMENTO (UE) N. o 712/2012 DA COMISSÃO de 3 de agosto de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Classificação das alterações
+    - Altera Artigo 4.º — Orientações
+    - Altera Artigo 5.º — Recomendação relativa a alterações não previstas
+    - Altera Artigo 7.º — Agrupamento de alterações
+    - Altera Artigo 9.º — Procedimento de notificação de alterações menores de tipo IB
+    - Altera Artigo 10.º — Procedimento de «aprovação prévia» de alterações maiores de tipo II
+    - Altera Artigo 12.º — Vacinas contra a gripe humana
+    - Altera Artigo 15.º — Procedimento de notificação de alterações menores de tipo IB
+    - Altera Artigo 16.º — Procedimento de «aprovação prévia» de alterações maiores de tipo II
+    - Altera Artigo 17.º — Medidas de conclusão dos procedimentos previstos nos artigos 14.º a 16.º
+    - Altera Artigo 18.º — Vacinas contra a gripe humana
+    - Altera Artigo 21.º — Situação de pandemia relacionada com a gripe humana
+    - Altera Artigo 22.º — Restrições urgentes de segurança
+    - Altera Artigo 23.º — Modificação da decisão que concede a autorização de introdução no mercado
+    - Altera Artigo 28.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 23.º-A
+    - Adita Artigo 24.º — Execução das alterações
+    - Adita ANEXO I
+    - Adita Extensões das autorizações de introdução no mercado
+    - Adita ANEXO II
+    - Adita Classificação das alterações
+    - Adita ANEXO III
+    - Adita Casos que justificam o agrupamento de alterações previsto no artigo 7.º, n.º 2, alínea b)
+    - Adita ANEXO IV
+    - Adita Elementos a apresentar
+    - Adita ANEXO V
+    - 'Adita PARTE 1:'
+    - 'Adita PARTE 2:'
+    - Suprime Artigo 24.º — Aplicação das alterações
+  - date: '2013-08-04'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 20.º — Procedimento de partilha de trabalho
+    - Altera Artigo 21.º — Situação de pandemia relacionada com a gripe humana
+    - Altera Artigo 23.º — Modificação da decisão que concede a autorização de introdução no mercado
+    - Altera Extensões das autorizações de introdução no mercado
+    - Altera Elementos a apresentar
+    - Altera Notas
+    - Adita CAPÍTULO II-A
+    - Adita ALTERAÇÕES DE AUTORIZAÇÕES DE INTRODUÇÃO NO MERCADO EXCLUSIVAMENTE NACIONAIS
+    - Adita Artigo 13.º-A — Procedimento de notificação de alterações menores de tipo IA
+    - Adita Artigo 13.º-B — Procedimento de notificação de alterações menores de tipo IB
+    - Adita Artigo 13.º-C — Procedimento de «aprovação prévia» de alterações maiores de tipo II
+    - Adita Artigo 13.º-D — Agrupamento de alterações de autorizações de introdução no mercado exclusivamente nacionais
+    - Adita Artigo 13.º-E — Medidas de conclusão dos procedimentos previstos nos artigos 13.º-A a 13.º-C
+    - Adita Artigo 13.º-F — Vacinas contra a gripe humana
+    - Adita Artigo 24.º-A — Aplicação de disposições nacionais relativas a alterações às autorizações de introdução no mercado
+      exclusivamente nacionais
+    - Adita Casos que justificam o agrupamento de alterações previsto no artigo 7.º, n.º 2, alínea b), e no artigo 13.º-D,
+      n.º 2, alínea d)
+    - Adita ANEXO VI
+    - Adita Lista de Estados-Membros referidos no artigo 24.º-A
+    - Suprime Casos que justificam o agrupamento de alterações previsto no artigo 7.º, n.º 2, alínea b)
+  - date: '2021-05-13'
+    amending: eu:celex:32021R0756:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/756 DA COMISSÃO de 24 de março de 2021
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 23.º — Modificação da decisão que concede a autorização de introdução no mercado
+    - Altera Extensões das autorizações de introdução no mercado
+    - Altera Classificação das alterações
+    - Altera Elementos a apresentar
+    - Altera Lista de Estados-Membros referidos no artigo 24.º-A
+    - Altera Notas
+    - Adita Artigo 21.º — Situação de pandemia relacionada com a gripe humana e com o coronavírus humano
+    - Suprime Artigo 21.º — Situação de pandemia relacionada com a gripe humana
+  - date: '2025-01-01'
+    amending: eu:celex:32024R1701:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/1701 DA COMISSÃO de 11 de março de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Classificação das alterações
+    - Altera Artigo 4.º — Orientações
+    - Altera Artigo 5.º — Recomendação relativa a alterações não previstas
+    - Altera Artigo 7.º — Agrupamento de alterações
+    - Altera Artigo 8.º — Procedimento de notificação de alterações menores de tipo IA
+    - Altera Artigo 10.º — Procedimento de «aprovação prévia» de alterações maiores de tipo II
+    - Altera Artigo 13.º — Grupo de coordenação e arbitragem
+    - Altera Artigo 13.º-A — Procedimento de notificação de alterações menores de tipo IA
+    - Altera Artigo 13.º-C — Procedimento de «aprovação prévia» de alterações maiores de tipo II
+    - Altera Artigo 14.º — Procedimento de notificação de alterações menores de tipo IA
+    - Altera Artigo 16.º — Procedimento de «aprovação prévia» de alterações maiores de tipo II
+    - Altera Artigo 17.º — Medidas de conclusão dos procedimentos previstos nos artigos 14.º a 16.º
+    - Altera Artigo 20.º — Procedimento de partilha de trabalho
+    - Altera Artigo 22.º — Restrições urgentes de segurança
+    - Altera Artigo 23.º — Modificação da decisão que concede a autorização de introdução no mercado
+    - Altera Artigo 23.º-A
+    - Altera Artigo 24.º — Execução das alterações
+    - Altera Extensões das autorizações de introdução no mercado
+    - Altera Classificação das alterações
+    - Altera Casos que justificam o agrupamento de alterações previsto no artigo 7.º, n.º 2, alínea b), e no artigo 13.º-D,
+      n.º 2, alínea d)
+    - Altera Elementos a apresentar
+    - Altera ANEXO V
+    - Altera Notas
+    - Adita Artigo 6.º-A — Instrumentos regulamentares adicionais
+    - Adita Artigo 7.º-A — Superagrupamento de variações
+    - Adita ALTERAÇÕES DAS AUTORIZAÇÕES DE INTRODUÇÃO NO MERCADO CONCEDIDAS EM CONFORMIDADE COM O CAPÍTULO 4 DA DIRETIVA 2001/83/CE
+    - Adita Artigo 18.º
+    - Adita Vacinas contra a gripe humana e vacinas contra o coronavírus humano
+    - Adita Artigo 21.º — Emergência de saúde pública
+    - Adita Conformidade com o plano de investigação pediátrica
+    - Suprime ALTERAÇÕES DAS AUTORIZAÇÕES DE INTRODUÇÃO NO MERCADO CONCEDIDAS AO ABRIGO DA DIRECTIVA 87/22/CEE, DO CAPÍTULO
+      4 DA DIRECTIVA 2001/82/CE OU DO CAPÍTULO 4 DA DIRECTIVA 2001/83/CE
+    - Suprime Artigo 18.º — Vacinas contra a gripe humana
+    - Suprime Artigo 21.º — Situação de pandemia relacionada com a gripe humana e com o coronavírus humano
+    - Suprime Artigo 26.º — Revisão
+    - 'Suprime PARTE 1:'
+    - 'Suprime PARTE 2:'
+  - date: '2026-08-24'
+    amending: eu:celex:32026R0863:por
+    amending_title: M4
+    changes:
+    - Altera Artigo 21.º — Emergência de saúde pública
+    - Altera Extensões das autorizações de introdução no mercado
+    - Altera Elementos a apresentar
+    - Altera Notas
 identifiers:
   celex: 32008R1234
   eli: http://data.europa.eu/eli/reg/2008/1234/oj
@@ -50,7 +190,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6b6ad3b2-5608-499e-882d-0010dd1921e1.0018
   content_url: http://publications.europa.eu/resource/cellar/5fec0d58-ac07-11f1-b9e5-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R1234-20260824
-  retrieved_at: '2026-10-22T02:48:03Z'
+  retrieved_at: '2026-10-22T15:20:35Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T14:24:17.652+01:00'
 integrity:
@@ -59,9 +199,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:03Z'
-  notes: Texto consolidado 02008R1234-20260824.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:20:35Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2008-1234.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -161,36 +301,19 @@ relationships:
   date: '2003-07-03'
 article_structure:
   article_count: 37
-  section_count: 26
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 29
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:03Z'
+  checked_at: '2026-10-22T15:20:35Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 1234/2008 da Comissão, de 24 de Novembro de 2008
-
-> 02008R1234 — PT — 24.08.2026 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32012R0712) — [REGULAMENTO (UE) N.º 712/2012 DA COMISSÃO de 3 de agosto de 2012](http://publications.europa.eu/resource/celex/32012R0712) — L 209 — 4 — 4.8.2012
-- [►M2](http://publications.europa.eu/resource/celex/32021R0756) — [REGULAMENTO DELEGADO (UE) 2021/756 DA COMISSÃO de 24 de março de 2021](http://publications.europa.eu/resource/celex/32021R0756) — L 162 — 1 — 10.5.2021
-- [►M3](http://publications.europa.eu/resource/celex/32024R1701) — [REGULAMENTO DELEGADO (UE) 2024/1701 DA COMISSÃO de 11 de março de 2024](http://publications.europa.eu/resource/celex/32024R1701) — L 1701 — 1 — 17.6.2024
-- [M4](http://publications.europa.eu/resource/celex/32026R0863) — [REGULAMENTO DELEGADO (UE) 2026/863 DA COMISSÃO de 20 de abril de 2026](http://publications.europa.eu/resource/celex/32026R0863) — L 863 — 1 — 4.8.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32021R0756R%2801%29) — [Rectificação, JO L 203, 9.6.2021, p. 17 (2021/756)](http://publications.europa.eu/resource/celex/32021R0756R%2801%29)
-
-## REGULAMENTO (CE) N.º 1234/2008 DA COMISSÃO,
 
 de 24 de novembro de 2008,
 

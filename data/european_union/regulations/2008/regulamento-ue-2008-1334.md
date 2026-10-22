@@ -38,6 +38,393 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-02-16'
+version_history:
+  file: regulamento-ue-2008-1334.versoes.json
+  count: 27
+  source_lastmod: '2026-02-16'
+  versions:
+  - date: '2008-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-04-22'
+    amending: eu:celex:32012R0872:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) N. o 872/2012 DA COMISSÃO de 1 de outubro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 15.º — Requisitos gerais de rotulagem de aromas não destinados à venda ao consumidor final
+    - Altera Artigo 17.º — Rotulagem de aromas destinados à venda ao consumidor final
+    - Altera Artigo 26.º — Alteração ao Regulamento (CEE) n.º 1601/91
+    - Altera Artigo 28.º — Alteração ao Regulamento (CE) n.º 110/2008
+    - Altera Artigo 29.º — Alteração à Directiva 2000/13/CE
+    - Altera Artigo 30.º — Entrada em vigor
+    - Altera Notas
+    - Adita «ANEXO III
+    - Adita DESIGNAÇÃO DOS AROMAS NA LISTA DE INGREDIENTES
+    - Adita ANEXO I
+    - Adita LISTA DA UNIÃO DE AROMAS E MATERIAIS DE BASE
+    - Adita PARTE A
+    - Adita Lista da União de substâncias aromatizantes
+    - Adita PARTE B
+    - Adita Preparações aromatizantes
+    - Adita PARTE C
+    - Adita Aromas obtidos por tratamento térmico
+    - Adita PARTE D
+    - Adita Precursores de aromas
+    - Adita PARTE E
+    - Adita Outros aromas
+    - Adita PARTE F
+    - Adita Materiais de base
+    - Adita ANEXO II
+    - Adita Lista de processos tradicionais de preparação de géneros alimentícios
+    - Adita ANEXO III
+    - Adita Presença de determinadas substâncias
+    - 'Adita Parte A: Substâncias que não devem ser adicionadas como tais aos géneros alimentícios'
+    - 'Adita Parte B: Teores máximos de determinadas substâncias, naturalmente presentes em aromas e ingredientes alimentares
+      com propriedades aromatizantes, em certos géneros alimentícios compostos tal como consumidos aos quais foram adicionados
+      aromas e/ou ingredientes alimentares com propriedades aromatizantes'
+    - Adita ANEXO IV
+    - Adita Lista de materiais de base cuja utilização na produção de aromas e de ingredientes alimentares com propriedades
+      aromatizantes está sujeita a restrições
+    - 'Adita Parte A: Materiais de base que não devem ser utilizados na produção de aromas e de ingredientes alimentares com
+      propriedades aromatizantes'
+    - 'Adita Parte B: Condições de utilização de aromatizantes e ingredientes alimentares com propriedades aromatizantes produzidos
+      a partir de determinados materiais de base'
+    - Adita ANEXO V
+    - Adita Condições para a produção de aromas obtidos por tratamento térmico e teores máximos de determinadas substâncias
+      nesses aromas
+    - 'Adita Parte A: Condições para a produção'
+    - 'Adita Parte B: Teores máximos de determinadas substâncias'
+  - date: '2013-06-16'
+    amending: eu:celex:32013R0545:por
+    amending_title: REGULAMENTO (UE) N. o 545/2013 DA COMISSÃO de 14 de junho de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 17.º — Rotulagem de aromas destinados à venda ao consumidor final
+    - Altera Artigo 26.º — Alteração ao Regulamento (CEE) n.º 1601/91
+    - Altera Artigo 28.º — Alteração ao Regulamento (CE) n.º 110/2008
+    - Altera DESIGNAÇÃO DOS AROMAS NA LISTA DE INGREDIENTES
+    - Altera Lista da União de substâncias aromatizantes
+    - 'Altera Parte B: Teores máximos de determinadas substâncias, naturalmente presentes em aromas e ingredientes alimentares
+      com propriedades aromatizantes, em certos géneros alimentícios compostos tal como consumidos aos quais foram adicionados
+      aromas e/ou ingredientes alimentares com propriedades aromatizantes'
+    - Altera Notas
+  - date: '2013-11-04'
+    amending: eu:celex:32013R0985:por
+    amending_title: REGULAMENTO (UE) N. o 985/2013 DA COMISSÃO de 14 de outubro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 17.º — Rotulagem de aromas destinados à venda ao consumidor final
+    - Altera Artigo 26.º — Alteração ao Regulamento (CEE) n.º 1601/91
+    - Altera Artigo 28.º — Alteração ao Regulamento (CE) n.º 110/2008
+    - Altera DESIGNAÇÃO DOS AROMAS NA LISTA DE INGREDIENTES
+    - Altera Lista da União de substâncias aromatizantes
+    - 'Altera Parte B: Teores máximos de determinadas substâncias, naturalmente presentes em aromas e ingredientes alimentares
+      com propriedades aromatizantes, em certos géneros alimentícios compostos tal como consumidos aos quais foram adicionados
+      aromas e/ou ingredientes alimentares com propriedades aromatizantes'
+    - Altera Notas
+  - date: '2014-04-03'
+    amending: eu:celex:32014R0246:por
+    amending_title: Regulamento (UE) n. o 246/2014 da Comissão de 13 de março de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 17.º — Rotulagem de aromas destinados à venda ao consumidor final
+    - Altera Artigo 26.º — Alteração ao Regulamento (CEE) n.º 1601/91
+    - Altera Artigo 28.º — Alteração ao Regulamento (CE) n.º 110/2008
+    - Altera DESIGNAÇÃO DOS AROMAS NA LISTA DE INGREDIENTES
+    - Altera Lista da União de substâncias aromatizantes
+    - 'Altera Parte B: Teores máximos de determinadas substâncias, naturalmente presentes em aromas e ingredientes alimentares
+      com propriedades aromatizantes, em certos géneros alimentícios compostos tal como consumidos aos quais foram adicionados
+      aromas e/ou ingredientes alimentares com propriedades aromatizantes'
+    - Altera Notas
+  - date: '2014-11-07'
+    amending: eu:celex:32014R1098:por
+    amending_title: REGULAMENTO (UE) N. o 1098/2014 DA COMISSÃO de 17 de outubro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 17.º — Rotulagem de aromas destinados à venda ao consumidor final
+    - Altera Artigo 26.º — Alteração ao Regulamento (CEE) n.º 1601/91
+    - Altera Artigo 28.º — Alteração ao Regulamento (CE) n.º 110/2008
+    - Altera DESIGNAÇÃO DOS AROMAS NA LISTA DE INGREDIENTES
+    - Altera Lista da União de substâncias aromatizantes
+    - 'Altera Parte B: Teores máximos de determinadas substâncias, naturalmente presentes em aromas e ingredientes alimentares
+      com propriedades aromatizantes, em certos géneros alimentícios compostos tal como consumidos aos quais foram adicionados
+      aromas e/ou ingredientes alimentares com propriedades aromatizantes'
+    - Altera Notas
+  - date: '2015-05-15'
+    amending: eu:celex:32015R0648:por
+    amending_title: REGULAMENTO (UE) 2015/648 DA COMISSÃO de 24 de abril de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 17.º — Rotulagem de aromas destinados à venda ao consumidor final
+    - Altera Artigo 26.º — Alteração ao Regulamento (CEE) n.º 1601/91
+    - Altera Artigo 28.º — Alteração ao Regulamento (CE) n.º 110/2008
+    - Altera DESIGNAÇÃO DOS AROMAS NA LISTA DE INGREDIENTES
+    - Altera Lista da União de substâncias aromatizantes
+    - 'Altera Parte B: Teores máximos de determinadas substâncias, naturalmente presentes em aromas e ingredientes alimentares
+      com propriedades aromatizantes, em certos géneros alimentícios compostos tal como consumidos aos quais foram adicionados
+      aromas e/ou ingredientes alimentares com propriedades aromatizantes'
+    - Altera Notas
+  - date: '2015-07-29'
+    amending: eu:celex:32015R1102:por
+    amending_title: REGULAMENTO (UE) 2015/1102 DA COMISSÃO de 8 de julho de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 17.º — Rotulagem de aromas destinados à venda ao consumidor final
+    - Altera Artigo 26.º — Alteração ao Regulamento (CEE) n.º 1601/91
+    - Altera Artigo 28.º — Alteração ao Regulamento (CE) n.º 110/2008
+    - Altera DESIGNAÇÃO DOS AROMAS NA LISTA DE INGREDIENTES
+    - Altera Lista da União de substâncias aromatizantes
+    - 'Altera Parte B: Teores máximos de determinadas substâncias, naturalmente presentes em aromas e ingredientes alimentares
+      com propriedades aromatizantes, em certos géneros alimentícios compostos tal como consumidos aos quais foram adicionados
+      aromas e/ou ingredientes alimentares com propriedades aromatizantes'
+    - Altera Notas
+  - date: '2015-10-03'
+    amending: eu:celex:32015R1760:por
+    amending_title: REGULAMENTO (UE) 2015/1760 DA COMISSÃO de 1 de outubro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 17.º — Rotulagem de aromas destinados à venda ao consumidor final
+    - Altera Artigo 26.º — Alteração ao Regulamento (CEE) n.º 1601/91
+    - Altera Artigo 28.º — Alteração ao Regulamento (CE) n.º 110/2008
+    - Altera DESIGNAÇÃO DOS AROMAS NA LISTA DE INGREDIENTES
+    - Altera Lista da União de substâncias aromatizantes
+    - 'Altera Parte B: Teores máximos de determinadas substâncias, naturalmente presentes em aromas e ingredientes alimentares
+      com propriedades aromatizantes, em certos géneros alimentícios compostos tal como consumidos aos quais foram adicionados
+      aromas e/ou ingredientes alimentares com propriedades aromatizantes'
+    - Altera Notas
+  - date: '2016-02-09'
+    amending: eu:celex:32016R0054:por
+    amending_title: REGULAMENTO (UE) 2016/54 DA COMISSÃO de 19 de janeiro de 2016; REGULAMENTO (UE) 2016/55 DA COMISSÃO de
+      19 de janeiro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 17.º — Rotulagem de aromas destinados à venda ao consumidor final
+    - Altera Artigo 26.º — Alteração ao Regulamento (CEE) n.º 1601/91
+    - Altera Artigo 28.º — Alteração ao Regulamento (CE) n.º 110/2008
+    - Altera DESIGNAÇÃO DOS AROMAS NA LISTA DE INGREDIENTES
+    - Altera Lista da União de substâncias aromatizantes
+    - 'Altera Parte B: Teores máximos de determinadas substâncias, naturalmente presentes em aromas e ingredientes alimentares
+      com propriedades aromatizantes, em certos géneros alimentícios compostos tal como consumidos aos quais foram adicionados
+      aromas e/ou ingredientes alimentares com propriedades aromatizantes'
+    - Altera Notas
+  - date: '2016-03-02'
+    amending: eu:celex:32016R0178:por
+    amending_title: REGULAMENTO (UE) 2016/178 DA COMISSÃO de 10 de fevereiro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 17.º — Rotulagem de aromas destinados à venda ao consumidor final
+    - Altera Artigo 26.º — Alteração ao Regulamento (CEE) n.º 1601/91
+    - Altera Artigo 28.º — Alteração ao Regulamento (CE) n.º 110/2008
+    - Altera DESIGNAÇÃO DOS AROMAS NA LISTA DE INGREDIENTES
+    - Altera Lista da União de substâncias aromatizantes
+    - 'Altera Parte B: Teores máximos de determinadas substâncias, naturalmente presentes em aromas e ingredientes alimentares
+      com propriedades aromatizantes, em certos géneros alimentícios compostos tal como consumidos aos quais foram adicionados
+      aromas e/ou ingredientes alimentares com propriedades aromatizantes'
+    - Altera Notas
+  - date: '2016-05-13'
+    amending: eu:celex:32016R0637:por
+    amending_title: REGULAMENTO (UE) 2016/637 DA COMISSÃO de 22 de abril de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 17.º — Rotulagem de aromas destinados à venda ao consumidor final
+    - Altera Artigo 26.º — Alteração ao Regulamento (CEE) n.º 1601/91
+    - Altera Artigo 28.º — Alteração ao Regulamento (CE) n.º 110/2008
+    - Altera DESIGNAÇÃO DOS AROMAS NA LISTA DE INGREDIENTES
+    - Altera Lista da União de substâncias aromatizantes
+    - 'Altera Parte B: Teores máximos de determinadas substâncias, naturalmente presentes em aromas e ingredientes alimentares
+      com propriedades aromatizantes, em certos géneros alimentícios compostos tal como consumidos aos quais foram adicionados
+      aromas e/ou ingredientes alimentares com propriedades aromatizantes'
+    - Altera Notas
+  - date: '2016-05-25'
+    amending: eu:celex:32016R0692:por
+    amending_title: REGULAMENTO (UE) 2016/692 DA COMISSÃO de 4 de maio de 2016
+    changes:
+    - Altera Artigo 17.º — Rotulagem de aromas destinados à venda ao consumidor final
+    - Altera Artigo 26.º — Alteração ao Regulamento (CEE) n.º 1601/91
+    - Altera Artigo 28.º — Alteração ao Regulamento (CE) n.º 110/2008
+    - Altera DESIGNAÇÃO DOS AROMAS NA LISTA DE INGREDIENTES
+    - Altera Lista da União de substâncias aromatizantes
+    - 'Altera Parte B: Teores máximos de determinadas substâncias, naturalmente presentes em aromas e ingredientes alimentares
+      com propriedades aromatizantes, em certos géneros alimentícios compostos tal como consumidos aos quais foram adicionados
+      aromas e/ou ingredientes alimentares com propriedades aromatizantes'
+    - Altera Notas
+  - date: '2016-08-18'
+    amending: eu:celex:32016R1244:por
+    amending_title: REGULAMENTO (UE) 2016/1244 DA COMISSÃO de 28 de julho de 2016
+    changes:
+    - Altera Artigo 17.º — Rotulagem de aromas destinados à venda ao consumidor final
+    - Altera Artigo 26.º — Alteração ao Regulamento (CEE) n.º 1601/91
+    - Altera Artigo 28.º — Alteração ao Regulamento (CE) n.º 110/2008
+    - Altera DESIGNAÇÃO DOS AROMAS NA LISTA DE INGREDIENTES
+    - Altera Lista da União de substâncias aromatizantes
+    - 'Altera Parte B: Teores máximos de determinadas substâncias, naturalmente presentes em aromas e ingredientes alimentares
+      com propriedades aromatizantes, em certos géneros alimentícios compostos tal como consumidos aos quais foram adicionados
+      aromas e/ou ingredientes alimentares com propriedades aromatizantes'
+    - Altera Notas
+  - date: '2017-03-24'
+    amending: eu:celex:32017R0378:por
+    amending_title: REGULAMENTO (UE) 2017/378 DA COMISSÃO de 3 de março de 2017
+    changes:
+    - Altera Artigo 17.º — Rotulagem de aromas destinados à venda ao consumidor final
+    - Altera Artigo 26.º — Alteração ao Regulamento (CEE) n.º 1601/91
+    - Altera Artigo 28.º — Alteração ao Regulamento (CE) n.º 110/2008
+    - Altera DESIGNAÇÃO DOS AROMAS NA LISTA DE INGREDIENTES
+    - Altera Lista da União de substâncias aromatizantes
+    - 'Altera Parte B: Teores máximos de determinadas substâncias, naturalmente presentes em aromas e ingredientes alimentares
+      com propriedades aromatizantes, em certos géneros alimentícios compostos tal como consumidos aos quais foram adicionados
+      aromas e/ou ingredientes alimentares com propriedades aromatizantes'
+    - Altera Notas
+  - date: '2017-07-13'
+    amending: eu:celex:32017R1250:por
+    amending_title: REGULAMENTO (UE) 2017/1250 DA COMISSÃO de 11 de julho de 2017
+    changes:
+    - Altera Artigo 17.º — Rotulagem de aromas destinados à venda ao consumidor final
+    - Altera Artigo 26.º — Alteração ao Regulamento (CEE) n.º 1601/91
+    - Altera Artigo 28.º — Alteração ao Regulamento (CE) n.º 110/2008
+    - Altera DESIGNAÇÃO DOS AROMAS NA LISTA DE INGREDIENTES
+    - Altera Lista da União de substâncias aromatizantes
+    - 'Altera Parte B: Teores máximos de determinadas substâncias, naturalmente presentes em aromas e ingredientes alimentares
+      com propriedades aromatizantes, em certos géneros alimentícios compostos tal como consumidos aos quais foram adicionados
+      aromas e/ou ingredientes alimentares com propriedades aromatizantes'
+    - Altera Notas
+  - date: '2019-05-21'
+    amending: eu:celex:32011R1169:por
+    amending_title: REGULAMENTO (UE) N. o 1169/2011 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de Outubro de 2011; REGULAMENTO
+      (UE) N. o 251/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014; REGULAMENTO (UE) 2018/678 DA COMISSÃO
+      de 3 de maio de 2018; REGULAMENTO (UE) 2018/1246 DA COMISSÃO de 18 de setembro de 2018; REGULAMENTO (UE) 2018/1482 DA
+      COMISSÃO de 4 de outubro de 2018; REGULAMENTO (UE) 2018/1649 DA COMISSÃO de 5 de novembro de 2018; REGULAMENTO (UE)
+      2019/36 DA COMISSÃO de 10 de janeiro de 2019; REGULAMENTO (UE) 2019/799 DA COMISSÃO de 17 de maio de 2019
+    changes:
+    - Altera Artigo 17.º — Rotulagem de aromas destinados à venda ao consumidor final
+    - Altera Artigo 28.º — Alteração ao Regulamento (CE) n.º 110/2008
+    - Altera Lista da União de substâncias aromatizantes
+    - Altera Outros aromas
+    - 'Altera Parte B: Teores máximos de determinadas substâncias, naturalmente presentes em aromas e ingredientes alimentares
+      com propriedades aromatizantes, em certos géneros alimentícios compostos tal como consumidos aos quais foram adicionados
+      aromas e/ou ingredientes alimentares com propriedades aromatizantes'
+    - Altera Notas
+    - Suprime Artigo 26.º — Alteração ao Regulamento (CEE) n.º 1601/91
+    - Suprime Artigo 27.º — Alteração ao Regulamento (CE) n.º 2232/96
+    - Suprime Artigo 29.º — Alteração à Directiva 2000/13/CE
+    - Suprime «ANEXO III
+    - Suprime DESIGNAÇÃO DOS AROMAS NA LISTA DE INGREDIENTES
+  - date: '2020-12-03'
+    amending: eu:celex:32020R1681:por
+    amending_title: REGULAMENTO (UE) 2020/1681 DA COMISSÃO de 12 de novembro de 2020
+    changes:
+    - Altera Artigo 17.º — Rotulagem de aromas destinados à venda ao consumidor final
+    - Altera Artigo 28.º — Alteração ao Regulamento (CE) n.º 110/2008
+    - Altera Lista da União de substâncias aromatizantes
+    - 'Altera Parte B: Teores máximos de determinadas substâncias, naturalmente presentes em aromas e ingredientes alimentares
+      com propriedades aromatizantes, em certos géneros alimentícios compostos tal como consumidos aos quais foram adicionados
+      aromas e/ou ingredientes alimentares com propriedades aromatizantes'
+    - Altera Notas
+  - date: '2021-10-10'
+    amending: eu:celex:32021R1532:por
+    amending_title: REGULAMENTO (UE) 2021/1532 DA COMISSÃO de 17 de setembro de 2021
+    changes:
+    - Altera Artigo 17.º — Rotulagem de aromas destinados à venda ao consumidor final
+    - Altera Artigo 28.º — Alteração ao Regulamento (CE) n.º 110/2008
+    - Altera Lista da União de substâncias aromatizantes
+    - 'Altera Parte B: Teores máximos de determinadas substâncias, naturalmente presentes em aromas e ingredientes alimentares
+      com propriedades aromatizantes, em certos géneros alimentícios compostos tal como consumidos aos quais foram adicionados
+      aromas e/ou ingredientes alimentares com propriedades aromatizantes'
+    - Altera Notas
+  - date: '2021-11-24'
+    amending: eu:celex:32021R1916:por
+    amending_title: REGULAMENTO (UE) 2021/1916 DA COMISSÃO de 3 de novembro de 2021; REGULAMENTO (UE) 2021/1917 DA COMISSÃO
+      de 3 de novembro de 2021
+    changes:
+    - Altera Artigo 17.º — Rotulagem de aromas destinados à venda ao consumidor final
+    - Altera Artigo 28.º — Alteração ao Regulamento (CE) n.º 110/2008
+    - Altera Lista da União de substâncias aromatizantes
+    - 'Altera Parte B: Teores máximos de determinadas substâncias, naturalmente presentes em aromas e ingredientes alimentares
+      com propriedades aromatizantes, em certos géneros alimentícios compostos tal como consumidos aos quais foram adicionados
+      aromas e/ou ingredientes alimentares com propriedades aromatizantes'
+    - Altera Notas
+  - date: '2022-09-26'
+    amending: eu:celex:32022R1465:por
+    amending_title: REGULAMENTO (UE) 2022/1465 DA COMISSÃO de 5 de setembro de 2022; REGULAMENTO (UE) 2022/1466 DA COMISSÃO
+      de 5 de setembro de 2022
+    changes:
+    - Altera Artigo 17.º — Rotulagem de aromas destinados à venda ao consumidor final
+    - Altera Artigo 28.º — Alteração ao Regulamento (CE) n.º 110/2008
+    - Altera Lista da União de substâncias aromatizantes
+    - 'Altera Parte B: Teores máximos de determinadas substâncias, naturalmente presentes em aromas e ingredientes alimentares
+      com propriedades aromatizantes, em certos géneros alimentícios compostos tal como consumidos aos quais foram adicionados
+      aromas e/ou ingredientes alimentares com propriedades aromatizantes'
+    - Altera Notas
+  - date: '2023-03-21'
+    amending: eu:celex:32023R0441:por
+    amending_title: REGULAMENTO (UE) 2023/441 DA COMISSÃO de 28 de fevereiro de 2023
+    changes:
+    - Altera Artigo 17.º — Rotulagem de aromas destinados à venda ao consumidor final
+    - Altera Artigo 28.º — Alteração ao Regulamento (CE) n.º 110/2008
+    - Altera Lista da União de substâncias aromatizantes
+    - 'Altera Parte B: Teores máximos de determinadas substâncias, naturalmente presentes em aromas e ingredientes alimentares
+      com propriedades aromatizantes, em certos géneros alimentícios compostos tal como consumidos aos quais foram adicionados
+      aromas e/ou ingredientes alimentares com propriedades aromatizantes'
+    - Altera Notas
+  - date: '2024-02-05'
+    amending: eu:celex:32024R0234:por
+    amending_title: REGULAMENTO (UE) 2024/234 DA COMISSÃO de 15 de janeiro de 2024; REGULAMENTO (UE) 2024/238 DA COMISSÃO
+      de 15 de janeiro de 2024
+    changes:
+    - Altera Artigo 17.º — Rotulagem de aromas destinados à venda ao consumidor final
+    - Altera Artigo 28.º — Alteração ao Regulamento (CE) n.º 110/2008
+    - Altera Lista da União de substâncias aromatizantes
+    - Altera Outros aromas
+    - 'Altera Parte B: Teores máximos de determinadas substâncias, naturalmente presentes em aromas e ingredientes alimentares
+      com propriedades aromatizantes, em certos géneros alimentícios compostos tal como consumidos aos quais foram adicionados
+      aromas e/ou ingredientes alimentares com propriedades aromatizantes'
+    - Altera Notas
+  - date: '2024-12-03'
+    amending: eu:celex:32024R2856:por
+    amending_title: REGULAMENTO (UE) 2024/2856 DA COMISSÃO de 12 de novembro de 2024
+    changes:
+    - Altera Artigo 17.º — Rotulagem de aromas destinados à venda ao consumidor final
+    - Altera Artigo 28.º — Alteração ao Regulamento (CE) n.º 110/2008
+    - Altera Lista da União de substâncias aromatizantes
+    - 'Altera Parte B: Teores máximos de determinadas substâncias, naturalmente presentes em aromas e ingredientes alimentares
+      com propriedades aromatizantes, em certos géneros alimentícios compostos tal como consumidos aos quais foram adicionados
+      aromas e/ou ingredientes alimentares com propriedades aromatizantes'
+    - Altera Notas
+  - date: '2025-02-19'
+    amending: eu:celex:32025R0140:por
+    amending_title: REGULAMENTO (UE) 2025/140 DA COMISSÃO de 29 de janeiro de 2025; REGULAMENTO (UE) 2025/147 DA COMISSÃO
+      de 29 de janeiro de 2025
+    changes:
+    - Altera Artigo 17.º — Rotulagem de aromas destinados à venda ao consumidor final
+    - Altera Artigo 28.º — Alteração ao Regulamento (CE) n.º 110/2008
+    - Altera Lista da União de substâncias aromatizantes
+    - 'Altera Parte B: Teores máximos de determinadas substâncias, naturalmente presentes em aromas e ingredientes alimentares
+      com propriedades aromatizantes, em certos géneros alimentícios compostos tal como consumidos aos quais foram adicionados
+      aromas e/ou ingredientes alimentares com propriedades aromatizantes'
+    - Altera Notas
+  - date: '2025-06-25'
+    amending: eu:celex:32025R1112:por
+    amending_title: REGULAMENTO (UE) 2025/1112 DA COMISSÃO de 4 de junho de 2025
+    changes:
+    - Altera Artigo 17.º — Rotulagem de aromas destinados à venda ao consumidor final
+    - Altera Artigo 28.º — Alteração ao Regulamento (CE) n.º 110/2008
+    - Altera Lista da União de substâncias aromatizantes
+    - 'Altera Parte B: Teores máximos de determinadas substâncias, naturalmente presentes em aromas e ingredientes alimentares
+      com propriedades aromatizantes, em certos géneros alimentícios compostos tal como consumidos aos quais foram adicionados
+      aromas e/ou ingredientes alimentares com propriedades aromatizantes'
+    - Altera Notas
+  - date: '2026-02-16'
+    amending: eu:celex:32026R0172:por
+    amending_title: REGULAMENTO (UE) 2026/172 DA COMISSÃO de 26 de janeiro de 2026; M39
+    changes:
+    - Altera Artigo 17.º — Rotulagem de aromas destinados à venda ao consumidor final
+    - Altera Artigo 28.º — Alteração ao Regulamento (CE) n.º 110/2008
+    - Altera Lista da União de substâncias aromatizantes
+    - 'Altera Parte B: Teores máximos de determinadas substâncias, naturalmente presentes em aromas e ingredientes alimentares
+      com propriedades aromatizantes, em certos géneros alimentícios compostos tal como consumidos aos quais foram adicionados
+      aromas e/ou ingredientes alimentares com propriedades aromatizantes'
+    - Altera Notas
 identifiers:
   celex: 32008R1334
   eli: http://data.europa.eu/eli/reg/2008/1334/oj
@@ -52,7 +439,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8fc1cd92-6188-47d5-b4cb-a86f083f5c48.0018
   content_url: http://publications.europa.eu/resource/cellar/91c754fb-1cf9-11f1-8c3a-01aa75ed71a1.0016.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R1334-20260216
-  retrieved_at: '2026-10-22T02:59:06Z'
+  retrieved_at: '2026-10-22T15:32:00Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T13:37:02.697+01:00'
 integrity:
@@ -61,9 +448,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:06Z'
-  notes: Texto consolidado 02008R1334-20260216.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:32:00Z'
+  notes: 27 versão(ões); histórico completo em regulamento-ue-2008-1334.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -379,71 +766,20 @@ relationships:
   date: '1991-02-15'
 article_structure:
   article_count: 27
-  section_count: 40
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 41
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:06Z'
-  warnings: []
+  checked_at: '2026-10-22T15:32:00Z'
+  warnings:
+  - '02008R1334-20090120: versão indisponível (Sem expressão na língua por para CELEX 02008R1334-20090120.)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 1334/2008 do Parlamento Europeu e do Conselho de 16 de Dezembro de 2008
-
-> 02008R1334 — PT — 16.02.2026 — 030.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32011R1169) — [REGULAMENTO (UE) N.º 1169/2011 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de Outubro de 2011](http://publications.europa.eu/resource/celex/32011R1169) — L 304 — 18 — 22.11.2011
-- [►M2](http://publications.europa.eu/resource/celex/32012R0872) — [REGULAMENTO DE EXECUÇÃO (UE) N.º 872/2012 DA COMISSÃO de 1 de outubro de 2012](http://publications.europa.eu/resource/celex/32012R0872) — L 267 — 1 — 2.10.2012
-- [►M3](http://publications.europa.eu/resource/celex/32013R0545) — [REGULAMENTO (UE) N.º 545/2013 DA COMISSÃO de 14 de junho de 2013](http://publications.europa.eu/resource/celex/32013R0545) — L 163 — 15 — 15.6.2013
-- [►M4](http://publications.europa.eu/resource/celex/32013R0985) — [REGULAMENTO (UE) N.º 985/2013 DA COMISSÃO de 14 de outubro de 2013](http://publications.europa.eu/resource/celex/32013R0985) — L 273 — 18 — 15.10.2013
-- [►M5](http://publications.europa.eu/resource/celex/32014R0246) — [REGULAMENTO (UE) N.º 246/2014 DA COMISSÃO de 13 de março de 2014](http://publications.europa.eu/resource/celex/32014R0246) — L 74 — 58 — 14.3.2014
-- [►M6](http://publications.europa.eu/resource/celex/32014R0251) — [REGULAMENTO (UE) N.º 251/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014R0251) — L 84 — 14 — 20.3.2014
-- [►M7](http://publications.europa.eu/resource/celex/32014R1098) — [REGULAMENTO (UE) N.º 1098/2014 DA COMISSÃO de 17 de outubro de 2014](http://publications.europa.eu/resource/celex/32014R1098) — L 300 — 41 — 18.10.2014
-- [►M8](http://publications.europa.eu/resource/celex/32015R0648) — [REGULAMENTO (UE) 2015/648 DA COMISSÃO de 24 de abril de 2015](http://publications.europa.eu/resource/celex/32015R0648) — L 107 — 15 — 25.4.2015
-- [►M9](http://publications.europa.eu/resource/celex/32015R1102) — [REGULAMENTO (UE) 2015/1102 DA COMISSÃO de 8 de julho de 2015](http://publications.europa.eu/resource/celex/32015R1102) — L 181 — 54 — 9.7.2015
-- [►M10](http://publications.europa.eu/resource/celex/32015R1760) — [REGULAMENTO (UE) 2015/1760 DA COMISSÃO de 1 de outubro de 2015](http://publications.europa.eu/resource/celex/32015R1760) — L 257 — 27 — 2.10.2015
-- [M11](http://publications.europa.eu/resource/celex/32016R0054) — [REGULAMENTO (UE) 2016/54 DA COMISSÃO de 19 de janeiro de 2016](http://publications.europa.eu/resource/celex/32016R0054) — L 13 — 40 — 20.1.2016
-- [►M12](http://publications.europa.eu/resource/celex/32016R0055) — [REGULAMENTO (UE) 2016/55 DA COMISSÃO de 19 de janeiro de 2016](http://publications.europa.eu/resource/celex/32016R0055) — L 13 — 43 — 20.1.2016
-- [►M13](http://publications.europa.eu/resource/celex/32016R0178) — [REGULAMENTO (UE) 2016/178 DA COMISSÃO de 10 de fevereiro de 2016](http://publications.europa.eu/resource/celex/32016R0178) — L 35 — 6 — 11.2.2016
-- [►M14](http://publications.europa.eu/resource/celex/32016R0637) — [REGULAMENTO (UE) 2016/637 DA COMISSÃO de 22 de abril de 2016](http://publications.europa.eu/resource/celex/32016R0637) — L 108 — 24 — 23.4.2016
-- [►M15](http://publications.europa.eu/resource/celex/32016R0692) — [REGULAMENTO (UE) 2016/692 DA COMISSÃO de 4 de maio de 2016](http://publications.europa.eu/resource/celex/32016R0692) — L 120 — 7 — 5.5.2016
-- [M16](http://publications.europa.eu/resource/celex/32016R1244) — [REGULAMENTO (UE) 2016/1244 DA COMISSÃO de 28 de julho de 2016](http://publications.europa.eu/resource/celex/32016R1244) — L 204 — 7 — 29.7.2016
-- [M17](http://publications.europa.eu/resource/celex/32017R0378) — [REGULAMENTO (UE) 2017/378 DA COMISSÃO de 3 de março de 2017](http://publications.europa.eu/resource/celex/32017R0378) — L 58 — 14 — 4.3.2017
-- [►M18](http://publications.europa.eu/resource/celex/32017R1250) — [REGULAMENTO (UE) 2017/1250 DA COMISSÃO de 11 de julho de 2017](http://publications.europa.eu/resource/celex/32017R1250) — L 179 — 3 — 12.7.2017
-- [►M19](http://publications.europa.eu/resource/celex/32018R0678) — [REGULAMENTO (UE) 2018/678 DA COMISSÃO de 3 de maio de 2018](http://publications.europa.eu/resource/celex/32018R0678) — L 114 — 13 — 4.5.2018
-- [M20](http://publications.europa.eu/resource/celex/32018R1246) — [REGULAMENTO (UE) 2018/1246 DA COMISSÃO de 18 de setembro de 2018](http://publications.europa.eu/resource/celex/32018R1246) — L 235 — 3 — 19.9.2018
-- [►M21](http://publications.europa.eu/resource/celex/32018R1482) — [REGULAMENTO (UE) 2018/1482 DA COMISSÃO de 4 de outubro de 2018](http://publications.europa.eu/resource/celex/32018R1482) — L 251 — 19 — 5.10.2018
-- [►M22](http://publications.europa.eu/resource/celex/32018R1649) — [REGULAMENTO (UE) 2018/1649 DA COMISSÃO de 5 de novembro de 2018](http://publications.europa.eu/resource/celex/32018R1649) — L 275 — 7 — 6.11.2018
-- [►M23](http://publications.europa.eu/resource/celex/32019R0036) — [REGULAMENTO (UE) 2019/36 DA COMISSÃO de 10 de janeiro de 2019](http://publications.europa.eu/resource/celex/32019R0036) — L 9 — 85 — 11.1.2019
-- [►M24](http://publications.europa.eu/resource/celex/32019R0799) — [REGULAMENTO (UE) 2019/799 DA COMISSÃO de 17 de maio de 2019](http://publications.europa.eu/resource/celex/32019R0799) — L 132 — 12 — 20.5.2019
-- [►M25](http://publications.europa.eu/resource/celex/32020R1681) — [REGULAMENTO (UE) 2020/1681 DA COMISSÃO de 12 de novembro de 2020](http://publications.europa.eu/resource/celex/32020R1681) — L 379 — 27 — 13.11.2020
-- [►M26](http://publications.europa.eu/resource/celex/32021R1532) — [REGULAMENTO (UE) 2021/1532 DA COMISSÃO de 17 de setembro de 2021](http://publications.europa.eu/resource/celex/32021R1532) — L 330 — 69 — 20.9.2021
-- [►M27](http://publications.europa.eu/resource/celex/32021R1916) — [REGULAMENTO (UE) 2021/1916 DA COMISSÃO de 3 de novembro de 2021](http://publications.europa.eu/resource/celex/32021R1916) — L 389 — 11 — 4.11.2021
-- [►M28](http://publications.europa.eu/resource/celex/32021R1917) — [REGULAMENTO (UE) 2021/1917 DA COMISSÃO de 3 de novembro de 2021](http://publications.europa.eu/resource/celex/32021R1917) — L 389 — 15 — 4.11.2021
-- [►M29](http://publications.europa.eu/resource/celex/32022R1465) — [REGULAMENTO (UE) 2022/1465 DA COMISSÃO de 5 de setembro de 2022](http://publications.europa.eu/resource/celex/32022R1465) — L 231 — 24 — 6.9.2022
-- [►M30](http://publications.europa.eu/resource/celex/32022R1466) — [REGULAMENTO (UE) 2022/1466 DA COMISSÃO de 5 de setembro de 2022](http://publications.europa.eu/resource/celex/32022R1466) — L 231 — 32 — 6.9.2022
-- [►M31](http://publications.europa.eu/resource/celex/32023R0441) — [REGULAMENTO (UE) 2023/441 DA COMISSÃO de 28 de fevereiro de 2023](http://publications.europa.eu/resource/celex/32023R0441) — L 64 — 9 — 1.3.2023
-- [►M32](http://publications.europa.eu/resource/celex/32024R0234) — [REGULAMENTO (UE) 2024/234 DA COMISSÃO de 15 de janeiro de 2024](http://publications.europa.eu/resource/celex/32024R0234) — L 234 — 1 — 16.1.2024
-- [►M33](http://publications.europa.eu/resource/celex/32024R0238) — [REGULAMENTO (UE) 2024/238 DA COMISSÃO de 15 de janeiro de 2024](http://publications.europa.eu/resource/celex/32024R0238) — L 238 — 1 — 16.1.2024
-- [►M34](http://publications.europa.eu/resource/celex/32024R2856) — [REGULAMENTO (UE) 2024/2856 DA COMISSÃO de 12 de novembro de 2024](http://publications.europa.eu/resource/celex/32024R2856) — L 2856 — 1 — 13.11.2024
-- [►M35](http://publications.europa.eu/resource/celex/32025R0140) — [REGULAMENTO (UE) 2025/140 DA COMISSÃO de 29 de janeiro de 2025](http://publications.europa.eu/resource/celex/32025R0140) — L 140 — 1 — 30.1.2025
-- [►M36](http://publications.europa.eu/resource/celex/32025R0147) — [REGULAMENTO (UE) 2025/147 DA COMISSÃO de 29 de janeiro de 2025](http://publications.europa.eu/resource/celex/32025R0147) — L 147 — 1 — 30.1.2025
-- [►M37](http://publications.europa.eu/resource/celex/32025R1112) — [REGULAMENTO (UE) 2025/1112 DA COMISSÃO de 4 de junho de 2025](http://publications.europa.eu/resource/celex/32025R1112) — L 1112 — 1 — 5.6.2025
-- [►M38](http://publications.europa.eu/resource/celex/32026R0172) — [REGULAMENTO (UE) 2026/172 DA COMISSÃO de 26 de janeiro de 2026](http://publications.europa.eu/resource/celex/32026R0172) — L 172 — 1 — 27.1.2026
-- [M39](http://publications.europa.eu/resource/celex/32026R0175) — [REGULAMENTO (UE) 2026/175 DA COMISSÃO de 26 de janeiro de 2026](http://publications.europa.eu/resource/celex/32026R0175) — L 175 — 1 — 27.1.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32026R0175R%2801%29) — [Rectificação, JO L 90106, 12.2.2026, p. 1 ((UE) 2026/1752026/175)](http://publications.europa.eu/resource/celex/32026R0175R%2801%29)
-
-## REGULAMENTO (CE) N.º 1334/2008 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 16 de Dezembro de 2008
 

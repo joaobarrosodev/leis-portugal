@@ -37,6 +37,236 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-06-12'
+version_history:
+  file: regulamento-ue-2008-767.versoes.json
+  count: 10
+  source_lastmod: '2026-06-12'
+  versions:
+  - date: '2008-08-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-04-05'
+    amending: eu:celex:32009R0810:por
+    amending_title: REGULAMENTO (CE) N. o 810/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de Julho de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Disponibilidade dos dados para efeitos de prevenção, detecção e investigação das infracções terroristas
+      e de outras infracções penais graves
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 8.º — Procedimentos para a introdução de dados aquando da apresentação de um pedido
+    - Altera Artigo 10.º — Dados a acrescentar no caso de um visto emitido
+    - Altera Artigo 11.º — Dados a acrescentar caso a análise do pedido seja abandonada
+    - Altera Artigo 12.º — Dados a acrescentar em caso de recusa de um visto
+    - Altera Artigo 14.º — Dados a acrescentar em caso de prorrogação de um visto
+    - Altera Artigo 15.º — Utilização do VIS para efeitos da análise dos pedidos
+    - Altera Artigo 17.º — Utilização de dados para a elaboração de relatórios e estatísticas
+    - Altera Artigo 18.º — Acesso aos dados para efeitos de verificação nos pontos de passagem das fronteiras externas
+    - Altera Artigo 19.º — Acesso aos dados para efeitos de verificação no território dos Estados-Membros
+    - Altera Artigo 20.º — Acesso aos dados para efeitos de identificação
+    - Altera Artigo 22.º — Acesso aos dados para efeitos de análise de um pedido de asilo
+    - Altera Artigo 23.º — Período de conservação dos dados
+    - Altera Artigo 26.º — Gestão operacional
+    - Altera Artigo 45.º — Execução pela Comissão
+    - Altera Artigo 48.º — Entrada em funcionamento
+    - Altera Artigo 49.º — Comité
+    - Altera Artigo 51.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita Artigo 9.º — [►M1](http://publications.europa.eu/resource/celex/32009R0810) Dados a introduzir aquando do pedido◄
+    - Adita Artigo 13.º — Dados a acrescentar em caso de anulação ou revogação de um visto
+    - Adita ANEXO
+    - Adita Lista das organizações internacionais a que se refere o n.º 2 do artigo 31.º
+    - Suprime Artigo 9.º — Dados a introduzir aquando da apresentação do pedido
+    - Suprime Artigo 13.º — Dados a acrescentar em caso de anulação ou revogação de um visto ou de redução do seu período
+      de validade
+  - date: '2013-10-18'
+    amending: eu:celex:32013R0610:por
+    amending_title: REGULAMENTO (UE) N. o 610/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de junho de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Disponibilidade dos dados para efeitos de prevenção, detecção e investigação das infracções terroristas
+      e de outras infracções penais graves
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 10.º — Dados a acrescentar no caso de um visto emitido
+    - Altera Artigo 12.º — Dados a acrescentar em caso de recusa de um visto
+    - Altera Artigo 26.º — Gestão operacional
+    - Altera Artigo 49.º — Comité
+    - Altera Notas
+  - date: '2019-06-11'
+    amending: eu:celex:32017R2226:por
+    amending_title: REGULAMENTO (UE) 2017/2226 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de novembro de 2017; REGULAMENTO
+      (UE) 2019/817 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 3.º — Disponibilidade dos dados para efeitos de prevenção, detecção e investigação das infracções terroristas
+      e de outras infracções penais graves
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 5.º — Categorias de dados
+    - Altera Artigo 6.º — Acesso ao sistema para fins de introdução, alteração, apagamento ou consulta de dados
+    - Altera Artigo 10.º — Dados a acrescentar no caso de um visto emitido
+    - Altera Artigo 13.º — Dados a acrescentar em caso de anulação ou revogação de um visto
+    - Altera Artigo 14.º — Dados a acrescentar em caso de prorrogação de um visto
+    - Altera Artigo 15.º — Utilização do VIS para efeitos da análise dos pedidos
+    - Altera Artigo 20.º — Acesso aos dados para efeitos de identificação
+    - Altera Artigo 26.º — Gestão operacional
+    - Altera Artigo 34.º — Conservação de registos
+    - Altera Artigo 49.º — Comité
+    - Altera Notas
+    - Adita Artigo 9.º
+    - Adita Dados a introduzir aquando do pedido
+    - Adita Artigo 17.º-A — Interoperabilidade com o SES
+    - Adita Artigo 18.º — Acesso aos dados para efeitos de verificação nas fronteiras em que é executado o SES
+    - Adita Artigo 18.º-A — Extração de dados do VIS para efeitos de criação ou atualização no SES de um registo de entrada/saída
+      ou de um registo de recusa de entrada de um titular de visto
+    - Adita Artigo 19.º-A — Utilização do VIS antes da criação no SES de processos individuais de nacionais de países terceiros
+      isentos de visto
+    - Suprime Artigo 9.º — [►M1](http://publications.europa.eu/resource/celex/32009R0810) Dados a introduzir aquando do pedido◄
+    - Suprime Artigo 18.º — Acesso aos dados para efeitos de verificação nos pontos de passagem das fronteiras externas
+  - date: '2021-08-03'
+    amending: eu:celex:32021R1134:por
+    amending_title: REGULAMENTO (UE) 2021/1134 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de julho de 2021; REGULAMENTO (UE)
+      2021/1152 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de julho de 2021
+    changes:
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 3.º — Disponibilidade dos dados para efeitos de prevenção, detecção e investigação das infracções terroristas
+      e de outras infracções penais graves
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 6.º — Acesso ao sistema para fins de introdução, alteração, apagamento ou consulta de dados
+    - Altera Dados a introduzir aquando do pedido
+    - Altera Artigo 10.º — Dados a acrescentar no caso de um visto emitido
+    - Altera Artigo 13.º — Dados a acrescentar em caso de anulação ou revogação de um visto
+    - Altera Artigo 17.º-A — Interoperabilidade com o SES
+    - Altera Artigo 26.º — Gestão operacional
+    - Altera Artigo 29.º — Responsabilidade pela utilização dos dados
+    - Altera Artigo 50.º — Acompanhamento e avaliação
+    - Altera Notas
+    - Adita Artigo 5.º-A — Lista de documentos de viagem reconhecidos
+    - Adita Artigo 9.º-H — Aplicação e manual
+    - Adita Artigo 9.º-J — Indicadores de risco específicos
+    - Adita Artigo 18.º-B — Interoperabilidade com o ETIAS
+    - Adita Artigo 18.º-C — Acesso aos dados VIS pela unidade central ETIAS
+    - Adita Artigo 18.º-D — Utilização do VIS para o tratamento manual dos pedidos pelas unidades nacionais ETIAS
+    - Adita CAPÍTULO III-A
+    - Adita INTRODUÇÃO E UTILIZAÇÃO DE DADOS RELATIVOS A VISTOS DE LONGA DURAÇÃO E TÍTULOS DE RESIDÊNCIA
+    - Adita Artigo 22.º-B — Consultas nos sistemas de informação e bases de dados
+    - Adita Artigo 29.º-A — Regras específicas para a introdução de dados
+    - Adita Artigo 34.º-A — Conservação de registos para efeitos de interoperabilidade com o ETIAS
+    - Adita Artigo 45. — Execução pela Comissão
+    - Adita Artigo 45.º-C — Acesso aos dados pelos transportadores para efeitos de verificação
+    - Adita Artigo 45.º-D — Procedimentos alternativos em caso de impossibilidade técnica de acesso aos dados por parte dos
+      transportadores
+    - Adita Artigo 48.º-A — Exercício da delegação
+    - Adita Artigo 49.º — Procedimento de comité
+    - Adita ANEXO II
+    - Adita Tabela de correspondência
+    - Suprime Artigo 45.º — Execução pela Comissão
+    - Suprime Artigo 49.º — Comité
+  - date: '2022-08-03'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 3.º — Disponibilidade dos dados para efeitos de prevenção, detecção e investigação das infracções terroristas
+      e de outras infracções penais graves
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 10.º — Dados a acrescentar no caso de um visto emitido
+    - Altera Artigo 13.º — Dados a acrescentar em caso de anulação ou revogação de um visto
+    - Altera Artigo 17.º-A — Interoperabilidade com o SES
+    - Altera Artigo 26.º — Gestão operacional
+    - Altera Artigo 37.º — Direito à informação
+    - Altera Artigo 49.º — Procedimento de comité
+    - Altera Notas
+    - Adita Artigo 36.º-A — Proteção de dados
+    - Adita Artigo 38. — Direito de acesso, de retificação, de completamento, de apagamento de dados pessoais e de limitação
+      do tratamento
+    - Adita Artigo 39. — Cooperação com vista a garantir os direitos em matéria de proteção de dados
+    - Adita Artigo 40. — Vias de recurso
+    - Adita Artigo 41. — Supervisão pelas autoridades de controlo
+    - Adita Artigo 42. — Supervisão pela Autoridade Europeia para a Proteção de Dados
+    - Adita Artigo 43. — Cooperação entre as autoridades de controlo e a Autoridade Europeia para a Proteção de Dados
+    - Suprime Artigo 38.º — Direito de acesso, de rectificação e de apagamento
+    - Suprime Artigo 39.º — Cooperação com vista a garantir os direitos relativos à protecção de dados
+    - Suprime Artigo 40.º — Vias de recurso
+    - Suprime Artigo 41.º — Supervisão pela autoridade nacional de controlo
+    - Suprime Artigo 42.º — Supervisão pela Autoridade Europeia para a Protecção de Dados
+    - Suprime Artigo 43.º — Cooperação entre as autoridades nacionais de controlo e a Autoridade Europeia para a Protecção
+      de Dados
+    - Suprime Artigo 44.º — Protecção dos dados durante o período de transição
+  - date: '2023-08-03'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 3.º — Disponibilidade dos dados para efeitos de prevenção, detecção e investigação das infracções terroristas
+      e de outras infracções penais graves
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 10.º — Dados a acrescentar no caso de um visto emitido
+    - Altera Artigo 13.º — Dados a acrescentar em caso de anulação ou revogação de um visto
+    - Altera Artigo 17.º-A — Interoperabilidade com o SES
+    - Altera Artigo 26.º — Gestão operacional
+    - Altera Artigo 37.º — Direito à informação
+    - Altera Artigo 41. — Supervisão pelas autoridades de controlo
+    - Altera Artigo 49.º — Procedimento de comité
+    - Altera Notas
+    - Adita Artigo 45.º-E — Acesso aos dados VIS por equipas da Guarda Europeia de Fronteiras e Costeira
+    - Adita Artigo 45.º-F — Condições e procedimento de acesso aos dados VIS por equipas da Guarda Europeia de Fronteiras
+      e Costeira
+  - date: '2023-12-27'
+    amending: eu:celex:32023R2667:por
+    amending_title: REGULAMENTO (UE) 2023/2667 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023
+    changes:
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 3.º — Disponibilidade dos dados para efeitos de prevenção, detecção e investigação das infracções terroristas
+      e de outras infracções penais graves
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 10.º — Dados a acrescentar no caso de um visto emitido
+    - Altera Artigo 13.º — Dados a acrescentar em caso de anulação ou revogação de um visto
+    - Altera Artigo 17.º-A — Interoperabilidade com o SES
+    - Altera Artigo 26.º — Gestão operacional
+    - Altera Artigo 37.º — Direito à informação
+    - Altera Artigo 41. — Supervisão pelas autoridades de controlo
+    - Altera Artigo 45. — Execução pela Comissão
+    - Altera Artigo 45.º-E — Acesso aos dados VIS por equipas da Guarda Europeia de Fronteiras e Costeira
+    - Altera Artigo 48.º-A — Exercício da delegação
+    - Altera Artigo 49.º — Procedimento de comité
+    - Altera Notas
+  - date: '2025-10-12'
+    amending: eu:celex:32025D1544:por
+    amending_title: M4
+    changes:
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 3.º — Disponibilidade dos dados para efeitos de prevenção, detecção e investigação das infracções terroristas
+      e de outras infracções penais graves
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 10.º — Dados a acrescentar no caso de um visto emitido
+    - Altera Artigo 13.º — Dados a acrescentar em caso de anulação ou revogação de um visto
+    - Altera Artigo 17.º-A — Interoperabilidade com o SES
+    - Altera Artigo 26.º — Gestão operacional
+    - Altera Artigo 37.º — Direito à informação
+    - Altera Artigo 41. — Supervisão pelas autoridades de controlo
+    - Altera Artigo 45.º-E — Acesso aos dados VIS por equipas da Guarda Europeia de Fronteiras e Costeira
+    - Altera Artigo 48.º-A — Exercício da delegação
+    - Altera Artigo 49.º — Procedimento de comité
+    - Altera Notas
+  - date: '2026-06-12'
+    amending: eu:celex:32024R1356:por
+    amending_title: REGULAMENTO (UE) 2024/1356 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024
+    changes:
+    - Altera Artigo 1.º — Objecto e âmbito de aplicação
+    - Altera Artigo 3.º — Disponibilidade dos dados para efeitos de prevenção, detecção e investigação das infracções terroristas
+      e de outras infracções penais graves
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 6.º — Acesso ao sistema para fins de introdução, alteração, apagamento ou consulta de dados
+    - Altera Artigo 10.º — Dados a acrescentar no caso de um visto emitido
+    - Altera Artigo 13.º — Dados a acrescentar em caso de anulação ou revogação de um visto
+    - Altera Artigo 17.º-A — Interoperabilidade com o SES
+    - Altera Artigo 26.º — Gestão operacional
+    - Altera Artigo 37.º — Direito à informação
+    - Altera Artigo 41. — Supervisão pelas autoridades de controlo
+    - Altera Artigo 45.º-E — Acesso aos dados VIS por equipas da Guarda Europeia de Fronteiras e Costeira
+    - Altera Artigo 49.º — Procedimento de comité
+    - Altera Notas
 identifiers:
   celex: 32008R0767
   eli: http://data.europa.eu/eli/reg/2008/767/oj
@@ -51,7 +281,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4de2b1b9-645c-44b2-8097-540d85bdd115.0019
   content_url: http://publications.europa.eu/resource/cellar/bfb6dab1-6f29-11f1-ae88-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0767-20260612
-  retrieved_at: '2026-10-22T02:59:01Z'
+  retrieved_at: '2026-10-22T15:18:05Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-29T19:49:19.429+01:00'
 integrity:
@@ -60,9 +290,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:01Z'
-  notes: Texto consolidado 02008R0767-20260612.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:18:05Z'
+  notes: 10 versão(ões); histórico completo em regulamento-ue-2008-767.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -261,43 +491,19 @@ relationships:
   date: '2022-06-09'
 article_structure:
   article_count: 68
-  section_count: 20
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 22
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:01Z'
+  checked_at: '2026-10-22T15:18:05Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 767/2008 do Parlamento Europeu e do Conselho, de 9 de Julho de 2008
-
-> 02008R0767 — PT — 12.06.2026 — 012.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32009R0810) — [REGULAMENTO (CE) N.º 810/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0810) — L 243 — 1 — 15.9.2009
-- [►M2](http://publications.europa.eu/resource/celex/32013R0610) — [REGULAMENTO (UE) N.º 610/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de junho de 2013](http://publications.europa.eu/resource/celex/32013R0610) — L 182 — 1 — 29.6.2013
-- [►M3](http://publications.europa.eu/resource/celex/32017R2226) — [REGULAMENTO (UE) 2017/2226 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de novembro de 2017](http://publications.europa.eu/resource/celex/32017R2226) — L 327 — 20 — 9.12.2017
-- [M4](http://publications.europa.eu/resource/celex/32025D1544) — Alterado por: [DECISÃO DE EXECUÇÃO (UE) 2025/1544 DA COMISSÃO de 30 de julho de 2025](http://publications.europa.eu/resource/celex/32025D1544) — L 1544 — 1 — 31.7.2025
-- [►M5](http://publications.europa.eu/resource/celex/32019R0817) — [REGULAMENTO (UE) 2019/817 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019](http://publications.europa.eu/resource/celex/32019R0817) — L 135 — 27 — 22.5.2019
-- [►M6](http://publications.europa.eu/resource/celex/32021R1134) — [REGULAMENTO (UE) 2021/1134 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1134) — L 248 — 11 — 13.7.2021
-- [►M7](http://publications.europa.eu/resource/celex/32021R1152) — [REGULAMENTO (UE) 2021/1152 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1152) — L 249 — 15 — 14.7.2021
-- [►M8](http://publications.europa.eu/resource/celex/32023R2667) — [REGULAMENTO (UE) 2023/2667 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023](http://publications.europa.eu/resource/celex/32023R2667) — L 2667 — 1 — 7.12.2023
-- [►M9](http://publications.europa.eu/resource/celex/32024R1356) — [REGULAMENTO (UE) 2024/1356 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024](http://publications.europa.eu/resource/celex/32024R1356) — L 1356 — 1 — 22.5.2024
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32008R0767R%2802%29) — [Rectificação, JO L 114, 4.5.2011, p. 7 (767/2008)](http://publications.europa.eu/resource/celex/32008R0767R%2802%29)
-- [►C2](http://publications.europa.eu/resource/celex/32008R0767R%2805%29) — [Rectificação, JO L 284, 12.11.2018, p. 39 (767/2008)](http://publications.europa.eu/resource/celex/32008R0767R%2805%29)
-- [►C3](http://publications.europa.eu/resource/celex/32024R1356R%2801%29) — [Rectificação, JO L 90927, 25.11.2025, p. 1 (2024/1356)](http://publications.europa.eu/resource/celex/32024R1356R%2801%29)
-
-## REGULAMENTO (CE) N.º 767/2008 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 9 de Julho de 2008
 

@@ -37,6 +37,31 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-12-03'
+version_history:
+  file: regulamento-ue-2008-1332.versoes.json
+  count: 2
+  source_lastmod: '2012-12-03'
+  versions:
+  - date: '2008-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-12-03'
+    amending: eu:celex:32012R1056:por
+    amending_title: REGULAMENTO (UE) N. o 1056/2012 DA COMISSÃO de 12 de novembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 12.º — Rotulagem de enzimas alimentares e de preparações de enzimas alimentares destinadas à venda ao
+      consumidor final
+    - Altera Artigo 17.º — Estabelecimento da lista comunitária de enzimas alimentares
+    - Altera Artigo 19.º — Alteração à Directiva 83/417/CEE
+    - Altera Artigo 20.º — Alteração ao Regulamento (CE) n.º 1493/1999
+    - Altera Artigo 21.º — Alterações à Directiva 2000/13/CE
+    - Altera Artigo 22.º — Alterações à Directiva 2001/112/CE
+    - Altera Artigo 23.º — Alteração ao Regulamento (CE) n.º 258/97
+    - Altera Artigo 24.º — Entrada em vigor
+    - Altera Notas
 identifiers:
   celex: 32008R1332
   eli: http://data.europa.eu/eli/reg/2008/1332/oj
@@ -51,7 +76,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/599e3624-4ae5-44d1-a760-696b5d0c7759.0018
   content_url: http://publications.europa.eu/resource/cellar/9bde6caf-be97-4d35-93c2-5022501cdb0e.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R1332-20121203
-  retrieved_at: '2026-10-22T02:48:05Z'
+  retrieved_at: '2026-10-22T15:22:51Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-29T12:55:11.170+01:00'
 integrity:
@@ -60,9 +85,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:05Z'
-  notes: Texto consolidado 02008R1332-20121203.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:22:51Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2008-1332.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -206,29 +231,20 @@ relationships:
   date: '2015-12-11'
 article_structure:
   article_count: 24
-  section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 11
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:05Z'
-  warnings: []
+  checked_at: '2026-10-22T15:22:51Z'
+  warnings:
+  - '02008R1332-20090120: versão indisponível (Sem expressão na língua por para CELEX 02008R1332-20090120.)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 1332/2008 do Parlamento Europeu e do Conselho de 16 de Dezembro de 2008
-
-> 2008R1332 — PT — 03.12.2012 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32012R1056) — [REGULAMENTO (UE) N.º 1056/2012 DA COMISSÃO de 12 de novembro de 2012](http://publications.europa.eu/resource/celex/32012R1056) — L 313 — 9 — 13.11.2012
-
-## REGULAMENTO (CE) N.º 1332/2008 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 16 de Dezembro de 2008
 

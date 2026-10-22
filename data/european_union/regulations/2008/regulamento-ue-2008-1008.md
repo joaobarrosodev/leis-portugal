@@ -35,6 +35,24 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-12-18'
+version_history:
+  file: regulamento-ue-2008-1008.versoes.json
+  count: 2
+  source_lastmod: '2020-12-18'
+  versions:
+  - date: '2020-05-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-12-18'
+    amending: eu:celex:32020R2114:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2020/2114 DA COMISSÃO de 16 de dezembro de 2020; REGULAMENTO DELEGADO (UE) 2020/2115
+      DA COMISSÃO de 16 de dezembro de 2020
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 9.º
+    - Altera Artigo 24.º-A
+    - Altera Notas
 identifiers:
   celex: 32008R1008
   eli: http://data.europa.eu/eli/reg/2008/1008/oj
@@ -49,7 +67,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/76f866ac-ee1d-4981-83b2-8ee76a85710f.0019
   content_url: http://publications.europa.eu/resource/cellar/90aeda4a-5a4a-11eb-b59f-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R1008-20201218
-  retrieved_at: '2026-10-22T02:35:20Z'
+  retrieved_at: '2026-10-22T15:19:56Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T16:19:58.642+01:00'
 integrity:
@@ -58,9 +76,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:20Z'
-  notes: Texto consolidado 02008R1008-20201218.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:19:56Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2008-1008.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -350,33 +368,20 @@ relationships:
   date: '1992-08-24'
 article_structure:
   article_count: 32
-  section_count: 17
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 18
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:20Z'
-  warnings: []
+  checked_at: '2026-10-22T15:19:56Z'
+  warnings:
+  - '02008R1008-20081031: versão indisponível (Sem expressão na língua por para CELEX 02008R1008-20081031.)'
   errors: []
 ---
 
 # Regulamento (CE) n. o 1008/2008 do Parlamento Europeu e do Conselho, de 24 de Setembro de 2008
-
-> 02008R1008 — PT — 18.12.2020 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32018R1139) — [REGULAMENTO (UE) 2018/1139 DO PARLAMENTO EUROPEU E DO CONSELHO de 4 de julho de 2018](http://publications.europa.eu/resource/celex/32018R1139) — L 212 — 1 — 22.8.2018
-- [►M2](http://publications.europa.eu/resource/celex/32019R0002) — [REGULAMENTO (UE) 2019/2 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018](http://publications.europa.eu/resource/celex/32019R0002) — L 11 — 1 — 14.1.2019
-- [►M3](http://publications.europa.eu/resource/celex/32020R0696) — [REGULAMENTO (UE) 2020/696 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de maio de 2020](http://publications.europa.eu/resource/celex/32020R0696) — L 165 — 1 — 27.5.2020
-- [►M4](http://publications.europa.eu/resource/celex/32020R2114) — [REGULAMENTO DELEGADO (UE) 2020/2114 DA COMISSÃO de 16 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R2114) — L 426 — 1 — 17.12.2020
-- [►M5](http://publications.europa.eu/resource/celex/32020R2115) — [REGULAMENTO DELEGADO (UE) 2020/2115 DA COMISSÃO de 16 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R2115) — L 426 — 4 — 17.12.2020
-
-## REGULAMENTO (CE) N.º 1008/2008 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 24 de Setembro de 2008
 
